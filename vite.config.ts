@@ -6,6 +6,10 @@ import { resolve } from 'path'
 export default defineConfig({
   base: './',
   plugins: [vue()],
+  build: {
+    target: 'esnext',
+    minify: 'esbuild'
+  },
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src')
