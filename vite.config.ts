@@ -8,7 +8,13 @@ export default defineConfig({
   plugins: [vue()],
   build: {
     target: 'esnext',
-    minify: 'esbuild'
+    minify: 'terser',
+    terserOptions: {
+      compress: {
+        drop_console: true,
+        drop_debugger: true
+      }
+    }
   },
   resolve: {
     alias: {
