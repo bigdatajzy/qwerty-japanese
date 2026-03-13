@@ -10,7 +10,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="min-h-screen bg-[var(--color-bg)] text-[var(--color-text)] transition-colors">
+  <div class="min-h-screen">
     <router-view />
   </div>
 </template>
