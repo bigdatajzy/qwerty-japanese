@@ -1,3 +1,13 @@
+export interface RubyWord {
+  word: string
+  kana: string[]
+}
+
+export interface ContentBlock {
+  text: string
+  ruby?: RubyWord[]
+}
+
 export interface Article {
   id: string
   title: string
