@@ -2,6 +2,7 @@ import type { Article } from '@/types/article'
 
 const PRESET_ARTICLE_IDS = ['article-1', 'article-2', 'article-3']
 const articleCache = new Map<string, Article>()
+const basePath = import.meta.env.BASE_URL
 
 export async function loadPresetArticle(id: string): Promise<Article | null> {
   if (articleCache.has(id)) {
@@ -9,7 +10,7 @@ export async function loadPresetArticle(id: string): Promise<Article | null> {
   }
   
   try {
-    const response = await fetch(`/articles/${id}.json`)
+    const response = await fetch(`${basePath}articles/${id}.json`)
     if (!response.ok) return null
     const article = await response.json() as Article
     articleCache.set(id, article)
