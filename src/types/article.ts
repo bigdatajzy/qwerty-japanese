@@ -12,6 +12,7 @@ export interface Article {
   id: string
   title: string
   content: string
+  translation?: string
   difficulty: 'beginner' | 'intermediate' | 'advanced'
   source: 'preset' | 'custom'
   author?: string

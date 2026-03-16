@@ -1,19 +1,55 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import { useTypingStore } from '@/stores/typing'
 
 const router = useRouter()
-const typingStore = useTypingStore()
-const result = computed(() => typingStore.getResult())
+
+interface ArticleResult {
+  wpm: number
+  totalUnits: number
+  correctUnits: number
+  totalChars: number
+}
+
+const result = computed(() => {
+  // 尝试从 sessionStorage 获取文章练习结果
+  const stored = sessionStorage.getItem('article-result')
+  if (stored) {
+    try {
+      const data = JSON.parse(stored) as ArticleResult
+      return {
+        wpm: data.wpm || 0,
+        accuracy: data.totalUnits > 0 ? Math.round((data.correctUnits / data.totalUnits) * 100) : 0,
+        totalWords: data.totalUnits || 0,
+        correctCount: data.correctUnits || 0,
+        errorCount: 0,
+        duration: 0,
+        errors: []
+      }
+    } catch (e) {
+      console.error('Failed to parse article result:', e)
+    }
+  }
+  
+  // 默认返回值
+  return {
+    wpm: 0,
+    accuracy: 0,
+    totalWords: 0,
+    correctCount: 0,
+    errorCount: 0,
+    duration: 0,
+    errors: []
+  }
+})
 
 function retry() {
-  typingStore.reset()
-  router.push({ name: 'practice', params: { dictId: typingStore.dictId } })
+  sessionStorage.removeItem('article-result')
+  router.push({ name: 'articles' })
 }
 
 function goHome() {
-  typingStore.reset()
+  sessionStorage.removeItem('article-result')
   router.push({ name: 'home' })
 }
 
@@ -46,32 +82,21 @@ function formatTime(seconds: number): string {
           </div>
           <div class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50">
             <div class="text-3xl font-bold text-slate-700 dark:text-slate-300">{{ result.totalWords }}</div>
-            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">总词数</div>
+            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">总单元数</div>
           </div>
           <div class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50">
-            <div class="text-3xl font-bold text-slate-700 dark:text-slate-300">{{ formatTime(result.duration) }}</div>
-            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">用时</div>
-          </div>
-        </div>
-      </div>
-
-      <!-- 错误列表 -->
-      <div v-if="result.errors.length > 0" class="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-xl mb-8">
-        <h3 class="text-lg font-bold text-slate-800 dark:text-white mb-4">错误列表</h3>
-        <div class="space-y-2">
-          <div v-for="(error, index) in result.errors" :key="index" class="flex justify-between items-center py-3 px-4 rounded-xl bg-red-50 dark:bg-red-900/20">
-            <span class="font-medium text-slate-800 dark:text-white">{{ error.word }}</span>
-            <span class="text-sm text-red-600 dark:text-red-400">输入: {{ error.actual }} → 正确: {{ error.expected }}</span>
+            <div class="text-3xl font-bold text-slate-700 dark:text-slate-300">{{ result.correctCount }}</div>
+            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">完成</div>
           </div>
         </div>
       </div>
 
       <!-- 按钮 -->
       <div class="flex gap-4">
-        <button @click="retry" class="flex-1 py-5 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-xl font-bold text-lg hover:opacity-90 shadow-lg transition-all hover:scale-[1.02]">
-          重新练习
+        <button @click="retry" class="flex-1 py-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-xl font-semibold hover:opacity-90 transition-opacity">
+          再次练习
         </button>
-        <button @click="goHome" class="flex-1 py-5 bg-white dark:bg-slate-700 text-slate-800 dark:text-white rounded-xl font-bold text-lg hover:bg-slate-50 dark:hover:bg-slate-600 shadow-lg transition-all">
+        <button @click="goHome" class="flex-1 py-4 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 rounded-xl font-semibold border-2 border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors">
           返回首页
         </button>
       </div>
