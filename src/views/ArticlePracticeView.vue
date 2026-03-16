@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { loadArticle } from '@/api/articles'
 import type { Article } from '@/types/article'
@@ -16,6 +16,7 @@ const currentIndex = ref(0)
 const startTime = ref<number | null>(null)
 const correctChars = ref(0)
 const errorChars = ref(0)
+const isLoading = ref(true)
 
 // 扩展词典 - 支持多音字
 const dictionary: Record<string, string[]> = {
@@ -82,14 +83,33 @@ function parseText(text: string) {
 }
 
 async function loadArticleData() {
-  const found = await loadArticle(articleId.value)
+  isLoading.value = true
+  const id = articleId.value
+  
+  if (!id) {
+    console.warn('articleId is missing, waiting for route params...')
+    return
+  }
+  
+  console.log('Loading article:', id)
+  const found = await loadArticle(id)
+  
   if (found) {
     article.value = found
     charData.value = parseText(found.content).map(c => ({ ...c, status: 'pending' as const }))
+    isLoading.value = false
   } else {
+    console.error('Failed to load article:', id)
     router.push({ name: 'articles' })
   }
 }
+
+// 监听路由参数变化
+watch(articleId, (newId) => {
+  if (newId) {
+    loadArticleData()
+  }
+}, { immediate: true })
 
 const progress = computed(() => charData.value.length === 0 ? 0 : (currentIndex.value / charData.value.length) * 100)
 const wpm = computed(() => {
