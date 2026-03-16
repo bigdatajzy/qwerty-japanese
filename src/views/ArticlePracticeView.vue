@@ -232,5 +232,6 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
 <style scoped>
 .ruby-char { display: inline-flex; flex-direction: column; align-items: center; line-height: 1.2; margin: 2px 4px; }
 .ruby-kana { font-size: 9px; color: #6366f1; }
-.ruby-base { font-size: 20px; font-weight: 500; }
+.ruby-base { font-size: 20px; font-weight: 500; color: #1e293b; }
+:global(.dark) .ruby-base { color: #e2e8f0; }
 </style>
