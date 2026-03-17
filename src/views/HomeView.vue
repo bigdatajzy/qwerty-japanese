@@ -15,6 +15,10 @@ function goToDictSelection() {
 function goToArticles() {
   router.push({ name: 'articles' })
 }
+
+function goToHistory() {
+  router.push({ name: 'history' })
+}
 </script>
 
 <template>
@@ -32,7 +36,7 @@ function goToArticles() {
 
     <main class="max-w-3xl mx-auto px-4 py-8">
       <!-- 练习入口卡片 -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-10">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-10">
         <div @click="goToDictSelection" class="group bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-slate-100 dark:border-slate-700">
           <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-3xl mb-4 shadow-lg">
             🎯
@@ -47,6 +51,14 @@ function goToArticles() {
           </div>
           <h3 class="text-xl font-bold text-slate-800 dark:text-white mb-2">文章练习</h3>
           <p class="text-slate-500 dark:text-slate-400">阅读短文，提升打字速度</p>
+        </div>
+
+        <div @click="goToHistory" class="group bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-slate-100 dark:border-slate-700">
+          <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-amber-500 to-orange-500 flex items-center justify-center text-3xl mb-4 shadow-lg">
+            📊
+          </div>
+          <h3 class="text-xl font-bold text-slate-800 dark:text-white mb-2">历史记录</h3>
+          <p class="text-slate-500 dark:text-slate-400">查看练习统计和成绩</p>
         </div>
       </div>
 

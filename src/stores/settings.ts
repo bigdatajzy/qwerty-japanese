@@ -11,6 +11,12 @@ export interface Settings {
   inputMode: InputMode
   showKeyboard: boolean
   showRuby: boolean
+  // 盲打模式
+  blindMode: {
+    enabled: boolean
+    level: 1 | 2 | 3
+    showNextRomaji: boolean
+  }
 }
 
 const STORAGE_KEY = 'qwerty-japanese-settings'
@@ -28,7 +34,12 @@ export const useSettingsStore = defineStore('settings', () => {
       showMeaning: false,
       inputMode: 'romaji',
       showKeyboard: true,
-      showRuby: true
+      showRuby: true,
+      blindMode: {
+        enabled: false,
+        level: 1,
+        showNextRomaji: true
+      }
     }
   }
 
@@ -54,6 +65,17 @@ export const useSettingsStore = defineStore('settings', () => {
   function toggleInputMode() { settings.value.inputMode = settings.value.inputMode === 'romaji' ? 'kana' : 'romaji' }
   function toggleShowKeyboard() { settings.value.showKeyboard = !settings.value.showKeyboard }
   function toggleShowRuby() { settings.value.showRuby = !settings.value.showRuby }
+  
+  // 盲打模式
+  function toggleBlindMode() { 
+    settings.value.blindMode.enabled = !settings.value.blindMode.enabled 
+  }
+  function setBlindLevel(level: 1 | 2 | 3) {
+    settings.value.blindMode.level = level
+  }
+  function toggleBlindNextRomaji() {
+    settings.value.blindMode.showNextRomaji = !settings.value.blindMode.showNextRomaji
+  }
 
-  return { settings, initTheme, setTheme, toggleSound, toggleRomaji, toggleMeaning, setInputMode, toggleInputMode, toggleShowKeyboard, toggleShowRuby }
+  return { settings, initTheme, setTheme, toggleSound, toggleRomaji, toggleMeaning, setInputMode, toggleInputMode, toggleShowKeyboard, toggleShowRuby, toggleBlindMode, setBlindLevel, toggleBlindNextRomaji }
 })
