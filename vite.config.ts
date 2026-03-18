@@ -13,10 +13,10 @@ export default defineConfig({
       'mac',
       '.ts.net',
     ],
-    https: {
+    https: process.env.VITE_USE_HTTPS === 'true' ? {
       key: fs.readFileSync('./mac.tail1ddca4.ts.net-key.pem'),
       cert: fs.readFileSync('./mac.tail1ddca4.ts.net.pem'),
-    },
+    } : false,
   },
   build: {
     target: 'esnext',
