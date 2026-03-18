@@ -5,7 +5,7 @@ import fs from 'fs'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.VITE_USE_HASH === 'true' ? '/qwerty-japanese/' : '/',
+  base: '/qwerty-japanese/',
   plugins: [vue()],
   server: {
     host: '0.0.0.0',
