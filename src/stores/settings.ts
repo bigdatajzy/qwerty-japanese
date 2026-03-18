@@ -3,6 +3,14 @@ import { ref, watch } from 'vue'
 
 export type InputMode = 'romaji' | 'kana'
 
+export interface SoundSettings {
+  enabled: boolean
+  correctSound: boolean
+  errorSound: boolean
+  completeSound: boolean
+  volume: number
+}
+
 export interface Settings {
   theme: 'light' | 'dark' | 'auto'
   soundEnabled: boolean
@@ -11,6 +19,8 @@ export interface Settings {
   inputMode: InputMode
   showKeyboard: boolean
   showRuby: boolean
+  // 音效设置
+  sound: SoundSettings
   // 盲打模式
   blindMode: {
     enabled: boolean
@@ -35,6 +45,13 @@ export const useSettingsStore = defineStore('settings', () => {
       inputMode: 'romaji',
       showKeyboard: true,
       showRuby: true,
+      sound: {
+        enabled: true,
+        correctSound: true,
+        errorSound: true,
+        completeSound: true,
+        volume: 70
+      },
       blindMode: {
         enabled: false,
         level: 1,

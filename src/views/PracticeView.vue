@@ -21,30 +21,36 @@ const showErrorHint = ref(false)
 const dictId = computed(() => route.params.dictId as string)
 const dict = computed(() => getDictById(dictId.value))
 
-// 盲打模式配置
-const blindConfig = computed(() => settingsStore.settings.blindMode)
-const isBlindMode = computed(() => blindConfig.value.enabled)
+// 盲打模式配置 - 添加安全访问
+const blindConfig = computed(() => settingsStore.settings?.blindMode ?? { enabled: false, level: 1, showNextRomaji: true })
+const isBlindMode = computed(() => blindConfig.value?.enabled ?? false)
 
 // 根据盲打等级决定是否显示假名
 const showKana = computed(() => {
   if (!isBlindMode.value) return true
-  return blindConfig.value.level === 1
+  return blindConfig.value?.level === 1
 })
 
 // 根据盲打等级和配置决定是否显示罗马字
 const showRomaji = computed(() => {
-  if (!isBlindMode.value) return settingsStore.settings.showRomaji
-  if (blindConfig.value.level === 3) return false
+  if (!isBlindMode.value) return settingsStore.settings?.showRomaji ?? true
+  if (blindConfig.value?.level === 3) return false
   return true
 })
 
 // 下一个词的显示
 const showNextWord = computed(() => {
   if (!isBlindMode.value) return true
-  if (blindConfig.value.level === 3) return false
-  if (blindConfig.value.level === 2 && !blindConfig.value.showNextRomaji) return false
+  if (blindConfig.value?.level === 3) return false
+  if (blindConfig.value?.level === 2 && !blindConfig.value?.showNextRomaji) return false
   return true
 })
+
+// 便捷访问 - 直接从 store 获取
+const settings = () => settingsStore.settings
+const inputMode = computed(() => settings().inputMode ?? 'romaji')
+const showRomajiSetting = computed(() => settings().showRomaji ?? true)
+const showMeaningSetting = computed(() => settings().showMeaning ?? false)
 
 onMounted(() => {
   if (dictId.value) typingStore.initPractice(dictId.value)
@@ -53,7 +59,7 @@ onMounted(() => {
 
 function handleInput() {
   if (!typingStore.isStarted) typingStore.startPractice()
-  const result = typingStore.handleInput(inputValue.value, settingsStore.settings.inputMode)
+  const result = typingStore.handleInput(inputValue.value, inputMode.value)
   if (result) {
     if (result.correct) {
       inputStatus.value = 'correct'
@@ -114,6 +120,15 @@ function toggleBlindMode() {
   settingsStore.toggleBlindMode()
 }
 
+// 切换音效
+function toggleSound() {
+  const s = settings()
+  if (!s.sound) {
+    s.sound = { enabled: true, correctSound: true, errorSound: true, completeSound: true, volume: 70 }
+  }
+  s.sound.enabled = !s.sound.enabled
+}
+
 // 切换盲打等级
 function setBlindLevel(level: 1 | 2 | 3) {
   settingsStore.setBlindLevel(level)
@@ -135,11 +150,14 @@ const nextWord = computed(() => typingStore.nextWord)
           <h1 class="text-lg font-semibold text-slate-800 dark:text-white">{{ dict?.name || '练习中' }}</h1>
         </div>
         <div class="flex items-center gap-2">
+          <button @click="toggleSound" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="settings().sound?.enabled ? 'bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'">
+            {{ settings().sound?.enabled ? '🔊' : '🔇' }}
+          </button>
           <button @click="toggleBlindMode" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="isBlindMode ? 'bg-amber-500 text-white' : 'bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300'">
             {{ isBlindMode ? '✓ 盲打' : '盲打' }}
           </button>
-          <button @click="toggleInputMode" class="px-4 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="settingsStore.settings.inputMode === 'romaji' ? 'bg-indigo-600 text-white' : 'bg-emerald-600 text-white'">
-            {{ settingsStore.settings.inputMode === 'romaji' ? '罗马字' : '假名' }}
+          <button @click="toggleInputMode" class="px-4 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="inputMode === 'romaji' ? 'bg-indigo-600 text-white' : 'bg-emerald-600 text-white'">
+            {{ inputMode === 'romaji' ? '罗马字' : '假名' }}
           </button>
         </div>
       </div>
@@ -177,12 +195,12 @@ const nextWord = computed(() => typingStore.nextWord)
       </div>
 
       <!-- Hint -->
-      <div v-if="settingsStore.settings.inputMode === 'romaji' && showRomaji && currentWord" class="text-center mb-4">
+      <div v-if="inputMode === 'romaji' && showRomaji && currentWord" class="text-center mb-4">
         <span class="text-xl text-slate-600 dark:text-slate-300">{{ currentWord.romaji }}</span>
       </div>
 
       <!-- Meaning -->
-      <div v-if="settingsStore.settings.showMeaning && currentWord?.meaning" class="text-center mb-4">
+      <div v-if="showMeaningSetting && currentWord?.meaning" class="text-center mb-4">
         <span class="text-sm text-slate-500 dark:text-slate-400">{{ currentWord.meaning }}</span>
       </div>
 
@@ -196,7 +214,7 @@ const nextWord = computed(() => typingStore.nextWord)
         <input ref="inputRef" v-model="inputValue" @input="handleInput" type="text" 
           class="w-full px-6 py-5 text-center text-2xl font-mono rounded-2xl bg-white dark:bg-slate-800 border-2 outline-none transition-all shadow-lg"
           :class="inputStatus === 'correct' ? 'border-green-500' : inputStatus === 'error' ? 'border-red-500' : 'border-indigo-500 focus:border-purple-500'"
-          :placeholder="settingsStore.settings.inputMode === 'romaji' ? '输入罗马字...' : '直接输入假名...'" autocomplete="off" autofocus />
+          :placeholder="inputMode === 'romaji' ? '输入罗马字...' : '直接输入假名...'" autocomplete="off" autofocus />
       </div>
 
       <!-- Next Word -->

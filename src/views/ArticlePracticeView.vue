@@ -3,15 +3,20 @@ import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { loadArticle } from '@/api/articles'
 import type { Article } from '@/types/article'
+import { useSound } from '@/composables/useSound'
+import { useSettingsStore } from '@/stores/settings'
 
 const route = useRoute()
 const router = useRouter()
+const settingsStore = useSettingsStore()
+const { playCorrect, playError, playComplete } = useSound()
 
 const articleId = computed(() => route.params.articleId as string)
 const article = ref<Article | null>(null)
 const units = ref<{ text: string; status: 'pending' | 'current' | 'correct' | 'error' }[]>([])
 const inputRef = ref<HTMLInputElement | null>(null)
 const inputValue = ref('')
+const inputStatus = ref<'default' | 'correct' | 'error'>('default')
 const currentIndex = ref(0)
 const startTime = ref<number | null>(null)
 const correctUnits = ref(0)
@@ -20,10 +25,8 @@ const isLoading = ref(true)
 const showTranslation = ref(false)
 const showRuby = ref(true)
 
-// 将文章内容分割成单元（按标点和空格划分）
-// 扩展词典 - 支持多音字（只对汉字注音）
+// 词典和其他函数保持不变...
 const dictionary: Record<string, string[]> = {
-  // 常用词
   '日本語': ['に', 'ほん', 'ご'],
   '英語': ['えい', 'ご'],
   '中国語': ['ちゅう', 'ごく', 'ご'],
@@ -77,8 +80,6 @@ const dictionary: Record<string, string[]> = {
   '人間': ['に', 'ん', 'げん'],
   '中心': ['ちゅ', 'う', 'しん'],
   '便利': ['べん', 'り'],
-  
-  // 动词和形容词
   '勉強する': ['べん', 'きょう', 'する'],
   '練習する': ['れ', 'ん', 'しゅう', 'する'],
   '楽しい': ['た', 'の', 'しい'],
@@ -100,16 +101,12 @@ const dictionary: Record<string, string[]> = {
 }
 
 function parseTextToUnits(text: string) {
-  // 按标点和空格分割，保留分隔符
   const delimiters = ['。', '！', '？', '、', '，', ' ']
   const result: { text: string; status: 'pending' | 'current' | 'correct' | 'error' }[] = []
-  
   let currentUnit = ''
   
   for (const char of text) {
     currentUnit += char
-    
-    // 如果遇到分隔符，且当前单元不为空，则保存当前单元
     if (delimiters.includes(char)) {
       if (currentUnit.trim()) {
         result.push({ text: currentUnit, status: 'pending' })
@@ -118,12 +115,10 @@ function parseTextToUnits(text: string) {
     }
   }
   
-  // 保存最后一个单元（如果没有分隔符结尾）
   if (currentUnit.trim()) {
     result.push({ text: currentUnit, status: 'pending' })
   }
   
-  // 设置第一个单元为当前
   if (result.length > 0) {
     result[0].status = 'current'
   }
@@ -131,28 +126,19 @@ function parseTextToUnits(text: string) {
   return result
 }
 
-// 为文本中的汉字添加注音
 function addRubyToText(text: string): { char: string; ruby?: string }[] {
   const result: { char: string; ruby?: string }[] = []
   let i = 0
   
-  // 判断是否为汉字
-  const isKanji = (char: string) => {
-    const code = char.codePointAt(0) || 0
-    return code >= 0x4E00 && code <= 0x9FFF
-  }
-  
   while (i < text.length) {
     const char = text[i]
     
-    // 跳过标点和空格
     if (['。', '！', '？', '、', '，', ' ', '　'].includes(char)) {
       result.push({ char })
       i++
       continue
     }
     
-    // 跳过平假名和片假名
     const code = char.codePointAt(0) || 0
     const isHiragana = code >= 0x3040 && code <= 0x309F
     const isKatakana = code >= 0x30A0 && code <= 0x30FF
@@ -162,13 +148,11 @@ function addRubyToText(text: string): { char: string; ruby?: string }[] {
       continue
     }
     
-    // 尝试匹配词典中的词（2-6个字符）
     let matched = false
     for (let len = Math.min(6, text.length - i); len >= 2; len--) {
       const word = text.slice(i, i + len)
       if (dictionary[word]) {
         const kanaList = dictionary[word]
-        // 为每个汉字添加对应的假名
         for (let j = 0; j < word.length; j++) {
           if (j < kanaList.length) {
             result.push({ char: word[j], ruby: kanaList[j] })
@@ -183,7 +167,6 @@ function addRubyToText(text: string): { char: string; ruby?: string }[] {
     }
     
     if (!matched) {
-      // 未匹配，单字符（直接显示，可能是汉字但词典没有）
       result.push({ char })
       i++
     }
@@ -191,18 +174,13 @@ function addRubyToText(text: string): { char: string; ruby?: string }[] {
   
   return result
 }
-  
 
 async function loadArticleData() {
   isLoading.value = true
   const id = articleId.value
   
-  if (!id) {
-    console.warn('articleId is missing, waiting for route params...')
-    return
-  }
+  if (!id) return
   
-  console.log('Loading article:', id)
   const found = await loadArticle(id)
   
   if (found) {
@@ -210,93 +188,88 @@ async function loadArticleData() {
     units.value = parseTextToUnits(found.content)
     isLoading.value = false
   } else {
-    console.error('Failed to load article:', id)
     router.push({ name: 'articles' })
   }
 }
 
-// 监听路由参数变化
 watch(articleId, (newId) => {
-  if (newId) {
-    loadArticleData()
-  }
+  if (newId) loadArticleData()
 }, { immediate: true })
 
-// 当前需要输入的单元
 const currentUnit = computed(() => units.value[currentIndex.value]?.text || '')
 
-// 文章内容（带注音）
 const articleWithRuby = computed(() => {
   if (!article.value) return []
   return addRubyToText(article.value.content)
 })
 
-// 进度
 const progress = computed(() => units.value.length === 0 ? 0 : (currentIndex.value / units.value.length) * 100)
 
-// WPM：每分钟正确输入的字符数
 const wpm = computed(() => {
   if (!startTime.value || correctUnits.value === 0) return 0
   const minutes = (Date.now() - startTime.value) / 60000
   if (minutes < 0.01) return 0
-  
-  // 计算正确输入的总字符数
   let correctChars = 0
   for (let i = 0; i < currentIndex.value; i++) {
     correctChars += units.value[i].text.length
   }
-  
   return Math.round(correctChars / minutes)
 })
 
-// 输入处理 - 实时检测匹配
-watch(inputValue, (input) => {
+// 输入处理 - 修复版
+function handleInput() {
   if (!startTime.value) {
     startTime.value = Date.now()
   }
   
   const target = currentUnit.value
+  const input = inputValue.value
   
   if (input === target) {
-    // 输入完全匹配，自动确认
+    // 完全匹配
+    inputStatus.value = 'correct'
+    playCorrect()
     handleCorrect()
   } else if (!target.startsWith(input)) {
-    // 输入不匹配（不是正确的前缀）
-    // 暂时不处理，让用户继续输入或删除
+    // 输入不匹配 - 只显示错误提示，不删除已输入内容
+    inputStatus.value = 'error'
+    playError()
+    errorUnits.value++
+    units.value[currentIndex.value].status = 'error'
+    
+    setTimeout(() => {
+      inputStatus.value = 'default'
+      // 不清空 inputValue，让用户可以继续修改
+      if (units.value[currentIndex.value]) {
+        units.value[currentIndex.value].status = 'current'
+      }
+    }, 500)
+  } else {
+    // 输入正确但未完成，清除错误状态
+    if (inputStatus.value === 'error') {
+      inputStatus.value = 'default'
+      units.value[currentIndex.value].status = 'current'
+    }
   }
-})
+}
 
 function handleCorrect() {
   correctUnits.value++
   units.value[currentIndex.value].status = 'correct'
   inputValue.value = ''
+  inputStatus.value = 'default'
   
-  // 跳到下一个单元
   currentIndex.value++
   
   if (currentIndex.value >= units.value.length) {
-    // 练习完成
     finishPractice()
   } else {
     units.value[currentIndex.value].status = 'current'
   }
 }
 
-function handleError() {
-  errorUnits.value++
-  units.value[currentIndex.value].status = 'error'
-  inputValue.value = ''
-  
-  // 保持当前单元，让用户重试
-  setTimeout(() => {
-    if (units.value[currentIndex.value]) {
-      units.value[currentIndex.value].status = 'current'
-    }
-  }, 500)
-}
-
 function finishPractice() {
-  // 计算总字符数
+  playComplete()
   const totalChars = units.value.reduce((sum, unit) => sum + unit.text.length, 0)
   
   sessionStorage.setItem('article-result', JSON.stringify({
@@ -313,8 +286,14 @@ function handleKeydown(e: KeyboardEvent) {
   if (e.key === 'Escape') router.push({ name: 'articles' }) 
 }
 
+// 切换音效
+function toggleSound() {
+  settingsStore.settings.sound.enabled = !settingsStore.settings.sound.enabled
+}
+
 onMounted(() => { 
-  loadArticleData().then(() => inputRef.value?.focus()) 
+  loadArticleData().then(() => inputRef.value?.focus())
+  window.addEventListener('keydown', handleKeydown)
 })
 onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
 </script>
@@ -337,6 +316,9 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
           </button>
           <h1 class="text-lg font-semibold text-slate-800 dark:text-white truncate max-w-xs">{{ article?.title || '文章练习' }}</h1>
           <div class="flex items-center gap-2">
+            <button @click="toggleSound" class="px-3 py-1.5 text-sm rounded-lg transition-colors" :class="settingsStore.settings.sound?.enabled ? 'bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'">
+              {{ settingsStore.settings.sound?.enabled ? '🔊 音效' : '🔇 静音' }}
+            </button>
             <button @click="showRuby = !showRuby" class="px-3 py-1.5 text-sm bg-amber-100 dark:bg-amber-900 text-amber-600 dark:text-amber-300 rounded-lg hover:bg-amber-200 dark:hover:bg-amber-800 transition-colors">
               {{ showRuby ? '隐藏注音' : '显示注音' }}
             </button>
@@ -356,7 +338,7 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
           <div class="text-center mt-2 text-sm text-slate-500 dark:text-slate-400">{{ currentIndex }} / {{ units.length }} 单元</div>
         </div>
 
-        <!-- 文章内容 - 按单元显示（带注音） -->
+        <!-- 文章内容 -->
         <div class="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg mb-6 font-medium text-lg leading-relaxed">
           <div class="flex flex-wrap gap-2">
             <span v-for="(unit, index) in units" :key="index" 
@@ -367,7 +349,6 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
                 'bg-red-100 dark:bg-red-900/40 text-red-700 dark:text-red-400': unit.status === 'error',
                 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-400': unit.status === 'pending'
               }">
-              <!-- 单元内的字符显示（带注音） -->
               <span v-for="(item, charIndex) in addRubyToText(unit.text)" :key="charIndex" class="inline-block mx-0.5">
                 <span v-if="showRuby && item.ruby && item.ruby.length > 0" class="ruby-wrapper">
                   <span class="ruby-text">{{ item.ruby }}</span>
@@ -392,19 +373,27 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
           <p class="text-sm text-amber-900 dark:text-amber-100 leading-relaxed">{{ article.translation }}</p>
         </div>
 
-        <!-- 当前输入提示 -->
-        <div class="text-center mb-4">
-          <span class="text-slate-500 dark:text-slate-400">请输入：</span>
-          <span class="text-2xl font-bold text-indigo-600 dark:text-indigo-400 ml-2">{{ currentUnit }}</span>
-        </div>
-
         <!-- 输入框 -->
-        <input ref="inputRef" v-model="inputValue" type="text" 
-          class="w-full px-6 py-5 text-center text-xl font-mono rounded-2xl bg-white dark:bg-slate-800 border-2 border-indigo-500 focus:border-purple-500 outline-none shadow-lg mb-6" 
+        <div class="flex items-center justify-center gap-2 mb-3">
+          <span class="inline-flex flex-col items-center">
+            <span class="ruby-text">&nbsp;</span>
+            <span class="text-slate-600 dark:text-slate-300">请输入：</span>
+          </span>
+          <span v-if="currentUnit" class="inline-flex flex-wrap items-center justify-center gap-0.5">
+            <span v-for="(item, charIndex) in addRubyToText(currentUnit)" :key="charIndex" class="ruby-wrapper">
+              <span v-if="showRuby && item.ruby && item.ruby.length > 0" class="ruby-text">{{ item.ruby }}</span>
+              <span v-else-if="showRuby" class="ruby-text">&nbsp;</span>
+              <span class="base-text text-indigo-700 dark:text-indigo-300">{{ item.char }}</span>
+            </span>
+          </span>
+        </div>
+        <input ref="inputRef" v-model="inputValue" @input="handleInput" type="text" 
+          class="w-full px-6 py-5 text-center text-xl font-mono rounded-2xl bg-white dark:bg-slate-800 border-2 outline-none transition-all shadow-lg text-slate-800 dark:text-white"
+          :class="inputStatus === 'correct' ? 'border-green-500' : inputStatus === 'error' ? 'border-red-500' : 'border-indigo-500 focus:border-purple-500'"
           placeholder="输入上方高亮的文本..." autocomplete="off" autofocus />
 
         <!-- 统计 -->
-        <div class="flex justify-center gap-8">
+        <div class="flex justify-center gap-8 mt-6">
           <div class="text-center">
             <div class="text-3xl font-bold text-indigo-600 dark:text-indigo-400">{{ wpm }}</div>
             <div class="text-sm text-slate-500 dark:text-slate-400">WPM</div>
