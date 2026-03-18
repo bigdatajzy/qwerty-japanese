@@ -11,19 +11,45 @@ interface ArticleResult {
   totalChars: number
 }
 
+interface WordResult {
+  totalWords: number
+  correctCount: number
+  errorCount: number
+  level: string
+}
+
 const result = computed(() => {
-  // 尝试从 sessionStorage 获取文章练习结果
-  const stored = sessionStorage.getItem('article-result')
-  if (stored) {
+  // 尝试获取单词练习结果
+  const wordStored = sessionStorage.getItem('word-result')
+  if (wordStored) {
     try {
-      const data = JSON.parse(stored) as ArticleResult
+      const data = JSON.parse(wordStored) as WordResult
       return {
+        type: 'word',
+        accuracy: data.totalWords > 0 ? Math.round((data.correctCount / data.totalWords) * 100) : 0,
+        totalWords: data.totalWords || 0,
+        correctCount: data.correctCount || 0,
+        errorCount: data.errorCount || 0,
+        level: data.level || '',
+        errors: []
+      }
+    } catch (e) {
+      console.error('Failed to parse word result:', e)
+    }
+  }
+  
+  // 尝试获取文章练习结果
+  const articleStored = sessionStorage.getItem('article-result')
+  if (articleStored) {
+    try {
+      const data = JSON.parse(articleStored) as ArticleResult
+      return {
+        type: 'article',
         wpm: data.wpm || 0,
         accuracy: data.totalUnits > 0 ? Math.round((data.correctUnits / data.totalUnits) * 100) : 0,
         totalWords: data.totalUnits || 0,
         correctCount: data.correctUnits || 0,
         errorCount: 0,
-        duration: 0,
         errors: []
       }
     } catch (e) {
@@ -33,23 +59,29 @@ const result = computed(() => {
   
   // 默认返回值
   return {
+    type: 'unknown',
     wpm: 0,
     accuracy: 0,
     totalWords: 0,
     correctCount: 0,
     errorCount: 0,
-    duration: 0,
     errors: []
   }
 })
 
 function retry() {
   sessionStorage.removeItem('article-result')
-  router.push({ name: 'articles' })
+  sessionStorage.removeItem('word-result')
+  if (result.value.type === 'word') {
+    router.push({ name: 'words' })
+  } else {
+    router.push({ name: 'articles' })
+  }
 }
 
 function goHome() {
   sessionStorage.removeItem('article-result')
+  sessionStorage.removeItem('word-result')
   router.push({ name: 'home' })
 }
 
@@ -71,22 +103,27 @@ function formatTime(seconds: number): string {
 
       <!-- 统计卡片 -->
       <div class="bg-white dark:bg-slate-800 rounded-2xl p-8 shadow-xl mb-8">
+        <div v-if="result.type === 'word'" class="text-center mb-4">
+          <span class="inline-block px-4 py-1 bg-rose-100 dark:bg-rose-900 text-rose-600 dark:text-rose-300 rounded-full text-sm font-medium">
+            {{ result.level?.toUpperCase() }} 单词练习
+          </span>
+        </div>
         <div class="grid grid-cols-2 gap-6">
-          <div class="text-center p-5 rounded-2xl bg-gradient-to-br from-indigo-50 to-purple-50 dark:from-indigo-900/20 dark:to-purple-900/20">
-            <div class="text-5xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">{{ result.wpm }}</div>
-            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">WPM</div>
-          </div>
           <div class="text-center p-5 rounded-2xl bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20">
             <div class="text-5xl font-bold bg-gradient-to-r from-emerald-500 to-teal-500 bg-clip-text text-transparent">{{ result.accuracy }}%</div>
             <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">正确率</div>
           </div>
           <div class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50">
             <div class="text-3xl font-bold text-slate-700 dark:text-slate-300">{{ result.totalWords }}</div>
-            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">总单元数</div>
+            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">总题数</div>
           </div>
-          <div class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50">
-            <div class="text-3xl font-bold text-slate-700 dark:text-slate-300">{{ result.correctCount }}</div>
-            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">完成</div>
+          <div class="text-center p-5 rounded-2xl bg-green-50 dark:bg-green-900/20">
+            <div class="text-3xl font-bold text-green-500">{{ result.correctCount }}</div>
+            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">正确</div>
+          </div>
+          <div class="text-center p-5 rounded-2xl bg-red-50 dark:bg-red-900/20">
+            <div class="text-3xl font-bold text-red-500">{{ result.errorCount }}</div>
+            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">错误</div>
           </div>
         </div>
       </div>

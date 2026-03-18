@@ -145,16 +145,10 @@ const nextWord = computed(() => typingStore.nextWord)
         <button @click="router.push({ name: 'home' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-indigo-600">
           <span class="text-xl">←</span><span>退出</span>
         </button>
-        <div class="flex items-center gap-2">
-          <span v-if="isBlindMode" class="text-xs px-2 py-1 bg-amber-500 text-white rounded">盲打 L{{ blindConfig.level }}</span>
-          <h1 class="text-lg font-semibold text-slate-800 dark:text-white">{{ dict?.name || '练习中' }}</h1>
-        </div>
+        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">{{ dict?.name || '练习中' }}</h1>
         <div class="flex items-center gap-2">
           <button @click="toggleSound" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="settings().sound?.enabled ? 'bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'">
             {{ settings().sound?.enabled ? '🔊' : '🔇' }}
-          </button>
-          <button @click="toggleBlindMode" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="isBlindMode ? 'bg-amber-500 text-white' : 'bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300'">
-            {{ isBlindMode ? '✓ 盲打' : '盲打' }}
           </button>
           <button @click="toggleInputMode" class="px-4 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="inputMode === 'romaji' ? 'bg-indigo-600 text-white' : 'bg-emerald-600 text-white'">
             {{ inputMode === 'romaji' ? '罗马字' : '假名' }}
@@ -162,16 +156,6 @@ const nextWord = computed(() => typingStore.nextWord)
         </div>
       </div>
     </header>
-
-    <!-- 盲打等级选择 -->
-    <div v-if="isBlindMode" class="bg-amber-50 dark:bg-amber-900/30 py-2 text-center">
-      <div class="flex items-center justify-center gap-4 text-sm">
-        <span class="text-slate-600 dark:text-slate-400">难度：</span>
-        <button v-for="level in [1, 2, 3]" :key="level" @click="setBlindLevel(level as 1 | 2 | 3)" class="px-3 py-1 rounded-full transition-colors" :class="blindConfig.level === level ? 'bg-amber-500 text-white' : 'bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300'">
-          L{{ level }} {{ level === 1 ? '显示' : level === 2 ? '隐藏假名' : '全隐藏' }}
-        </button>
-      </div>
-    </div>
 
     <main class="max-w-2xl mx-auto px-4 py-8">
       <!-- Progress Bar -->
