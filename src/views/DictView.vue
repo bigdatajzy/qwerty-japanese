@@ -5,10 +5,16 @@ import { dictCategories } from '@/data/dicts'
 
 const router = useRouter()
 const selectedDictId = ref('')
+/** URL query：random | order（order 对应练习 store 的 sequential） */
+const practiceOrder = ref<'random' | 'order'>('random')
 
 function startPractice() {
   if (selectedDictId.value) {
-    router.push({ name: 'practice', params: { dictId: selectedDictId.value } })
+    router.push({
+      name: 'practice',
+      params: { dictId: selectedDictId.value },
+      query: { mode: practiceOrder.value },
+    })
   }
 }
 </script>
@@ -45,6 +51,20 @@ function startPractice() {
               </div>
             </label>
           </div>
+        </div>
+      </div>
+
+      <div class="mb-6 bg-white dark:bg-slate-800 rounded-2xl p-5 shadow-md">
+        <div class="font-medium text-slate-800 dark:text-white mb-3">练习顺序</div>
+        <div class="flex flex-wrap gap-4">
+          <label class="flex items-center gap-2 cursor-pointer text-slate-700 dark:text-slate-300">
+            <input v-model="practiceOrder" type="radio" value="random" class="w-4 h-4 text-indigo-600" />
+            随机
+          </label>
+          <label class="flex items-center gap-2 cursor-pointer text-slate-700 dark:text-slate-300">
+            <input v-model="practiceOrder" type="radio" value="order" class="w-4 h-4 text-indigo-600" />
+            顺序（按词表）
+          </label>
         </div>
       </div>
 

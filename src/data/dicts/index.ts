@@ -1,8 +1,9 @@
 import type { Dict, DictCategory } from '@/types/dict'
 import { hiraganaDicts } from './hiragana'
 import { katakanaDicts } from './katakana'
+import { e2eSmokeDict } from './e2e-smoke'
 
-export const allDicts: Dict[] = [...hiraganaDicts, ...katakanaDicts]
+export const allDicts: Dict[] = [...hiraganaDicts, ...katakanaDicts, e2eSmokeDict]
 
 export const dictCategories: DictCategory[] = [
   {

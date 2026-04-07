@@ -5,7 +5,7 @@ import { dictCategories } from '@/data/dicts'
 const router = useRouter()
 
 function startPractice(dictId: string) {
-  router.push({ name: 'practice', params: { dictId } })
+  router.push({ name: 'practice', params: { dictId }, query: { mode: 'random' } })
 }
 
 function goToDictSelection() {

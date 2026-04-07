@@ -1,11 +1,13 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted, computed, watch } from 'vue'
+import { ref, onMounted, onUnmounted, computed, watch, nextTick } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useTypingStore } from '@/stores/typing'
 import { useSettingsStore } from '@/stores/settings'
 import { getDictById } from '@/data/dicts'
 import { useSound } from '@/composables/useSound'
 import { addHistoryRecord } from '@/utils/storage'
+import type { TypingMode } from '@/types/typing'
+import Keyboard from '@/components/keyboard/Keyboard.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -52,10 +54,26 @@ const inputMode = computed(() => settings().inputMode ?? 'romaji')
 const showRomajiSetting = computed(() => settings().showRomaji ?? true)
 const showMeaningSetting = computed(() => settings().showMeaning ?? false)
 
-onMounted(() => {
-  if (dictId.value) typingStore.initPractice(dictId.value)
-  inputRef.value?.focus()
-})
+function resolvePracticeMode(): TypingMode {
+  const m = route.query.mode
+  const raw = typeof m === 'string' ? m : Array.isArray(m) ? m[0] : ''
+  if (raw === 'order' || raw === 'sequential') return 'sequential'
+  return 'random'
+}
+
+watch(
+  () => [dictId.value, route.query.mode] as const,
+  async () => {
+    if (!dictId.value) return
+    typingStore.initPractice(dictId.value, resolvePracticeMode())
+    inputValue.value = ''
+    inputStatus.value = 'default'
+    showErrorHint.value = false
+    await nextTick()
+    inputRef.value?.focus()
+  },
+  { immediate: true },
+)
 
 function handleInput() {
   if (!typingStore.isStarted) typingStore.startPractice()
@@ -82,14 +100,15 @@ function handleInput() {
 
 function handleKeydown(e: KeyboardEvent) { if (e.key === 'Escape') router.push({ name: 'home' }) }
 
-onMounted(() => window.addEventListener('keydown', handleKeydown))
+onMounted(() => {
+  window.addEventListener('keydown', handleKeydown)
+})
 onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
 
 // 练习完成时保存记录并跳转
 watch(() => typingStore.isCompleted, (completed) => { 
   if (completed) {
     playComplete()
-    // 保存历史记录
     const result = typingStore.getResult()
     const dictInfo = getDictById(typingStore.dictId)
     addHistoryRecord({
@@ -105,6 +124,19 @@ watch(() => typingStore.isCompleted, (completed) => {
       duration: result.duration,
       errors: result.errors
     })
+    sessionStorage.setItem(
+      'typing-practice-result',
+      JSON.stringify({
+        dictId: typingStore.dictId,
+        dictName: dictInfo?.name || typingStore.dictId,
+        totalWords: result.totalWords,
+        correctCount: result.correctCount,
+        errorCount: result.errorCount,
+        accuracy: result.accuracy,
+        wpm: result.wpm,
+        duration: result.duration,
+      }),
+    )
     router.push({ name: 'result' }) 
   }
 })
@@ -134,6 +166,10 @@ function setBlindLevel(level: 1 | 2 | 3) {
   settingsStore.setBlindLevel(level)
 }
 
+function toggleKeyboard() {
+  settingsStore.toggleShowKeyboard()
+}
+
 const currentWord = computed(() => typingStore.currentWord)
 const nextWord = computed(() => typingStore.nextWord)
 </script>
@@ -146,11 +182,14 @@ const nextWord = computed(() => typingStore.nextWord)
           <span class="text-xl">←</span><span>退出</span>
         </button>
         <h1 class="text-lg font-semibold text-slate-800 dark:text-white">{{ dict?.name || '练习中' }}</h1>
-        <div class="flex items-center gap-2">
-          <button @click="toggleSound" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="settings().sound?.enabled ? 'bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'">
+        <div class="flex items-center gap-2 flex-wrap justify-end">
+          <button type="button" title="键盘指引" @click="toggleKeyboard" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="settings().showKeyboard ? 'bg-indigo-100 dark:bg-indigo-900/40 text-indigo-700 dark:text-indigo-300' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'">
+            ⌨️
+          </button>
+          <button type="button" @click="toggleSound" class="px-3 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="settings().sound?.enabled ? 'bg-green-100 dark:bg-green-900 text-green-600 dark:text-green-400' : 'bg-slate-200 dark:bg-slate-700 text-slate-500'">
             {{ settings().sound?.enabled ? '🔊' : '🔇' }}
           </button>
-          <button @click="toggleInputMode" class="px-4 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="inputMode === 'romaji' ? 'bg-indigo-600 text-white' : 'bg-emerald-600 text-white'">
+          <button type="button" @click="toggleInputMode" class="px-4 py-1.5 text-sm font-medium rounded-lg transition-colors" :class="inputMode === 'romaji' ? 'bg-indigo-600 text-white' : 'bg-emerald-600 text-white'">
             {{ inputMode === 'romaji' ? '罗马字' : '假名' }}
           </button>
         </div>
@@ -225,6 +264,8 @@ const nextWord = computed(() => typingStore.nextWord)
           <div class="text-sm text-slate-500 dark:text-slate-400">正确</div>
         </div>
       </div>
+
+      <Keyboard />
     </main>
   </div>
 </template>

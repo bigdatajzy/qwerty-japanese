@@ -18,7 +18,38 @@ interface WordResult {
   level: string
 }
 
+interface TypingPracticeResult {
+  dictId: string
+  dictName: string
+  totalWords: number
+  correctCount: number
+  errorCount: number
+  accuracy: number
+  wpm: number
+  duration: number
+}
+
 const result = computed(() => {
+  const typingStored = sessionStorage.getItem('typing-practice-result')
+  if (typingStored) {
+    try {
+      const data = JSON.parse(typingStored) as TypingPracticeResult
+      return {
+        type: 'typing' as const,
+        dictId: data.dictId,
+        dictName: data.dictName || data.dictId,
+        wpm: data.wpm || 0,
+        accuracy: data.accuracy ?? 0,
+        totalWords: data.totalWords || 0,
+        correctCount: data.correctCount || 0,
+        errorCount: data.errorCount || 0,
+        errors: [] as { word: string; expected: string; actual: string }[],
+      }
+    } catch (e) {
+      console.error('Failed to parse typing practice result:', e)
+    }
+  }
+
   // 尝试获取单词练习结果
   const wordStored = sessionStorage.getItem('word-result')
   if (wordStored) {
@@ -72,8 +103,15 @@ const result = computed(() => {
 function retry() {
   sessionStorage.removeItem('article-result')
   sessionStorage.removeItem('word-result')
+  sessionStorage.removeItem('typing-practice-result')
   if (result.value.type === 'word') {
     router.push({ name: 'words' })
+  } else if (result.value.type === 'typing') {
+    router.push({
+      name: 'practice',
+      params: { dictId: result.value.dictId },
+      query: { mode: 'random' },
+    })
   } else {
     router.push({ name: 'articles' })
   }
@@ -82,6 +120,7 @@ function retry() {
 function goHome() {
   sessionStorage.removeItem('article-result')
   sessionStorage.removeItem('word-result')
+  sessionStorage.removeItem('typing-practice-result')
   router.push({ name: 'home' })
 }
 
@@ -108,7 +147,16 @@ function formatTime(seconds: number): string {
             {{ result.level?.toUpperCase() }} 单词练习
           </span>
         </div>
+        <div v-if="result.type === 'typing'" class="text-center mb-4">
+          <span class="inline-block px-4 py-1 bg-indigo-100 dark:bg-indigo-900/40 text-indigo-600 dark:text-indigo-300 rounded-full text-sm font-medium">
+            {{ result.dictName }} · 假名练习
+          </span>
+        </div>
         <div class="grid grid-cols-2 gap-6">
+          <div v-if="result.type === 'typing'" class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50 col-span-2">
+            <div class="text-4xl font-bold text-indigo-600 dark:text-indigo-400">{{ result.wpm }}</div>
+            <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">WPM</div>
+          </div>
           <div class="text-center p-5 rounded-2xl bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20">
             <div class="text-5xl font-bold bg-gradient-to-r from-emerald-500 to-teal-500 bg-clip-text text-transparent">{{ result.accuracy }}%</div>
             <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">正确率</div>

@@ -11,21 +11,22 @@
 - [x] 页面路由
 
 ### 1.2 练习模式测试
-- [ ] 顺序模式
-- [ ] 随机模式
+- [x] 顺序模式（URL `?mode=order`，词表原始顺序）
+- [x] 随机模式（URL `?mode=random` 或缺省）
 
 ### 1.3 UI/UX 测试
 - [ ] 响应式布局
 - [ ] 暗色/浅色主题切换
-- [ ] 键盘组件显示
+- [x] 键盘组件显示（练习页 ⌨️ 开关，依赖设置 `showKeyboard`）
 
 ---
 
 ## 2. 测试环境
 
-- **开发服务器**: https://mac.tail1ddca4.ts.net:5173
-- **测试框架**: Playwright
-- **浏览器**: Chromium
+- **默认本地开发地址**: `http://127.0.0.1:5173`（与 `playwright.config.ts` 一致）
+- **可选覆盖**: 设置环境变量 `PLAYWRIGHT_BASE_URL`（例如 Tailscale HTTPS 地址）以在非本机场景运行 E2E
+- **E2E 框架**: Playwright（Chromium）
+- **单元测试**: Vitest（`happy-dom`），覆盖 `practiceWords`、`romaji` 等纯函数
 
 ---
 
@@ -33,21 +34,28 @@
 
 | 文件 | 描述 |
 |------|------|
-| `home.spec.ts` | 首页测试 |
-| `practice.spec.ts` | 打字练习功能测试 |
-| `navigation.spec.ts` | 路由导航测试 |
+| `tests/e2e/home.spec.ts` | 首页测试 |
+| `tests/e2e/practice.spec.ts` | 打字练习（含顺序/随机、烟雾题集完成流） |
+| `tests/e2e/navigation.spec.ts` | 路由导航测试 |
+| `src/**/*.test.ts` | Vitest 单元测试 |
 
 ---
 
 ## 4. 运行测试
 
 ```bash
-# 安装浏览器
+# 安装依赖后安装浏览器（首次）
 npx playwright install chromium
 
-# 运行测试
-npx playwright test
+# E2E（默认自动拉起 vite；CI 下需已安装依赖）
+npm run test:e2e
 
-# 运行特定文件
+# E2E UI 调试
+npm run test:e2e:ui
+
+# 单元测试
+npm run test
+
+# 单文件 E2E
 npx playwright test tests/e2e/home.spec.ts
 ```

@@ -1,5 +1,9 @@
 import { defineConfig, devices } from '@playwright/test';
 
+const baseURL =
+  process.env.PLAYWRIGHT_BASE_URL ?? 'http://127.0.0.1:5173';
+const ignoreHTTPSErrors = baseURL.startsWith('https:');
+
 export default defineConfig({
   testDir: './tests/e2e',
   fullyParallel: true,
@@ -8,9 +12,9 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
   use: {
-    baseURL: 'https://mac.tail1ddca4.ts.net:5173',
+    baseURL,
     trace: 'on-first-retry',
-    ignoreHTTPSErrors: true,
+    ignoreHTTPSErrors,
   },
   projects: [
     {
@@ -19,8 +23,8 @@ export default defineConfig({
     },
   ],
   webServer: {
-    command: 'npm run dev',
-    url: 'https://mac.tail1ddca4.ts.net:5173',
+    command: 'node ./node_modules/vite/bin/vite.js',
+    url: baseURL,
     reuseExistingServer: !process.env.CI,
   },
 });
