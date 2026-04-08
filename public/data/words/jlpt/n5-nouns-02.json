@@ -1,0 +1,352 @@
+[
+  {
+    "id": "51",
+    "hiragana": "ごはん",
+    "kanji": "ご飯",
+    "meaning": "米饭；饭",
+    "romaji": "gohan"
+  },
+  {
+    "id": "52",
+    "hiragana": "ごぜん",
+    "kanji": "午前",
+    "meaning": "上午",
+    "romaji": "gozen"
+  },
+  {
+    "id": "53",
+    "hiragana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "meaning": "牛肉",
+    "romaji": "gyuuniku"
+  },
+  {
+    "id": "54",
+    "hiragana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "meaning": "牛奶",
+    "romaji": "gyuunyuu"
+  },
+  {
+    "id": "55",
+    "hiragana": "は",
+    "kanji": "歯",
+    "meaning": "牙齿",
+    "romaji": "ha"
+  },
+  {
+    "id": "56",
+    "hiragana": "はがき",
+    "kanji": "葉書",
+    "meaning": "明信片",
+    "romaji": "hagaki"
+  },
+  {
+    "id": "57",
+    "hiragana": "はは",
+    "kanji": "母",
+    "meaning": "母亲（自家）",
+    "romaji": "haha"
+  },
+  {
+    "id": "58",
+    "hiragana": "はい",
+    "kanji": "",
+    "meaning": "是",
+    "romaji": "hai"
+  },
+  {
+    "id": "59",
+    "hiragana": "はいざら",
+    "kanji": "灰皿",
+    "meaning": "烟灰缸",
+    "romaji": "haizara"
+  },
+  {
+    "id": "60",
+    "hiragana": "はこ",
+    "kanji": "箱",
+    "meaning": "箱子；盒子",
+    "romaji": "hako"
+  },
+  {
+    "id": "61",
+    "hiragana": "はん",
+    "kanji": "半",
+    "meaning": "半",
+    "romaji": "han"
+  },
+  {
+    "id": "62",
+    "hiragana": "はな",
+    "kanji": "花",
+    "meaning": "花",
+    "romaji": "hana"
+  },
+  {
+    "id": "63",
+    "hiragana": "はな",
+    "kanji": "鼻",
+    "meaning": "鼻子",
+    "romaji": "hana"
+  },
+  {
+    "id": "64",
+    "hiragana": "はなし",
+    "kanji": "話",
+    "meaning": "话；谈话",
+    "romaji": "hanashi"
+  },
+  {
+    "id": "65",
+    "hiragana": "はんぶん",
+    "kanji": "半分",
+    "meaning": "一半",
+    "romaji": "hanbun"
+  },
+  {
+    "id": "66",
+    "hiragana": "はれ",
+    "kanji": "晴れ",
+    "meaning": "晴天",
+    "romaji": "hare"
+  },
+  {
+    "id": "67",
+    "hiragana": "はる",
+    "kanji": "春",
+    "meaning": "春天",
+    "romaji": "haru"
+  },
+  {
+    "id": "68",
+    "hiragana": "はし",
+    "kanji": "箸",
+    "meaning": "筷子",
+    "romaji": "hashi"
+  },
+  {
+    "id": "69",
+    "hiragana": "はし",
+    "kanji": "橋",
+    "meaning": "桥",
+    "romaji": "hashi"
+  },
+  {
+    "id": "70",
+    "hiragana": "へん",
+    "kanji": "辺",
+    "meaning": "边；附近",
+    "romaji": "hen"
+  },
+  {
+    "id": "71",
+    "hiragana": "へや",
+    "kanji": "部屋",
+    "meaning": "房间",
+    "romaji": "heya"
+  },
+  {
+    "id": "72",
+    "hiragana": "ひだり",
+    "kanji": "左",
+    "meaning": "左边",
+    "romaji": "hidari"
+  },
+  {
+    "id": "73",
+    "hiragana": "ひがし",
+    "kanji": "東",
+    "meaning": "东边",
+    "romaji": "higashi"
+  },
+  {
+    "id": "74",
+    "hiragana": "ひこうき",
+    "kanji": "飛行機",
+    "meaning": "飞机",
+    "romaji": "hikouki"
+  },
+  {
+    "id": "75",
+    "hiragana": "ひま",
+    "kanji": "暇",
+    "meaning": "空闲",
+    "romaji": "hima"
+  },
+  {
+    "id": "76",
+    "hiragana": "ひる",
+    "kanji": "昼",
+    "meaning": "白天；中午",
+    "romaji": "hiru"
+  },
+  {
+    "id": "77",
+    "hiragana": "ひるごはん",
+    "kanji": "昼ご飯",
+    "meaning": "午饭",
+    "romaji": "hirugohan"
+  },
+  {
+    "id": "78",
+    "hiragana": "ひと",
+    "kanji": "人",
+    "meaning": "人",
+    "romaji": "hito"
+  },
+  {
+    "id": "79",
+    "hiragana": "ほか",
+    "kanji": "",
+    "meaning": "其他",
+    "romaji": "hoka"
+  },
+  {
+    "id": "80",
+    "hiragana": "ほん",
+    "kanji": "本",
+    "meaning": "书",
+    "romaji": "hon"
+  },
+  {
+    "id": "81",
+    "hiragana": "ほんだな",
+    "kanji": "本棚",
+    "meaning": "书架",
+    "romaji": "hondana"
+  },
+  {
+    "id": "82",
+    "hiragana": "ほんとう",
+    "kanji": "本当",
+    "meaning": "真的；事实",
+    "romaji": "hontou"
+  },
+  {
+    "id": "83",
+    "hiragana": "ひゃく",
+    "kanji": "百",
+    "meaning": "百",
+    "romaji": "hyaku"
+  },
+  {
+    "id": "84",
+    "hiragana": "いえ",
+    "kanji": "家",
+    "meaning": "家；房子",
+    "romaji": "ie"
+  },
+  {
+    "id": "85",
+    "hiragana": "いけ",
+    "kanji": "池",
+    "meaning": "池塘",
+    "romaji": "ike"
+  },
+  {
+    "id": "86",
+    "hiragana": "いくら",
+    "kanji": "",
+    "meaning": "多少钱",
+    "romaji": "ikura"
+  },
+  {
+    "id": "87",
+    "hiragana": "いま",
+    "kanji": "今",
+    "meaning": "现在",
+    "romaji": "ima"
+  },
+  {
+    "id": "88",
+    "hiragana": "いみ",
+    "kanji": "意味",
+    "meaning": "意思",
+    "romaji": "imi"
+  },
+  {
+    "id": "89",
+    "hiragana": "いもうと",
+    "kanji": "妹",
+    "meaning": "妹妹",
+    "romaji": "imouto"
+  },
+  {
+    "id": "90",
+    "hiragana": "いぬ",
+    "kanji": "犬",
+    "meaning": "狗",
+    "romaji": "inu"
+  },
+  {
+    "id": "91",
+    "hiragana": "いりぐち",
+    "kanji": "入口",
+    "meaning": "入口",
+    "romaji": "iriguchi"
+  },
+  {
+    "id": "92",
+    "hiragana": "いろ",
+    "kanji": "色",
+    "meaning": "颜色",
+    "romaji": "iro"
+  },
+  {
+    "id": "93",
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "meaning": "医生",
+    "romaji": "isha"
+  },
+  {
+    "id": "94",
+    "hiragana": "いっしょ",
+    "kanji": "一緒",
+    "meaning": "一起",
+    "romaji": "issho"
+  },
+  {
+    "id": "95",
+    "hiragana": "いす",
+    "kanji": "椅子",
+    "meaning": "椅子",
+    "romaji": "isu"
+  },
+  {
+    "id": "96",
+    "hiragana": "いや",
+    "kanji": "嫌",
+    "meaning": "讨厌的",
+    "romaji": "iya"
+  },
+  {
+    "id": "97",
+    "hiragana": "じびき",
+    "kanji": "字引",
+    "meaning": "字典（旧称）",
+    "romaji": "jibiki"
+  },
+  {
+    "id": "98",
+    "hiragana": "じどうしゃ",
+    "kanji": "自動車",
+    "meaning": "汽车",
+    "romaji": "jidousha"
+  },
+  {
+    "id": "99",
+    "hiragana": "じかん",
+    "kanji": "時間",
+    "meaning": "时间",
+    "romaji": "jikan"
+  },
+  {
+    "id": "100",
+    "hiragana": "じしょ",
+    "kanji": "辞書",
+    "meaning": "词典；字典",
+    "romaji": "jisho"
+  }
+]

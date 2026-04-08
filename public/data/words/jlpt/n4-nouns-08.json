@@ -1,0 +1,93 @@
+[
+  {
+    "id": "351",
+    "hiragana": "sandaru",
+    "kanji": "サンダル",
+    "meaning": "sandal",
+    "romaji": "凉鞋"
+  },
+  {
+    "id": "352",
+    "hiragana": "sandoicchi",
+    "kanji": "サンドイッチ",
+    "meaning": "sandwich",
+    "romaji": "三明治"
+  },
+  {
+    "id": "353",
+    "hiragana": "sarada",
+    "kanji": "サラダ",
+    "meaning": "salad",
+    "romaji": "沙拉"
+  },
+  {
+    "id": "354",
+    "hiragana": "sofuto",
+    "kanji": "ソフト",
+    "meaning": "soft",
+    "romaji": "软件 / 软的"
+  },
+  {
+    "id": "355",
+    "hiragana": "sukuriin",
+    "kanji": "スクリーン",
+    "meaning": "screen",
+    "romaji": "屏幕 / 银幕"
+  },
+  {
+    "id": "356",
+    "hiragana": "sustsukeesu",
+    "kanji": "スーツケース",
+    "meaning": "suitcase",
+    "romaji": "行李箱"
+  },
+  {
+    "id": "357",
+    "hiragana": "suteeki",
+    "kanji": "ステーキ",
+    "meaning": "steak",
+    "romaji": "牛排"
+  },
+  {
+    "id": "358",
+    "hiragana": "sutereo",
+    "kanji": "ステレオ",
+    "meaning": "stereo",
+    "romaji": "立体声 / 音响"
+  },
+  {
+    "id": "359",
+    "hiragana": "suutsu",
+    "kanji": "スーツ",
+    "meaning": "suit",
+    "romaji": "西装 / 套装"
+  },
+  {
+    "id": "360",
+    "hiragana": "taipu",
+    "kanji": "タイプ",
+    "meaning": "type, style",
+    "romaji": "类型 / 风格"
+  },
+  {
+    "id": "361",
+    "hiragana": "tekisuto",
+    "kanji": "テキスト",
+    "meaning": "text; textbook",
+    "romaji": "教科书 / 文本"
+  },
+  {
+    "id": "362",
+    "hiragana": "tenisu",
+    "kanji": "テニス",
+    "meaning": "tennis",
+    "romaji": "网球"
+  },
+  {
+    "id": "363",
+    "hiragana": "waapuro",
+    "kanji": "ワープロ",
+    "meaning": "word processor",
+    "romaji": "文字处理器"
+  }
+]

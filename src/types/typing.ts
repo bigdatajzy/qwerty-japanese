@@ -1,4 +1,4 @@
-export type TypingMode = 'sequential' | 'random' | 'blind'
+export type TypingMode = 'sequential' | 'random'
 
 export interface TypingState {
   dictId: string

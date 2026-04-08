@@ -5,6 +5,7 @@ import { loadArticle } from '@/api/articles'
 import type { Article } from '@/types/article'
 import { useSound } from '@/composables/useSound'
 import { useSettingsStore } from '@/stores/settings'
+import { recordPracticeSession } from '@/utils/practiceStatsDb'
 
 const route = useRoute()
 const router = useRouter()
@@ -203,6 +204,11 @@ const articleWithRuby = computed(() => {
   return addRubyToText(article.value.content)
 })
 
+const translationUnits = computed(() => {
+  if (!article.value?.translation) return []
+  return parseTextToUnits(article.value.translation).map((u) => u.text)
+})
+
 const progress = computed(() => units.value.length === 0 ? 0 : (currentIndex.value / units.value.length) * 100)
 
 const wpm = computed(() => {
@@ -268,9 +274,11 @@ function handleCorrect() {
   }
 }
 
-function finishPractice() {
+async function finishPractice() {
   playComplete()
   const totalChars = units.value.reduce((sum, unit) => sum + unit.text.length, 0)
+  const durationSec = startTime.value ? (Date.now() - startTime.value) / 1000 : 0
+  const acc = units.value.length > 0 ? Math.round((correctUnits.value / units.value.length) * 100) : 0
   
   sessionStorage.setItem('article-result', JSON.stringify({
     wpm: wpm.value,
@@ -279,6 +287,18 @@ function finishPractice() {
     errorUnits: errorUnits.value,
     totalChars: totalChars,
   }))
+  await recordPracticeSession({
+    type: 'article',
+    sourceId: article.value?.id || articleId.value,
+    sourceName: article.value?.title || articleId.value,
+    startedAt: startTime.value || Date.now(),
+    durationSec,
+    unitsTotal: units.value.length,
+    unitsCorrect: correctUnits.value,
+    unitsError: errorUnits.value,
+    accuracy: acc,
+    wpm: wpm.value,
+  })
   router.push({ name: 'result' })
 }
 
@@ -311,7 +331,7 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
     <template v-else>
       <header class="bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm shadow-sm sticky top-0 z-10">
         <div class="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between">
-          <button @click="router.push({ name: 'articles' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-indigo-600">
+          <button @click="router.push({ name: 'articles' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600">
             <span class="text-xl">←</span><span>退出</span>
           </button>
           <h1 class="text-lg font-semibold text-slate-800 dark:text-white truncate max-w-xs">{{ article?.title || '文章练习' }}</h1>
@@ -370,7 +390,15 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
             <span class="text-lg">📖</span>
             <span class="font-medium text-amber-800 dark:text-amber-200">翻译</span>
           </div>
-          <p class="text-sm text-amber-900 dark:text-amber-100 leading-relaxed">{{ article.translation }}</p>
+          <div class="flex flex-wrap gap-2">
+            <span
+              v-for="(unit, index) in translationUnits"
+              :key="index"
+              class="px-3 py-2 rounded-lg text-sm text-amber-900 dark:text-amber-100 bg-amber-100 dark:bg-amber-900/30 leading-relaxed"
+            >
+              {{ unit }}
+            </span>
+          </div>
         </div>
 
         <!-- 输入框 -->

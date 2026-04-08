@@ -1,0 +1,352 @@
+[
+  {
+    "id": "151",
+    "hiragana": "しらべる",
+    "kanji": "調べる",
+    "meaning": "调查 / 查阅",
+    "romaji": "shiraberu"
+  },
+  {
+    "id": "152",
+    "hiragana": "しらせる",
+    "kanji": "知らせる",
+    "meaning": "通知 / 告知",
+    "romaji": "shiraseru"
+  },
+  {
+    "id": "153",
+    "hiragana": "しょうじる",
+    "kanji": "生じる",
+    "meaning": "产生 / 发生",
+    "romaji": "shoujiru"
+  },
+  {
+    "id": "154",
+    "hiragana": "しょうかい",
+    "kanji": "紹介",
+    "meaning": "介绍",
+    "romaji": "shoukai"
+  },
+  {
+    "id": "155",
+    "hiragana": "そだてる",
+    "kanji": "育てる",
+    "meaning": "养育 / 培育",
+    "romaji": "sodateru"
+  },
+  {
+    "id": "156",
+    "hiragana": "そつぎょう",
+    "kanji": "卒業",
+    "meaning": "毕业",
+    "romaji": "sotsugyou"
+  },
+  {
+    "id": "157",
+    "hiragana": "そうだん",
+    "kanji": "相談",
+    "meaning": "商量 / 咨询",
+    "romaji": "soudan"
+  },
+  {
+    "id": "158",
+    "hiragana": "すべる",
+    "kanji": "滑る",
+    "meaning": "滑 / 滑倒",
+    "romaji": "suberu"
+  },
+  {
+    "id": "159",
+    "hiragana": "すいえい",
+    "kanji": "水泳",
+    "meaning": "游泳",
+    "romaji": "suiei"
+  },
+  {
+    "id": "160",
+    "hiragana": "すく",
+    "kanji": "空く",
+    "meaning": "(肚子)饿 / (地方)空",
+    "romaji": "suku"
+  },
+  {
+    "id": "161",
+    "hiragana": "すむ",
+    "kanji": "済む",
+    "meaning": "结束 / 完",
+    "romaji": "sumu"
+  },
+  {
+    "id": "162",
+    "hiragana": "すすむ",
+    "kanji": "進む",
+    "meaning": "前进 / 进展",
+    "romaji": "susumu"
+  },
+  {
+    "id": "163",
+    "hiragana": "すてる",
+    "kanji": "捨てる",
+    "meaning": "扔掉 / 抛弃",
+    "romaji": "suteru"
+  },
+  {
+    "id": "164",
+    "hiragana": "たいいん",
+    "kanji": "退院",
+    "meaning": "出院",
+    "romaji": "tai'in"
+  },
+  {
+    "id": "165",
+    "hiragana": "たんじょう",
+    "kanji": "誕生",
+    "meaning": "诞生 / 出生",
+    "romaji": "tanjou"
+  },
+  {
+    "id": "166",
+    "hiragana": "たおれる",
+    "kanji": "倒れる",
+    "meaning": "倒下 / 晕倒",
+    "romaji": "taoreru"
+  },
+  {
+    "id": "167",
+    "hiragana": "たりる",
+    "kanji": "足りる",
+    "meaning": "足够",
+    "romaji": "tariru"
+  },
+  {
+    "id": "168",
+    "hiragana": "たす",
+    "kanji": "足す",
+    "meaning": "加 / 添",
+    "romaji": "tasu"
+  },
+  {
+    "id": "169",
+    "hiragana": "たてる",
+    "kanji": "建てる",
+    "meaning": "建造 / 建立",
+    "romaji": "tateru"
+  },
+  {
+    "id": "170",
+    "hiragana": "たずねる",
+    "kanji": "尋ねる",
+    "meaning": "询问",
+    "romaji": "tazuneru"
+  },
+  {
+    "id": "171",
+    "hiragana": "たずねる",
+    "kanji": "訪ねる",
+    "meaning": "访问 / 拜访",
+    "romaji": "tazuneru"
+  },
+  {
+    "id": "172",
+    "hiragana": "てつだう",
+    "kanji": "手伝う",
+    "meaning": "帮忙 / 协助",
+    "romaji": "tetsudau"
+  },
+  {
+    "id": "173",
+    "hiragana": "とどける",
+    "kanji": "届ける",
+    "meaning": "送到 / 递送",
+    "romaji": "todokeru"
+  },
+  {
+    "id": "174",
+    "hiragana": "とまる",
+    "kanji": "泊まる",
+    "meaning": "住宿 / 停留",
+    "romaji": "tomaru"
+  },
+  {
+    "id": "175",
+    "hiragana": "とめる",
+    "kanji": "止める",
+    "meaning": "停止 / 阻止 (他动词)",
+    "romaji": "tomeru"
+  },
+  {
+    "id": "176",
+    "hiragana": "とおる",
+    "kanji": "通る",
+    "meaning": "通过 / 经过",
+    "romaji": "tooru"
+  },
+  {
+    "id": "177",
+    "hiragana": "とりかえる",
+    "kanji": "取り替える",
+    "meaning": "更换 / 交换",
+    "romaji": "torikaeru"
+  },
+  {
+    "id": "178",
+    "hiragana": "つづける",
+    "kanji": "続ける",
+    "meaning": "继续 / 持续 (他动词)",
+    "romaji": "tsudzukeru"
+  },
+  {
+    "id": "179",
+    "hiragana": "つづく",
+    "kanji": "続く",
+    "meaning": "继续 / 持续 (自动词)",
+    "romaji": "tsudzuku"
+  },
+  {
+    "id": "180",
+    "hiragana": "つかまえる",
+    "kanji": "捕まえる",
+    "meaning": "抓住 / 捕捉",
+    "romaji": "tsukamaeru"
+  },
+  {
+    "id": "181",
+    "hiragana": "つける",
+    "kanji": "漬ける",
+    "meaning": "浸泡 / 腌渍",
+    "romaji": "tsukeru"
+  },
+  {
+    "id": "182",
+    "hiragana": "つく",
+    "kanji": "付く",
+    "meaning": "附着 / 沾上",
+    "romaji": "tsuku"
+  },
+  {
+    "id": "183",
+    "hiragana": "つれる",
+    "kanji": "連れる",
+    "meaning": "带领 / 带着",
+    "romaji": "tsureru"
+  },
+  {
+    "id": "184",
+    "hiragana": "つる",
+    "kanji": "釣る",
+    "meaning": "钓鱼",
+    "romaji": "tsuru"
+  },
+  {
+    "id": "185",
+    "hiragana": "つたえる",
+    "kanji": "伝える",
+    "meaning": "传达 / 转告",
+    "romaji": "tsutaeru"
+  },
+  {
+    "id": "186",
+    "hiragana": "つつむ",
+    "kanji": "包む",
+    "meaning": "包 / 包裹",
+    "romaji": "tsutsumu"
+  },
+  {
+    "id": "187",
+    "hiragana": "うえる",
+    "kanji": "植える",
+    "meaning": "种植",
+    "romaji": "ueru"
+  },
+  {
+    "id": "188",
+    "hiragana": "うごく",
+    "kanji": "動く",
+    "meaning": "动 / 移动 / 运转",
+    "romaji": "ugoku"
+  },
+  {
+    "id": "189",
+    "hiragana": "うかがう",
+    "kanji": "伺う",
+    "meaning": "拜访 / 请教 (谦语)",
+    "romaji": "ukagau"
+  },
+  {
+    "id": "190",
+    "hiragana": "うける",
+    "kanji": "受ける",
+    "meaning": "接受 / 参加(考试/课程)",
+    "romaji": "ukeru"
+  },
+  {
+    "id": "191",
+    "hiragana": "うつ",
+    "kanji": "打つ",
+    "meaning": "打 / 敲击",
+    "romaji": "utsu"
+  },
+  {
+    "id": "192",
+    "hiragana": "うつる",
+    "kanji": "移る",
+    "meaning": "移动 / 搬迁 / 转移",
+    "romaji": "utsuru"
+  },
+  {
+    "id": "193",
+    "hiragana": "うつす",
+    "kanji": "写す",
+    "meaning": "抄写 / 拍照 / 描绘",
+    "romaji": "utsusu"
+  },
+  {
+    "id": "194",
+    "hiragana": "わかれる",
+    "kanji": "別れる",
+    "meaning": "分手 / 分别",
+    "romaji": "wakareru"
+  },
+  {
+    "id": "195",
+    "hiragana": "わかす",
+    "kanji": "沸かす",
+    "meaning": "烧开 / 加热 (他动词)",
+    "romaji": "wakasu"
+  },
+  {
+    "id": "196",
+    "hiragana": "わく",
+    "kanji": "沸く",
+    "meaning": "沸腾 (自动词)",
+    "romaji": "waku"
+  },
+  {
+    "id": "197",
+    "hiragana": "わらう",
+    "kanji": "笑う",
+    "meaning": "笑",
+    "romaji": "warau"
+  },
+  {
+    "id": "198",
+    "hiragana": "われる",
+    "kanji": "割れる",
+    "meaning": "破裂 / 碎裂 (自动词)",
+    "romaji": "wareru"
+  },
+  {
+    "id": "199",
+    "hiragana": "やける",
+    "kanji": "焼ける",
+    "meaning": "燃烧 / 烤熟 (自动词)",
+    "romaji": "yakeru"
+  },
+  {
+    "id": "200",
+    "hiragana": "やく",
+    "kanji": "焼く",
+    "meaning": "烤 / 烧 (他动词)",
+    "romaji": "yaku"
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "351",
+    "hiragana": "シャツ",
+    "kanji": "シャツ",
+    "meaning": "衬衫",
+    "romaji": "shatsu"
+  },
+  {
+    "id": "352",
+    "hiragana": "シャワー",
+    "kanji": "シャワー",
+    "meaning": "淋浴",
+    "romaji": "shawaa"
+  },
+  {
+    "id": "353",
+    "hiragana": "スカート",
+    "kanji": "スカート",
+    "meaning": "裙子",
+    "romaji": "sukaato"
+  },
+  {
+    "id": "354",
+    "hiragana": "スポーツ",
+    "kanji": "スポーツ",
+    "meaning": "运动",
+    "romaji": "supootsu"
+  },
+  {
+    "id": "355",
+    "hiragana": "スプーン",
+    "kanji": "スプーン",
+    "meaning": "勺子；汤匙",
+    "romaji": "supuun"
+  },
+  {
+    "id": "356",
+    "hiragana": "スリッパ",
+    "kanji": "スリッパ",
+    "meaning": "拖鞋",
+    "romaji": "surippa"
+  },
+  {
+    "id": "357",
+    "hiragana": "ストーブ",
+    "kanji": "ストーブ",
+    "meaning": "火炉；暖炉",
+    "romaji": "sutoobu"
+  },
+  {
+    "id": "358",
+    "hiragana": "タクシー",
+    "kanji": "タクシー",
+    "meaning": "出租车；计程车",
+    "romaji": "takushii"
+  },
+  {
+    "id": "359",
+    "hiragana": "テーブル",
+    "kanji": "テーブル",
+    "meaning": "桌子；表格",
+    "romaji": "teeburu"
+  },
+  {
+    "id": "360",
+    "hiragana": "テープ",
+    "kanji": "テープ",
+    "meaning": "磁带；胶带",
+    "romaji": "teepu"
+  },
+  {
+    "id": "361",
+    "hiragana": "テープレコーダー",
+    "kanji": "テープレコーダー",
+    "meaning": "磁带录音机",
+    "romaji": "teepu rekoodaa"
+  },
+  {
+    "id": "362",
+    "hiragana": "テレビ",
+    "kanji": "テレビ",
+    "meaning": "电视",
+    "romaji": "terebi"
+  },
+  {
+    "id": "363",
+    "hiragana": "テスト",
+    "kanji": "テスト",
+    "meaning": "测试；考试",
+    "romaji": "tesuto"
+  },
+  {
+    "id": "364",
+    "hiragana": "トイレ",
+    "kanji": "トイレ",
+    "meaning": "厕所；卫生间",
+    "romaji": "toire"
+  },
+  {
+    "id": "365",
+    "hiragana": "ワイシャツ",
+    "kanji": "ワイシャツ",
+    "meaning": "(白)衬衫",
+    "romaji": "wai shatsu"
+  },
+  {
+    "id": "366",
+    "hiragana": "ゼロ",
+    "kanji": "ゼロ",
+    "meaning": "零",
+    "romaji": "zero"
+  },
+  {
+    "id": "367",
+    "hiragana": "ズボン",
+    "kanji": "ズボン",
+    "meaning": "裤子",
+    "romaji": "zubon"
+  }
+]

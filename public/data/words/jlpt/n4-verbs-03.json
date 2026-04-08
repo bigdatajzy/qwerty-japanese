@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "なくなる",
+    "kanji": "亡くなる",
+    "meaning": "去世 / 死亡",
+    "romaji": "nakunaru"
+  },
+  {
+    "id": "102",
+    "hiragana": "なおる",
+    "kanji": "直る",
+    "meaning": "修好 / 改正 (自动词)",
+    "romaji": "naoru"
+  },
+  {
+    "id": "103",
+    "hiragana": "なおる",
+    "kanji": "治る",
+    "meaning": "痊愈 (自动词)",
+    "romaji": "naoru"
+  },
+  {
+    "id": "104",
+    "hiragana": "なれる",
+    "kanji": "慣れる",
+    "meaning": "习惯",
+    "romaji": "nareru"
+  },
+  {
+    "id": "105",
+    "hiragana": "なる",
+    "kanji": "鳴る",
+    "meaning": "响 / 鸣叫",
+    "romaji": "naru"
+  },
+  {
+    "id": "106",
+    "hiragana": "ねぼう",
+    "kanji": "寝坊",
+    "meaning": "睡懒觉 / 睡过头",
+    "romaji": "nebou"
+  },
+  {
+    "id": "107",
+    "hiragana": "ねむる",
+    "kanji": "眠る",
+    "meaning": "睡觉",
+    "romaji": "nemuru"
+  },
+  {
+    "id": "108",
+    "hiragana": "にげる",
+    "kanji": "逃げる",
+    "meaning": "逃跑 / 逃避",
+    "romaji": "nigeru"
+  },
+  {
+    "id": "109",
+    "hiragana": "にる",
+    "kanji": "似る",
+    "meaning": "相似 / 像",
+    "romaji": "niru"
+  },
+  {
+    "id": "110",
+    "hiragana": "のこる",
+    "kanji": "残る",
+    "meaning": "剩下 / 留下",
+    "romaji": "nokoru"
+  },
+  {
+    "id": "111",
+    "hiragana": "のりかえる",
+    "kanji": "乗り換える",
+    "meaning": "换乘",
+    "romaji": "norikaeru"
+  },
+  {
+    "id": "112",
+    "hiragana": "ぬれる",
+    "kanji": "濡れる",
+    "meaning": "淋湿 / 沾湿 (自动词)",
+    "romaji": "nureru"
+  },
+  {
+    "id": "113",
+    "hiragana": "ぬる",
+    "kanji": "塗る",
+    "meaning": "涂 / 抹",
+    "romaji": "nuru"
+  },
+  {
+    "id": "114",
+    "hiragana": "ぬすむ",
+    "kanji": "盗む",
+    "meaning": "偷 / 盗窃",
+    "romaji": "nusumu"
+  },
+  {
+    "id": "115",
+    "hiragana": "にゅうがく",
+    "kanji": "入学",
+    "meaning": "入学",
+    "romaji": "nyuugaku"
+  },
+  {
+    "id": "116",
+    "hiragana": "にゅういん",
+    "kanji": "入院",
+    "meaning": "住院",
+    "romaji": "nyuuin"
+  },
+  {
+    "id": "117",
+    "hiragana": "おちる",
+    "kanji": "落ちる",
+    "meaning": "落下 / 掉下",
+    "romaji": "ochiru"
+  },
+  {
+    "id": "118",
+    "hiragana": "おどろく",
+    "kanji": "驚く",
+    "meaning": "吃惊 / 惊讶",
+    "romaji": "odoroku"
+  },
+  {
+    "id": "119",
+    "hiragana": "おどる",
+    "kanji": "踊る",
+    "meaning": "跳舞",
+    "romaji": "odoru"
+  },
+  {
+    "id": "120",
+    "hiragana": "おいでになる",
+    "kanji": "お出でになる",
+    "meaning": "在 / 来 / 去 (敬语)",
+    "romaji": "oide ni naru"
+  },
+  {
+    "id": "121",
+    "hiragana": "おいわい",
+    "kanji": "お祝い",
+    "meaning": "祝贺 / 庆祝",
+    "romaji": "oiwai"
+  },
+  {
+    "id": "122",
+    "hiragana": "おこなう",
+    "kanji": "行う",
+    "meaning": "举行 / 进行",
+    "romaji": "okonau"
+  },
+  {
+    "id": "123",
+    "hiragana": "おこる",
+    "kanji": "怒る",
+    "meaning": "生气 / 发怒",
+    "romaji": "okoru"
+  },
+  {
+    "id": "124",
+    "hiragana": "おこす",
+    "kanji": "起こす",
+    "meaning": "叫醒 / 引起",
+    "romaji": "okosu"
+  },
+  {
+    "id": "125",
+    "hiragana": "おくれる",
+    "kanji": "遅れる",
+    "meaning": "迟到 / 晚点",
+    "romaji": "okureru"
+  },
+  {
+    "id": "126",
+    "hiragana": "おくる",
+    "kanji": "送る",
+    "meaning": "送 / 寄",
+    "romaji": "okuru"
+  },
+  {
+    "id": "127",
+    "hiragana": "おもいだす",
+    "kanji": "思い出す",
+    "meaning": "想起 / 回忆起",
+    "romaji": "omoidasu"
+  },
+  {
+    "id": "128",
+    "hiragana": "おれる",
+    "kanji": "折れる",
+    "meaning": "折断 / 弯曲 (自动词)",
+    "romaji": "oreru"
+  },
+  {
+    "id": "129",
+    "hiragana": "おりる",
+    "kanji": "下りる",
+    "meaning": "下 (车/山) / 降下",
+    "romaji": "oriru"
+  },
+  {
+    "id": "130",
+    "hiragana": "おる",
+    "kanji": "折る",
+    "meaning": "折 / 折断 (他动词)",
+    "romaji": "oru"
+  },
+  {
+    "id": "131",
+    "hiragana": "おっしゃる",
+    "kanji": "仰る",
+    "meaning": "说 / 讲 (敬语)",
+    "romaji": "ossharu"
+  },
+  {
+    "id": "132",
+    "hiragana": "おとす",
+    "kanji": "落とす",
+    "meaning": "弄掉 / 使落下",
+    "romaji": "otosu"
+  },
+  {
+    "id": "133",
+    "hiragana": "れいぼう",
+    "kanji": "冷房",
+    "meaning": "冷气 / 空调",
+    "romaji": "reibou"
+  },
+  {
+    "id": "134",
+    "hiragana": "れんらく",
+    "kanji": "連絡",
+    "meaning": "联系",
+    "romaji": "renraku"
+  },
+  {
+    "id": "135",
+    "hiragana": "りよう",
+    "kanji": "利用",
+    "meaning": "利用",
+    "romaji": "riyou"
+  },
+  {
+    "id": "136",
+    "hiragana": "るす",
+    "kanji": "留守",
+    "meaning": "不在家 / 缺席",
+    "romaji": "rusu"
+  },
+  {
+    "id": "137",
+    "hiragana": "さがる",
+    "kanji": "下がる",
+    "meaning": "下降 / 下垂 (自动词)",
+    "romaji": "sagaru"
+  },
+  {
+    "id": "138",
+    "hiragana": "さがす",
+    "kanji": "探す",
+    "meaning": "寻找",
+    "romaji": "sagasu"
+  },
+  {
+    "id": "139",
+    "hiragana": "さげる",
+    "kanji": "下げる",
+    "meaning": "降低 / 放下 (他动词)",
+    "romaji": "sageru"
+  },
+  {
+    "id": "140",
+    "hiragana": "さしあげる",
+    "kanji": "差し上げる",
+    "meaning": "给 / 献上 (谦语)",
+    "romaji": "sashiageru"
+  },
+  {
+    "id": "141",
+    "hiragana": "さわぐ",
+    "kanji": "騒ぐ",
+    "meaning": "吵闹 / 喧哗",
+    "romaji": "sawagu"
+  },
+  {
+    "id": "142",
+    "hiragana": "さわる",
+    "kanji": "触る",
+    "meaning": "触摸 / 触碰",
+    "romaji": "sawaru"
+  },
+  {
+    "id": "143",
+    "hiragana": "せいかつ",
+    "kanji": "生活",
+    "meaning": "生活",
+    "romaji": "seikatsu"
+  },
+  {
+    "id": "144",
+    "hiragana": "せいさん",
+    "kanji": "生産",
+    "meaning": "生产",
+    "romaji": "seisan"
+  },
+  {
+    "id": "145",
+    "hiragana": "せんそう",
+    "kanji": "戦争",
+    "meaning": "战争",
+    "romaji": "sensou"
+  },
+  {
+    "id": "146",
+    "hiragana": "せつめい",
+    "kanji": "説明",
+    "meaning": "说明 / 解释",
+    "romaji": "setsumei"
+  },
+  {
+    "id": "147",
+    "hiragana": "しあい",
+    "kanji": "試合",
+    "meaning": "比赛",
+    "romaji": "shiai"
+  },
+  {
+    "id": "148",
+    "hiragana": "しかる",
+    "kanji": "叱る",
+    "meaning": "斥责 / 责骂",
+    "romaji": "shikaru"
+  },
+  {
+    "id": "149",
+    "hiragana": "しけん",
+    "kanji": "試験",
+    "meaning": "考试 / 试验",
+    "romaji": "shiken"
+  },
+  {
+    "id": "150",
+    "hiragana": "しっぱい",
+    "kanji": "失敗",
+    "meaning": "失败",
+    "romaji": "shippai"
+  }
+]

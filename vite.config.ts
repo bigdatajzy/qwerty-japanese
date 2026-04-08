@@ -1,3 +1,4 @@
+/// <reference types="vitest/config" />
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { resolve } from 'path'
@@ -13,10 +14,13 @@ export default defineConfig({
       'mac',
       '.ts.net',
     ],
-    https: process.env.VITE_USE_HTTPS === 'true' ? {
-      key: fs.readFileSync('./mac.tail1ddca4.ts.net-key.pem'),
-      cert: fs.readFileSync('./mac.tail1ddca4.ts.net.pem'),
-    } : false,
+    https:
+      process.env.VITE_USE_HTTPS === 'true'
+        ? {
+            key: fs.readFileSync('./mac.tail1ddca4.ts.net-key.pem'),
+            cert: fs.readFileSync('./mac.tail1ddca4.ts.net.pem'),
+          }
+        : undefined,
   },
   build: {
     target: 'esnext',
@@ -32,5 +36,9 @@ export default defineConfig({
     alias: {
       '@': resolve(__dirname, 'src')
     }
-  }
+  },
+  test: {
+    environment: 'happy-dom',
+    include: ['src/**/*.test.ts'],
+  },
 })

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "じてんしゃ",
+    "kanji": "自転車",
+    "meaning": "自行车",
+    "romaji": "jitensha"
+  },
+  {
+    "id": "102",
+    "hiragana": "じゅぎょう",
+    "kanji": "授業",
+    "meaning": "课；授课",
+    "romaji": "jugyou"
+  },
+  {
+    "id": "103",
+    "hiragana": "かばん",
+    "kanji": "",
+    "meaning": "包；书包",
+    "romaji": "kaban"
+  },
+  {
+    "id": "104",
+    "hiragana": "かびん",
+    "kanji": "花瓶",
+    "meaning": "花瓶",
+    "romaji": "kabin"
+  },
+  {
+    "id": "105",
+    "hiragana": "かど",
+    "kanji": "角",
+    "meaning": "角落；角",
+    "romaji": "kado"
+  },
+  {
+    "id": "106",
+    "hiragana": "かぎ",
+    "kanji": "鍵",
+    "meaning": "钥匙",
+    "romaji": "kagi"
+  },
+  {
+    "id": "107",
+    "hiragana": "かいだん",
+    "kanji": "階段",
+    "meaning": "楼梯",
+    "romaji": "kaidan"
+  },
+  {
+    "id": "108",
+    "hiragana": "かいもの",
+    "kanji": "買い物",
+    "meaning": "购物",
+    "romaji": "kaimono"
+  },
+  {
+    "id": "109",
+    "hiragana": "かいしゃ",
+    "kanji": "会社",
+    "meaning": "公司",
+    "romaji": "kaisha"
+  },
+  {
+    "id": "110",
+    "hiragana": "かみ",
+    "kanji": "紙",
+    "meaning": "纸",
+    "romaji": "kami"
+  },
+  {
+    "id": "111",
+    "hiragana": "かんじ",
+    "kanji": "漢字",
+    "meaning": "汉字",
+    "romaji": "kanji"
+  },
+  {
+    "id": "112",
+    "hiragana": "からだ",
+    "kanji": "体",
+    "meaning": "身体",
+    "romaji": "karada"
+  },
+  {
+    "id": "113",
+    "hiragana": "かさ",
+    "kanji": "傘",
+    "meaning": "伞",
+    "romaji": "kasa"
+  },
+  {
+    "id": "114",
+    "hiragana": "かた",
+    "kanji": "方",
+    "meaning": "方法；方式",
+    "romaji": "kata"
+  },
+  {
+    "id": "115",
+    "hiragana": "かてい",
+    "kanji": "家庭",
+    "meaning": "家庭",
+    "romaji": "katei"
+  },
+  {
+    "id": "116",
+    "hiragana": "かわ",
+    "kanji": "川",
+    "meaning": "河；川",
+    "romaji": "kawa"
+  },
+  {
+    "id": "117",
+    "hiragana": "かぜ",
+    "kanji": "風",
+    "meaning": "风",
+    "romaji": "kaze"
+  },
+  {
+    "id": "118",
+    "hiragana": "かぜ",
+    "kanji": "風邪",
+    "meaning": "感冒",
+    "romaji": "kaze"
+  },
+  {
+    "id": "119",
+    "hiragana": "かぞく",
+    "kanji": "家族",
+    "meaning": "家人；家族",
+    "romaji": "kazoku"
+  },
+  {
+    "id": "120",
+    "hiragana": "けいかん",
+    "kanji": "警官",
+    "meaning": "警察",
+    "romaji": "keikan"
+  },
+  {
+    "id": "121",
+    "hiragana": "けっこん",
+    "kanji": "結婚",
+    "meaning": "结婚",
+    "romaji": "kekkon"
+  },
+  {
+    "id": "122",
+    "hiragana": "けっこう",
+    "kanji": "結構",
+    "meaning": "很好；足够",
+    "romaji": "kekkou"
+  },
+  {
+    "id": "123",
+    "hiragana": "けさ",
+    "kanji": "今朝",
+    "meaning": "今天早上",
+    "romaji": "kesa"
+  },
+  {
+    "id": "124",
+    "hiragana": "き",
+    "kanji": "木",
+    "meaning": "树；木头",
+    "romaji": "ki"
+  },
+  {
+    "id": "125",
+    "hiragana": "きのう",
+    "kanji": "昨日",
+    "meaning": "昨天",
+    "romaji": "kinou"
+  },
+  {
+    "id": "126",
+    "hiragana": "きっぷ",
+    "kanji": "切符",
+    "meaning": "票",
+    "romaji": "kippu"
+  },
+  {
+    "id": "127",
+    "hiragana": "きらい",
+    "kanji": "嫌い",
+    "meaning": "讨厌；不喜欢",
+    "romaji": "kirai"
+  },
+  {
+    "id": "128",
+    "hiragana": "きっさてん",
+    "kanji": "喫茶店",
+    "meaning": "咖啡店",
+    "romaji": "kissaten"
+  },
+  {
+    "id": "129",
+    "hiragana": "きた",
+    "kanji": "北",
+    "meaning": "北边",
+    "romaji": "kita"
+  },
+  {
+    "id": "130",
+    "hiragana": "きって",
+    "kanji": "切手",
+    "meaning": "邮票",
+    "romaji": "kitte"
+  },
+  {
+    "id": "131",
+    "hiragana": "こっち",
+    "kanji": "",
+    "meaning": "这边（随意）",
+    "romaji": "kocchi"
+  },
+  {
+    "id": "132",
+    "hiragana": "こちら",
+    "kanji": "",
+    "meaning": "这边（敬语）",
+    "romaji": "kochira"
+  },
+  {
+    "id": "133",
+    "hiragana": "こども",
+    "kanji": "子供",
+    "meaning": "孩子",
+    "romaji": "kodomo"
+  },
+  {
+    "id": "134",
+    "hiragana": "こえ",
+    "kanji": "声",
+    "meaning": "声音",
+    "romaji": "koe"
+  },
+  {
+    "id": "135",
+    "hiragana": "こんばん",
+    "kanji": "今晩",
+    "meaning": "今天晚上",
+    "romaji": "konban"
+  },
+  {
+    "id": "136",
+    "hiragana": "こんげつ",
+    "kanji": "今月",
+    "meaning": "这个月",
+    "romaji": "kongetsu"
+  },
+  {
+    "id": "137",
+    "hiragana": "ことば",
+    "kanji": "言葉",
+    "meaning": "词语；语言",
+    "romaji": "kotoba"
+  },
+  {
+    "id": "138",
+    "hiragana": "ことし",
+    "kanji": "今年",
+    "meaning": "今年",
+    "romaji": "kotoshi"
+  },
+  {
+    "id": "139",
+    "hiragana": "こうばん",
+    "kanji": "交番",
+    "meaning": "派出所",
+    "romaji": "kouban"
+  },
+  {
+    "id": "140",
+    "hiragana": "こうちゃ",
+    "kanji": "紅茶",
+    "meaning": "红茶",
+    "romaji": "koucha"
+  },
+  {
+    "id": "141",
+    "hiragana": "こうえん",
+    "kanji": "公園",
+    "meaning": "公园",
+    "romaji": "kouen"
+  },
+  {
+    "id": "142",
+    "hiragana": "こうさてん",
+    "kanji": "交差点",
+    "meaning": "十字路口",
+    "romaji": "kousaten"
+  },
+  {
+    "id": "143",
+    "hiragana": "くち",
+    "kanji": "口",
+    "meaning": "嘴巴",
+    "romaji": "kuchi"
+  },
+  {
+    "id": "144",
+    "hiragana": "くだもの",
+    "kanji": "果物",
+    "meaning": "水果",
+    "romaji": "kudamono"
+  },
+  {
+    "id": "145",
+    "hiragana": "くもり",
+    "kanji": "曇り",
+    "meaning": "阴天",
+    "romaji": "kumori"
+  },
+  {
+    "id": "146",
+    "hiragana": "くに",
+    "kanji": "国",
+    "meaning": "国家",
+    "romaji": "kuni"
+  },
+  {
+    "id": "147",
+    "hiragana": "くるま",
+    "kanji": "車",
+    "meaning": "车（汽车）",
+    "romaji": "kuruma"
+  },
+  {
+    "id": "148",
+    "hiragana": "くすり",
+    "kanji": "薬",
+    "meaning": "药",
+    "romaji": "kusuri"
+  },
+  {
+    "id": "149",
+    "hiragana": "くつ",
+    "kanji": "靴",
+    "meaning": "鞋子",
+    "romaji": "kutsu"
+  },
+  {
+    "id": "150",
+    "hiragana": "くつした",
+    "kanji": "靴下",
+    "meaning": "袜子",
+    "romaji": "kutsushita"
+  }
+]

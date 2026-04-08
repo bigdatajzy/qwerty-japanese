@@ -1,8 +1,12 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
+import { fetchWordsManifest } from '@/api/wordsData'
 
 const router = useRouter()
+
+/** 与 word-practice 路由 query.mode 对齐：order → 顺序，其它 → 随机 */
+const practiceOrder = ref<'random' | 'sequential'>('random')
 
 interface WordLevel {
   id: string
@@ -12,19 +16,37 @@ interface WordLevel {
   description: string
 }
 
-const levels = ref<WordLevel[]>([
-  { id: 'n5', name: 'N5词汇', level: 'N5', wordCount: 50, description: '入门级，约800词' },
-  { id: 'n4', name: 'N4词汇', level: 'N4', wordCount: 0, description: '基础级，约1200词（待添加）' },
-  { id: 'n3', name: 'N3词汇', level: 'N3', wordCount: 0, description: '中级，约1500词（待添加）' },
-  { id: 'n2', name: 'N2词汇', level: 'N2', wordCount: 0, description: '中高级，约2000词（待添加）' },
-  { id: 'n1', name: 'N1词汇', level: 'N1', wordCount: 0, description: '高级，约2500词（待添加）' },
-])
+const levels = ref<WordLevel[]>([])
+const listLoadError = ref(false)
+const manifestLoading = ref(true)
 
-const availableLevels = ref<string[]>(['n5'])
+onMounted(async () => {
+  manifestLoading.value = true
+  listLoadError.value = false
+  try {
+    const m = await fetchWordsManifest()
+    levels.value = m.sets.map((s) => ({
+      id: s.id,
+      name: s.title,
+      level: s.level,
+      wordCount: s.wordCount,
+      description: s.description,
+    }))
+  } catch {
+    listLoadError.value = true
+    levels.value = []
+  } finally {
+    manifestLoading.value = false
+  }
+})
 
 function startPractice(level: WordLevel) {
   if (level.wordCount > 0) {
-    router.push({ name: 'word-practice', params: { level: level.id, fileIndex: 1, wordIndex: 0 } })
+    router.push({
+      name: 'word-practice',
+      params: { level: level.id, fileIndex: 1, wordIndex: 0 },
+      query: { mode: practiceOrder.value === 'sequential' ? 'order' : 'random' },
+    })
   }
 }
 </script>
@@ -33,16 +55,52 @@ function startPractice(level: WordLevel) {
   <div class="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800">
     <header class="bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm shadow-sm sticky top-0 z-10">
       <div class="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between">
-        <button @click="router.push({ name: 'home' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-indigo-600">
+        <button @click="router.push({ name: 'home' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600">
           <span class="text-xl">←</span><span>返回</span>
         </button>
-        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">单词练习</h1>
+        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">单词打字</h1>
         <div class="w-16"></div>
       </div>
     </header>
 
     <main class="max-w-3xl mx-auto px-4 py-8">
-      <div class="grid gap-4">
+      <p class="text-sm text-slate-600 dark:text-slate-400 mb-4">
+        看汉字/词，用设置中的输入方式（罗马字或假名）打出读音。完成一轮后可在结果页查看 WPM 与错题。
+      </p>
+      <p v-if="listLoadError" class="text-sm text-red-600 dark:text-red-400 mb-4">
+        词库清单加载失败，请刷新页面或检查 <code class="text-xs">public/data/words/manifest.json</code> 是否可访问。
+      </p>
+      <div class="flex flex-wrap gap-3 mb-6">
+        <span class="text-sm text-slate-500 dark:text-slate-400 self-center">出题顺序</span>
+        <button
+          type="button"
+          @click="practiceOrder = 'sequential'"
+          class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
+          :class="
+            practiceOrder === 'sequential'
+              ? 'bg-indigo-600 text-white'
+              : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
+          "
+        >
+          顺序
+        </button>
+        <button
+          type="button"
+          @click="practiceOrder = 'random'"
+          class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
+          :class="
+            practiceOrder === 'random'
+              ? 'bg-indigo-600 text-white'
+              : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
+          "
+        >
+          随机
+        </button>
+      </div>
+      <div v-if="manifestLoading" class="text-center py-12 text-slate-500 dark:text-slate-400">
+        正在加载词库列表…
+      </div>
+      <div v-else-if="!listLoadError" class="grid gap-4">
         <div v-for="item in levels" :key="item.id"
           @click="startPractice(item)"
           class="p-6 rounded-2xl transition-all cursor-pointer"

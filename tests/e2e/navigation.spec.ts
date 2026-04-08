@@ -27,4 +27,10 @@ test.describe('导航测试', () => {
     await page.goto('/#/history');
     await expect(page).toHaveURL(/\/history/);
   });
+
+  test('练习页支持 mode query（顺序）', async ({ page }) => {
+    await page.goto('/#/practice/hiragana-basic?mode=order');
+    await expect(page).toHaveURL(/practice\/hiragana-basic/);
+    await expect(page.locator('input[type="text"]')).toBeVisible();
+  });
 });

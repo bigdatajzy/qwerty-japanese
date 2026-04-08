@@ -1,0 +1,352 @@
+[
+  {
+    "id": "51",
+    "hiragana": "は",
+    "kanji": "葉",
+    "meaning": "叶子",
+    "romaji": "ha"
+  },
+  {
+    "id": "52",
+    "hiragana": "はいけん",
+    "kanji": "拝見",
+    "meaning": "拜见 / 拜读 (谦语)",
+    "romaji": "haiken"
+  },
+  {
+    "id": "53",
+    "hiragana": "はいしゃ",
+    "kanji": "歯医者",
+    "meaning": "牙医",
+    "romaji": "haisha"
+  },
+  {
+    "id": "54",
+    "hiragana": "はなみ",
+    "kanji": "花見",
+    "meaning": "赏花 (尤指樱花)",
+    "romaji": "hanami"
+  },
+  {
+    "id": "55",
+    "hiragana": "はんたい",
+    "kanji": "反対",
+    "meaning": "反对 / 相反",
+    "romaji": "hantai"
+  },
+  {
+    "id": "56",
+    "hiragana": "はつおん",
+    "kanji": "発音",
+    "meaning": "发音",
+    "romaji": "hatsuon"
+  },
+  {
+    "id": "57",
+    "hiragana": "はやし",
+    "kanji": "林",
+    "meaning": "树林",
+    "romaji": "hayashi"
+  },
+  {
+    "id": "58",
+    "hiragana": "へん",
+    "kanji": "変",
+    "meaning": "奇怪 / 古怪",
+    "romaji": "hen"
+  },
+  {
+    "id": "59",
+    "hiragana": "へんじ",
+    "kanji": "返事",
+    "meaning": "回答 / 回复",
+    "romaji": "henji"
+  },
+  {
+    "id": "60",
+    "hiragana": "ひ",
+    "kanji": "火",
+    "meaning": "火",
+    "romaji": "hi"
+  },
+  {
+    "id": "61",
+    "hiragana": "ひげ",
+    "kanji": "髭",
+    "meaning": "胡子",
+    "romaji": "hige"
+  },
+  {
+    "id": "62",
+    "hiragana": "ひかり",
+    "kanji": "光",
+    "meaning": "光 / 光线",
+    "romaji": "hikari"
+  },
+  {
+    "id": "63",
+    "hiragana": "ひきだし",
+    "kanji": "引き出し",
+    "meaning": "抽屉",
+    "romaji": "hikidashi"
+  },
+  {
+    "id": "64",
+    "hiragana": "ひこうじょう",
+    "kanji": "飛行場",
+    "meaning": "机场",
+    "romaji": "hikoujou"
+  },
+  {
+    "id": "65",
+    "hiragana": "ひるま",
+    "kanji": "昼間",
+    "meaning": "白天",
+    "romaji": "hiruma"
+  },
+  {
+    "id": "66",
+    "hiragana": "ひるやすみ",
+    "kanji": "昼休み",
+    "meaning": "午休",
+    "romaji": "hiruyasumi"
+  },
+  {
+    "id": "67",
+    "hiragana": "ひさしぶり",
+    "kanji": "久しぶり",
+    "meaning": "好久不见 / 久违",
+    "romaji": "hisashiburi"
+  },
+  {
+    "id": "68",
+    "hiragana": "ほんやく",
+    "kanji": "翻訳",
+    "meaning": "翻译 (笔译)",
+    "romaji": "honyaku"
+  },
+  {
+    "id": "69",
+    "hiragana": "ほし",
+    "kanji": "星",
+    "meaning": "星星",
+    "romaji": "hoshi"
+  },
+  {
+    "id": "70",
+    "hiragana": "ほとんど",
+    "kanji": "ほとんど",
+    "meaning": "几乎 / 大部分",
+    "romaji": "hotondo"
+  },
+  {
+    "id": "71",
+    "hiragana": "ほうりつ",
+    "kanji": "法律",
+    "meaning": "法律",
+    "romaji": "houritsu"
+  },
+  {
+    "id": "72",
+    "hiragana": "ほうそう",
+    "kanji": "放送",
+    "meaning": "广播 / 播放",
+    "romaji": "housou"
+  },
+  {
+    "id": "73",
+    "hiragana": "いちど",
+    "kanji": "一度",
+    "meaning": "一次 / 一回",
+    "romaji": "ichido"
+  },
+  {
+    "id": "74",
+    "hiragana": "いがい",
+    "kanji": "以外",
+    "meaning": "...以外",
+    "romaji": "igai"
+  },
+  {
+    "id": "75",
+    "hiragana": "いがく",
+    "kanji": "医学",
+    "meaning": "医学",
+    "romaji": "igaku"
+  },
+  {
+    "id": "76",
+    "hiragana": "いじょう",
+    "kanji": "以上",
+    "meaning": "...以上",
+    "romaji": "ijou"
+  },
+  {
+    "id": "77",
+    "hiragana": "いか",
+    "kanji": "以下",
+    "meaning": "...以下",
+    "romaji": "ika"
+  },
+  {
+    "id": "78",
+    "hiragana": "いけん",
+    "kanji": "意見",
+    "meaning": "意见 / 看法",
+    "romaji": "iken"
+  },
+  {
+    "id": "79",
+    "hiragana": "いきもの",
+    "kanji": "生き物",
+    "meaning": "生物 / 活物",
+    "romaji": "ikimono"
+  },
+  {
+    "id": "80",
+    "hiragana": "いない",
+    "kanji": "以内",
+    "meaning": "...以内",
+    "romaji": "inai"
+  },
+  {
+    "id": "81",
+    "hiragana": "いなか",
+    "kanji": "田舎",
+    "meaning": "乡下 / 农村",
+    "romaji": "inaka"
+  },
+  {
+    "id": "82",
+    "hiragana": "いっぱい",
+    "kanji": "いっぱい",
+    "meaning": "满 / 很多",
+    "romaji": "ippai"
+  },
+  {
+    "id": "83",
+    "hiragana": "いし",
+    "kanji": "石",
+    "meaning": "石头",
+    "romaji": "ishi"
+  },
+  {
+    "id": "84",
+    "hiragana": "いっしょうけんめい",
+    "kanji": "一生懸命",
+    "meaning": "拼命地 / 努力地",
+    "romaji": "isshoukenmei"
+  },
+  {
+    "id": "85",
+    "hiragana": "いと",
+    "kanji": "糸",
+    "meaning": "线",
+    "romaji": "ito"
+  },
+  {
+    "id": "86",
+    "hiragana": "じ",
+    "kanji": "字",
+    "meaning": "字",
+    "romaji": "ji"
+  },
+  {
+    "id": "87",
+    "hiragana": "じだい",
+    "kanji": "時代",
+    "meaning": "时代 / 时期",
+    "romaji": "jidai"
+  },
+  {
+    "id": "88",
+    "hiragana": "じこ",
+    "kanji": "事故",
+    "meaning": "事故",
+    "romaji": "jiko"
+  },
+  {
+    "id": "89",
+    "hiragana": "じむしょ",
+    "kanji": "事務所",
+    "meaning": "事务所 / 办公室",
+    "romaji": "jimusho"
+  },
+  {
+    "id": "90",
+    "hiragana": "じんじゃ",
+    "kanji": "神社",
+    "meaning": "神社",
+    "romaji": "jinja"
+  },
+  {
+    "id": "91",
+    "hiragana": "じんこう",
+    "kanji": "人口",
+    "meaning": "人口",
+    "romaji": "jinkou"
+  },
+  {
+    "id": "92",
+    "hiragana": "じんせい",
+    "kanji": "人生",
+    "meaning": "人生",
+    "romaji": "jinsei"
+  },
+  {
+    "id": "93",
+    "hiragana": "じしん",
+    "kanji": "地震",
+    "meaning": "地震",
+    "romaji": "jishin"
+  },
+  {
+    "id": "94",
+    "hiragana": "じてん",
+    "kanji": "辞典",
+    "meaning": "词典 / 字典",
+    "romaji": "jiten"
+  },
+  {
+    "id": "95",
+    "hiragana": "じゆう",
+    "kanji": "自由",
+    "meaning": "自由",
+    "romaji": "jiyuu"
+  },
+  {
+    "id": "96",
+    "hiragana": "じょせい",
+    "kanji": "女性",
+    "meaning": "女性",
+    "romaji": "josei"
+  },
+  {
+    "id": "97",
+    "hiragana": "じゅんび",
+    "kanji": "準備",
+    "meaning": "准备",
+    "romaji": "junbi"
+  },
+  {
+    "id": "98",
+    "hiragana": "じゅうぶん",
+    "kanji": "十分",
+    "meaning": "十分 / 充足",
+    "romaji": "juubun"
+  },
+  {
+    "id": "99",
+    "hiragana": "じゅうどう",
+    "kanji": "柔道",
+    "meaning": "柔道",
+    "romaji": "juudou"
+  },
+  {
+    "id": "100",
+    "hiragana": "じゅうしょ",
+    "kanji": "住所",
+    "meaning": "地址 / 住址",
+    "romaji": "juusho"
+  }
+]

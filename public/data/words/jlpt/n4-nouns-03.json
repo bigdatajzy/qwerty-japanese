@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "かべ",
+    "kanji": "壁",
+    "meaning": "墙壁",
+    "romaji": "kabe"
+  },
+  {
+    "id": "102",
+    "hiragana": "かちょう",
+    "kanji": "課長",
+    "meaning": "科长",
+    "romaji": "kachou"
+  },
+  {
+    "id": "103",
+    "hiragana": "かえり",
+    "kanji": "帰り",
+    "meaning": "回来 / 回去",
+    "romaji": "kaeri"
+  },
+  {
+    "id": "104",
+    "hiragana": "かがく",
+    "kanji": "科学",
+    "meaning": "科学",
+    "romaji": "kagaku"
+  },
+  {
+    "id": "105",
+    "hiragana": "かがみ",
+    "kanji": "鏡",
+    "meaning": "镜子",
+    "romaji": "kagami"
+  },
+  {
+    "id": "106",
+    "hiragana": "かいがん",
+    "kanji": "海岸",
+    "meaning": "海岸",
+    "romaji": "kaigan"
+  },
+  {
+    "id": "107",
+    "hiragana": "かいぎ",
+    "kanji": "会議",
+    "meaning": "会议",
+    "romaji": "kaigi"
+  },
+  {
+    "id": "108",
+    "hiragana": "かいぎしつ",
+    "kanji": "会議室",
+    "meaning": "会议室",
+    "romaji": "kaigishitsu"
+  },
+  {
+    "id": "109",
+    "hiragana": "かいじょう",
+    "kanji": "会場",
+    "meaning": "会场",
+    "romaji": "kaijou"
+  },
+  {
+    "id": "110",
+    "hiragana": "かいわ",
+    "kanji": "会話",
+    "meaning": "会话 / 对话",
+    "romaji": "kaiwa"
+  },
+  {
+    "id": "111",
+    "hiragana": "かじ",
+    "kanji": "火事",
+    "meaning": "火灾",
+    "romaji": "kaji"
+  },
+  {
+    "id": "112",
+    "hiragana": "かっこう",
+    "kanji": "格好",
+    "meaning": "样子 / 外形 / 打扮",
+    "romaji": "kakkou"
+  },
+  {
+    "id": "113",
+    "hiragana": "かみ",
+    "kanji": "髪",
+    "meaning": "头发",
+    "romaji": "kami"
+  },
+  {
+    "id": "114",
+    "hiragana": "かない",
+    "kanji": "家内",
+    "meaning": "(我的)妻子 / 家里",
+    "romaji": "kanai"
+  },
+  {
+    "id": "115",
+    "hiragana": "かんごふ",
+    "kanji": "看護婦",
+    "meaning": "护士 (女)",
+    "romaji": "kangofu"
+  },
+  {
+    "id": "116",
+    "hiragana": "かんけい",
+    "kanji": "関係",
+    "meaning": "关系",
+    "romaji": "kankei"
+  },
+  {
+    "id": "117",
+    "hiragana": "かんたん",
+    "kanji": "簡単",
+    "meaning": "简单 / 容易",
+    "romaji": "kantan"
+  },
+  {
+    "id": "118",
+    "hiragana": "かたち",
+    "kanji": "形",
+    "meaning": "形状 / 形式",
+    "romaji": "katachi"
+  },
+  {
+    "id": "119",
+    "hiragana": "かわり",
+    "kanji": "代わり",
+    "meaning": "代替 / 替代",
+    "romaji": "kawari"
+  },
+  {
+    "id": "120",
+    "hiragana": "け",
+    "kanji": "毛",
+    "meaning": "毛 / 毛发",
+    "romaji": "ke"
+  },
+  {
+    "id": "121",
+    "hiragana": "けが",
+    "kanji": "怪我",
+    "meaning": "受伤",
+    "romaji": "kega"
+  },
+  {
+    "id": "122",
+    "hiragana": "けいかく",
+    "kanji": "計画",
+    "meaning": "计划",
+    "romaji": "keikaku"
+  },
+  {
+    "id": "123",
+    "hiragana": "けいけん",
+    "kanji": "経験",
+    "meaning": "经验",
+    "romaji": "keiken"
+  },
+  {
+    "id": "124",
+    "hiragana": "けいさつ",
+    "kanji": "警察",
+    "meaning": "警察",
+    "romaji": "keisatsu"
+  },
+  {
+    "id": "125",
+    "hiragana": "けいざい",
+    "kanji": "経済",
+    "meaning": "经济",
+    "romaji": "keizai"
+  },
+  {
+    "id": "126",
+    "hiragana": "けんぶつ",
+    "kanji": "見物",
+    "meaning": "参观 / 游览",
+    "romaji": "kenbutsu"
+  },
+  {
+    "id": "127",
+    "hiragana": "けんか",
+    "kanji": "喧嘩",
+    "meaning": "吵架 / 打架",
+    "romaji": "kenka"
+  },
+  {
+    "id": "128",
+    "hiragana": "けんきゅう",
+    "kanji": "研究",
+    "meaning": "研究",
+    "romaji": "kenkyuu"
+  },
+  {
+    "id": "129",
+    "hiragana": "けんきゅうしつ",
+    "kanji": "研究室",
+    "meaning": "研究室 / 实验室",
+    "romaji": "kenkyuushitsu"
+  },
+  {
+    "id": "130",
+    "hiragana": "消しゴム",
+    "kanji": "消しゴム",
+    "meaning": "橡皮",
+    "romaji": "keshigomu"
+  },
+  {
+    "id": "131",
+    "hiragana": "けしき",
+    "kanji": "景色",
+    "meaning": "景色 / 风景",
+    "romaji": "keshiki"
+  },
+  {
+    "id": "132",
+    "hiragana": "き",
+    "kanji": "気",
+    "meaning": "精神 / 心情",
+    "romaji": "ki"
+  },
+  {
+    "id": "133",
+    "hiragana": "きぶん",
+    "kanji": "気分",
+    "meaning": "心情 / 情绪",
+    "romaji": "kibun"
+  },
+  {
+    "id": "134",
+    "hiragana": "きかい",
+    "kanji": "機会",
+    "meaning": "机会",
+    "romaji": "kikai"
+  },
+  {
+    "id": "135",
+    "hiragana": "きけん",
+    "kanji": "危険",
+    "meaning": "危险",
+    "romaji": "kiken"
+  },
+  {
+    "id": "136",
+    "hiragana": "きもち",
+    "kanji": "気持ち",
+    "meaning": "心情 / 感觉",
+    "romaji": "kimochi"
+  },
+  {
+    "id": "137",
+    "hiragana": "きもの",
+    "kanji": "着物",
+    "meaning": "和服",
+    "romaji": "kimono"
+  },
+  {
+    "id": "138",
+    "hiragana": "きんじょ",
+    "kanji": "近所",
+    "meaning": "附近 / 邻居",
+    "romaji": "kinjo"
+  },
+  {
+    "id": "139",
+    "hiragana": "きぬ",
+    "kanji": "絹",
+    "meaning": "丝绸",
+    "romaji": "kinu"
+  },
+  {
+    "id": "140",
+    "hiragana": "きせつ",
+    "kanji": "季節",
+    "meaning": "季节",
+    "romaji": "kisetsu"
+  },
+  {
+    "id": "141",
+    "hiragana": "きしゃ",
+    "kanji": "汽車",
+    "meaning": "火车 (蒸汽)",
+    "romaji": "kisha"
+  },
+  {
+    "id": "142",
+    "hiragana": "きそく",
+    "kanji": "規則",
+    "meaning": "规则 / 规定",
+    "romaji": "kisoku"
+  },
+  {
+    "id": "143",
+    "hiragana": "こ",
+    "kanji": "子",
+    "meaning": "孩子",
+    "romaji": "ko"
+  },
+  {
+    "id": "144",
+    "hiragana": "こころ",
+    "kanji": "心",
+    "meaning": "心 / 心灵",
+    "romaji": "kokoro"
+  },
+  {
+    "id": "145",
+    "hiragana": "こくさい",
+    "kanji": "国際",
+    "meaning": "国际",
+    "romaji": "kokusai"
+  },
+  {
+    "id": "146",
+    "hiragana": "こめ",
+    "kanji": "米",
+    "meaning": "米 / 大米",
+    "romaji": "kome"
+  },
+  {
+    "id": "147",
+    "hiragana": "こんど",
+    "kanji": "今度",
+    "meaning": "这次 / 下次",
+    "romaji": "kondo"
+  },
+  {
+    "id": "148",
+    "hiragana": "このあいだ",
+    "kanji": "この間",
+    "meaning": "前些天 / 最近",
+    "romaji": "kono aida"
+  },
+  {
+    "id": "149",
+    "hiragana": "このごろ",
+    "kanji": "このごろ",
+    "meaning": "这些天 / 近来",
+    "romaji": "kono goro"
+  },
+  {
+    "id": "150",
+    "hiragana": "こんや",
+    "kanji": "今夜",
+    "meaning": "今晚",
+    "romaji": "konya"
+  }
+]

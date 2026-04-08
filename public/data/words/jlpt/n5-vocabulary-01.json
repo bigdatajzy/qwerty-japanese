@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "hiragana": "ちょっと",
+    "kanji": "",
+    "meaning": "有一点",
+    "romaji": "chotto"
+  },
+  {
+    "id": "2",
+    "hiragana": "ちょうど",
+    "kanji": "丁度",
+    "meaning": "只是",
+    "romaji": "choudo"
+  },
+  {
+    "id": "3",
+    "hiragana": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "meaning": "不用担心",
+    "romaji": "daijoubu"
+  },
+  {
+    "id": "4",
+    "hiragana": "だんだん",
+    "kanji": "",
+    "meaning": "逐步地",
+    "romaji": "dandan"
+  },
+  {
+    "id": "5",
+    "hiragana": "どう",
+    "kanji": "",
+    "meaning": "铜",
+    "romaji": "dou"
+  },
+  {
+    "id": "6",
+    "hiragana": "どうも",
+    "kanji": "",
+    "meaning": "谢谢",
+    "romaji": "doumo"
+  },
+  {
+    "id": "7",
+    "hiragana": "どうして",
+    "kanji": "",
+    "meaning": "为什么",
+    "romaji": "doushite"
+  },
+  {
+    "id": "8",
+    "hiragana": "どうぞ",
+    "kanji": "",
+    "meaning": "请",
+    "romaji": "douzo"
+  },
+  {
+    "id": "9",
+    "hiragana": "はじめて",
+    "kanji": "初めて",
+    "meaning": "第一次",
+    "romaji": "hajimete"
+  },
+  {
+    "id": "10",
+    "hiragana": "いかが",
+    "kanji": "",
+    "meaning": "怎么样？",
+    "romaji": "ikaga"
+  },
+  {
+    "id": "11",
+    "hiragana": "いくら",
+    "kanji": "",
+    "meaning": "多少",
+    "romaji": "ikura"
+  },
+  {
+    "id": "12",
+    "hiragana": "いくつ",
+    "kanji": "",
+    "meaning": "多少",
+    "romaji": "ikutsu"
+  },
+  {
+    "id": "13",
+    "hiragana": "いろいろ",
+    "kanji": "色々",
+    "meaning": "各种各样的",
+    "romaji": "iroiro"
+  },
+  {
+    "id": "14",
+    "hiragana": "いっしょに",
+    "kanji": "一緒に",
+    "meaning": "一起",
+    "romaji": "issho ni"
+  },
+  {
+    "id": "15",
+    "hiragana": "いつも",
+    "kanji": "",
+    "meaning": "每次",
+    "romaji": "itsumo"
+  },
+  {
+    "id": "16",
+    "hiragana": "けっこう",
+    "kanji": "結構",
+    "meaning": "相当",
+    "romaji": "kekkou"
+  },
+  {
+    "id": "17",
+    "hiragana": "まだ",
+    "kanji": "",
+    "meaning": "仍然",
+    "romaji": "mada"
+  },
+  {
+    "id": "18",
+    "hiragana": "まだ～ていません",
+    "kanji": "",
+    "meaning": "还没有",
+    "romaji": "mada~te imasen"
+  },
+  {
+    "id": "19",
+    "hiragana": "まえに",
+    "kanji": "前に",
+    "meaning": "前",
+    "romaji": "mae ni"
+  },
+  {
+    "id": "20",
+    "hiragana": "まっすぐ",
+    "kanji": "真っ直ぐ",
+    "meaning": "直的",
+    "romaji": "massugu"
+  },
+  {
+    "id": "21",
+    "hiragana": "みんな",
+    "kanji": "",
+    "meaning": "每个人",
+    "romaji": "minna"
+  },
+  {
+    "id": "22",
+    "hiragana": "もっと",
+    "kanji": "",
+    "meaning": "更多的",
+    "romaji": "motto"
+  },
+  {
+    "id": "23",
+    "hiragana": "もう",
+    "kanji": "",
+    "meaning": "已经",
+    "romaji": "mou"
+  },
+  {
+    "id": "24",
+    "hiragana": "なぜ",
+    "kanji": "何故",
+    "meaning": "为什么",
+    "romaji": "naze"
+  },
+  {
+    "id": "25",
+    "hiragana": "おなじ",
+    "kanji": "同じ",
+    "meaning": "相同的",
+    "romaji": "onaji"
+  },
+  {
+    "id": "26",
+    "hiragana": "すぐに",
+    "kanji": "直ぐに",
+    "meaning": "立即地",
+    "romaji": "sugu ni"
+  },
+  {
+    "id": "27",
+    "hiragana": "すこし",
+    "kanji": "少し",
+    "meaning": "一点",
+    "romaji": "sukoshi"
+  },
+  {
+    "id": "28",
+    "hiragana": "たぶん",
+    "kanji": "多分",
+    "meaning": "也许",
+    "romaji": "tabun"
+  },
+  {
+    "id": "29",
+    "hiragana": "たいへん",
+    "kanji": "大変",
+    "meaning": "非常",
+    "romaji": "taihen"
+  },
+  {
+    "id": "30",
+    "hiragana": "ときどき",
+    "kanji": "時々",
+    "meaning": "有时",
+    "romaji": "tokidoki"
+  },
+  {
+    "id": "31",
+    "hiragana": "とても",
+    "kanji": "",
+    "meaning": "非常",
+    "romaji": "totemo"
+  },
+  {
+    "id": "32",
+    "hiragana": "よく",
+    "kanji": "",
+    "meaning": "经常",
+    "romaji": "yoku"
+  },
+  {
+    "id": "33",
+    "hiragana": "ゆっくり",
+    "kanji": "",
+    "meaning": "慢慢地",
+    "romaji": "yukkuri"
+  },
+  {
+    "id": "34",
+    "hiragana": "あか",
+    "kanji": "赤",
+    "meaning": "红色",
+    "romaji": "aka"
+  },
+  {
+    "id": "35",
+    "hiragana": "あかい",
+    "kanji": "赤い",
+    "meaning": "红色的",
+    "romaji": "akai"
+  },
+  {
+    "id": "36",
+    "hiragana": "あお",
+    "kanji": "青",
+    "meaning": "蓝色",
+    "romaji": "ao"
+  },
+  {
+    "id": "37",
+    "hiragana": "あおい",
+    "kanji": "青い",
+    "meaning": "蓝色的",
+    "romaji": "aoi"
+  },
+  {
+    "id": "38",
+    "hiragana": "きいろい",
+    "kanji": "黄色い",
+    "meaning": "黄色的",
+    "romaji": "kiiroi"
+  },
+  {
+    "id": "39",
+    "hiragana": "くろ",
+    "kanji": "黒",
+    "meaning": "黑色",
+    "romaji": "kuro"
+  },
+  {
+    "id": "40",
+    "hiragana": "くろい",
+    "kanji": "黒い",
+    "meaning": "黑色的",
+    "romaji": "kuroi"
+  },
+  {
+    "id": "41",
+    "hiragana": "しろ",
+    "kanji": "白",
+    "meaning": "白色",
+    "romaji": "shiro"
+  },
+  {
+    "id": "42",
+    "hiragana": "しろい",
+    "kanji": "白い",
+    "meaning": "白色的",
+    "romaji": "shiroi"
+  },
+  {
+    "id": "43",
+    "hiragana": "ちゃいろ",
+    "kanji": "茶色",
+    "meaning": "茶色",
+    "romaji": "chairo"
+  },
+  {
+    "id": "44",
+    "hiragana": "みどり",
+    "kanji": "緑",
+    "meaning": "绿色",
+    "romaji": "midori"
+  },
+  {
+    "id": "45",
+    "hiragana": "れい",
+    "kanji": "零",
+    "meaning": "零",
+    "romaji": "rei"
+  },
+  {
+    "id": "46",
+    "hiragana": "いち",
+    "kanji": "一",
+    "meaning": "一",
+    "romaji": "ichi"
+  },
+  {
+    "id": "47",
+    "hiragana": "いちばん",
+    "kanji": "一番",
+    "meaning": "第一；最",
+    "romaji": "ichiban"
+  },
+  {
+    "id": "48",
+    "hiragana": "いっかい",
+    "kanji": "一階",
+    "meaning": "一楼",
+    "romaji": "ikkai"
+  },
+  {
+    "id": "49",
+    "hiragana": "いちにち",
+    "kanji": "一日",
+    "meaning": "一天",
+    "romaji": "ichinichi"
+  },
+  {
+    "id": "50",
+    "hiragana": "ついたち",
+    "kanji": "一日",
+    "meaning": "(每月)一号",
+    "romaji": "tsuitachi"
+  }
+]

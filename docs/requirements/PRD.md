@@ -9,7 +9,8 @@
 **对标参考**：[Qwerty Learner (qwerty.kaiyi.cool)](https://qwerty.kaiyi.cool)
 
 **技术栈**：
-- React + TypeScript + Vite
+- Vue 3 + TypeScript + Vite
+- Pinia、Vue Router
 - Tailwind CSS
 - 部署：Vercel / Cloudflare Pages
 

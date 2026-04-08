@@ -4,6 +4,7 @@ import type { TypingMode, TypingError, TypingResult } from '@/types/typing'
 import type { KanaWord } from '@/types/dict'
 import { getDictById } from '@/data/dicts'
 import { createLogger } from '@/utils/logger'
+import { orderedWordsForMode } from '@/utils/practiceWords'
 
 const logger = createLogger('TypingStore')
 
@@ -48,7 +49,7 @@ export const useTypingStore = defineStore('typing', () => {
     dictId.value = selectedDictId
     mode.value = selectedMode
     words.value = dict.words
-    shuffledWords.value = shuffleArray([...dict.words])
+    shuffledWords.value = orderedWordsForMode(dict.words, selectedMode)
     
     currentIndex.value = 0
     correctCount.value = 0
@@ -160,15 +161,6 @@ export const useTypingStore = defineStore('typing', () => {
     isCompleted.value = false
     startTime.value = null
     endTime.value = null
-  }
-
-  function shuffleArray<T>(array: T[]): T[] {
-    const result = [...array]
-    for (let i = result.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [result[i], result[j]] = [result[j], result[i]]
-    }
-    return result
   }
 
   return {

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "hiragana": "あいさつ",
+    "kanji": "挨拶",
+    "meaning": "问候 / 寒暄",
+    "romaji": "aisatsu"
+  },
+  {
+    "id": "2",
+    "hiragana": "あじ",
+    "kanji": "味",
+    "meaning": "味道 / 风味",
+    "romaji": "aji"
+  },
+  {
+    "id": "3",
+    "hiragana": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "meaning": "婴儿 / 宝宝",
+    "romaji": "akachan"
+  },
+  {
+    "id": "4",
+    "hiragana": "あかんぼう",
+    "kanji": "赤ん坊",
+    "meaning": "婴儿 / 宝宝",
+    "romaji": "akanbou"
+  },
+  {
+    "id": "5",
+    "hiragana": "あんない",
+    "kanji": "案内",
+    "meaning": "向导 / 指引 / 介绍",
+    "romaji": "annai"
+  },
+  {
+    "id": "6",
+    "hiragana": "あんしん",
+    "kanji": "安心",
+    "meaning": "安心 / 放心",
+    "romaji": "anshin"
+  },
+  {
+    "id": "7",
+    "hiragana": "あんぜん",
+    "kanji": "安全",
+    "meaning": "安全",
+    "romaji": "anzen"
+  },
+  {
+    "id": "8",
+    "hiragana": "あそび",
+    "kanji": "遊び",
+    "meaning": "玩耍 / 游戏",
+    "romaji": "asobi"
+  },
+  {
+    "id": "9",
+    "hiragana": "ばい",
+    "kanji": "倍",
+    "meaning": "倍 / 加倍",
+    "romaji": "bai"
+  },
+  {
+    "id": "10",
+    "hiragana": "ばんぐみ",
+    "kanji": "番組",
+    "meaning": "节目",
+    "romaji": "bangumi"
+  },
+  {
+    "id": "11",
+    "hiragana": "ばしょ",
+    "kanji": "場所",
+    "meaning": "地方 / 场所",
+    "romaji": "basho"
+  },
+  {
+    "id": "12",
+    "hiragana": "びじゅつかん",
+    "kanji": "美術館",
+    "meaning": "美术馆",
+    "romaji": "bijutsukan"
+  },
+  {
+    "id": "13",
+    "hiragana": "ぼうえき",
+    "kanji": "貿易",
+    "meaning": "贸易",
+    "romaji": "boueki"
+  },
+  {
+    "id": "14",
+    "hiragana": "ぶちょう",
+    "kanji": "部長",
+    "meaning": "部长 / 经理",
+    "romaji": "buchou"
+  },
+  {
+    "id": "15",
+    "hiragana": "ぶどう",
+    "kanji": "ぶどう",
+    "meaning": "葡萄",
+    "romaji": "budou"
+  },
+  {
+    "id": "16",
+    "hiragana": "ぶんがく",
+    "kanji": "文学",
+    "meaning": "文学",
+    "romaji": "bungaku"
+  },
+  {
+    "id": "17",
+    "hiragana": "ぶんか",
+    "kanji": "文化",
+    "meaning": "文化",
+    "romaji": "bunka"
+  },
+  {
+    "id": "18",
+    "hiragana": "ぶんぽう",
+    "kanji": "文法",
+    "meaning": "语法",
+    "romaji": "bunpou"
+  },
+  {
+    "id": "19",
+    "hiragana": "ち",
+    "kanji": "血",
+    "meaning": "血",
+    "romaji": "chi"
+  },
+  {
+    "id": "20",
+    "hiragana": "ちから",
+    "kanji": "力",
+    "meaning": "力量 / 能力",
+    "romaji": "chikara"
+  },
+  {
+    "id": "21",
+    "hiragana": "ちり",
+    "kanji": "地理",
+    "meaning": "地理",
+    "romaji": "chiri"
+  },
+  {
+    "id": "22",
+    "hiragana": "ちゅうがっこう",
+    "kanji": "中学校",
+    "meaning": "初中",
+    "romaji": "chuugakkou"
+  },
+  {
+    "id": "23",
+    "hiragana": "ちゅうい",
+    "kanji": "注意",
+    "meaning": "注意 / 小心",
+    "romaji": "chuui"
+  },
+  {
+    "id": "24",
+    "hiragana": "ちゅうしゃ",
+    "kanji": "注射",
+    "meaning": "注射 / 打针",
+    "romaji": "chuusha"
+  },
+  {
+    "id": "25",
+    "hiragana": "ちゅうしゃじょう",
+    "kanji": "駐車場",
+    "meaning": "停车场",
+    "romaji": "chuushajou"
+  },
+  {
+    "id": "26",
+    "hiragana": "だいがくせい",
+    "kanji": "大学生",
+    "meaning": "大学生",
+    "romaji": "daigakusei"
+  },
+  {
+    "id": "27",
+    "hiragana": "だいたい",
+    "kanji": "大体",
+    "meaning": "大致 / 大概",
+    "romaji": "daitai"
+  },
+  {
+    "id": "28",
+    "hiragana": "だんぼう",
+    "kanji": "暖房",
+    "meaning": "暖气",
+    "romaji": "danbou"
+  },
+  {
+    "id": "29",
+    "hiragana": "だんせい",
+    "kanji": "男性",
+    "meaning": "男性",
+    "romaji": "dansei"
+  },
+  {
+    "id": "30",
+    "hiragana": "でんぽう",
+    "kanji": "電報",
+    "meaning": "电报",
+    "romaji": "denpou"
+  },
+  {
+    "id": "31",
+    "hiragana": "でんとう",
+    "kanji": "電灯",
+    "meaning": "电灯",
+    "romaji": "dentou"
+  },
+  {
+    "id": "32",
+    "hiragana": "どろぼう",
+    "kanji": "泥棒",
+    "meaning": "小偷 / 盗贼",
+    "romaji": "dorobou"
+  },
+  {
+    "id": "33",
+    "hiragana": "どうぶつえん",
+    "kanji": "動物園",
+    "meaning": "动物园",
+    "romaji": "doubutsuen"
+  },
+  {
+    "id": "34",
+    "hiragana": "どうぐ",
+    "kanji": "道具",
+    "meaning": "工具 / 道具",
+    "romaji": "dougu"
+  },
+  {
+    "id": "35",
+    "hiragana": "えだ",
+    "kanji": "枝",
+    "meaning": "树枝",
+    "romaji": "eda"
+  },
+  {
+    "id": "36",
+    "hiragana": "えんりょ",
+    "kanji": "遠慮",
+    "meaning": "客气 / 顾虑",
+    "romaji": "enryo"
+  },
+  {
+    "id": "37",
+    "hiragana": "ふべん",
+    "kanji": "不便",
+    "meaning": "不方便",
+    "romaji": "fuben"
+  },
+  {
+    "id": "38",
+    "hiragana": "ふくしゅう",
+    "kanji": "復習",
+    "meaning": "复习",
+    "romaji": "fukushuu"
+  },
+  {
+    "id": "39",
+    "hiragana": "ふくざつ",
+    "kanji": "複雑",
+    "meaning": "复杂",
+    "romaji": "fukuzatsu"
+  },
+  {
+    "id": "40",
+    "hiragana": "ふね",
+    "kanji": "船",
+    "meaning": "船",
+    "romaji": "fune"
+  },
+  {
+    "id": "41",
+    "hiragana": "ふとん",
+    "kanji": "布団",
+    "meaning": "被子 / 日式床垫",
+    "romaji": "futon"
+  },
+  {
+    "id": "42",
+    "hiragana": "ふつう",
+    "kanji": "普通",
+    "meaning": "普通 / 一般",
+    "romaji": "futsuu"
+  },
+  {
+    "id": "43",
+    "hiragana": "げんいん",
+    "kanji": "原因",
+    "meaning": "原因",
+    "romaji": "genin"
+  },
+  {
+    "id": "44",
+    "hiragana": "げしゅく",
+    "kanji": "下宿",
+    "meaning": "寄宿 / 租住",
+    "romaji": "geshuku"
+  },
+  {
+    "id": "45",
+    "hiragana": "ぎじゅつ",
+    "kanji": "技術",
+    "meaning": "技术 / 技能",
+    "romaji": "gijutsu"
+  },
+  {
+    "id": "46",
+    "hiragana": "ごちそう",
+    "kanji": "ごちそう",
+    "meaning": "盛宴 / 款待",
+    "romaji": "gochisou"
+  },
+  {
+    "id": "47",
+    "hiragana": "ごみ",
+    "kanji": "ごみ",
+    "meaning": "垃圾",
+    "romaji": "gomi"
+  },
+  {
+    "id": "48",
+    "hiragana": "ごしゅじん",
+    "kanji": "ご主人",
+    "meaning": "(您/她)丈夫",
+    "romaji": "goshujin"
+  },
+  {
+    "id": "49",
+    "hiragana": "ごぞんじ",
+    "kanji": "ご存じ",
+    "meaning": "知道 (敬语)",
+    "romaji": "gozonji"
+  },
+  {
+    "id": "50",
+    "hiragana": "ぐあい",
+    "kanji": "具合",
+    "meaning": "情况 / 状态 / 健康",
+    "romaji": "guai"
+  }
+]
