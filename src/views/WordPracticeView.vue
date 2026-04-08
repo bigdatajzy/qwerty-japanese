@@ -7,6 +7,9 @@ const route = useRoute()
 const router = useRouter()
 const { playCorrect, playError, playComplete } = useSound()
 
+/** 与 GitHub Pages 子路径部署一致，需带 Vite base（同 articles.ts） */
+const wordJsonBase = `${import.meta.env.BASE_URL}words/`
+
 interface Word {
   id: string
   hiragana: string
@@ -47,7 +50,7 @@ async function loadWords() {
   // 尝试加载多个文件（每文件最多200词）
   for (let i = startFile; i < startFile + 10; i++) {
     try {
-      const response = await fetch(`/words/${level.value}-${i}.json`)
+      const response = await fetch(`${wordJsonBase}${level.value}-${i}.json`)
       if (!response.ok) break
       const data = await response.json()
       if (data && data.length > 0) {
