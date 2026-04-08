@@ -1,0 +1,352 @@
+[
+  {
+    "id": "301",
+    "hiragana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "meaning": "邮局",
+    "romaji": "yuubinkyoku"
+  },
+  {
+    "id": "302",
+    "hiragana": "ゆうがた",
+    "kanji": "夕方",
+    "meaning": "傍晚",
+    "romaji": "yuugata"
+  },
+  {
+    "id": "303",
+    "hiragana": "ゆうはん",
+    "kanji": "夕飯",
+    "meaning": "晚饭",
+    "romaji": "yuuhan"
+  },
+  {
+    "id": "304",
+    "hiragana": "ゆうめい",
+    "kanji": "有名",
+    "meaning": "有名；著名",
+    "romaji": "yuumei"
+  },
+  {
+    "id": "305",
+    "hiragana": "ざっし",
+    "kanji": "雑誌",
+    "meaning": "杂志",
+    "romaji": "zasshi"
+  },
+  {
+    "id": "306",
+    "hiragana": "ぜんぶ",
+    "kanji": "全部",
+    "meaning": "全部",
+    "romaji": "zenbu"
+  },
+  {
+    "id": "307",
+    "hiragana": "アパート",
+    "kanji": "アパート",
+    "meaning": "公寓",
+    "romaji": "apaato"
+  },
+  {
+    "id": "308",
+    "hiragana": "バス",
+    "kanji": "バス",
+    "meaning": "巴士；公交车",
+    "romaji": "basu"
+  },
+  {
+    "id": "309",
+    "hiragana": "バター",
+    "kanji": "バター",
+    "meaning": "黄油",
+    "romaji": "bataa"
+  },
+  {
+    "id": "310",
+    "hiragana": "ベッド",
+    "kanji": "ベッド",
+    "meaning": "床",
+    "romaji": "beddo"
+  },
+  {
+    "id": "311",
+    "hiragana": "ボールペン",
+    "kanji": "ボールペン",
+    "meaning": "圆珠笔",
+    "romaji": "boorupen"
+  },
+  {
+    "id": "312",
+    "hiragana": "ボタン",
+    "kanji": "ボタン",
+    "meaning": "按钮",
+    "romaji": "botan"
+  },
+  {
+    "id": "313",
+    "hiragana": "デパート",
+    "kanji": "デパート",
+    "meaning": "百货商店",
+    "romaji": "depaato"
+  },
+  {
+    "id": "314",
+    "hiragana": "ドア",
+    "kanji": "ドア",
+    "meaning": "门",
+    "romaji": "doa"
+  },
+  {
+    "id": "315",
+    "hiragana": "エレベーター",
+    "kanji": "エレベーター",
+    "meaning": "电梯",
+    "romaji": "erebeetaa"
+  },
+  {
+    "id": "316",
+    "hiragana": "フィルム",
+    "kanji": "フィルム",
+    "meaning": "胶卷；薄膜",
+    "romaji": "firumu"
+  },
+  {
+    "id": "317",
+    "hiragana": "フォーク",
+    "kanji": "フォーク",
+    "meaning": "叉子",
+    "romaji": "fooku"
+  },
+  {
+    "id": "318",
+    "hiragana": "ギター",
+    "kanji": "ギター",
+    "meaning": "吉他",
+    "romaji": "gitaa"
+  },
+  {
+    "id": "319",
+    "hiragana": "グラム",
+    "kanji": "グラム",
+    "meaning": "克（重量单位）",
+    "romaji": "guramu"
+  },
+  {
+    "id": "320",
+    "hiragana": "ハンカチ",
+    "kanji": "ハンカチ",
+    "meaning": "手帕",
+    "romaji": "hankachi"
+  },
+  {
+    "id": "321",
+    "hiragana": "ホテル",
+    "kanji": "ホテル",
+    "meaning": "酒店；旅馆",
+    "romaji": "hoteru"
+  },
+  {
+    "id": "322",
+    "hiragana": "カメラ",
+    "kanji": "カメラ",
+    "meaning": "相机",
+    "romaji": "kamera"
+  },
+  {
+    "id": "323",
+    "hiragana": "カップ",
+    "kanji": "カップ",
+    "meaning": "杯子",
+    "romaji": "kappu"
+  },
+  {
+    "id": "324",
+    "hiragana": "カレー",
+    "kanji": "カレー",
+    "meaning": "咖喱",
+    "romaji": "karee"
+  },
+  {
+    "id": "325",
+    "hiragana": "カレンダー",
+    "kanji": "カレンダー",
+    "meaning": "日历",
+    "romaji": "karendaa"
+  },
+  {
+    "id": "326",
+    "hiragana": "キログラム",
+    "kanji": "キログラム",
+    "meaning": "千克；公斤",
+    "romaji": "kiro guramu"
+  },
+  {
+    "id": "327",
+    "hiragana": "キロメートル",
+    "kanji": "キロメートル",
+    "meaning": "千米；公里",
+    "romaji": "kiro meetoru"
+  },
+  {
+    "id": "328",
+    "hiragana": "コーヒー",
+    "kanji": "コーヒー",
+    "meaning": "咖啡",
+    "romaji": "koohii"
+  },
+  {
+    "id": "329",
+    "hiragana": "コート",
+    "kanji": "コート",
+    "meaning": "外套；大衣",
+    "romaji": "kooto"
+  },
+  {
+    "id": "330",
+    "hiragana": "コピー",
+    "kanji": "コピー",
+    "meaning": "复印；拷贝",
+    "romaji": "kopii"
+  },
+  {
+    "id": "331",
+    "hiragana": "コップ",
+    "kanji": "コップ",
+    "meaning": "玻璃杯",
+    "romaji": "koppu"
+  },
+  {
+    "id": "332",
+    "hiragana": "クラス",
+    "kanji": "クラス",
+    "meaning": "班级；阶级",
+    "romaji": "kurasu"
+  },
+  {
+    "id": "333",
+    "hiragana": "マッチ",
+    "kanji": "マッチ",
+    "meaning": "火柴；比赛",
+    "romaji": "macchi"
+  },
+  {
+    "id": "334",
+    "hiragana": "メートル",
+    "kanji": "メートル",
+    "meaning": "米（长度单位）",
+    "romaji": "meetoru"
+  },
+  {
+    "id": "335",
+    "hiragana": "ナイフ",
+    "kanji": "ナイフ",
+    "meaning": "刀；小刀",
+    "romaji": "naifu"
+  },
+  {
+    "id": "336",
+    "hiragana": "ネクタイ",
+    "kanji": "ネクタイ",
+    "meaning": "领带",
+    "romaji": "nekutai"
+  },
+  {
+    "id": "337",
+    "hiragana": "ノート",
+    "kanji": "ノート",
+    "meaning": "笔记本",
+    "romaji": "nooto"
+  },
+  {
+    "id": "338",
+    "hiragana": "ニュース",
+    "kanji": "ニュース",
+    "meaning": "新闻",
+    "romaji": "nyuusu"
+  },
+  {
+    "id": "339",
+    "hiragana": "パーティー",
+    "kanji": "パーティー",
+    "meaning": "派对；聚会",
+    "romaji": "paatii"
+  },
+  {
+    "id": "340",
+    "hiragana": "パン",
+    "kanji": "パン",
+    "meaning": "面包",
+    "romaji": "pan"
+  },
+  {
+    "id": "341",
+    "hiragana": "ページ",
+    "kanji": "ページ",
+    "meaning": "页；页面",
+    "romaji": "peeji"
+  },
+  {
+    "id": "342",
+    "hiragana": "ペン",
+    "kanji": "ペン",
+    "meaning": "笔；钢笔",
+    "romaji": "pen"
+  },
+  {
+    "id": "343",
+    "hiragana": "ペット",
+    "kanji": "ペット",
+    "meaning": "宠物",
+    "romaji": "petto"
+  },
+  {
+    "id": "344",
+    "hiragana": "ポケット",
+    "kanji": "ポケット",
+    "meaning": "口袋",
+    "romaji": "poketto"
+  },
+  {
+    "id": "345",
+    "hiragana": "ポスト",
+    "kanji": "ポスト",
+    "meaning": "邮箱；邮筒",
+    "romaji": "posuto"
+  },
+  {
+    "id": "346",
+    "hiragana": "プール",
+    "kanji": "プール",
+    "meaning": "游泳池",
+    "romaji": "puuru"
+  },
+  {
+    "id": "347",
+    "hiragana": "ラジオ",
+    "kanji": "ラジオ",
+    "meaning": "收音机；广播",
+    "romaji": "rajiio"
+  },
+  {
+    "id": "348",
+    "hiragana": "レコード",
+    "kanji": "レコード",
+    "meaning": "唱片；记录",
+    "romaji": "rekoodo"
+  },
+  {
+    "id": "349",
+    "hiragana": "レストラン",
+    "kanji": "レストラン",
+    "meaning": "餐厅；餐馆",
+    "romaji": "resutoran"
+  },
+  {
+    "id": "350",
+    "hiragana": "セーター",
+    "kanji": "セーター",
+    "meaning": "毛衣",
+    "romaji": "seetaa"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "hiragana": "あがる",
+    "kanji": "上がる",
+    "meaning": "上升 / 上去",
+    "romaji": "agaru"
+  },
+  {
+    "id": "2",
+    "hiragana": "あいさつ",
+    "kanji": "挨拶",
+    "meaning": "问候 / 打招呼",
+    "romaji": "aisatsu"
+  },
+  {
+    "id": "3",
+    "hiragana": "あんない",
+    "kanji": "案内",
+    "meaning": "向导 / 指引 / 介绍",
+    "romaji": "annai"
+  },
+  {
+    "id": "4",
+    "hiragana": "あんしん",
+    "kanji": "安心",
+    "meaning": "安心 / 放心",
+    "romaji": "anshin"
+  },
+  {
+    "id": "5",
+    "hiragana": "アルバイト",
+    "kanji": "アルバイト",
+    "meaning": "兼职 / 打工",
+    "romaji": "arubaito"
+  },
+  {
+    "id": "6",
+    "hiragana": "あつまる",
+    "kanji": "集まる",
+    "meaning": "聚集 / 集合",
+    "romaji": "atsumaru"
+  },
+  {
+    "id": "7",
+    "hiragana": "あつめる",
+    "kanji": "集める",
+    "meaning": "收集 / 召集",
+    "romaji": "atsumeru"
+  },
+  {
+    "id": "8",
+    "hiragana": "あやまる",
+    "kanji": "謝る",
+    "meaning": "道歉",
+    "romaji": "ayamaru"
+  },
+  {
+    "id": "9",
+    "hiragana": "ぼうえき",
+    "kanji": "貿易",
+    "meaning": "贸易",
+    "romaji": "boueki"
+  },
+  {
+    "id": "10",
+    "hiragana": "チェック",
+    "kanji": "チェック",
+    "meaning": "检查 / 核对",
+    "romaji": "chekku"
+  },
+  {
+    "id": "11",
+    "hiragana": "ちゅうい",
+    "kanji": "注意",
+    "meaning": "注意 / 小心",
+    "romaji": "chuui"
+  },
+  {
+    "id": "12",
+    "hiragana": "ちゅうしゃ",
+    "kanji": "注射",
+    "meaning": "注射 / 打针",
+    "romaji": "chuusha"
+  },
+  {
+    "id": "13",
+    "hiragana": "だんぼう",
+    "kanji": "暖房",
+    "meaning": "暖气",
+    "romaji": "danbou"
+  },
+  {
+    "id": "14",
+    "hiragana": "えんりょ",
+    "kanji": "遠慮",
+    "meaning": "客气 / 顾虑",
+    "romaji": "enryo"
+  },
+  {
+    "id": "15",
+    "hiragana": "えらぶ",
+    "kanji": "選ぶ",
+    "meaning": "选择",
+    "romaji": "erabu"
+  },
+  {
+    "id": "16",
+    "hiragana": "ファックス",
+    "kanji": "ファックス",
+    "meaning": "传真",
+    "romaji": "fakkusu"
+  },
+  {
+    "id": "17",
+    "hiragana": "ふえる",
+    "kanji": "増える",
+    "meaning": "增加 (自动词)",
+    "romaji": "fueru"
+  },
+  {
+    "id": "18",
+    "hiragana": "ふくしゅう",
+    "kanji": "復習",
+    "meaning": "复习",
+    "romaji": "fukushuu"
+  },
+  {
+    "id": "19",
+    "hiragana": "ふむ",
+    "kanji": "踏む",
+    "meaning": "踩 / 踏",
+    "romaji": "fumu"
+  },
+  {
+    "id": "20",
+    "hiragana": "ふりだす",
+    "kanji": "降り出す",
+    "meaning": "开始下 (雨/雪)",
+    "romaji": "furidasu"
+  },
+  {
+    "id": "21",
+    "hiragana": "ふとる",
+    "kanji": "太る",
+    "meaning": "变胖",
+    "romaji": "futoru"
+  },
+  {
+    "id": "22",
+    "hiragana": "げんいん",
+    "kanji": "原因",
+    "meaning": "原因",
+    "romaji": "genin"
+  },
+  {
+    "id": "23",
+    "hiragana": "げしゅく",
+    "kanji": "下宿",
+    "meaning": "寄宿 / 租住",
+    "romaji": "geshuku"
+  },
+  {
+    "id": "24",
+    "hiragana": "ごちそう",
+    "kanji": "ごちそう",
+    "meaning": "款待 / 请客 / 盛宴",
+    "romaji": "gochisou"
+  },
+  {
+    "id": "25",
+    "hiragana": "ごらんになる",
+    "kanji": "ご覧になる",
+    "meaning": "看 (敬语)",
+    "romaji": "goran ni naru"
+  },
+  {
+    "id": "26",
+    "hiragana": "はいけん",
+    "kanji": "拝見",
+    "meaning": "拜见 / 拜读 (谦语)",
+    "romaji": "haiken"
+  },
+  {
+    "id": "27",
+    "hiragana": "はこぶ",
+    "kanji": "運ぶ",
+    "meaning": "搬运",
+    "romaji": "hakobu"
+  },
+  {
+    "id": "28",
+    "hiragana": "はなみ",
+    "kanji": "花見",
+    "meaning": "赏花",
+    "romaji": "hanami"
+  },
+  {
+    "id": "29",
+    "hiragana": "はんたい",
+    "kanji": "反対",
+    "meaning": "反对",
+    "romaji": "hantai"
+  },
+  {
+    "id": "30",
+    "hiragana": "はらう",
+    "kanji": "払う",
+    "meaning": "支付",
+    "romaji": "harau"
+  },
+  {
+    "id": "31",
+    "hiragana": "はつおん",
+    "kanji": "発音",
+    "meaning": "发音",
+    "romaji": "hatsuon"
+  },
+  {
+    "id": "32",
+    "hiragana": "へんじ",
+    "kanji": "返事",
+    "meaning": "回答 / 回复",
+    "romaji": "henji"
+  },
+  {
+    "id": "33",
+    "hiragana": "ひえる",
+    "kanji": "冷える",
+    "meaning": "变冷 / 冷却 (自动词)",
+    "romaji": "hieru"
+  },
+  {
+    "id": "34",
+    "hiragana": "ひかる",
+    "kanji": "光る",
+    "meaning": "发光 / 闪耀",
+    "romaji": "hikaru"
+  },
+  {
+    "id": "35",
+    "hiragana": "ひきだす",
+    "kanji": "引き出す",
+    "meaning": "取出 / 提取 (存款)",
+    "romaji": "hikidasu"
+  },
+  {
+    "id": "36",
+    "hiragana": "ひっこす",
+    "kanji": "引っ越す",
+    "meaning": "搬家",
+    "romaji": "hikkosu"
+  },
+  {
+    "id": "37",
+    "hiragana": "ひらく",
+    "kanji": "開く",
+    "meaning": "打开 / 召开 / 开设",
+    "romaji": "hiraku"
+  },
+  {
+    "id": "38",
+    "hiragana": "ひろう",
+    "kanji": "拾う",
+    "meaning": "捡 / 拾",
+    "romaji": "hirou"
+  },
+  {
+    "id": "39",
+    "hiragana": "ほめる",
+    "kanji": "褒める",
+    "meaning": "表扬 / 称赞",
+    "romaji": "homeru"
+  },
+  {
+    "id": "40",
+    "hiragana": "ほんやく",
+    "kanji": "翻訳",
+    "meaning": "翻译 (笔译)",
+    "romaji": "honyaku"
+  },
+  {
+    "id": "41",
+    "hiragana": "ほうそう",
+    "kanji": "放送",
+    "meaning": "广播 / 播放",
+    "romaji": "housou"
+  },
+  {
+    "id": "42",
+    "hiragana": "いじめる",
+    "kanji": "いじめる",
+    "meaning": "欺负 / 捉弄",
+    "romaji": "ijimeru"
+  },
+  {
+    "id": "43",
+    "hiragana": "いけん",
+    "kanji": "意見",
+    "meaning": "意见 / 看法",
+    "romaji": "iken"
+  },
+  {
+    "id": "44",
+    "hiragana": "いきる",
+    "kanji": "生きる",
+    "meaning": "活着 / 生存",
+    "romaji": "ikiru"
+  },
+  {
+    "id": "45",
+    "hiragana": "いのる",
+    "kanji": "祈る",
+    "meaning": "祈祷 / 祝愿",
+    "romaji": "inoru"
+  },
+  {
+    "id": "46",
+    "hiragana": "いそぐ",
+    "kanji": "急ぐ",
+    "meaning": "赶紧 / 匆忙",
+    "romaji": "isogu"
+  },
+  {
+    "id": "47",
+    "hiragana": "いただく",
+    "kanji": "頂く",
+    "meaning": "领受 / 吃喝 (谦语)",
+    "romaji": "itadaku"
+  },
+  {
+    "id": "48",
+    "hiragana": "いたす",
+    "kanji": "致す",
+    "meaning": "做 (谦语)",
+    "romaji": "itasu"
+  },
+  {
+    "id": "49",
+    "hiragana": "じゅんび",
+    "kanji": "準備",
+    "meaning": "准备",
+    "romaji": "junbi"
+  },
+  {
+    "id": "50",
+    "hiragana": "かえる",
+    "kanji": "変える",
+    "meaning": "改变 (他动词)",
+    "romaji": "kaeru"
+  }
+]

@@ -1,6 +1,7 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
+import { fetchWordsManifest } from '@/api/wordsData'
 
 const router = useRouter()
 
@@ -15,13 +16,29 @@ interface WordLevel {
   description: string
 }
 
-const levels = ref<WordLevel[]>([
-  { id: 'n5', name: 'N5词汇', level: 'N5', wordCount: 50, description: '入门级，约800词' },
-  { id: 'n4', name: 'N4词汇', level: 'N4', wordCount: 0, description: '基础级，约1200词（待添加）' },
-  { id: 'n3', name: 'N3词汇', level: 'N3', wordCount: 0, description: '中级，约1500词（待添加）' },
-  { id: 'n2', name: 'N2词汇', level: 'N2', wordCount: 0, description: '中高级，约2000词（待添加）' },
-  { id: 'n1', name: 'N1词汇', level: 'N1', wordCount: 0, description: '高级，约2500词（待添加）' },
-])
+const levels = ref<WordLevel[]>([])
+const listLoadError = ref(false)
+const manifestLoading = ref(true)
+
+onMounted(async () => {
+  manifestLoading.value = true
+  listLoadError.value = false
+  try {
+    const m = await fetchWordsManifest()
+    levels.value = m.sets.map((s) => ({
+      id: s.id,
+      name: s.title,
+      level: s.level,
+      wordCount: s.wordCount,
+      description: s.description,
+    }))
+  } catch {
+    listLoadError.value = true
+    levels.value = []
+  } finally {
+    manifestLoading.value = false
+  }
+})
 
 function startPractice(level: WordLevel) {
   if (level.wordCount > 0) {
@@ -50,6 +67,9 @@ function startPractice(level: WordLevel) {
       <p class="text-sm text-slate-600 dark:text-slate-400 mb-4">
         看汉字/词，用设置中的输入方式（罗马字或假名）打出读音。完成一轮后可在结果页查看 WPM 与错题。
       </p>
+      <p v-if="listLoadError" class="text-sm text-red-600 dark:text-red-400 mb-4">
+        词库清单加载失败，请刷新页面或检查 <code class="text-xs">public/data/words/manifest.json</code> 是否可访问。
+      </p>
       <div class="flex flex-wrap gap-3 mb-6">
         <span class="text-sm text-slate-500 dark:text-slate-400 self-center">出题顺序</span>
         <button
@@ -77,7 +97,10 @@ function startPractice(level: WordLevel) {
           随机
         </button>
       </div>
-      <div class="grid gap-4">
+      <div v-if="manifestLoading" class="text-center py-12 text-slate-500 dark:text-slate-400">
+        正在加载词库列表…
+      </div>
+      <div v-else-if="!listLoadError" class="grid gap-4">
         <div v-for="item in levels" :key="item.id"
           @click="startPractice(item)"
           class="p-6 rounded-2xl transition-all cursor-pointer"

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "201",
+    "hiragana": "おどり",
+    "kanji": "踊り",
+    "meaning": "舞蹈",
+    "romaji": "odori"
+  },
+  {
+    "id": "202",
+    "hiragana": "おいわい",
+    "kanji": "お祝い",
+    "meaning": "祝贺 / 庆祝",
+    "romaji": "oiwai"
+  },
+  {
+    "id": "203",
+    "hiragana": "おじょうさん",
+    "kanji": "お嬢さん",
+    "meaning": "(别人的)女儿 / 小姐",
+    "romaji": "ojousan"
+  },
+  {
+    "id": "204",
+    "hiragana": "おくじょう",
+    "kanji": "屋上",
+    "meaning": "屋顶 / 楼顶",
+    "romaji": "okujou"
+  },
+  {
+    "id": "205",
+    "hiragana": "おくりもの",
+    "kanji": "贈り物",
+    "meaning": "礼物",
+    "romaji": "okurimono"
+  },
+  {
+    "id": "206",
+    "hiragana": "おまつり",
+    "kanji": "お祭り",
+    "meaning": "祭典 / 节日活动",
+    "romaji": "omatsuri"
+  },
+  {
+    "id": "207",
+    "hiragana": "おみまい",
+    "kanji": "お見舞い",
+    "meaning": "探望 (病人)",
+    "romaji": "omimai"
+  },
+  {
+    "id": "208",
+    "hiragana": "おみやげ",
+    "kanji": "お土産",
+    "meaning": "纪念品 / 土特产",
+    "romaji": "omiyage"
+  },
+  {
+    "id": "209",
+    "hiragana": "おもちゃ",
+    "kanji": "おもちゃ",
+    "meaning": "玩具",
+    "romaji": "omocha"
+  },
+  {
+    "id": "210",
+    "hiragana": "おもて",
+    "kanji": "表",
+    "meaning": "正面 / 表面",
+    "romaji": "omote"
+  },
+  {
+    "id": "211",
+    "hiragana": "おれい",
+    "kanji": "お礼",
+    "meaning": "感谢 / 谢礼",
+    "romaji": "orei"
+  },
+  {
+    "id": "212",
+    "hiragana": "おしいれ",
+    "kanji": "押し入れ",
+    "meaning": "壁橱",
+    "romaji": "oshiire"
+  },
+  {
+    "id": "213",
+    "hiragana": "おたく",
+    "kanji": "お宅",
+    "meaning": "贵府 / 您家 (敬语)",
+    "romaji": "otaku"
+  },
+  {
+    "id": "214",
+    "hiragana": "おと",
+    "kanji": "音",
+    "meaning": "声音",
+    "romaji": "oto"
+  },
+  {
+    "id": "215",
+    "hiragana": "おつり",
+    "kanji": "お釣り",
+    "meaning": "找零 / 零钱",
+    "romaji": "otsuri"
+  },
+  {
+    "id": "216",
+    "hiragana": "おっと",
+    "kanji": "夫",
+    "meaning": "丈夫",
+    "romaji": "otto"
+  },
+  {
+    "id": "217",
+    "hiragana": "おわり",
+    "kanji": "終わり",
+    "meaning": "结束 / 末尾",
+    "romaji": "owari"
+  },
+  {
+    "id": "218",
+    "hiragana": "おや",
+    "kanji": "親",
+    "meaning": "父母 / 家长",
+    "romaji": "oya"
+  },
+  {
+    "id": "219",
+    "hiragana": "およぎかた",
+    "kanji": "泳ぎ方",
+    "meaning": "游泳方法",
+    "romaji": "oyogikata"
+  },
+  {
+    "id": "220",
+    "hiragana": "れいぼう",
+    "kanji": "冷房",
+    "meaning": "冷气 / 空调",
+    "romaji": "reibou"
+  },
+  {
+    "id": "221",
+    "hiragana": "れきし",
+    "kanji": "歴史",
+    "meaning": "历史",
+    "romaji": "rekishi"
+  },
+  {
+    "id": "222",
+    "hiragana": "りよう",
+    "kanji": "利用",
+    "meaning": "利用",
+    "romaji": "riyou"
+  },
+  {
+    "id": "223",
+    "hiragana": "りゆう",
+    "kanji": "理由",
+    "meaning": "理由",
+    "romaji": "riyuu"
+  },
+  {
+    "id": "224",
+    "hiragana": "るす",
+    "kanji": "留守",
+    "meaning": "不在家 / 缺席",
+    "romaji": "rusu"
+  },
+  {
+    "id": "225",
+    "hiragana": "りょかん",
+    "kanji": "旅館",
+    "meaning": "旅馆 (日式)",
+    "romaji": "ryokan"
+  },
+  {
+    "id": "226",
+    "hiragana": "りょうほう",
+    "kanji": "両方",
+    "meaning": "两方 / 双方面",
+    "romaji": "ryouhou"
+  },
+  {
+    "id": "227",
+    "hiragana": "さいご",
+    "kanji": "最後",
+    "meaning": "最后",
+    "romaji": "saigo"
+  },
+  {
+    "id": "228",
+    "hiragana": "さいきん",
+    "kanji": "最近",
+    "meaning": "最近",
+    "romaji": "saikin"
+  },
+  {
+    "id": "229",
+    "hiragana": "さいしょ",
+    "kanji": "最初",
+    "meaning": "最初 / 开头",
+    "romaji": "saisho"
+  },
+  {
+    "id": "230",
+    "hiragana": "さか",
+    "kanji": "坂",
+    "meaning": "坡 / 山坡",
+    "romaji": "saka"
+  },
+  {
+    "id": "231",
+    "hiragana": "さくや",
+    "kanji": "昨夜",
+    "meaning": "昨晚",
+    "romaji": "sakuya"
+  },
+  {
+    "id": "232",
+    "hiragana": "さんぎょう",
+    "kanji": "産業",
+    "meaning": "产业",
+    "romaji": "sangyou"
+  },
+  {
+    "id": "233",
+    "hiragana": "さらいげつ",
+    "kanji": "再来月",
+    "meaning": "下下个月",
+    "romaji": "saraigetsu"
+  },
+  {
+    "id": "234",
+    "hiragana": "さらいしゅう",
+    "kanji": "再来週",
+    "meaning": "下下周",
+    "romaji": "saraishuu"
+  },
+  {
+    "id": "235",
+    "hiragana": "せいぶつ",
+    "kanji": "生物",
+    "meaning": "生物",
+    "romaji": "seibutsu"
+  },
+  {
+    "id": "236",
+    "hiragana": "せいじ",
+    "kanji": "政治",
+    "meaning": "政治",
+    "romaji": "seiji"
+  },
+  {
+    "id": "237",
+    "hiragana": "せいかつ",
+    "kanji": "生活",
+    "meaning": "生活",
+    "romaji": "seikatsu"
+  },
+  {
+    "id": "238",
+    "hiragana": "せいめい",
+    "kanji": "生命",
+    "meaning": "生命",
+    "romaji": "seimei"
+  },
+  {
+    "id": "239",
+    "hiragana": "せいさん",
+    "kanji": "生産",
+    "meaning": "生产",
+    "romaji": "seisan"
+  },
+  {
+    "id": "240",
+    "hiragana": "せいよう",
+    "kanji": "西洋",
+    "meaning": "西洋 / 西方国家",
+    "romaji": "seiyou"
+  },
+  {
+    "id": "241",
+    "hiragana": "せかい",
+    "kanji": "世界",
+    "meaning": "世界",
+    "romaji": "sekai"
+  },
+  {
+    "id": "242",
+    "hiragana": "せき",
+    "kanji": "席",
+    "meaning": "座位",
+    "romaji": "seki"
+  },
+  {
+    "id": "243",
+    "hiragana": "せん",
+    "kanji": "線",
+    "meaning": "线",
+    "romaji": "sen"
+  },
+  {
+    "id": "244",
+    "hiragana": "せなか",
+    "kanji": "背中",
+    "meaning": "背 / 背部",
+    "romaji": "senaka"
+  },
+  {
+    "id": "245",
+    "hiragana": "せんぱい",
+    "kanji": "先輩",
+    "meaning": "前辈 / 学长/姐",
+    "romaji": "senpai"
+  },
+  {
+    "id": "246",
+    "hiragana": "せんそう",
+    "kanji": "戦争",
+    "meaning": "战争",
+    "romaji": "sensou"
+  },
+  {
+    "id": "247",
+    "hiragana": "せつめい",
+    "kanji": "説明",
+    "meaning": "说明 / 解释",
+    "romaji": "setsumei"
+  },
+  {
+    "id": "248",
+    "hiragana": "しゃちょう",
+    "kanji": "社長",
+    "meaning": "社长 / 总经理",
+    "romaji": "shachou"
+  },
+  {
+    "id": "249",
+    "hiragana": "しゃかい",
+    "kanji": "社会",
+    "meaning": "社会",
+    "romaji": "shakai"
+  },
+  {
+    "id": "250",
+    "hiragana": "し",
+    "kanji": "市",
+    "meaning": "市 / 城市",
+    "romaji": "shi"
+  }
+]

@@ -27,7 +27,7 @@ function startPractice() {
           <span class="text-xl">←</span>
           <span>返回</span>
         </button>
-        <h1 class="text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">选择词库</h1>
+        <h1 class="text-xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">选择词库</h1>
         <div class="w-16"></div>
       </div>
     </header>
@@ -36,7 +36,7 @@ function startPractice() {
       <div class="space-y-6 mb-8">
         <div v-for="category in dictCategories" :key="category.id" class="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-md">
           <div class="flex items-center gap-3 mb-4">
-            <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-white font-bold">
+            <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-500 to-teal-500 flex items-center justify-center text-white font-bold">
               {{ category.id === 'hiragana' ? 'あ' : 'ア' }}
             </div>
             <h2 class="text-lg font-bold text-slate-800 dark:text-white">{{ category.name }}</h2>
@@ -68,7 +68,7 @@ function startPractice() {
         </div>
       </div>
 
-      <button @click="startPractice" :disabled="!selectedDictId" class="w-full py-4 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-xl font-bold text-lg hover:opacity-90 transition-opacity shadow-lg disabled:opacity-50 disabled:cursor-not-allowed">
+      <button @click="startPractice" :disabled="!selectedDictId" class="w-full py-4 bg-gradient-to-r from-emerald-600 to-teal-600 text-white rounded-xl font-bold text-lg hover:opacity-90 transition-opacity shadow-lg disabled:opacity-50 disabled:cursor-not-allowed">
         开始练习
       </button>
     </main>

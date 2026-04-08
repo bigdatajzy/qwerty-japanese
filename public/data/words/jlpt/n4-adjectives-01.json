@@ -1,0 +1,317 @@
+[
+  {
+    "id": "1",
+    "hiragana": "あんしん",
+    "kanji": "安心",
+    "meaning": "安心 / 放心",
+    "romaji": "anshin"
+  },
+  {
+    "id": "2",
+    "hiragana": "あんぜん",
+    "kanji": "安全",
+    "meaning": "安全",
+    "romaji": "anzen"
+  },
+  {
+    "id": "3",
+    "hiragana": "あさい",
+    "kanji": "浅い",
+    "meaning": "浅的",
+    "romaji": "asai"
+  },
+  {
+    "id": "4",
+    "hiragana": "だいじ",
+    "kanji": "大事",
+    "meaning": "重要 / 要紧",
+    "romaji": "daiji"
+  },
+  {
+    "id": "5",
+    "hiragana": "ふべん",
+    "kanji": "不便",
+    "meaning": "不方便",
+    "romaji": "fuben"
+  },
+  {
+    "id": "6",
+    "hiragana": "ふかい",
+    "kanji": "深い",
+    "meaning": "深的",
+    "romaji": "fukai"
+  },
+  {
+    "id": "7",
+    "hiragana": "ふくざつ",
+    "kanji": "複雑",
+    "meaning": "复杂",
+    "romaji": "fukuzatsu"
+  },
+  {
+    "id": "8",
+    "hiragana": "はんたい",
+    "kanji": "反対",
+    "meaning": "相反 / 反对",
+    "romaji": "hantai"
+  },
+  {
+    "id": "9",
+    "hiragana": "はずかしい",
+    "kanji": "恥ずかしい",
+    "meaning": "害羞 / 尴尬",
+    "romaji": "hazukashii"
+  },
+  {
+    "id": "10",
+    "hiragana": "へん",
+    "kanji": "変",
+    "meaning": "奇怪 / 古怪",
+    "romaji": "hen"
+  },
+  {
+    "id": "11",
+    "hiragana": "ひどい",
+    "kanji": "酷い",
+    "meaning": "过分 / 残酷 / 糟糕",
+    "romaji": "hidoi"
+  },
+  {
+    "id": "12",
+    "hiragana": "ひさしぶり",
+    "kanji": "久しぶり",
+    "meaning": "久违 / 好久不见",
+    "romaji": "hisashiburi"
+  },
+  {
+    "id": "13",
+    "hiragana": "いっぱい",
+    "kanji": "いっぱい",
+    "meaning": "满 / 很多",
+    "romaji": "ippai"
+  },
+  {
+    "id": "14",
+    "hiragana": "いっしょうけんめい",
+    "kanji": "一生懸命",
+    "meaning": "拼命 / 努力",
+    "romaji": "isshoukenmei"
+  },
+  {
+    "id": "15",
+    "hiragana": "じゆう",
+    "kanji": "自由",
+    "meaning": "自由",
+    "romaji": "jiyuu"
+  },
+  {
+    "id": "16",
+    "hiragana": "じゅうぶん",
+    "kanji": "十分",
+    "meaning": "十分 / 充足",
+    "romaji": "juubun"
+  },
+  {
+    "id": "17",
+    "hiragana": "かなしい",
+    "kanji": "悲しい",
+    "meaning": "悲伤",
+    "romaji": "kanashii"
+  },
+  {
+    "id": "18",
+    "hiragana": "かんたん",
+    "kanji": "簡単",
+    "meaning": "简单 / 容易",
+    "romaji": "kantan"
+  },
+  {
+    "id": "19",
+    "hiragana": "かたい",
+    "kanji": "硬い",
+    "meaning": "硬的 / 坚固的",
+    "romaji": "katai"
+  },
+  {
+    "id": "20",
+    "hiragana": "きびしい",
+    "kanji": "厳しい",
+    "meaning": "严格 / 严厉",
+    "romaji": "kibishii"
+  },
+  {
+    "id": "21",
+    "hiragana": "きけん",
+    "kanji": "危険",
+    "meaning": "危险",
+    "romaji": "kiken"
+  },
+  {
+    "id": "22",
+    "hiragana": "こまかい",
+    "kanji": "細かい",
+    "meaning": "细小 / 细致",
+    "romaji": "komakai"
+  },
+  {
+    "id": "23",
+    "hiragana": "こわい",
+    "kanji": "怖い",
+    "meaning": "可怕 / 害怕",
+    "romaji": "kowai"
+  },
+  {
+    "id": "24",
+    "hiragana": "きゅう",
+    "kanji": "急",
+    "meaning": "急 / 突然",
+    "romaji": "kyuu"
+  },
+  {
+    "id": "25",
+    "hiragana": "めずらしい",
+    "kanji": "珍しい",
+    "meaning": "稀奇 / 少见",
+    "romaji": "mezurashii"
+  },
+  {
+    "id": "26",
+    "hiragana": "むり",
+    "kanji": "無理",
+    "meaning": "不可能 / 勉强",
+    "romaji": "muri"
+  },
+  {
+    "id": "27",
+    "hiragana": "ねむい",
+    "kanji": "眠い",
+    "meaning": "困倦 / 想睡",
+    "romaji": "nemui"
+  },
+  {
+    "id": "28",
+    "hiragana": "にがい",
+    "kanji": "苦い",
+    "meaning": "苦的",
+    "romaji": "nigai"
+  },
+  {
+    "id": "29",
+    "hiragana": "おかしい",
+    "kanji": "可笑しい",
+    "meaning": "可笑 / 古怪",
+    "romaji": "okashii"
+  },
+  {
+    "id": "30",
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "meaning": "寂寞 / 冷清",
+    "romaji": "sabishii"
+  },
+  {
+    "id": "31",
+    "hiragana": "さかん",
+    "kanji": "盛ん",
+    "meaning": "兴盛 / 繁荣 / 热衷",
+    "romaji": "sakan"
+  },
+  {
+    "id": "32",
+    "hiragana": "しんせつ",
+    "kanji": "親切",
+    "meaning": "亲切 / 热情",
+    "romaji": "shinsetsu"
+  },
+  {
+    "id": "33",
+    "hiragana": "すばらしい",
+    "kanji": "素晴らしい",
+    "meaning": "极好 / 了不起",
+    "romaji": "subarashii"
+  },
+  {
+    "id": "34",
+    "hiragana": "すごい",
+    "kanji": "凄い",
+    "meaning": "厉害 / 了不起",
+    "romaji": "sugoi"
+  },
+  {
+    "id": "35",
+    "hiragana": "ただしい",
+    "kanji": "正しい",
+    "meaning": "正确",
+    "romaji": "tadashii"
+  },
+  {
+    "id": "36",
+    "hiragana": "たいてい",
+    "kanji": "たいてい",
+    "meaning": "大抵 / 通常",
+    "romaji": "taitei"
+  },
+  {
+    "id": "37",
+    "hiragana": "たのしみ",
+    "kanji": "楽しみ",
+    "meaning": "期待 / 乐趣",
+    "romaji": "tanoshimi"
+  },
+  {
+    "id": "38",
+    "hiragana": "ていねい",
+    "kanji": "丁寧",
+    "meaning": "礼貌 / 认真",
+    "romaji": "teinei"
+  },
+  {
+    "id": "39",
+    "hiragana": "てきとう",
+    "kanji": "適当",
+    "meaning": "合适 / 适当",
+    "romaji": "tekitou"
+  },
+  {
+    "id": "40",
+    "hiragana": "とくべつ",
+    "kanji": "特別",
+    "meaning": "特别",
+    "romaji": "tokubetsu"
+  },
+  {
+    "id": "41",
+    "hiragana": "うれしい",
+    "kanji": "嬉しい",
+    "meaning": "高兴 / 开心",
+    "romaji": "ureshii"
+  },
+  {
+    "id": "42",
+    "hiragana": "うつくしい",
+    "kanji": "美しい",
+    "meaning": "美丽",
+    "romaji": "utsukushii"
+  },
+  {
+    "id": "43",
+    "hiragana": "やさしい",
+    "kanji": "優しい",
+    "meaning": "温柔 / 和蔼 / 容易",
+    "romaji": "yasashii"
+  },
+  {
+    "id": "44",
+    "hiragana": "やわらかい",
+    "kanji": "柔らかい",
+    "meaning": "柔软",
+    "romaji": "yawarakai"
+  },
+  {
+    "id": "45",
+    "hiragana": "ざんねん",
+    "kanji": "残念",
+    "meaning": "遗憾 / 可惜",
+    "romaji": "zannen"
+  }
+]

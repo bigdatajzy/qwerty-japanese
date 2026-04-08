@@ -39,16 +39,26 @@ function handleExport() {
   URL.revokeObjectURL(url)
 }
 
+function handleExportSingle(record: HistoryRecord) {
+  const data = JSON.stringify(record, null, 2)
+  const blob = new Blob([data], { type: 'application/json' })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  const date = String(record.date || '').replace(/[^\d]/g, '').slice(0, 8) || new Date().toISOString().slice(0, 10).replace(/-/g, '')
+  a.href = url
+  a.download = `qwerty-japanese-record-${record.id}-${date}.json`
+  a.click()
+  URL.revokeObjectURL(url)
+}
+
 function formatDuration(seconds: number): string {
-  if (seconds < 60) return `${seconds}秒`
-  const mins = Math.floor(seconds / 60)
-  const secs = seconds % 60
+  const wholeSeconds = Math.round(seconds)
+  if (wholeSeconds < 60) return `${wholeSeconds}秒`
+  const mins = Math.floor(wholeSeconds / 60)
+  const secs = wholeSeconds % 60
   return `${mins}分${secs}秒`
 }
 
-function goPractice() {
-  router.push('/dict')
-}
 </script>
 
 <template>
@@ -59,9 +69,7 @@ function goPractice() {
           <span class="text-xl">←</span><span>返回</span>
         </button>
         <h1 class="text-lg font-semibold text-slate-800 dark:text-white">📊 练习历史</h1>
-        <button @click="goPractice" class="px-4 py-1.5 text-sm font-medium rounded-lg bg-indigo-600 text-white hover:bg-indigo-700 transition-colors">
-          开始练习
-        </button>
+        <div class="w-16"></div>
       </div>
     </header>
 
@@ -90,7 +98,7 @@ function goPractice() {
       <div class="flex gap-3 mb-6" v-if="history.length > 0">
         <button @click="handleExport" class="flex items-center gap-2 px-4 py-2 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 rounded-xl shadow hover:shadow-lg transition-all">
           <span>📥</span>
-          <span class="text-sm font-medium">导出记录</span>
+          <span class="text-sm font-medium">全部导出</span>
         </button>
         <button @click="showClearConfirm = true" class="flex items-center gap-2 px-4 py-2 bg-red-50 dark:bg-red-900/20 text-red-600 dark:text-red-400 rounded-xl shadow hover:shadow-lg transition-all">
           <span>🗑️</span>
@@ -135,6 +143,15 @@ function goPractice() {
               <div class="text-2xl font-bold text-slate-700 dark:text-slate-300">{{ formatDuration(record.duration) }}</div>
               <div class="text-xs text-slate-500 dark:text-slate-400">时长</div>
             </div>
+            <div class="ml-auto">
+              <button
+                type="button"
+                class="px-3 py-1.5 text-xs font-medium rounded-lg border border-slate-200 dark:border-slate-600 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors"
+                @click="handleExportSingle(record)"
+              >
+                导出
+              </button>
+            </div>
           </div>
         </div>
       </div>
@@ -146,8 +163,8 @@ function goPractice() {
         </div>
         <h3 class="text-xl font-bold text-slate-700 dark:text-slate-200 mb-2">暂无练习记录</h3>
         <p class="text-slate-500 dark:text-slate-400 mb-6">完成练习后，这里会显示你的历史记录</p>
-        <button @click="goPractice" class="px-6 py-3 bg-indigo-600 text-white font-medium rounded-xl hover:bg-indigo-700 transition-colors shadow-lg hover:shadow-xl">
-          开始你的第一次练习
+        <button @click="router.push({ name: 'home' })" class="px-6 py-3 bg-indigo-600 text-white font-medium rounded-xl hover:bg-indigo-700 transition-colors shadow-lg hover:shadow-xl">
+          返回首页
         </button>
       </div>
     </main>

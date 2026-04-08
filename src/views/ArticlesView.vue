@@ -1,15 +1,28 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import type { Article } from '@/types/article'
+import type { ArticleListEntry } from '@/types/dataManifest'
+import { loadPresetArticlesList } from '@/api/articles'
 
 const router = useRouter()
 
-const presetArticles = ref([
-  { id: 'article-1', title: '日本語を勉強しましょう', difficulty: 'beginner' as const, description: '日语学习心得' },
-  { id: 'article-2', title: '私の旅行計画', difficulty: 'intermediate' as const, description: '旅行计划' },
-  { id: 'article-3', title: 'テクノロジーの発展', difficulty: 'advanced' as const, description: '科技发展' }
-])
+const presetArticles = ref<ArticleListEntry[]>([])
+const presetLoadError = ref(false)
+const presetLoading = ref(true)
+
+onMounted(async () => {
+  presetLoading.value = true
+  presetLoadError.value = false
+  try {
+    presetArticles.value = await loadPresetArticlesList()
+  } catch {
+    presetLoadError.value = true
+    presetArticles.value = []
+  } finally {
+    presetLoading.value = false
+  }
+})
 
 const customArticles = ref<Article[]>([])
 const showUploadModal = ref(false)
@@ -80,6 +93,29 @@ function deleteArticle(id: string) {
   customArticles.value = customArticles.value.filter(a => a.id !== id)
   localStorage.setItem('custom-articles', JSON.stringify(customArticles.value))
 }
+
+function downloadUploadTemplate(kind: 'json' | 'txt') {
+  const content =
+    kind === 'json'
+      ? JSON.stringify(
+          {
+            title: '示例文章标题',
+            content: '日本語を勉強するのは楽しいです。\n毎日の練習が大切です。',
+            difficulty: 'beginner',
+          },
+          null,
+          2,
+        )
+      : '第一段内容\n第二段内容\n第三段内容'
+
+  const blob = new Blob([content], { type: 'text/plain;charset=utf-8' })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = kind === 'json' ? 'article-template.json' : 'article-template.txt'
+  a.click()
+  URL.revokeObjectURL(url)
+}
 </script>
 
 <template>
@@ -91,7 +127,7 @@ function deleteArticle(id: string) {
           <span>返回</span>
         </button>
         <h1 class="text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">文章练习</h1>
-        <button @click="showUploadModal = true" class="px-4 py-2 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-lg font-medium hover:opacity-90 shadow-lg">+ 上传</button>
+        <div class="w-16"></div>
       </div>
     </header>
 
@@ -106,7 +142,13 @@ function deleteArticle(id: string) {
           </div>
         </div>
         
-        <div class="grid gap-4">
+        <p v-if="presetLoadError" class="text-sm text-red-600 dark:text-red-400 mb-4">
+          预制文章清单加载失败，请检查 <code class="text-xs">public/data/articles/manifest.json</code>。
+        </p>
+        <div v-else-if="presetLoading" class="text-center py-8 text-slate-500 dark:text-slate-400">
+          正在加载文章列表…
+        </div>
+        <div v-else class="grid gap-4">
           <div v-for="article in presetArticles" :key="article.id" @click="startPractice(article.id)" 
             class="group bg-white dark:bg-slate-800 rounded-2xl p-5 shadow-md hover:shadow-xl transition-all duration-300 cursor-pointer border border-slate-100 dark:border-slate-700">
             <div class="flex items-start justify-between">
@@ -167,15 +209,41 @@ function deleteArticle(id: string) {
         
         <div class="mb-4">
           <label class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">选择文件</label>
-          <input type="file" accept=".txt,.json" @change="handleFileUpload" class="w-full p-3 border-2 border-dashed border-slate-200 dark:border-slate-600 rounded-xl bg-slate-50 dark:bg-slate-700/50" />
+          <input
+            type="file"
+            accept=".txt,.json"
+            @change="handleFileUpload"
+            class="w-full p-3 border-2 border-dashed border-slate-200 dark:border-slate-600 rounded-xl bg-slate-50 dark:bg-slate-700/50 text-slate-700 dark:text-slate-200 file:mr-3 file:px-3 file:py-1.5 file:rounded-lg file:border-0 file:bg-indigo-100 dark:file:bg-indigo-900/40 file:text-indigo-700 dark:file:text-indigo-300"
+          />
         </div>
 
         <div class="p-4 bg-slate-50 dark:bg-slate-700/50 rounded-xl">
           <p class="text-sm font-medium text-slate-700 dark:text-slate-300 mb-3">支持格式：</p>
           <div class="space-y-2 text-sm text-slate-500 dark:text-slate-400">
-            <p>• 纯文本 (.txt)：每行一段</p>
-            <p>• JSON 格式：</p>
-            <pre class="mt-2 p-2 bg-white dark:bg-slate-800 rounded-lg text-xs overflow-x-auto">{ "title": "标题", "content": "内容..." }</pre>
+            <p>• 纯文本 (.txt)：每一行会作为一段，最终按换行合并为文章正文。</p>
+            <p>• JSON（对象）必须包含：<code class="text-xs">title</code>、<code class="text-xs">content</code>。</p>
+            <p>• JSON 可选字段：<code class="text-xs">difficulty</code>（默认 <code class="text-xs">beginner</code>）。</p>
+            <pre class="mt-2 p-2 bg-white dark:bg-slate-800 rounded-lg text-xs overflow-x-auto">{
+  "title": "示例文章标题",
+  "content": "第一段...\n第二段...",
+  "difficulty": "beginner"
+}</pre>
+            <div class="pt-2 flex gap-2">
+              <button
+                type="button"
+                class="px-3 py-1.5 rounded-lg text-xs font-medium bg-indigo-100 dark:bg-indigo-900/40 text-indigo-700 dark:text-indigo-300"
+                @click="downloadUploadTemplate('json')"
+              >
+                下载 JSON 模板
+              </button>
+              <button
+                type="button"
+                class="px-3 py-1.5 rounded-lg text-xs font-medium bg-emerald-100 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300"
+                @click="downloadUploadTemplate('txt')"
+              >
+                下载 TXT 模板
+              </button>
+            </div>
           </div>
         </div>
       </div>

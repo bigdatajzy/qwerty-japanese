@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "kind": "articles-manifest",
+  "articles": [
+    {
+      "id": "article-1",
+      "title": "日本語を勉強しましょう",
+      "difficulty": "beginner",
+      "description": "日语学习心得",
+      "path": "data/articles/by-id/article-1.json"
+    },
+    {
+      "id": "article-2",
+      "title": "私の旅行計画",
+      "difficulty": "intermediate",
+      "description": "旅行计划",
+      "path": "data/articles/by-id/article-2.json"
+    },
+    {
+      "id": "article-3",
+      "title": "テクノロジーの発展",
+      "difficulty": "advanced",
+      "description": "科技发展",
+      "path": "data/articles/by-id/article-3.json"
+    }
+  ]
+}

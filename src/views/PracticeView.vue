@@ -8,6 +8,7 @@ import { useSound } from '@/composables/useSound'
 import { addHistoryRecord } from '@/utils/storage'
 import type { TypingMode } from '@/types/typing'
 import Keyboard from '@/components/keyboard/Keyboard.vue'
+import { recordPracticeSession } from '@/utils/practiceStatsDb'
 
 const route = useRoute()
 const router = useRouter()
@@ -106,7 +107,7 @@ onMounted(() => {
 onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
 
 // 练习完成时保存记录并跳转
-watch(() => typingStore.isCompleted, (completed) => { 
+watch(() => typingStore.isCompleted, async (completed) => { 
   if (completed) {
     playComplete()
     const result = typingStore.getResult()
@@ -137,6 +138,18 @@ watch(() => typingStore.isCompleted, (completed) => {
         duration: result.duration,
       }),
     )
+    await recordPracticeSession({
+      type: 'kana',
+      sourceId: typingStore.dictId,
+      sourceName: dictInfo?.name || typingStore.dictId,
+      startedAt: typingStore.startTime || Date.now(),
+      durationSec: result.duration,
+      unitsTotal: result.totalWords,
+      unitsCorrect: result.correctCount,
+      unitsError: result.errorCount,
+      accuracy: result.accuracy,
+      wpm: result.wpm,
+    })
     router.push({ name: 'result' }) 
   }
 })

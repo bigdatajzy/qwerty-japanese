@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "hiragana": "あぶない",
+    "kanji": "危ない",
+    "meaning": "危险的",
+    "romaji": "abunai"
+  },
+  {
+    "id": "2",
+    "hiragana": "あかるい",
+    "kanji": "明るい",
+    "meaning": "明亮的；开朗的",
+    "romaji": "akarui"
+  },
+  {
+    "id": "3",
+    "hiragana": "あまい",
+    "kanji": "甘い",
+    "meaning": "甜的；天真的",
+    "romaji": "amai"
+  },
+  {
+    "id": "4",
+    "hiragana": "あたらしい",
+    "kanji": "新しい",
+    "meaning": "新的",
+    "romaji": "atarashii"
+  },
+  {
+    "id": "5",
+    "hiragana": "あたたかい",
+    "kanji": "暖かい",
+    "meaning": "暖和的（天气、物体）",
+    "romaji": "atatakai"
+  },
+  {
+    "id": "6",
+    "hiragana": "あつい",
+    "kanji": "熱い",
+    "meaning": "热的；烫的（触摸）",
+    "romaji": "atsui"
+  },
+  {
+    "id": "7",
+    "hiragana": "あつい",
+    "kanji": "厚い",
+    "meaning": "厚的",
+    "romaji": "atsui"
+  },
+  {
+    "id": "8",
+    "hiragana": "あつい",
+    "kanji": "暑い",
+    "meaning": "热的（天气）",
+    "romaji": "atsui"
+  },
+  {
+    "id": "9",
+    "hiragana": "べんり",
+    "kanji": "便利",
+    "meaning": "方便的",
+    "romaji": "benri"
+  },
+  {
+    "id": "10",
+    "hiragana": "ちいさい",
+    "kanji": "小さい",
+    "meaning": "小的",
+    "romaji": "chiisai"
+  },
+  {
+    "id": "11",
+    "hiragana": "ちかい",
+    "kanji": "近い",
+    "meaning": "近的",
+    "romaji": "chikai"
+  },
+  {
+    "id": "12",
+    "hiragana": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "meaning": "没关系；可以",
+    "romaji": "daijoubu"
+  },
+  {
+    "id": "13",
+    "hiragana": "だいすき",
+    "kanji": "大好き",
+    "meaning": "非常喜欢",
+    "romaji": "daisuki"
+  },
+  {
+    "id": "14",
+    "hiragana": "ふるい",
+    "kanji": "古い",
+    "meaning": "旧的；老的",
+    "romaji": "furui"
+  },
+  {
+    "id": "15",
+    "hiragana": "ふとい",
+    "kanji": "太い",
+    "meaning": "粗的；胖的",
+    "romaji": "futoi"
+  },
+  {
+    "id": "16",
+    "hiragana": "げんき",
+    "kanji": "元気",
+    "meaning": "健康的；有精神的",
+    "romaji": "genki"
+  },
+  {
+    "id": "17",
+    "hiragana": "はやい",
+    "kanji": "速い",
+    "meaning": "快的（速度）",
+    "romaji": "hayai"
+  },
+  {
+    "id": "18",
+    "hiragana": "はやい",
+    "kanji": "早い",
+    "meaning": "早的（时间）",
+    "romaji": "hayai"
+  },
+  {
+    "id": "19",
+    "hiragana": "へた",
+    "kanji": "下手",
+    "meaning": "笨拙的；差的",
+    "romaji": "heta"
+  },
+  {
+    "id": "20",
+    "hiragana": "ひくい",
+    "kanji": "低い",
+    "meaning": "低的；矮的",
+    "romaji": "hikui"
+  },
+  {
+    "id": "21",
+    "hiragana": "ひま",
+    "kanji": "暇",
+    "meaning": "空闲的",
+    "romaji": "hima"
+  },
+  {
+    "id": "22",
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "meaning": "宽广的",
+    "romaji": "hiroi"
+  },
+  {
+    "id": "23",
+    "hiragana": "ほんとう",
+    "kanji": "本当",
+    "meaning": "真的",
+    "romaji": "hontou"
+  },
+  {
+    "id": "24",
+    "hiragana": "ほしい",
+    "kanji": "欲しい",
+    "meaning": "想要的",
+    "romaji": "hoshii"
+  },
+  {
+    "id": "25",
+    "hiragana": "ほそい",
+    "kanji": "細い",
+    "meaning": "细的；瘦的",
+    "romaji": "hosoi"
+  },
+  {
+    "id": "26",
+    "hiragana": "いろいろ",
+    "kanji": "色々",
+    "meaning": "各种各样的",
+    "romaji": "iroiro"
+  },
+  {
+    "id": "27",
+    "hiragana": "いそがしい",
+    "kanji": "忙しい",
+    "meaning": "忙碌的",
+    "romaji": "isogashii"
+  },
+  {
+    "id": "28",
+    "hiragana": "いたい",
+    "kanji": "痛い",
+    "meaning": "疼的",
+    "romaji": "itai"
+  },
+  {
+    "id": "29",
+    "hiragana": "いや",
+    "kanji": "嫌",
+    "meaning": "讨厌的；不喜欢的",
+    "romaji": "iya"
+  },
+  {
+    "id": "30",
+    "hiragana": "じょうぶ",
+    "kanji": "丈夫",
+    "meaning": "结实的；健康的",
+    "romaji": "joubu"
+  },
+  {
+    "id": "31",
+    "hiragana": "じょうず",
+    "kanji": "上手",
+    "meaning": "擅长的；高明的",
+    "romaji": "jouzu"
+  },
+  {
+    "id": "32",
+    "hiragana": "からい",
+    "kanji": "辛い",
+    "meaning": "辣的",
+    "romaji": "karai"
+  },
+  {
+    "id": "33",
+    "hiragana": "かるい",
+    "kanji": "軽い",
+    "meaning": "轻的",
+    "romaji": "karui"
+  },
+  {
+    "id": "34",
+    "hiragana": "かわいい",
+    "kanji": "可愛い",
+    "meaning": "可爱的",
+    "romaji": "kawaii"
+  },
+  {
+    "id": "35",
+    "hiragana": "けっこう",
+    "kanji": "結構",
+    "meaning": "相当；足够；不用了",
+    "romaji": "kekkou"
+  },
+  {
+    "id": "36",
+    "hiragana": "きらい",
+    "kanji": "嫌い",
+    "meaning": "讨厌的",
+    "romaji": "kirai"
+  },
+  {
+    "id": "37",
+    "hiragana": "きれい",
+    "kanji": "綺麗",
+    "meaning": "漂亮的；干净的",
+    "romaji": "kirei"
+  },
+  {
+    "id": "38",
+    "hiragana": "きたない",
+    "kanji": "汚い",
+    "meaning": "脏的",
+    "romaji": "kitanai"
+  },
+  {
+    "id": "39",
+    "hiragana": "くらい",
+    "kanji": "暗い",
+    "meaning": "暗的；阴沉的",
+    "romaji": "kurai"
+  },
+  {
+    "id": "40",
+    "hiragana": "まるい",
+    "kanji": "丸い",
+    "meaning": "圆的",
+    "romaji": "marui"
+  },
+  {
+    "id": "41",
+    "hiragana": "まっすぐ",
+    "kanji": "真っ直ぐ",
+    "meaning": "笔直的",
+    "romaji": "massugu"
+  },
+  {
+    "id": "42",
+    "hiragana": "まずい",
+    "kanji": "不味い",
+    "meaning": "不好吃的；难吃的",
+    "romaji": "mazui"
+  },
+  {
+    "id": "43",
+    "hiragana": "みじかい",
+    "kanji": "短い",
+    "meaning": "短的",
+    "romaji": "mijikai"
+  },
+  {
+    "id": "44",
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "meaning": "难的",
+    "romaji": "muzukashii"
+  },
+  {
+    "id": "45",
+    "hiragana": "ながい",
+    "kanji": "長い",
+    "meaning": "长的",
+    "romaji": "nagai"
+  },
+  {
+    "id": "46",
+    "hiragana": "にぎやか",
+    "kanji": "賑やか",
+    "meaning": "热闹的",
+    "romaji": "nigiyaka"
+  },
+  {
+    "id": "47",
+    "hiragana": "ぬるい",
+    "kanji": "温い",
+    "meaning": "温的（不够热）",
+    "romaji": "nurui"
+  },
+  {
+    "id": "48",
+    "hiragana": "おいしい",
+    "kanji": "美味しい",
+    "meaning": "好吃的；美味的",
+    "romaji": "oishii"
+  },
+  {
+    "id": "49",
+    "hiragana": "おもい",
+    "kanji": "重い",
+    "meaning": "重的",
+    "romaji": "omoi"
+  },
+  {
+    "id": "50",
+    "hiragana": "おもしろい",
+    "kanji": "面白い",
+    "meaning": "有趣的",
+    "romaji": "omoshiroi"
+  }
+]

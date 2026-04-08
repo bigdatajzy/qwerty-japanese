@@ -1,0 +1,282 @@
+[
+  {
+    "id": "51",
+    "hiragana": "ひとり",
+    "kanji": "一人",
+    "meaning": "一人；一个人",
+    "romaji": "hitori"
+  },
+  {
+    "id": "52",
+    "hiragana": "ひとつ",
+    "kanji": "一つ",
+    "meaning": "一个（通用量词）",
+    "romaji": "hitotsu"
+  },
+  {
+    "id": "53",
+    "hiragana": "に",
+    "kanji": "二",
+    "meaning": "二",
+    "romaji": "ni"
+  },
+  {
+    "id": "54",
+    "hiragana": "にかい",
+    "kanji": "二階",
+    "meaning": "二楼",
+    "romaji": "nikai"
+  },
+  {
+    "id": "55",
+    "hiragana": "ふたり",
+    "kanji": "二人",
+    "meaning": "两人；两个人",
+    "romaji": "futari"
+  },
+  {
+    "id": "56",
+    "hiragana": "ふたつ",
+    "kanji": "二つ",
+    "meaning": "两个",
+    "romaji": "futatsu"
+  },
+  {
+    "id": "57",
+    "hiragana": "ふつか",
+    "kanji": "二日",
+    "meaning": "(每月)二号",
+    "romaji": "futsuka"
+  },
+  {
+    "id": "58",
+    "hiragana": "さん",
+    "kanji": "三",
+    "meaning": "三",
+    "romaji": "san"
+  },
+  {
+    "id": "59",
+    "hiragana": "みっつ",
+    "kanji": "三つ",
+    "meaning": "三个",
+    "romaji": "mittsu"
+  },
+  {
+    "id": "60",
+    "hiragana": "みっか",
+    "kanji": "三日",
+    "meaning": "(每月)三号",
+    "romaji": "mikka"
+  },
+  {
+    "id": "61",
+    "hiragana": "し",
+    "kanji": "四",
+    "meaning": "四",
+    "romaji": "shi"
+  },
+  {
+    "id": "62",
+    "hiragana": "よつ",
+    "kanji": "四つ",
+    "meaning": "四个",
+    "romaji": "yotsu"
+  },
+  {
+    "id": "63",
+    "hiragana": "よっか",
+    "kanji": "四日",
+    "meaning": "(每月)四号",
+    "romaji": "yokka"
+  },
+  {
+    "id": "64",
+    "hiragana": "ご",
+    "kanji": "五",
+    "meaning": "五",
+    "romaji": "go"
+  },
+  {
+    "id": "65",
+    "hiragana": "いつか",
+    "kanji": "五日",
+    "meaning": "(每月)五号",
+    "romaji": "itsuka"
+  },
+  {
+    "id": "66",
+    "hiragana": "いつつ",
+    "kanji": "五つ",
+    "meaning": "五个",
+    "romaji": "itsutsu"
+  },
+  {
+    "id": "67",
+    "hiragana": "ろく",
+    "kanji": "六",
+    "meaning": "六",
+    "romaji": "roku"
+  },
+  {
+    "id": "68",
+    "hiragana": "むいか",
+    "kanji": "六日",
+    "meaning": "(每月)六号",
+    "romaji": "muika"
+  },
+  {
+    "id": "69",
+    "hiragana": "むっつ",
+    "kanji": "六つ",
+    "meaning": "六个",
+    "romaji": "muttsu"
+  },
+  {
+    "id": "70",
+    "hiragana": "しち",
+    "kanji": "七",
+    "meaning": "七",
+    "romaji": "shichi"
+  },
+  {
+    "id": "71",
+    "hiragana": "ななつ",
+    "kanji": "七つ",
+    "meaning": "七个",
+    "romaji": "nanatsu"
+  },
+  {
+    "id": "72",
+    "hiragana": "なのか",
+    "kanji": "七日",
+    "meaning": "(每月)七号",
+    "romaji": "nanoka"
+  },
+  {
+    "id": "73",
+    "hiragana": "はち",
+    "kanji": "八",
+    "meaning": "八",
+    "romaji": "hachi"
+  },
+  {
+    "id": "74",
+    "hiragana": "やっつ",
+    "kanji": "八つ",
+    "meaning": "八个",
+    "romaji": "yattsu"
+  },
+  {
+    "id": "75",
+    "hiragana": "ようか",
+    "kanji": "八日",
+    "meaning": "(每月)八号",
+    "romaji": "youka"
+  },
+  {
+    "id": "76",
+    "hiragana": "ここのか",
+    "kanji": "九日",
+    "meaning": "(每月)九号",
+    "romaji": "kokonoka"
+  },
+  {
+    "id": "77",
+    "hiragana": "ここのつ",
+    "kanji": "九つ",
+    "meaning": "九个",
+    "romaji": "kokonotsu"
+  },
+  {
+    "id": "78",
+    "hiragana": "じゅう",
+    "kanji": "十",
+    "meaning": "十",
+    "romaji": "juu"
+  },
+  {
+    "id": "79",
+    "hiragana": "とおか",
+    "kanji": "十日",
+    "meaning": "(每月)十号",
+    "romaji": "tooka"
+  },
+  {
+    "id": "80",
+    "hiragana": "はたち",
+    "kanji": "二十歳",
+    "meaning": "二十岁",
+    "romaji": "hatachi"
+  },
+  {
+    "id": "81",
+    "hiragana": "はつか",
+    "kanji": "二十日",
+    "meaning": "(每月)二十号",
+    "romaji": "hatsuka"
+  },
+  {
+    "id": "82",
+    "hiragana": "せん",
+    "kanji": "千",
+    "meaning": "千",
+    "romaji": "sen"
+  },
+  {
+    "id": "83",
+    "hiragana": "まん",
+    "kanji": "万",
+    "meaning": "万",
+    "romaji": "man"
+  },
+  {
+    "id": "84",
+    "hiragana": "げつようび",
+    "kanji": "月曜日",
+    "meaning": "星期一",
+    "romaji": "getsuyoubi"
+  },
+  {
+    "id": "85",
+    "hiragana": "かようび",
+    "kanji": "火曜日",
+    "meaning": "星期二",
+    "romaji": "kayoubi"
+  },
+  {
+    "id": "86",
+    "hiragana": "すいようび",
+    "kanji": "水曜日",
+    "meaning": "星期三",
+    "romaji": "suiyoubi"
+  },
+  {
+    "id": "87",
+    "hiragana": "もくようび",
+    "kanji": "木曜日",
+    "meaning": "星期四",
+    "romaji": "mokuyoubi"
+  },
+  {
+    "id": "88",
+    "hiragana": "きんようび",
+    "kanji": "金曜日",
+    "meaning": "星期五",
+    "romaji": "kinyoubi"
+  },
+  {
+    "id": "89",
+    "hiragana": "どようび",
+    "kanji": "土曜日",
+    "meaning": "星期六",
+    "romaji": "doyoubi"
+  },
+  {
+    "id": "90",
+    "hiragana": "にちようび",
+    "kanji": "日曜日",
+    "meaning": "星期日",
+    "romaji": "nichiyoubi"
+  }
+]

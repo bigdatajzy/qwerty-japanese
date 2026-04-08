@@ -6,24 +6,17 @@ import { useSettingsStore } from '@/stores/settings'
 import { orderedWordsForMode } from '@/utils/practiceWords'
 import type { TypingMode } from '@/types/typing'
 import { normalizeWordRomaji } from '@/utils/wordRomaji'
-
-const wordJsonBase = `${import.meta.env.BASE_URL}words/`
-
-interface Word {
-  id: string
-  hiragana: string
-  kanji: string
-  meaning: string
-  romaji: string
-}
+import type { PracticeWord } from '@/types/word'
+import { loadWordsForSet } from '@/api/wordsData'
+import { recordPracticeSession } from '@/utils/practiceStatsDb'
 
 const route = useRoute()
 const router = useRouter()
 const settingsStore = useSettingsStore()
 const { playCorrect, playError, playComplete } = useSound()
 
-const words = ref<Word[]>([])
-const sessionWords = ref<Word[]>([])
+const words = ref<PracticeWord[]>([])
+const sessionWords = ref<PracticeWord[]>([])
 const isLoading = ref(true)
 const loadError = ref(false)
 
@@ -70,7 +63,7 @@ const accuracy = computed(() => {
 
 const inputMode = computed(() => settingsStore.settings.inputMode ?? 'romaji')
 
-function displayTarget(w: Word | null): string {
+function displayTarget(w: PracticeWord | null): string {
   if (!w) return '?'
   const k = w.kanji?.trim()
   return k || w.hiragana
@@ -98,15 +91,10 @@ async function loadWords() {
   isLoading.value = true
   loadError.value = false
   words.value = []
-  for (let i = 1; i <= 10; i++) {
-    try {
-      const res = await fetch(`${wordJsonBase}${level.value}-${i}.json`)
-      if (!res.ok) break
-      const data = (await res.json()) as Word[]
-      if (data?.length) words.value.push(...data)
-    } catch {
-      break
-    }
+  try {
+    words.value = await loadWordsForSet(level.value)
+  } catch {
+    loadError.value = true
   }
   if (words.value.length === 0) loadError.value = true
   sessionWords.value = orderedWordsForMode(words.value, resolveOrderMode())
@@ -119,7 +107,7 @@ function startSession() {
   startTime.value = Date.now()
 }
 
-function finishPractice() {
+async function finishPractice() {
   const endTime = Date.now()
   playComplete()
   const durationSec = startTime.value ? (endTime - startTime.value) / 1000 : 0
@@ -143,6 +131,19 @@ function finishPractice() {
       errors: errors.value,
     }),
   )
+  await recordPracticeSession({
+    type: 'word',
+    sourceId: level.value,
+    sourceName: `${level.value.toUpperCase()} 单词`,
+    startedAt: startTime.value || endTime,
+    endedAt: endTime,
+    durationSec,
+    unitsTotal: totalWords.value,
+    unitsCorrect: correctCount.value,
+    unitsError: errorCount.value,
+    accuracy: acc,
+    wpm: wpmFinal,
+  })
   router.push({ name: 'result' })
 }
 

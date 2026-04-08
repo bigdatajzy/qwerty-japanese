@@ -1,0 +1,352 @@
+[
+  {
+    "id": "301",
+    "hiragana": "うで",
+    "kanji": "腕",
+    "meaning": "手臂 / 胳膊",
+    "romaji": "ude"
+  },
+  {
+    "id": "302",
+    "hiragana": "うけつけ",
+    "kanji": "受付",
+    "meaning": "接待处 / 前台",
+    "romaji": "uketsuke"
+  },
+  {
+    "id": "303",
+    "hiragana": "うまれ",
+    "kanji": "生まれ",
+    "meaning": "出生 / 出生地",
+    "romaji": "umare"
+  },
+  {
+    "id": "304",
+    "hiragana": "うんてんしゅ",
+    "kanji": "運転手",
+    "meaning": "司机",
+    "romaji": "untenshu"
+  },
+  {
+    "id": "305",
+    "hiragana": "うら",
+    "kanji": "裏",
+    "meaning": "反面 / 后面 / 内幕",
+    "romaji": "ura"
+  },
+  {
+    "id": "306",
+    "hiragana": "うりば",
+    "kanji": "売り場",
+    "meaning": "卖场 / 柜台",
+    "romaji": "uriba"
+  },
+  {
+    "id": "307",
+    "hiragana": "うそ",
+    "kanji": "嘘",
+    "meaning": "谎言",
+    "romaji": "uso"
+  },
+  {
+    "id": "308",
+    "hiragana": "わりあい",
+    "kanji": "割合",
+    "meaning": "比例 / 比率",
+    "romaji": "wariai"
+  },
+  {
+    "id": "309",
+    "hiragana": "わすれもの",
+    "kanji": "忘れ物",
+    "meaning": "遗失物品",
+    "romaji": "wasuremono"
+  },
+  {
+    "id": "310",
+    "hiragana": "やくそく",
+    "kanji": "約束",
+    "meaning": "约定 / 承诺",
+    "romaji": "yakusoku"
+  },
+  {
+    "id": "311",
+    "hiragana": "よしゅう",
+    "kanji": "予習",
+    "meaning": "预习",
+    "romaji": "yoshuu"
+  },
+  {
+    "id": "312",
+    "hiragana": "よてい",
+    "kanji": "予定",
+    "meaning": "预定 / 计划",
+    "romaji": "yotei"
+  },
+  {
+    "id": "313",
+    "hiragana": "よう",
+    "kanji": "用",
+    "meaning": "事情 / 用途",
+    "romaji": "you"
+  },
+  {
+    "id": "314",
+    "hiragana": "ようい",
+    "kanji": "用意",
+    "meaning": "准备",
+    "romaji": "youi"
+  },
+  {
+    "id": "315",
+    "hiragana": "ようじ",
+    "kanji": "用事",
+    "meaning": "事情 / 事务",
+    "romaji": "youji"
+  },
+  {
+    "id": "316",
+    "hiragana": "よやく",
+    "kanji": "予約",
+    "meaning": "预约",
+    "romaji": "yoyaku"
+  },
+  {
+    "id": "317",
+    "hiragana": "ゆ",
+    "kanji": "湯",
+    "meaning": "热水 / 开水 / 温泉",
+    "romaji": "yu"
+  },
+  {
+    "id": "318",
+    "hiragana": "ゆび",
+    "kanji": "指",
+    "meaning": "手指 / 脚趾",
+    "romaji": "yubi"
+  },
+  {
+    "id": "319",
+    "hiragana": "ゆびわ",
+    "kanji": "指輪",
+    "meaning": "戒指",
+    "romaji": "yubiwa"
+  },
+  {
+    "id": "320",
+    "hiragana": "ゆめ",
+    "kanji": "夢",
+    "meaning": "梦",
+    "romaji": "yume"
+  },
+  {
+    "id": "321",
+    "hiragana": "ざんねん",
+    "kanji": "残念",
+    "meaning": "遗憾 / 可惜",
+    "romaji": "zannen"
+  },
+  {
+    "id": "322",
+    "hiragana": "afurika",
+    "kanji": "アフリカ",
+    "meaning": "Africa",
+    "romaji": "非洲"
+  },
+  {
+    "id": "323",
+    "hiragana": "ajia",
+    "kanji": "アジア",
+    "meaning": "Asia",
+    "romaji": "亚洲"
+  },
+  {
+    "id": "324",
+    "hiragana": "akusesarii",
+    "kanji": "アクセサリー",
+    "meaning": "accessory",
+    "romaji": "饰品 / 配件"
+  },
+  {
+    "id": "325",
+    "hiragana": "amerika",
+    "kanji": "アメリカ",
+    "meaning": "America",
+    "romaji": "美国"
+  },
+  {
+    "id": "326",
+    "hiragana": "anaunsaa",
+    "kanji": "アナウンサー",
+    "meaning": "announcer",
+    "romaji": "播音员"
+  },
+  {
+    "id": "327",
+    "hiragana": "arubaito",
+    "kanji": "アルバイト",
+    "meaning": "part-time job",
+    "romaji": "兼职 / 打工"
+  },
+  {
+    "id": "328",
+    "hiragana": "arukooru",
+    "kanji": "アルコール",
+    "meaning": "alcohol",
+    "romaji": "酒精"
+  },
+  {
+    "id": "329",
+    "hiragana": "beru",
+    "kanji": "ベル",
+    "meaning": "bell",
+    "romaji": "铃 / 门铃"
+  },
+  {
+    "id": "330",
+    "hiragana": "biru",
+    "kanji": "ビル",
+    "meaning": "building",
+    "romaji": "大楼 / 大厦"
+  },
+  {
+    "id": "331",
+    "hiragana": "chekku",
+    "kanji": "チェック",
+    "meaning": "to check",
+    "romaji": "检查 / 核对"
+  },
+  {
+    "id": "332",
+    "hiragana": "esukareetaa",
+    "kanji": "エスカレーター",
+    "meaning": "escalator",
+    "romaji": "自动扶梯"
+  },
+  {
+    "id": "333",
+    "hiragana": "fakkusu",
+    "kanji": "ファックス",
+    "meaning": "fax",
+    "romaji": "传真"
+  },
+  {
+    "id": "334",
+    "hiragana": "garasu",
+    "kanji": "ガラス",
+    "meaning": "a glass",
+    "romaji": "玻璃 / 玻璃杯"
+  },
+  {
+    "id": "335",
+    "hiragana": "gasorin",
+    "kanji": "ガソリン",
+    "meaning": "gasoline; petrol",
+    "romaji": "汽油"
+  },
+  {
+    "id": "336",
+    "hiragana": "gasorin sutando",
+    "kanji": "ガソリンスタンド",
+    "meaning": "petrol station",
+    "romaji": "加油站"
+  },
+  {
+    "id": "337",
+    "hiragana": "gasu",
+    "kanji": "ガス",
+    "meaning": "petrol",
+    "romaji": "汽油 / 煤气"
+  },
+  {
+    "id": "338",
+    "hiragana": "handobaggu",
+    "kanji": "ハンドバッグ",
+    "meaning": "handbag",
+    "romaji": "手提包"
+  },
+  {
+    "id": "339",
+    "hiragana": "jamu",
+    "kanji": "ジャム",
+    "meaning": "jam",
+    "romaji": "果酱"
+  },
+  {
+    "id": "340",
+    "hiragana": "kaaten",
+    "kanji": "カーテン",
+    "meaning": "curtain",
+    "romaji": "窗帘"
+  },
+  {
+    "id": "341",
+    "hiragana": "keeki",
+    "kanji": "ケーキ",
+    "meaning": "cake",
+    "romaji": "蛋糕"
+  },
+  {
+    "id": "342",
+    "hiragana": "konpyuuta",
+    "kanji": "コンピュータ",
+    "meaning": "computer",
+    "romaji": "电脑 / 计算机"
+  },
+  {
+    "id": "343",
+    "hiragana": "konsaato",
+    "kanji": "コンサート",
+    "meaning": "concert",
+    "romaji": "音乐会 / 演唱会"
+  },
+  {
+    "id": "344",
+    "hiragana": "ootobai",
+    "kanji": "オートバイ",
+    "meaning": "motorcycle",
+    "romaji": "摩托车"
+  },
+  {
+    "id": "345",
+    "hiragana": "paato",
+    "kanji": "パート",
+    "meaning": "part; part time",
+    "romaji": "兼职 / 部分"
+  },
+  {
+    "id": "346",
+    "hiragana": "pasokon",
+    "kanji": "パソコン",
+    "meaning": "personal computer",
+    "romaji": "个人电脑"
+  },
+  {
+    "id": "347",
+    "hiragana": "piano",
+    "kanji": "ピアノ",
+    "meaning": "piano",
+    "romaji": "钢琴"
+  },
+  {
+    "id": "348",
+    "hiragana": "purezento",
+    "kanji": "プレゼント",
+    "meaning": "present; gift",
+    "romaji": "礼物"
+  },
+  {
+    "id": "349",
+    "hiragana": "reji",
+    "kanji": "レジ",
+    "meaning": "cashier​",
+    "romaji": "收银台 / 收银员"
+  },
+  {
+    "id": "350",
+    "hiragana": "repooto",
+    "kanji": "レポート",
+    "meaning": "report",
+    "romaji": "报告"
+  }
+]
