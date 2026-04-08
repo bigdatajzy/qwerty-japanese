@@ -331,7 +331,7 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
     <template v-else>
       <header class="bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm shadow-sm sticky top-0 z-10">
         <div class="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between">
-          <button @click="router.push({ name: 'articles' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-indigo-600">
+          <button @click="router.push({ name: 'articles' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600">
             <span class="text-xl">←</span><span>退出</span>
           </button>
           <h1 class="text-lg font-semibold text-slate-800 dark:text-white truncate max-w-xs">{{ article?.title || '文章练习' }}</h1>

@@ -275,7 +275,7 @@ onUnmounted(() => {
         <div class="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between flex-wrap gap-2">
           <button
             type="button"
-            class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-indigo-600"
+            class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600"
             @click="router.push({ name: 'words' })"
           >
             <span class="text-xl">←</span><span>退出</span>
