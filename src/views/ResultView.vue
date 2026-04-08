@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted } from 'vue'
+import { computed } from 'vue'
 import { useRouter } from 'vue-router'
 
 const router = useRouter()
@@ -16,6 +16,11 @@ interface WordResult {
   correctCount: number
   errorCount: number
   level: string
+  wpm?: number
+  duration?: number
+  accuracy?: number
+  practiceMode?: 'sequential' | 'random'
+  errors?: { word: string; expected: string; actual: string }[]
 }
 
 interface TypingPracticeResult {
@@ -55,14 +60,24 @@ const result = computed(() => {
   if (wordStored) {
     try {
       const data = JSON.parse(wordStored) as WordResult
+      const acc =
+        data.accuracy ??
+        (data.totalWords > 0 ? Math.round((data.correctCount / data.totalWords) * 100) : 0)
+      const pm =
+        data.practiceMode === 'sequential' || data.practiceMode === 'random'
+          ? data.practiceMode
+          : 'random'
       return {
-        type: 'word',
-        accuracy: data.totalWords > 0 ? Math.round((data.correctCount / data.totalWords) * 100) : 0,
+        type: 'word' as const,
+        level: data.level || '',
+        wpm: data.wpm ?? 0,
+        duration: data.duration ?? 0,
+        accuracy: acc,
         totalWords: data.totalWords || 0,
         correctCount: data.correctCount || 0,
         errorCount: data.errorCount || 0,
-        level: data.level || '',
-        errors: []
+        practiceMode: pm,
+        errors: data.errors ?? [],
       }
     } catch (e) {
       console.error('Failed to parse word result:', e)
@@ -101,15 +116,21 @@ const result = computed(() => {
 })
 
 function retry() {
+  const r = result.value
   sessionStorage.removeItem('article-result')
   sessionStorage.removeItem('word-result')
   sessionStorage.removeItem('typing-practice-result')
-  if (result.value.type === 'word') {
-    router.push({ name: 'words' })
-  } else if (result.value.type === 'typing') {
+  if (r.type === 'word') {
+    const modeQ = r.practiceMode === 'sequential' ? 'order' : 'random'
+    router.push({
+      name: 'word-practice',
+      params: { level: r.level || 'n5', fileIndex: 1, wordIndex: 0 },
+      query: { mode: modeQ },
+    })
+  } else if (r.type === 'typing') {
     router.push({
       name: 'practice',
-      params: { dictId: result.value.dictId },
+      params: { dictId: r.dictId },
       query: { mode: 'random' },
     })
   } else {
@@ -153,9 +174,15 @@ function formatTime(seconds: number): string {
           </span>
         </div>
         <div class="grid grid-cols-2 gap-6">
-          <div v-if="result.type === 'typing'" class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50 col-span-2">
+          <div
+            v-if="result.type === 'typing' || result.type === 'word'"
+            class="text-center p-5 rounded-2xl bg-slate-50 dark:bg-slate-700/50 col-span-2"
+          >
             <div class="text-4xl font-bold text-indigo-600 dark:text-indigo-400">{{ result.wpm }}</div>
             <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">WPM</div>
+            <div v-if="result.type === 'word' && result.duration > 0" class="text-xs text-slate-400 mt-2">
+              用时 {{ formatTime(result.duration) }}
+            </div>
           </div>
           <div class="text-center p-5 rounded-2xl bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20">
             <div class="text-5xl font-bold bg-gradient-to-r from-emerald-500 to-teal-500 bg-clip-text text-transparent">{{ result.accuracy }}%</div>
@@ -173,6 +200,19 @@ function formatTime(seconds: number): string {
             <div class="text-3xl font-bold text-red-500">{{ result.errorCount }}</div>
             <div class="text-sm text-slate-500 dark:text-slate-400 mt-2">错误</div>
           </div>
+        </div>
+
+        <div
+          v-if="result.type === 'word' && result.errors && result.errors.length > 0"
+          class="mt-6 rounded-xl border border-slate-200 dark:border-slate-600 p-4 text-left"
+        >
+          <h3 class="text-sm font-semibold text-slate-700 dark:text-slate-200 mb-2">错误记录</h3>
+          <ul class="text-sm text-slate-600 dark:text-slate-300 space-y-1 max-h-40 overflow-y-auto">
+            <li v-for="(err, i) in result.errors" :key="i">
+              <span class="font-medium">{{ err.word }}</span>
+              — 期望 {{ err.expected }}，输入 {{ err.actual }}
+            </li>
+          </ul>
         </div>
       </div>
 

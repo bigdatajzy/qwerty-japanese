@@ -1,8 +1,11 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref } from 'vue'
 import { useRouter } from 'vue-router'
 
 const router = useRouter()
+
+/** 与 word-practice 路由 query.mode 对齐：order → 顺序，其它 → 随机 */
+const practiceOrder = ref<'random' | 'sequential'>('random')
 
 interface WordLevel {
   id: string
@@ -20,11 +23,13 @@ const levels = ref<WordLevel[]>([
   { id: 'n1', name: 'N1词汇', level: 'N1', wordCount: 0, description: '高级，约2500词（待添加）' },
 ])
 
-const availableLevels = ref<string[]>(['n5'])
-
 function startPractice(level: WordLevel) {
   if (level.wordCount > 0) {
-    router.push({ name: 'word-practice', params: { level: level.id, fileIndex: 1, wordIndex: 0 } })
+    router.push({
+      name: 'word-practice',
+      params: { level: level.id, fileIndex: 1, wordIndex: 0 },
+      query: { mode: practiceOrder.value === 'sequential' ? 'order' : 'random' },
+    })
   }
 }
 </script>
@@ -36,12 +41,42 @@ function startPractice(level: WordLevel) {
         <button @click="router.push({ name: 'home' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-indigo-600">
           <span class="text-xl">←</span><span>返回</span>
         </button>
-        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">单词练习</h1>
+        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">单词打字</h1>
         <div class="w-16"></div>
       </div>
     </header>
 
     <main class="max-w-3xl mx-auto px-4 py-8">
+      <p class="text-sm text-slate-600 dark:text-slate-400 mb-4">
+        看汉字/词，用设置中的输入方式（罗马字或假名）打出读音。完成一轮后可在结果页查看 WPM 与错题。
+      </p>
+      <div class="flex flex-wrap gap-3 mb-6">
+        <span class="text-sm text-slate-500 dark:text-slate-400 self-center">出题顺序</span>
+        <button
+          type="button"
+          @click="practiceOrder = 'sequential'"
+          class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
+          :class="
+            practiceOrder === 'sequential'
+              ? 'bg-indigo-600 text-white'
+              : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
+          "
+        >
+          顺序
+        </button>
+        <button
+          type="button"
+          @click="practiceOrder = 'random'"
+          class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
+          :class="
+            practiceOrder === 'random'
+              ? 'bg-indigo-600 text-white'
+              : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
+          "
+        >
+          随机
+        </button>
+      </div>
       <div class="grid gap-4">
         <div v-for="item in levels" :key="item.id"
           @click="startPractice(item)"
