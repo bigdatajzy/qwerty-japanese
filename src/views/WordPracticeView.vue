@@ -4,10 +4,13 @@ import { useRoute, useRouter } from 'vue-router'
 import { useSound } from '@/composables/useSound'
 import { useSettingsStore } from '@/stores/settings'
 import { orderedWordsForMode } from '@/utils/practiceWords'
-import type { TypingMode } from '@/types/typing'
 import { normalizeWordRomaji } from '@/utils/wordRomaji'
 import type { PracticeWord } from '@/types/word'
-import { loadWordsForSet } from '@/api/wordsData'
+import {
+  fetchWordsManifest,
+  loadWordsForSet,
+  loadWordsForSetProgressive,
+} from '@/api/wordsData'
 import { recordPracticeSession } from '@/utils/practiceStatsDb'
 import {
   clearWordPracticeProgress,
@@ -24,6 +27,10 @@ const words = ref<PracticeWord[]>([])
 const sessionWords = ref<PracticeWord[]>([])
 const isLoading = ref(true)
 const loadError = ref(false)
+/** manifest 中的总词数；渐进加载时用于进度条分母 */
+const expectedWordCount = ref(0)
+/** 路由切换时递增，用于取消上一页的渐进加载 */
+let loadGeneration = 0
 
 const currentIndex = ref(0)
 const inputRef = ref<HTMLInputElement | null>(null)
@@ -41,19 +48,25 @@ const isStarted = ref(false)
 
 const level = computed(() => route.params.level as string)
 
-function resolveOrderMode(): TypingMode {
-  const m = route.query.mode
-  const raw = typeof m === 'string' ? m : Array.isArray(m) ? m[0] : ''
-  if (raw === 'order' || raw === 'sequential') return 'sequential'
-  return 'random'
-}
-
 const currentWord = computed(() => sessionWords.value[currentIndex.value] || null)
 const nextWord = computed(() => sessionWords.value[currentIndex.value + 1] || null)
-const totalWords = computed(() => sessionWords.value.length)
-const progress = computed(() =>
-  totalWords.value > 0 ? (currentIndex.value / totalWords.value) * 100 : 0,
+const totalWordsDisplay = computed(() => {
+  if (expectedWordCount.value > 0) return expectedWordCount.value
+  return sessionWords.value.length
+})
+
+const wordsLoadingMore = computed(
+  () =>
+    expectedWordCount.value > 0 &&
+    words.value.length > 0 &&
+    words.value.length < expectedWordCount.value,
 )
+
+const progress = computed(() => {
+  const denom = totalWordsDisplay.value
+  if (denom <= 0) return 0
+  return (currentIndex.value / denom) * 100
+})
 
 const wpm = computed(() => {
   if (!startTime.value || correctCount.value === 0) return 0
@@ -94,82 +107,133 @@ function toggleInputMode() {
 
 function persistProgress() {
   if (loadError.value || sessionWords.value.length === 0) return
-  const total = sessionWords.value.length
+  if (currentIndex.value < 0 || currentIndex.value >= sessionWords.value.length) return
+  const total = expectedWordCount.value || sessionWords.value.length
   // 未答过第一题（仍为第 1 题）不写盘，避免列表里出现无意义的「1/700」
   if (currentIndex.value <= 0 || currentIndex.value >= total) return
-  const mode = resolveOrderMode()
+  if (words.value.length < total) return
   saveWordPracticeProgress({
     setId: level.value,
-    mode,
     currentIndex: currentIndex.value,
     totalWords: total,
-    wordIds: mode === 'random' ? sessionWords.value.map((w) => w.id) : undefined,
   })
+}
+
+function extendSessionWords() {
+  sessionWords.value = orderedWordsForMode(words.value, 'sequential')
+}
+
+function buildSessionAfterLoad(saved: ReturnType<typeof loadWordPracticeProgress> | null) {
+  const expected = expectedWordCount.value
+  const total = words.value.length
+
+  sessionWords.value = orderedWordsForMode(words.value, 'sequential')
+  if (saved && expected > 0 && saved.totalWords === expected && saved.currentIndex >= 0 && saved.currentIndex < total) {
+    currentIndex.value = saved.currentIndex
+  } else {
+    currentIndex.value = 0
+  }
 }
 
 async function loadWords() {
   isLoading.value = true
   loadError.value = false
   words.value = []
+  expectedWordCount.value = 0
+
+  let m: Awaited<ReturnType<typeof fetchWordsManifest>>
   try {
-    words.value = await loadWordsForSet(level.value)
+    m = await fetchWordsManifest()
   } catch {
     loadError.value = true
-  }
-  if (words.value.length === 0) loadError.value = true
-  if (loadError.value) {
     isLoading.value = false
     return
   }
 
-  const mode = resolveOrderMode()
-  const total = words.value.length
-  const saved = loadWordPracticeProgress(level.value, mode)
-
-  if (mode === 'random') {
-    if (
-      saved &&
-      saved.totalWords === total &&
-      saved.wordIds &&
-      saved.wordIds.length === total &&
-      saved.currentIndex < total
-    ) {
-      const map = new Map(words.value.map((w) => [w.id, w]))
-      const rebuilt = saved.wordIds
-        .map((id) => map.get(id))
-        .filter((x): x is PracticeWord => x != null)
-      if (rebuilt.length === total) {
-        sessionWords.value = rebuilt
-        currentIndex.value = Math.min(saved.currentIndex, total - 1)
-      } else {
-        sessionWords.value = orderedWordsForMode(words.value, 'random')
-        currentIndex.value = 0
-      }
-    } else {
-      sessionWords.value = orderedWordsForMode(words.value, 'random')
-      currentIndex.value = 0
-    }
-  } else {
-    sessionWords.value = orderedWordsForMode(words.value, 'sequential')
-    if (saved && saved.totalWords === total && saved.currentIndex >= 0 && saved.currentIndex < total) {
-      currentIndex.value = saved.currentIndex
-    } else {
-      currentIndex.value = 0
-    }
+  const set = m.sets.find((s) => s.id === level.value)
+  if (!set?.chunks?.length) {
+    loadError.value = true
+    isLoading.value = false
+    return
   }
 
-  isLoading.value = false
+  expectedWordCount.value = set.wordCount
+  const saved = loadWordPracticeProgress(level.value)
+
+  const fullRestore =
+    Boolean(
+      saved &&
+        saved.totalWords === set.wordCount &&
+        saved.currentIndex >= 0 &&
+        saved.currentIndex < set.wordCount,
+    )
+
+  if (fullRestore) {
+    try {
+      words.value = await loadWordsForSet(level.value)
+    } catch {
+      loadError.value = true
+      isLoading.value = false
+      return
+    }
+    if (words.value.length === 0) loadError.value = true
+    if (loadError.value) {
+      isLoading.value = false
+      return
+    }
+    buildSessionAfterLoad(saved)
+    isLoading.value = false
+    return
+  }
+
+  const gen = loadGeneration
+
+  try {
+    let firstResolved = false
+    await new Promise<void>((resolve, reject) => {
+      void loadWordsForSetProgressive(level.value, {
+        shouldContinue: () => gen === loadGeneration,
+        onFirstChunk: async (first, meta) => {
+          try {
+            if (gen !== loadGeneration) return
+            words.value = first
+            expectedWordCount.value = meta.wordCount
+            if (first.length === 0) {
+              loadError.value = true
+              isLoading.value = false
+              if (!firstResolved) {
+                firstResolved = true
+                resolve()
+              }
+              return
+            }
+            buildSessionAfterLoad(null)
+            isLoading.value = false
+            if (!firstResolved) {
+              firstResolved = true
+              resolve()
+            }
+          } catch (e) {
+            reject(e)
+          }
+        },
+        onAppend: async (all) => {
+          if (gen !== loadGeneration) return
+          words.value = all
+          extendSessionWords()
+        },
+      }).catch(reject)
+    })
+  } catch {
+    loadError.value = true
+    isLoading.value = false
+  }
 }
 
 function restartFromBeginning() {
-  clearWordPracticeProgress(level.value, resolveOrderMode())
+  clearWordPracticeProgress(level.value)
   if (words.value.length === 0) return
-  const mode = resolveOrderMode()
-  if (mode === 'random') {
-    sessionWords.value = orderedWordsForMode(words.value, 'random')
-  } else {
-    sessionWords.value = orderedWordsForMode(words.value, 'sequential')
-  }
+  sessionWords.value = orderedWordsForMode(words.value, 'sequential')
   currentIndex.value = 0
   correctCount.value = 0
   errorCount.value = 0
@@ -189,7 +253,7 @@ function startSession() {
 }
 
 async function finishPractice() {
-  clearWordPracticeProgress(level.value, resolveOrderMode())
+  clearWordPracticeProgress(level.value)
   const endTime = Date.now()
   playComplete()
   const durationSec = startTime.value ? (endTime - startTime.value) / 1000 : 0
@@ -202,11 +266,11 @@ async function finishPractice() {
   sessionStorage.setItem(
     'word-result',
     JSON.stringify({
-      totalWords: totalWords.value,
+      totalWords: totalWordsDisplay.value,
       correctCount: correctCount.value,
       errorCount: errorCount.value,
       level: level.value,
-      practiceMode: resolveOrderMode(),
+      practiceMode: 'sequential',
       wpm: wpmFinal,
       duration: durationSec,
       accuracy: acc,
@@ -220,7 +284,7 @@ async function finishPractice() {
     startedAt: startTime.value || endTime,
     endedAt: endTime,
     durationSec,
-    unitsTotal: totalWords.value,
+    unitsTotal: totalWordsDisplay.value,
     unitsCorrect: correctCount.value,
     unitsError: errorCount.value,
     accuracy: acc,
@@ -229,9 +293,27 @@ async function finishPractice() {
   router.push({ name: 'result' })
 }
 
-function advanceOrFinish() {
-  currentIndex.value++
-  if (currentIndex.value >= totalWords.value) {
+async function waitUntilSessionCanShowIndex(index: number) {
+  if (expectedWordCount.value <= 0) return
+  let spins = 0
+  const maxSpins = 600
+  while (
+    sessionWords.value.length <= index &&
+    words.value.length < expectedWordCount.value &&
+    spins < maxSpins
+  ) {
+    spins++
+    await new Promise((r) => setTimeout(r, 40))
+  }
+}
+
+async function advanceOrFinish() {
+  const next = currentIndex.value + 1
+  if (next >= sessionWords.value.length && words.value.length < expectedWordCount.value) {
+    await waitUntilSessionCanShowIndex(next)
+  }
+  currentIndex.value = next
+  if (currentIndex.value >= sessionWords.value.length) {
     finishPractice()
   } else {
     persistProgress()
@@ -257,7 +339,7 @@ function handleInput() {
       playCorrect()
       setTimeout(() => {
         inputStatus.value = 'default'
-        advanceOrFinish()
+        void advanceOrFinish()
       }, 200)
       return
     }
@@ -284,7 +366,7 @@ function handleInput() {
     playCorrect()
     setTimeout(() => {
       inputStatus.value = 'default'
-      advanceOrFinish()
+      void advanceOrFinish()
     }, 200)
     return
   }
@@ -307,8 +389,9 @@ function onKeydown(e: KeyboardEvent) {
 }
 
 watch(
-  () => [level.value, route.query.mode] as const,
+  () => level.value,
   async () => {
+    loadGeneration++
     currentIndex.value = 0
     inputValue.value = ''
     correctCount.value = 0
@@ -342,7 +425,7 @@ onUnmounted(() => {
   <div class="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800">
     <div v-if="isLoading" class="flex items-center justify-center min-h-screen">
       <div class="text-center">
-        <div class="w-12 h-12 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+        <div class="w-12 h-12 border-4 border-emerald-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
         <p class="text-slate-500 dark:text-slate-400">加载词库...</p>
       </div>
     </div>
@@ -380,9 +463,17 @@ onUnmounted(() => {
               从头开始
             </button>
           </div>
-          <h1 class="text-lg font-semibold text-slate-800 dark:text-white">
-            {{ level.toUpperCase() }} 单词打字
-          </h1>
+          <div class="flex flex-col items-center gap-0.5 min-w-0">
+            <h1 class="text-lg font-semibold text-slate-800 dark:text-white">
+              {{ level.toUpperCase() }} 单词打字
+            </h1>
+            <p
+              v-if="wordsLoadingMore"
+              class="text-[10px] text-emerald-600/90 dark:text-emerald-400/90 whitespace-nowrap"
+            >
+              词库加载中…
+            </p>
+          </div>
           <div class="flex items-center gap-2 flex-wrap justify-end">
             <button
               type="button"
@@ -421,7 +512,7 @@ onUnmounted(() => {
             ></div>
           </div>
           <div class="text-center mt-2 text-sm text-slate-500 dark:text-slate-400">
-            {{ currentIndex + 1 }} / {{ totalWords }}
+            {{ currentIndex + 1 }} / {{ totalWordsDisplay }}
           </div>
         </div>
 

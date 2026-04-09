@@ -19,7 +19,8 @@ interface WordResult {
   wpm?: number
   duration?: number
   accuracy?: number
-  practiceMode?: 'sequential' | 'random'
+  /** 单词练习固定为顺序；保留字段以兼容旧 sessionStorage */
+  practiceMode?: 'sequential'
   errors?: { word: string; expected: string; actual: string }[]
 }
 
@@ -63,10 +64,6 @@ const result = computed(() => {
       const acc =
         data.accuracy ??
         (data.totalWords > 0 ? Math.round((data.correctCount / data.totalWords) * 100) : 0)
-      const pm =
-        data.practiceMode === 'sequential' || data.practiceMode === 'random'
-          ? data.practiceMode
-          : 'random'
       return {
         type: 'word' as const,
         level: data.level || '',
@@ -76,7 +73,7 @@ const result = computed(() => {
         totalWords: data.totalWords || 0,
         correctCount: data.correctCount || 0,
         errorCount: data.errorCount || 0,
-        practiceMode: pm,
+        practiceMode: 'sequential' as const,
         errors: data.errors ?? [],
       }
     } catch (e) {
@@ -121,11 +118,9 @@ function retry() {
   sessionStorage.removeItem('word-result')
   sessionStorage.removeItem('typing-practice-result')
   if (r.type === 'word') {
-    const modeQ = r.practiceMode === 'sequential' ? 'order' : 'random'
     router.push({
       name: 'word-practice',
-      params: { level: r.level || 'n5', fileIndex: 1, wordIndex: 0 },
-      query: { mode: modeQ },
+      params: { level: r.level || 'jlpt-n5-vocabulary', fileIndex: 1, wordIndex: 0 },
     })
   } else if (r.type === 'typing') {
     router.push({

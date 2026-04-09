@@ -323,7 +323,7 @@ onUnmounted(() => window.removeEventListener('keydown', handleKeydown))
     <!-- 加载状态 -->
     <div v-if="isLoading" class="flex items-center justify-center min-h-screen">
       <div class="text-center">
-        <div class="w-12 h-12 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
+        <div class="w-12 h-12 border-4 border-emerald-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
         <p class="text-slate-500 dark:text-slate-400">加载中...</p>
       </div>
     </div>

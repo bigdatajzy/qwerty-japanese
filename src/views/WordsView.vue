@@ -2,7 +2,7 @@
 import { ref, computed, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { fetchWordsManifest } from '@/api/wordsData'
-import { getWordPracticeResumeLabels } from '@/utils/wordPracticeProgress'
+import { getWordPracticeResumeLabel } from '@/utils/wordPracticeProgress'
 
 const router = useRouter()
 const route = useRoute()
@@ -16,9 +16,6 @@ watch(
   },
   { immediate: true },
 )
-
-/** 与 word-practice 路由 query.mode 对齐：order → 顺序，其它 → 随机 */
-const practiceOrder = ref<'random' | 'sequential'>('random')
 
 interface WordLevel {
   id: string
@@ -57,21 +54,16 @@ function startPractice(level: WordLevel) {
     router.push({
       name: 'word-practice',
       params: { level: level.id, fileIndex: 1, wordIndex: 0 },
-      query: { mode: practiceOrder.value === 'sequential' ? 'order' : 'random' },
     })
   }
 }
 
-/** 本地保存的练习进度（顺序 / 随机各一份） */
 const resumeHints = computed(() => {
   void resumeTick.value
   const o: Record<string, string> = {}
   for (const l of levels.value) {
-    const { sequential, random } = getWordPracticeResumeLabels(l.id)
-    const parts: string[] = []
-    if (sequential) parts.push(`顺序 ${sequential}`)
-    if (random) parts.push(`随机 ${random}`)
-    o[l.id] = parts.length ? `上次进度：${parts.join(' · ')}` : ''
+    const label = getWordPracticeResumeLabel(l.id)
+    o[l.id] = label ? `上次进度：${label}` : ''
   }
   return o
 })
@@ -96,33 +88,6 @@ const resumeHints = computed(() => {
       <p v-if="listLoadError" class="text-sm text-red-600 dark:text-red-400 mb-4">
         词库清单加载失败，请刷新页面或检查 <code class="text-xs">public/data/words/manifest.json</code> 是否可访问。
       </p>
-      <div class="flex flex-wrap gap-3 mb-6">
-        <span class="text-sm text-slate-500 dark:text-slate-400 self-center">出题顺序</span>
-        <button
-          type="button"
-          @click="practiceOrder = 'sequential'"
-          class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
-          :class="
-            practiceOrder === 'sequential'
-              ? 'bg-emerald-600 text-white'
-              : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
-          "
-        >
-          顺序
-        </button>
-        <button
-          type="button"
-          @click="practiceOrder = 'random'"
-          class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
-          :class="
-            practiceOrder === 'random'
-              ? 'bg-emerald-600 text-white'
-              : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
-          "
-        >
-          随机
-        </button>
-      </div>
       <div v-if="manifestLoading" class="text-center py-12 text-slate-500 dark:text-slate-400">
         正在加载词库列表…
       </div>
