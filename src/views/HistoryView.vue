@@ -68,7 +68,7 @@ function formatDuration(seconds: number): string {
         <button @click="router.push({ name: 'home' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600">
           <span class="text-xl">←</span><span>返回</span>
         </button>
-        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">📊 练习历史</h1>
+        <h1 class="text-lg font-semibold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">练习历史</h1>
         <div class="w-16"></div>
       </div>
     </header>
@@ -163,7 +163,7 @@ function formatDuration(seconds: number): string {
         </div>
         <h3 class="text-xl font-bold text-slate-700 dark:text-slate-200 mb-2">暂无练习记录</h3>
         <p class="text-slate-500 dark:text-slate-400 mb-6">完成练习后，这里会显示你的历史记录</p>
-        <button @click="router.push({ name: 'home' })" class="px-6 py-3 bg-indigo-600 text-white font-medium rounded-xl hover:bg-indigo-700 transition-colors shadow-lg hover:shadow-xl">
+        <button @click="router.push({ name: 'home' })" class="px-6 py-3 bg-emerald-600 text-white font-medium rounded-xl hover:bg-emerald-700 transition-colors shadow-lg hover:shadow-xl">
           返回首页
         </button>
       </div>

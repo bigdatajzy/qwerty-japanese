@@ -58,7 +58,7 @@ function startPractice(level: WordLevel) {
         <button @click="router.push({ name: 'home' })" class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600">
           <span class="text-xl">←</span><span>返回</span>
         </button>
-        <h1 class="text-lg font-semibold text-slate-800 dark:text-white">单词打字</h1>
+        <h1 class="text-lg font-semibold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">单词打字</h1>
         <div class="w-16"></div>
       </div>
     </header>
@@ -78,7 +78,7 @@ function startPractice(level: WordLevel) {
           class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
           :class="
             practiceOrder === 'sequential'
-              ? 'bg-indigo-600 text-white'
+              ? 'bg-emerald-600 text-white'
               : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
           "
         >
@@ -90,7 +90,7 @@ function startPractice(level: WordLevel) {
           class="px-4 py-2 rounded-xl text-sm font-medium transition-colors"
           :class="
             practiceOrder === 'random'
-              ? 'bg-indigo-600 text-white'
+              ? 'bg-emerald-600 text-white'
               : 'bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-600'
           "
         >
@@ -113,7 +113,7 @@ function startPractice(level: WordLevel) {
               <p class="text-sm text-slate-500 dark:text-slate-400 mt-1">{{ item.description }}</p>
             </div>
             <div class="text-right">
-              <span v-if="item.wordCount > 0" class="inline-flex items-center justify-center w-12 h-12 rounded-full bg-indigo-100 dark:bg-indigo-900 text-indigo-600 dark:text-indigo-300 font-bold">
+              <span v-if="item.wordCount > 0" class="inline-flex items-center justify-center w-12 h-12 rounded-full bg-emerald-100 dark:bg-emerald-900 text-emerald-600 dark:text-emerald-300 font-bold">
                 {{ item.wordCount }}
               </span>
               <span v-else class="text-slate-400 dark:text-slate-500">🔒</span>
