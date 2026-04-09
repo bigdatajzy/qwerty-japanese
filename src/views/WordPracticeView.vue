@@ -364,7 +364,7 @@ onUnmounted(() => {
                 ? 'border-green-500'
                 : inputStatus === 'error'
                   ? 'border-red-500'
-                  : 'border-indigo-500 focus:border-purple-500'
+                : 'border-emerald-500 focus:border-teal-500'
             "
             :placeholder="inputMode === 'romaji' ? '输入读音（罗马字）…' : '输入假名…'"
             autocomplete="off"

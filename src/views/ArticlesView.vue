@@ -126,7 +126,7 @@ function downloadUploadTemplate(kind: 'json' | 'txt') {
           <span class="text-xl">←</span>
           <span>返回</span>
         </button>
-        <h1 class="text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">文章练习</h1>
+        <h1 class="text-xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">文章练习</h1>
         <div class="w-16"></div>
       </div>
     </header>
@@ -135,7 +135,7 @@ function downloadUploadTemplate(kind: 'json' | 'txt') {
       <!-- 预制文章 -->
       <section class="mb-10">
         <div class="flex items-center gap-3 mb-6">
-          <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-white text-lg shadow-lg">📚</div>
+          <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-500 to-blue-500 flex items-center justify-center text-white text-lg shadow-lg">📚</div>
           <div>
             <h2 class="text-xl font-bold text-slate-800 dark:text-white">预制文章</h2>
             <p class="text-sm text-slate-500 dark:text-slate-400">精选日语短文</p>
@@ -154,12 +154,12 @@ function downloadUploadTemplate(kind: 'json' | 'txt') {
             <div class="flex items-start justify-between">
               <div class="flex-1">
                 <div class="flex items-center gap-3 mb-2">
-                  <h3 class="text-lg font-semibold text-slate-800 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">{{ article.title }}</h3>
+                  <h3 class="text-lg font-semibold text-slate-800 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400 transition-colors">{{ article.title }}</h3>
                   <span :class="getDifficultyStyle(article.difficulty)" class="px-2.5 py-1 rounded-full text-xs font-medium">{{ getDifficultyLabel(article.difficulty) }}</span>
                 </div>
                 <p class="text-sm text-slate-500 dark:text-slate-400">{{ article.description }}</p>
               </div>
-              <div class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:bg-indigo-100 group-hover:text-indigo-600 transition-colors">→</div>
+              <div class="w-10 h-10 rounded-full bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:bg-emerald-100 group-hover:text-emerald-600 transition-colors">→</div>
             </div>
           </div>
         </div>

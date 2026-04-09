@@ -119,7 +119,7 @@ async function clearAllStats() {
   <div class="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800">
     <header class="bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm shadow-sm sticky top-0 z-10">
       <div class="max-w-3xl mx-auto px-4 py-4 text-center">
-        <h1 class="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+        <h1 class="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
           日语打字练习
         </h1>
         <p class="text-sm text-slate-500 dark:text-slate-400 mt-1">
@@ -194,7 +194,7 @@ async function clearAllStats() {
           </div>
           <div class="bg-white dark:bg-slate-800 rounded-xl p-4 shadow border border-slate-100 dark:border-slate-700">
             <div class="text-xs text-slate-500 dark:text-slate-400">累计平均 WPM</div>
-            <div class="text-2xl font-bold text-indigo-600 dark:text-indigo-400">
+            <div class="text-2xl font-bold text-emerald-600 dark:text-emerald-400">
               {{ loadingStats ? '-' : allStats.avgWpm }}
             </div>
           </div>
@@ -236,7 +236,7 @@ async function clearAllStats() {
       <!-- 练习入口卡片 -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-10">
         <div @click="goToDictSelection" class="group bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer border border-slate-100 dark:border-slate-700">
-          <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-indigo-500 to-purple-500 flex items-center justify-center text-3xl mb-4 shadow-lg">
+          <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-cyan-500 to-blue-500 flex items-center justify-center text-3xl mb-4 shadow-lg">
             🎯
           </div>
           <h3 class="text-xl font-bold text-slate-800 dark:text-white mb-2">假名练习</h3>

@@ -249,7 +249,7 @@ const nextWord = computed(() => typingStore.nextWord)
       <div class="mb-8">
         <input ref="inputRef" v-model="inputValue" @input="handleInput" type="text" 
           class="w-full px-6 py-5 text-center text-2xl font-mono rounded-2xl bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder:text-slate-400 dark:placeholder:text-slate-500 caret-indigo-600 dark:caret-indigo-400 border-2 outline-none transition-all shadow-lg"
-          :class="inputStatus === 'correct' ? 'border-green-500' : inputStatus === 'error' ? 'border-red-500' : 'border-indigo-500 focus:border-purple-500'"
+          :class="inputStatus === 'correct' ? 'border-green-500' : inputStatus === 'error' ? 'border-red-500' : 'border-emerald-500 focus:border-teal-500'"
           :placeholder="inputMode === 'romaji' ? '输入罗马字...' : '直接输入假名...'" autocomplete="off" autofocus />
       </div>
 
