@@ -1,0 +1,352 @@
+[
+  {
+    "id": "751",
+    "hiragana": "きまりわるい",
+    "kanji": "決まり悪い",
+    "meaning": "",
+    "romaji": "kimariwarui"
+  },
+  {
+    "id": "752",
+    "hiragana": "きまる",
+    "kanji": "決まる",
+    "meaning": "",
+    "romaji": "kimaru"
+  },
+  {
+    "id": "753",
+    "hiragana": "きめい",
+    "kanji": "記名",
+    "meaning": "",
+    "romaji": "kimei"
+  },
+  {
+    "id": "754",
+    "hiragana": "きゃくしょく",
+    "kanji": "脚色",
+    "meaning": "",
+    "romaji": "kyakushoku"
+  },
+  {
+    "id": "755",
+    "hiragana": "きゃくほん",
+    "kanji": "脚本",
+    "meaning": "",
+    "romaji": "kyakuhon"
+  },
+  {
+    "id": "756",
+    "hiragana": "きゃっかん",
+    "kanji": "客観",
+    "meaning": "",
+    "romaji": "kyakkan"
+  },
+  {
+    "id": "757",
+    "hiragana": "きやく",
+    "kanji": "規約",
+    "meaning": "",
+    "romaji": "kiyaku"
+  },
+  {
+    "id": "758",
+    "hiragana": "きゅうえん",
+    "kanji": "救援",
+    "meaning": "",
+    "romaji": "kyuuen"
+  },
+  {
+    "id": "759",
+    "hiragana": "きゅうがく",
+    "kanji": "休学",
+    "meaning": "",
+    "romaji": "kyuugaku"
+  },
+  {
+    "id": "760",
+    "hiragana": "きゅうきょく",
+    "kanji": "究極",
+    "meaning": "",
+    "romaji": "kyuukyoku"
+  },
+  {
+    "id": "761",
+    "hiragana": "きゅうくつ",
+    "kanji": "窮屈",
+    "meaning": "",
+    "romaji": "kyuukutsu"
+  },
+  {
+    "id": "762",
+    "hiragana": "きゅうこん",
+    "kanji": "球根",
+    "meaning": "",
+    "romaji": "kyuukon"
+  },
+  {
+    "id": "763",
+    "hiragana": "きゅうさい",
+    "kanji": "救済",
+    "meaning": "",
+    "romaji": "kyuusai"
+  },
+  {
+    "id": "764",
+    "hiragana": "きゅうしょく",
+    "kanji": "給食",
+    "meaning": "",
+    "romaji": "kyuushoku"
+  },
+  {
+    "id": "765",
+    "hiragana": "きゅうじ",
+    "kanji": "給仕",
+    "meaning": "",
+    "romaji": "kyuuji"
+  },
+  {
+    "id": "766",
+    "hiragana": "きゅうせん",
+    "kanji": "休戦",
+    "meaning": "",
+    "romaji": "kyuusen"
+  },
+  {
+    "id": "767",
+    "hiragana": "きゅうち",
+    "kanji": "旧知",
+    "meaning": "",
+    "romaji": "kyuuchi"
+  },
+  {
+    "id": "768",
+    "hiragana": "きゅうでん",
+    "kanji": "宮殿",
+    "meaning": "",
+    "romaji": "kyuuden"
+  },
+  {
+    "id": "769",
+    "hiragana": "きゅうぼう",
+    "kanji": "窮乏",
+    "meaning": "",
+    "romaji": "kyuubou"
+  },
+  {
+    "id": "770",
+    "hiragana": "きゅうりょう",
+    "kanji": "丘陵",
+    "meaning": "",
+    "romaji": "kyuuryou"
+  },
+  {
+    "id": "771",
+    "hiragana": "きょう",
+    "kanji": "共",
+    "meaning": "",
+    "romaji": "kyou"
+  },
+  {
+    "id": "772",
+    "hiragana": "きょう",
+    "kanji": "供",
+    "meaning": "",
+    "romaji": "kyou"
+  },
+  {
+    "id": "773",
+    "hiragana": "きょうい",
+    "kanji": "驚異",
+    "meaning": "",
+    "romaji": "kyoui"
+  },
+  {
+    "id": "774",
+    "hiragana": "きょういん",
+    "kanji": "教員",
+    "meaning": "",
+    "romaji": "kyouin"
+  },
+  {
+    "id": "775",
+    "hiragana": "きょうか",
+    "kanji": "教科",
+    "meaning": "",
+    "romaji": "kyouka"
+  },
+  {
+    "id": "776",
+    "hiragana": "きょうかい",
+    "kanji": "協会",
+    "meaning": "",
+    "romaji": "kyoukai"
+  },
+  {
+    "id": "777",
+    "hiragana": "きょうかん",
+    "kanji": "共感",
+    "meaning": "",
+    "romaji": "kyoukan"
+  },
+  {
+    "id": "778",
+    "hiragana": "きょうがく",
+    "kanji": "共学",
+    "meaning": "",
+    "romaji": "kyougaku"
+  },
+  {
+    "id": "779",
+    "hiragana": "きょうぎ",
+    "kanji": "協議",
+    "meaning": "",
+    "romaji": "kyougi"
+  },
+  {
+    "id": "780",
+    "hiragana": "きょうくん",
+    "kanji": "教訓",
+    "meaning": "",
+    "romaji": "kyoukun"
+  },
+  {
+    "id": "781",
+    "hiragana": "きょうぐう",
+    "kanji": "境遇",
+    "meaning": "",
+    "romaji": "kyouguu"
+  },
+  {
+    "id": "782",
+    "hiragana": "きょうこう",
+    "kanji": "強行",
+    "meaning": "",
+    "romaji": "kyoukou"
+  },
+  {
+    "id": "783",
+    "hiragana": "きょうこう",
+    "kanji": "強硬",
+    "meaning": "",
+    "romaji": "kyoukou"
+  },
+  {
+    "id": "784",
+    "hiragana": "きょうさく",
+    "kanji": "凶作",
+    "meaning": "",
+    "romaji": "kyousaku"
+  },
+  {
+    "id": "785",
+    "hiragana": "きょうさん",
+    "kanji": "共産",
+    "meaning": "",
+    "romaji": "kyousan"
+  },
+  {
+    "id": "786",
+    "hiragana": "きょうざい",
+    "kanji": "教材",
+    "meaning": "",
+    "romaji": "kyouzai"
+  },
+  {
+    "id": "787",
+    "hiragana": "きょうしゅう",
+    "kanji": "教習",
+    "meaning": "",
+    "romaji": "kyoushuu"
+  },
+  {
+    "id": "788",
+    "hiragana": "きょうしゅう",
+    "kanji": "郷愁",
+    "meaning": "",
+    "romaji": "kyoushuu"
+  },
+  {
+    "id": "789",
+    "hiragana": "きょうしょく",
+    "kanji": "教職",
+    "meaning": "",
+    "romaji": "kyoushoku"
+  },
+  {
+    "id": "790",
+    "hiragana": "きょうじゅ",
+    "kanji": "享受",
+    "meaning": "",
+    "romaji": "kyouju"
+  },
+  {
+    "id": "791",
+    "hiragana": "きょうじる",
+    "kanji": "興じる",
+    "meaning": "",
+    "romaji": "kyoujiru"
+  },
+  {
+    "id": "792",
+    "hiragana": "きょうせい",
+    "kanji": "強制",
+    "meaning": "",
+    "romaji": "kyousei"
+  },
+  {
+    "id": "793",
+    "hiragana": "きょうそん",
+    "kanji": "共存",
+    "meaning": "",
+    "romaji": "kyouson"
+  },
+  {
+    "id": "794",
+    "hiragana": "きょうだい",
+    "kanji": "姉妹",
+    "meaning": "",
+    "romaji": "kyoudai"
+  },
+  {
+    "id": "795",
+    "hiragana": "きょうちょう",
+    "kanji": "協調",
+    "meaning": "",
+    "romaji": "kyouchou"
+  },
+  {
+    "id": "796",
+    "hiragana": "きょうてい",
+    "kanji": "協定",
+    "meaning": "",
+    "romaji": "kyoutei"
+  },
+  {
+    "id": "797",
+    "hiragana": "きょうはく",
+    "kanji": "脅迫",
+    "meaning": "",
+    "romaji": "kyouhaku"
+  },
+  {
+    "id": "798",
+    "hiragana": "きょうめい",
+    "kanji": "共鳴",
+    "meaning": "",
+    "romaji": "kyoumei"
+  },
+  {
+    "id": "799",
+    "hiragana": "きょうり",
+    "kanji": "郷里",
+    "meaning": "",
+    "romaji": "kyouri"
+  },
+  {
+    "id": "800",
+    "hiragana": "きょうれつ",
+    "kanji": "強烈",
+    "meaning": "",
+    "romaji": "kyouretsu"
+  }
+]

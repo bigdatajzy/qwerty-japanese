@@ -1,0 +1,352 @@
+[
+  {
+    "id": "3101",
+    "hiragana": "やすい",
+    "kanji": "易い",
+    "meaning": "",
+    "romaji": "yasui"
+  },
+  {
+    "id": "3102",
+    "hiragana": "やすっぽい",
+    "kanji": "安っぽい",
+    "meaning": "",
+    "romaji": "yasuppoi"
+  },
+  {
+    "id": "3103",
+    "hiragana": "やすめる",
+    "kanji": "休める",
+    "meaning": "",
+    "romaji": "yasumeru"
+  },
+  {
+    "id": "3104",
+    "hiragana": "やせい",
+    "kanji": "野生",
+    "meaning": "",
+    "romaji": "yasei"
+  },
+  {
+    "id": "3105",
+    "hiragana": "やたらに",
+    "kanji": "矢鱈に",
+    "meaning": "",
+    "romaji": "yatarani"
+  },
+  {
+    "id": "3106",
+    "hiragana": "やちゅう",
+    "kanji": "夜中",
+    "meaning": "",
+    "romaji": "yachuu"
+  },
+  {
+    "id": "3107",
+    "hiragana": "やっこ",
+    "kanji": "奴",
+    "meaning": "",
+    "romaji": "yakko"
+  },
+  {
+    "id": "3108",
+    "hiragana": "やっつける",
+    "kanji": "やっ付ける",
+    "meaning": "",
+    "romaji": "yattsukeru"
+  },
+  {
+    "id": "3109",
+    "hiragana": "やっぱり",
+    "kanji": "矢っ張り",
+    "meaning": "",
+    "romaji": "yappari"
+  },
+  {
+    "id": "3110",
+    "hiragana": "やとう",
+    "kanji": "野党",
+    "meaning": "",
+    "romaji": "yatou"
+  },
+  {
+    "id": "3111",
+    "hiragana": "やまい",
+    "kanji": "病",
+    "meaning": "",
+    "romaji": "yamai"
+  },
+  {
+    "id": "3112",
+    "hiragana": "やみ",
+    "kanji": "闇",
+    "meaning": "",
+    "romaji": "yami"
+  },
+  {
+    "id": "3113",
+    "hiragana": "やむ",
+    "kanji": "病む",
+    "meaning": "",
+    "romaji": "yamu"
+  },
+  {
+    "id": "3114",
+    "hiragana": "やむをえない",
+    "kanji": "止むを得ない",
+    "meaning": "",
+    "romaji": "yamuwoenai"
+  },
+  {
+    "id": "3115",
+    "hiragana": "やや",
+    "kanji": "稍",
+    "meaning": "",
+    "romaji": "yaya"
+  },
+  {
+    "id": "3116",
+    "hiragana": "ややこしい",
+    "kanji": "ややこしい",
+    "meaning": "",
+    "romaji": "yayakoshii"
+  },
+  {
+    "id": "3117",
+    "hiragana": "やりとおす",
+    "kanji": "遣り通す",
+    "meaning": "",
+    "romaji": "yaritoosu"
+  },
+  {
+    "id": "3118",
+    "hiragana": "やりとげる",
+    "kanji": "やり遂げる",
+    "meaning": "",
+    "romaji": "yaritogeru"
+  },
+  {
+    "id": "3119",
+    "hiragana": "やる",
+    "kanji": "遣る",
+    "meaning": "",
+    "romaji": "yaru"
+  },
+  {
+    "id": "3120",
+    "hiragana": "やわらげる",
+    "kanji": "和らげる",
+    "meaning": "",
+    "romaji": "yawarageru"
+  },
+  {
+    "id": "3121",
+    "hiragana": "ゆうい",
+    "kanji": "優位",
+    "meaning": "",
+    "romaji": "yuui"
+  },
+  {
+    "id": "3122",
+    "hiragana": "ゆううつ",
+    "kanji": "憂鬱",
+    "meaning": "",
+    "romaji": "yuuutsu"
+  },
+  {
+    "id": "3123",
+    "hiragana": "ゆうえき",
+    "kanji": "有益",
+    "meaning": "",
+    "romaji": "yuueki"
+  },
+  {
+    "id": "3124",
+    "hiragana": "ゆうえつ",
+    "kanji": "優越",
+    "meaning": "",
+    "romaji": "yuuetsu"
+  },
+  {
+    "id": "3125",
+    "hiragana": "ゆうかん",
+    "kanji": "勇敢",
+    "meaning": "",
+    "romaji": "yuukan"
+  },
+  {
+    "id": "3126",
+    "hiragana": "ゆうき",
+    "kanji": "有機",
+    "meaning": "",
+    "romaji": "yuuki"
+  },
+  {
+    "id": "3127",
+    "hiragana": "ゆうぐれ",
+    "kanji": "夕暮れ",
+    "meaning": "",
+    "romaji": "yuugure"
+  },
+  {
+    "id": "3128",
+    "hiragana": "ゆうし",
+    "kanji": "融資",
+    "meaning": "",
+    "romaji": "yuushi"
+  },
+  {
+    "id": "3129",
+    "hiragana": "ゆうする",
+    "kanji": "有する",
+    "meaning": "",
+    "romaji": "yuusuru"
+  },
+  {
+    "id": "3130",
+    "hiragana": "ゆうずう",
+    "kanji": "融通",
+    "meaning": "",
+    "romaji": "yuuzuu"
+  },
+  {
+    "id": "3131",
+    "hiragana": "ゆうせい",
+    "kanji": "優勢",
+    "meaning": "",
+    "romaji": "yuusei"
+  },
+  {
+    "id": "3132",
+    "hiragana": "ゆうせん",
+    "kanji": "優先",
+    "meaning": "",
+    "romaji": "yuusen"
+  },
+  {
+    "id": "3133",
+    "hiragana": "ゆうどう",
+    "kanji": "誘導",
+    "meaning": "",
+    "romaji": "yuudou"
+  },
+  {
+    "id": "3134",
+    "hiragana": "ゆうび",
+    "kanji": "優美",
+    "meaning": "",
+    "romaji": "yuubi"
+  },
+  {
+    "id": "3135",
+    "hiragana": "ゆうぼう",
+    "kanji": "有望",
+    "meaning": "",
+    "romaji": "yuubou"
+  },
+  {
+    "id": "3136",
+    "hiragana": "ゆうぼく",
+    "kanji": "遊牧",
+    "meaning": "",
+    "romaji": "yuuboku"
+  },
+  {
+    "id": "3137",
+    "hiragana": "ゆうやけ",
+    "kanji": "夕焼け",
+    "meaning": "",
+    "romaji": "yuuyake"
+  },
+  {
+    "id": "3138",
+    "hiragana": "ゆうりょく",
+    "kanji": "有力",
+    "meaning": "",
+    "romaji": "yuuryoku"
+  },
+  {
+    "id": "3139",
+    "hiragana": "ゆうれい",
+    "kanji": "幽霊",
+    "meaning": "",
+    "romaji": "yuurei"
+  },
+  {
+    "id": "3140",
+    "hiragana": "ゆうわく",
+    "kanji": "誘惑",
+    "meaning": "",
+    "romaji": "yuuwaku"
+  },
+  {
+    "id": "3141",
+    "hiragana": "ゆさぶる",
+    "kanji": "揺さぶる",
+    "meaning": "",
+    "romaji": "yusaburu"
+  },
+  {
+    "id": "3142",
+    "hiragana": "ゆでる",
+    "kanji": "茹でる",
+    "meaning": "",
+    "romaji": "yuderu"
+  },
+  {
+    "id": "3143",
+    "hiragana": "ゆとり",
+    "kanji": "ゆとり",
+    "meaning": "",
+    "romaji": "yutori"
+  },
+  {
+    "id": "3144",
+    "hiragana": "ゆびさす",
+    "kanji": "指差す",
+    "meaning": "",
+    "romaji": "yubisasu"
+  },
+  {
+    "id": "3145",
+    "hiragana": "ゆみ",
+    "kanji": "弓",
+    "meaning": "",
+    "romaji": "yumi"
+  },
+  {
+    "id": "3146",
+    "hiragana": "ゆらぐ",
+    "kanji": "揺らぐ",
+    "meaning": "",
+    "romaji": "yuragu"
+  },
+  {
+    "id": "3147",
+    "hiragana": "ゆるむ",
+    "kanji": "緩む",
+    "meaning": "",
+    "romaji": "yurumu"
+  },
+  {
+    "id": "3148",
+    "hiragana": "ゆるめる",
+    "kanji": "緩める",
+    "meaning": "",
+    "romaji": "yurumeru"
+  },
+  {
+    "id": "3149",
+    "hiragana": "ゆるやか",
+    "kanji": "緩やか",
+    "meaning": "",
+    "romaji": "yuruyaka"
+  },
+  {
+    "id": "3150",
+    "hiragana": "よ",
+    "kanji": "世",
+    "meaning": "",
+    "romaji": "yo"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1551",
+    "hiragana": "ヘリコプター",
+    "kanji": "ヘリコプター",
+    "meaning": "",
+    "romaji": "herikoputaa"
+  },
+  {
+    "id": "1552",
+    "hiragana": "へる",
+    "kanji": "へる",
+    "meaning": "",
+    "romaji": "heru"
+  },
+  {
+    "id": "1553",
+    "hiragana": "ぺん",
+    "kanji": "ぺん",
+    "meaning": "",
+    "romaji": "pen"
+  },
+  {
+    "id": "1554",
+    "hiragana": "へんしゅう",
+    "kanji": "編集",
+    "meaning": "",
+    "romaji": "henshuu"
+  },
+  {
+    "id": "1555",
+    "hiragana": "べんじょ",
+    "kanji": "便所",
+    "meaning": "",
+    "romaji": "benjo"
+  },
+  {
+    "id": "1556",
+    "hiragana": "ペンチ",
+    "kanji": "ペンチ",
+    "meaning": "",
+    "romaji": "penchi"
+  },
+  {
+    "id": "1557",
+    "hiragana": "ぼうえんきょう",
+    "kanji": "望遠鏡",
+    "meaning": "",
+    "romaji": "bouenkyou"
+  },
+  {
+    "id": "1558",
+    "hiragana": "ほうがく",
+    "kanji": "方角",
+    "meaning": "",
+    "romaji": "hougaku"
+  },
+  {
+    "id": "1559",
+    "hiragana": "ほうき",
+    "kanji": "箒",
+    "meaning": "",
+    "romaji": "houki"
+  },
+  {
+    "id": "1560",
+    "hiragana": "ほうげん",
+    "kanji": "方言",
+    "meaning": "",
+    "romaji": "hougen"
+  },
+  {
+    "id": "1561",
+    "hiragana": "ぼうさん",
+    "kanji": "坊さん",
+    "meaning": "",
+    "romaji": "bousan"
+  },
+  {
+    "id": "1562",
+    "hiragana": "ぼうし",
+    "kanji": "防止",
+    "meaning": "",
+    "romaji": "boushi"
+  },
+  {
+    "id": "1563",
+    "hiragana": "ほうしん",
+    "kanji": "方針",
+    "meaning": "",
+    "romaji": "houshin"
+  },
+  {
+    "id": "1564",
+    "hiragana": "ほうそう",
+    "kanji": "包装",
+    "meaning": "",
+    "romaji": "housou"
+  },
+  {
+    "id": "1565",
+    "hiragana": "ほうそく",
+    "kanji": "法則",
+    "meaning": "",
+    "romaji": "housoku"
+  },
+  {
+    "id": "1566",
+    "hiragana": "ほうたい",
+    "kanji": "包帯",
+    "meaning": "",
+    "romaji": "houtai"
+  },
+  {
+    "id": "1567",
+    "hiragana": "ぼうだい",
+    "kanji": "膨大",
+    "meaning": "",
+    "romaji": "boudai"
+  },
+  {
+    "id": "1568",
+    "hiragana": "ほうちょう",
+    "kanji": "庖丁",
+    "meaning": "",
+    "romaji": "houchou"
+  },
+  {
+    "id": "1569",
+    "hiragana": "ほうていしき",
+    "kanji": "方程式",
+    "meaning": "",
+    "romaji": "houteishiki"
+  },
+  {
+    "id": "1570",
+    "hiragana": "ぼうはん",
+    "kanji": "防犯",
+    "meaning": "",
+    "romaji": "bouhan"
+  },
+  {
+    "id": "1571",
+    "hiragana": "ほうめん",
+    "kanji": "方面",
+    "meaning": "",
+    "romaji": "houmen"
+  },
+  {
+    "id": "1572",
+    "hiragana": "ぼうや",
+    "kanji": "坊や",
+    "meaning": "",
+    "romaji": "bouya"
+  },
+  {
+    "id": "1573",
+    "hiragana": "ほうる",
+    "kanji": "放る",
+    "meaning": "",
+    "romaji": "houru"
+  },
+  {
+    "id": "1574",
+    "hiragana": "ボーナス",
+    "kanji": "ボーナス",
+    "meaning": "",
+    "romaji": "boonasu"
+  },
+  {
+    "id": "1575",
+    "hiragana": "ほがらか",
+    "kanji": "朗らか",
+    "meaning": "",
+    "romaji": "hogaraka"
+  },
+  {
+    "id": "1576",
+    "hiragana": "ぼくじょう",
+    "kanji": "牧場",
+    "meaning": "",
+    "romaji": "bokujou"
+  },
+  {
+    "id": "1577",
+    "hiragana": "ぼくちく",
+    "kanji": "牧畜",
+    "meaning": "",
+    "romaji": "bokuchiku"
+  },
+  {
+    "id": "1578",
+    "hiragana": "ほけん",
+    "kanji": "保健",
+    "meaning": "",
+    "romaji": "hoken"
+  },
+  {
+    "id": "1579",
+    "hiragana": "ぼしゅう",
+    "kanji": "募集",
+    "meaning": "",
+    "romaji": "boshuu"
+  },
+  {
+    "id": "1580",
+    "hiragana": "ほす",
+    "kanji": "干す",
+    "meaning": "",
+    "romaji": "hosu"
+  },
+  {
+    "id": "1581",
+    "hiragana": "ポスター",
+    "kanji": "ポスター",
+    "meaning": "",
+    "romaji": "posutaa"
+  },
+  {
+    "id": "1582",
+    "hiragana": "ほっきょく",
+    "kanji": "北極",
+    "meaning": "",
+    "romaji": "hokkyoku"
+  },
+  {
+    "id": "1583",
+    "hiragana": "ぼっちゃん",
+    "kanji": "坊っちゃん",
+    "meaning": "",
+    "romaji": "botchan"
+  },
+  {
+    "id": "1584",
+    "hiragana": "ほどく",
+    "kanji": "ほどく",
+    "meaning": "",
+    "romaji": "hodoku"
+  },
+  {
+    "id": "1585",
+    "hiragana": "ほり",
+    "kanji": "堀",
+    "meaning": "",
+    "romaji": "hori"
+  },
+  {
+    "id": "1586",
+    "hiragana": "ほる",
+    "kanji": "掘る",
+    "meaning": "",
+    "romaji": "horu"
+  },
+  {
+    "id": "1587",
+    "hiragana": "ほる",
+    "kanji": "彫る",
+    "meaning": "",
+    "romaji": "horu"
+  },
+  {
+    "id": "1588",
+    "hiragana": "ぼろ",
+    "kanji": "ぼろ",
+    "meaning": "",
+    "romaji": "boro"
+  },
+  {
+    "id": "1589",
+    "hiragana": "ぼん",
+    "kanji": "盆",
+    "meaning": "",
+    "romaji": "bon"
+  },
+  {
+    "id": "1590",
+    "hiragana": "ぼんち",
+    "kanji": "盆地",
+    "meaning": "",
+    "romaji": "bonchi"
+  },
+  {
+    "id": "1591",
+    "hiragana": "ほんぶ",
+    "kanji": "本部",
+    "meaning": "",
+    "romaji": "honbu"
+  },
+  {
+    "id": "1592",
+    "hiragana": "ほんらい",
+    "kanji": "本来",
+    "meaning": "",
+    "romaji": "honrai"
+  },
+  {
+    "id": "1593",
+    "hiragana": "まあまあ",
+    "kanji": "まあまあ",
+    "meaning": "",
+    "romaji": "maamaa"
+  },
+  {
+    "id": "1594",
+    "hiragana": "まいすう",
+    "kanji": "枚数",
+    "meaning": "",
+    "romaji": "maisuu"
+  },
+  {
+    "id": "1595",
+    "hiragana": "まいど",
+    "kanji": "毎度",
+    "meaning": "",
+    "romaji": "maido"
+  },
+  {
+    "id": "1596",
+    "hiragana": "マイナス",
+    "kanji": "マイナス",
+    "meaning": "",
+    "romaji": "mainasu"
+  },
+  {
+    "id": "1597",
+    "hiragana": "まく",
+    "kanji": "巻く",
+    "meaning": "",
+    "romaji": "maku"
+  },
+  {
+    "id": "1598",
+    "hiragana": "まく",
+    "kanji": "蒔く",
+    "meaning": "",
+    "romaji": "maku"
+  },
+  {
+    "id": "1599",
+    "hiragana": "まく",
+    "kanji": "撒く",
+    "meaning": "",
+    "romaji": "maku"
+  },
+  {
+    "id": "1600",
+    "hiragana": "まくら",
+    "kanji": "枕",
+    "meaning": "",
+    "romaji": "makura"
+  }
+]

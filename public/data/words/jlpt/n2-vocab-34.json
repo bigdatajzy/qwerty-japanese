@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1651",
+    "hiragana": "みなれる",
+    "kanji": "見慣れる",
+    "meaning": "",
+    "romaji": "minareru"
+  },
+  {
+    "id": "1652",
+    "hiragana": "みにくい",
+    "kanji": "醜い",
+    "meaning": "",
+    "romaji": "minikui"
+  },
+  {
+    "id": "1653",
+    "hiragana": "みのる",
+    "kanji": "実る",
+    "meaning": "",
+    "romaji": "minoru"
+  },
+  {
+    "id": "1654",
+    "hiragana": "みぶん",
+    "kanji": "身分",
+    "meaning": "",
+    "romaji": "mibun"
+  },
+  {
+    "id": "1655",
+    "hiragana": "みほん",
+    "kanji": "見本",
+    "meaning": "",
+    "romaji": "mihon"
+  },
+  {
+    "id": "1656",
+    "hiragana": "みまう",
+    "kanji": "見舞う",
+    "meaning": "",
+    "romaji": "mimau"
+  },
+  {
+    "id": "1657",
+    "hiragana": "みまん",
+    "kanji": "未満",
+    "meaning": "",
+    "romaji": "miman"
+  },
+  {
+    "id": "1658",
+    "hiragana": "みょうじ",
+    "kanji": "名字",
+    "meaning": "",
+    "romaji": "myouji"
+  },
+  {
+    "id": "1659",
+    "hiragana": "（メートル）",
+    "kanji": "ミリ",
+    "meaning": "",
+    "romaji": "(meetoru)"
+  },
+  {
+    "id": "1660",
+    "hiragana": "みる",
+    "kanji": "診る",
+    "meaning": "",
+    "romaji": "miru"
+  },
+  {
+    "id": "1661",
+    "hiragana": "みんかん",
+    "kanji": "民間",
+    "meaning": "",
+    "romaji": "minkan"
+  },
+  {
+    "id": "1662",
+    "hiragana": "みんよう",
+    "kanji": "民謡",
+    "meaning": "",
+    "romaji": "min'you"
+  },
+  {
+    "id": "1663",
+    "hiragana": "むかう",
+    "kanji": "向う",
+    "meaning": "",
+    "romaji": "mukau"
+  },
+  {
+    "id": "1664",
+    "hiragana": "むく",
+    "kanji": "剥く",
+    "meaning": "",
+    "romaji": "muku"
+  },
+  {
+    "id": "1665",
+    "hiragana": "むげん",
+    "kanji": "無限",
+    "meaning": "",
+    "romaji": "mugen"
+  },
+  {
+    "id": "1666",
+    "hiragana": "むじ",
+    "kanji": "無地",
+    "meaning": "",
+    "romaji": "muji"
+  },
+  {
+    "id": "1667",
+    "hiragana": "むしあつい",
+    "kanji": "蒸し暑い",
+    "meaning": "",
+    "romaji": "mushiatsui"
+  },
+  {
+    "id": "1668",
+    "hiragana": "むじゅん",
+    "kanji": "矛盾",
+    "meaning": "",
+    "romaji": "mujun"
+  },
+  {
+    "id": "1669",
+    "hiragana": "むす",
+    "kanji": "蒸す",
+    "meaning": "",
+    "romaji": "musu"
+  },
+  {
+    "id": "1670",
+    "hiragana": "むすう",
+    "kanji": "無数",
+    "meaning": "",
+    "romaji": "musuu"
+  },
+  {
+    "id": "1671",
+    "hiragana": "むらさき",
+    "kanji": "紫",
+    "meaning": "",
+    "romaji": "murasaki"
+  },
+  {
+    "id": "1672",
+    "hiragana": "むれ",
+    "kanji": "群れ",
+    "meaning": "",
+    "romaji": "mure"
+  },
+  {
+    "id": "1673",
+    "hiragana": "めい",
+    "kanji": "姪",
+    "meaning": "",
+    "romaji": "mei"
+  },
+  {
+    "id": "1674",
+    "hiragana": "めいさく",
+    "kanji": "名作",
+    "meaning": "",
+    "romaji": "meisaku"
+  },
+  {
+    "id": "1675",
+    "hiragana": "めいし",
+    "kanji": "名刺",
+    "meaning": "",
+    "romaji": "meishi"
+  },
+  {
+    "id": "1676",
+    "hiragana": "めいし",
+    "kanji": "名詞",
+    "meaning": "",
+    "romaji": "meishi"
+  },
+  {
+    "id": "1677",
+    "hiragana": "めいしょ",
+    "kanji": "名所",
+    "meaning": "",
+    "romaji": "meisho"
+  },
+  {
+    "id": "1678",
+    "hiragana": "めいずる",
+    "kanji": "命ずる",
+    "meaning": "",
+    "romaji": "meizuru"
+  },
+  {
+    "id": "1679",
+    "hiragana": "めいしん",
+    "kanji": "迷信",
+    "meaning": "",
+    "romaji": "meishin"
+  },
+  {
+    "id": "1680",
+    "hiragana": "めいぶつ",
+    "kanji": "名物",
+    "meaning": "",
+    "romaji": "meibutsu"
+  },
+  {
+    "id": "1681",
+    "hiragana": "めいめい",
+    "kanji": "銘々",
+    "meaning": "",
+    "romaji": "meimei"
+  },
+  {
+    "id": "1682",
+    "hiragana": "めうえ",
+    "kanji": "目上",
+    "meaning": "",
+    "romaji": "meue"
+  },
+  {
+    "id": "1683",
+    "hiragana": "メーター",
+    "kanji": "メーター",
+    "meaning": "",
+    "romaji": "meetaa"
+  },
+  {
+    "id": "1684",
+    "hiragana": "めぐまれる",
+    "kanji": "恵まれる",
+    "meaning": "",
+    "romaji": "megumareru"
+  },
+  {
+    "id": "1685",
+    "hiragana": "めぐる",
+    "kanji": "巡る",
+    "meaning": "",
+    "romaji": "meguru"
+  },
+  {
+    "id": "1686",
+    "hiragana": "めざす",
+    "kanji": "目指す",
+    "meaning": "",
+    "romaji": "mezasu"
+  },
+  {
+    "id": "1687",
+    "hiragana": "めざまし",
+    "kanji": "目覚し",
+    "meaning": "",
+    "romaji": "mezamashi"
+  },
+  {
+    "id": "1688",
+    "hiragana": "めした",
+    "kanji": "目下",
+    "meaning": "",
+    "romaji": "meshita"
+  },
+  {
+    "id": "1689",
+    "hiragana": "めじるし",
+    "kanji": "目印",
+    "meaning": "",
+    "romaji": "mejirushi"
+  },
+  {
+    "id": "1690",
+    "hiragana": "めだつ",
+    "kanji": "目立つ",
+    "meaning": "",
+    "romaji": "medatsu"
+  },
+  {
+    "id": "1691",
+    "hiragana": "めちゃくちゃ",
+    "kanji": "めちゃくちゃ",
+    "meaning": "",
+    "romaji": "mechakucha"
+  },
+  {
+    "id": "1692",
+    "hiragana": "めっきり",
+    "kanji": "めっきり",
+    "meaning": "",
+    "romaji": "mekkiri"
+  },
+  {
+    "id": "1693",
+    "hiragana": "めでたい",
+    "kanji": "めでたい",
+    "meaning": "",
+    "romaji": "medetai"
+  },
+  {
+    "id": "1694",
+    "hiragana": "メニュー",
+    "kanji": "メニュー",
+    "meaning": "",
+    "romaji": "menyuu"
+  },
+  {
+    "id": "1695",
+    "hiragana": "めまい",
+    "kanji": "めまい",
+    "meaning": "",
+    "romaji": "memai"
+  },
+  {
+    "id": "1696",
+    "hiragana": "めやす",
+    "kanji": "目安",
+    "meaning": "",
+    "romaji": "meyasu"
+  },
+  {
+    "id": "1697",
+    "hiragana": "めんぜい",
+    "kanji": "免税",
+    "meaning": "",
+    "romaji": "menzei"
+  },
+  {
+    "id": "1698",
+    "hiragana": "めんせき",
+    "kanji": "面積",
+    "meaning": "",
+    "romaji": "menseki"
+  },
+  {
+    "id": "1699",
+    "hiragana": "めんせつ",
+    "kanji": "面接",
+    "meaning": "",
+    "romaji": "mensetsu"
+  },
+  {
+    "id": "1700",
+    "hiragana": "めんどうくさい",
+    "kanji": "面倒臭い",
+    "meaning": "",
+    "romaji": "mendoukusai"
+  }
+]

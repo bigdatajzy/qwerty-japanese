@@ -1,0 +1,352 @@
+[
+  {
+    "id": "901",
+    "hiragana": "せいすう",
+    "kanji": "整数",
+    "meaning": "",
+    "romaji": "seisuu"
+  },
+  {
+    "id": "902",
+    "hiragana": "せいそう",
+    "kanji": "清掃",
+    "meaning": "",
+    "romaji": "seisou"
+  },
+  {
+    "id": "903",
+    "hiragana": "せいぞん",
+    "kanji": "生存",
+    "meaning": "",
+    "romaji": "seizon"
+  },
+  {
+    "id": "904",
+    "hiragana": "せいちょう",
+    "kanji": "生長",
+    "meaning": "",
+    "romaji": "seichou"
+  },
+  {
+    "id": "905",
+    "hiragana": "せいとう",
+    "kanji": "政党",
+    "meaning": "",
+    "romaji": "seitou"
+  },
+  {
+    "id": "906",
+    "hiragana": "せいねんがっぴ",
+    "kanji": "生年月日",
+    "meaning": "",
+    "romaji": "seinengappi"
+  },
+  {
+    "id": "907",
+    "hiragana": "せいのう",
+    "kanji": "性能",
+    "meaning": "",
+    "romaji": "seinou"
+  },
+  {
+    "id": "908",
+    "hiragana": "せいび",
+    "kanji": "整備",
+    "meaning": "",
+    "romaji": "seibi"
+  },
+  {
+    "id": "909",
+    "hiragana": "せいぶん",
+    "kanji": "成分",
+    "meaning": "",
+    "romaji": "seibun"
+  },
+  {
+    "id": "910",
+    "hiragana": "せいべつ",
+    "kanji": "性別",
+    "meaning": "",
+    "romaji": "seibetsu"
+  },
+  {
+    "id": "911",
+    "hiragana": "せいほうけい",
+    "kanji": "正方形",
+    "meaning": "",
+    "romaji": "seihoukei"
+  },
+  {
+    "id": "912",
+    "hiragana": "せいもん",
+    "kanji": "正門",
+    "meaning": "",
+    "romaji": "seimon"
+  },
+  {
+    "id": "913",
+    "hiragana": "せいりつ",
+    "kanji": "成立",
+    "meaning": "",
+    "romaji": "seiritsu"
+  },
+  {
+    "id": "914",
+    "hiragana": "せいれき",
+    "kanji": "西暦",
+    "meaning": "",
+    "romaji": "seireki"
+  },
+  {
+    "id": "915",
+    "hiragana": "せおう",
+    "kanji": "背負う",
+    "meaning": "",
+    "romaji": "seou"
+  },
+  {
+    "id": "916",
+    "hiragana": "せきどう",
+    "kanji": "赤道",
+    "meaning": "",
+    "romaji": "sekidou"
+  },
+  {
+    "id": "917",
+    "hiragana": "せっかく",
+    "kanji": "折角",
+    "meaning": "",
+    "romaji": "sekkaku"
+  },
+  {
+    "id": "918",
+    "hiragana": "せっきん",
+    "kanji": "接近",
+    "meaning": "",
+    "romaji": "sekkin"
+  },
+  {
+    "id": "919",
+    "hiragana": "せっけん",
+    "kanji": "石鹸",
+    "meaning": "",
+    "romaji": "sekken"
+  },
+  {
+    "id": "920",
+    "hiragana": "せっする",
+    "kanji": "接する",
+    "meaning": "",
+    "romaji": "sessuru"
+  },
+  {
+    "id": "921",
+    "hiragana": "せっせと",
+    "kanji": "せっせと",
+    "meaning": "",
+    "romaji": "sesseto"
+  },
+  {
+    "id": "922",
+    "hiragana": "せつぞく",
+    "kanji": "接続",
+    "meaning": "",
+    "romaji": "setsuzoku"
+  },
+  {
+    "id": "923",
+    "hiragana": "せともの",
+    "kanji": "瀬戸物",
+    "meaning": "",
+    "romaji": "setomono"
+  },
+  {
+    "id": "924",
+    "hiragana": "ぜひとも",
+    "kanji": "ぜひとも",
+    "meaning": "",
+    "romaji": "zehitomo"
+  },
+  {
+    "id": "925",
+    "hiragana": "せまる",
+    "kanji": "迫る",
+    "meaning": "",
+    "romaji": "semaru"
+  },
+  {
+    "id": "926",
+    "hiragana": "ゼミ",
+    "kanji": "ゼミ",
+    "meaning": "",
+    "romaji": "zemi"
+  },
+  {
+    "id": "927",
+    "hiragana": "せめて",
+    "kanji": "せめて",
+    "meaning": "",
+    "romaji": "semete"
+  },
+  {
+    "id": "928",
+    "hiragana": "せめる",
+    "kanji": "攻める",
+    "meaning": "",
+    "romaji": "semeru"
+  },
+  {
+    "id": "929",
+    "hiragana": "セメント",
+    "kanji": "セメント",
+    "meaning": "",
+    "romaji": "semento"
+  },
+  {
+    "id": "930",
+    "hiragana": "せん",
+    "kanji": "栓",
+    "meaning": "",
+    "romaji": "sen"
+  },
+  {
+    "id": "931",
+    "hiragana": "ぜんご",
+    "kanji": "前後",
+    "meaning": "",
+    "romaji": "zengo"
+  },
+  {
+    "id": "932",
+    "hiragana": "せんざい",
+    "kanji": "洗剤",
+    "meaning": "",
+    "romaji": "senzai"
+  },
+  {
+    "id": "933",
+    "hiragana": "ぜんしゅう",
+    "kanji": "全集",
+    "meaning": "",
+    "romaji": "zenshuu"
+  },
+  {
+    "id": "934",
+    "hiragana": "ぜんしん",
+    "kanji": "全身",
+    "meaning": "",
+    "romaji": "zenshin"
+  },
+  {
+    "id": "935",
+    "hiragana": "せんす",
+    "kanji": "扇子",
+    "meaning": "",
+    "romaji": "sensu"
+  },
+  {
+    "id": "936",
+    "hiragana": "せんせい",
+    "kanji": "専制",
+    "meaning": "",
+    "romaji": "sensei"
+  },
+  {
+    "id": "937",
+    "hiragana": "せんせんげつ",
+    "kanji": "先々月",
+    "meaning": "",
+    "romaji": "sensengetsu"
+  },
+  {
+    "id": "938",
+    "hiragana": "せんせんしゅう",
+    "kanji": "先々週",
+    "meaning": "",
+    "romaji": "sensenshuu"
+  },
+  {
+    "id": "939",
+    "hiragana": "せんぞ",
+    "kanji": "先祖",
+    "meaning": "",
+    "romaji": "senzo"
+  },
+  {
+    "id": "940",
+    "hiragana": "せんたん",
+    "kanji": "先端",
+    "meaning": "",
+    "romaji": "sentan"
+  },
+  {
+    "id": "941",
+    "hiragana": "センチ",
+    "kanji": "センチ",
+    "meaning": "",
+    "romaji": "senchi"
+  },
+  {
+    "id": "942",
+    "hiragana": "せんでん",
+    "kanji": "宣伝",
+    "meaning": "",
+    "romaji": "senden"
+  },
+  {
+    "id": "943",
+    "hiragana": "せんとう",
+    "kanji": "先頭",
+    "meaning": "",
+    "romaji": "sentou"
+  },
+  {
+    "id": "944",
+    "hiragana": "ぜんぱん",
+    "kanji": "全般",
+    "meaning": "",
+    "romaji": "zenpan"
+  },
+  {
+    "id": "945",
+    "hiragana": "せんぷうき",
+    "kanji": "扇風機",
+    "meaning": "",
+    "romaji": "senpuuki"
+  },
+  {
+    "id": "946",
+    "hiragana": "せんろ",
+    "kanji": "線路",
+    "meaning": "",
+    "romaji": "senro"
+  },
+  {
+    "id": "947",
+    "hiragana": "そうい",
+    "kanji": "相違",
+    "meaning": "",
+    "romaji": "soui"
+  },
+  {
+    "id": "948",
+    "hiragana": "そういえば",
+    "kanji": "そういえば",
+    "meaning": "",
+    "romaji": "souieba"
+  },
+  {
+    "id": "949",
+    "hiragana": "ぞうきん",
+    "kanji": "雑巾",
+    "meaning": "",
+    "romaji": "zoukin"
+  },
+  {
+    "id": "950",
+    "hiragana": "ぞうげん",
+    "kanji": "増減",
+    "meaning": "",
+    "romaji": "zougen"
+  }
+]

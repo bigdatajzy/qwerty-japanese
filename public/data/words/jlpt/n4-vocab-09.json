@@ -1,0 +1,352 @@
+[
+  {
+    "id": "401",
+    "hiragana": "ちゃん",
+    "kanji": "ちゃん",
+    "meaning": "",
+    "romaji": "chan"
+  },
+  {
+    "id": "402",
+    "hiragana": "ちゅうい",
+    "kanji": "注意",
+    "meaning": "",
+    "romaji": "chuui"
+  },
+  {
+    "id": "403",
+    "hiragana": "ちゅうがっこう",
+    "kanji": "中学校",
+    "meaning": "",
+    "romaji": "chuugakkou"
+  },
+  {
+    "id": "404",
+    "hiragana": "ちゅうしゃ",
+    "kanji": "注射",
+    "meaning": "",
+    "romaji": "chuusha"
+  },
+  {
+    "id": "405",
+    "hiragana": "ちゅうしゃじょう",
+    "kanji": "駐車場",
+    "meaning": "",
+    "romaji": "chuushajou"
+  },
+  {
+    "id": "406",
+    "hiragana": "ちり",
+    "kanji": "地理",
+    "meaning": "",
+    "romaji": "chiri"
+  },
+  {
+    "id": "407",
+    "hiragana": "つかまえる",
+    "kanji": "捕まえる",
+    "meaning": "",
+    "romaji": "tsukamaeru"
+  },
+  {
+    "id": "408",
+    "hiragana": "つき",
+    "kanji": "つき",
+    "meaning": "",
+    "romaji": "tsuki"
+  },
+  {
+    "id": "409",
+    "hiragana": "つく",
+    "kanji": "付く",
+    "meaning": "",
+    "romaji": "tsuku"
+  },
+  {
+    "id": "410",
+    "hiragana": "つける",
+    "kanji": "漬ける",
+    "meaning": "",
+    "romaji": "tsukeru"
+  },
+  {
+    "id": "411",
+    "hiragana": "つごう",
+    "kanji": "都合",
+    "meaning": "",
+    "romaji": "tsugou"
+  },
+  {
+    "id": "412",
+    "hiragana": "つたえる",
+    "kanji": "伝える",
+    "meaning": "",
+    "romaji": "tsutaeru"
+  },
+  {
+    "id": "413",
+    "hiragana": "つづく",
+    "kanji": "続く",
+    "meaning": "",
+    "romaji": "tsuzuku"
+  },
+  {
+    "id": "414",
+    "hiragana": "つづける",
+    "kanji": "続ける",
+    "meaning": "",
+    "romaji": "tsuzukeru"
+  },
+  {
+    "id": "415",
+    "hiragana": "つつむ",
+    "kanji": "包む",
+    "meaning": "",
+    "romaji": "tsutsumu"
+  },
+  {
+    "id": "416",
+    "hiragana": "つま",
+    "kanji": "妻",
+    "meaning": "",
+    "romaji": "tsuma"
+  },
+  {
+    "id": "417",
+    "hiragana": "つもり",
+    "kanji": "つもり",
+    "meaning": "",
+    "romaji": "tsumori"
+  },
+  {
+    "id": "418",
+    "hiragana": "つる",
+    "kanji": "釣る",
+    "meaning": "",
+    "romaji": "tsuru"
+  },
+  {
+    "id": "419",
+    "hiragana": "つれる",
+    "kanji": "連れる",
+    "meaning": "",
+    "romaji": "tsureru"
+  },
+  {
+    "id": "420",
+    "hiragana": "ていねい",
+    "kanji": "丁寧",
+    "meaning": "",
+    "romaji": "teinei"
+  },
+  {
+    "id": "421",
+    "hiragana": "テキスト",
+    "kanji": "テキスト",
+    "meaning": "",
+    "romaji": "tekisuto"
+  },
+  {
+    "id": "422",
+    "hiragana": "てきとう",
+    "kanji": "適当",
+    "meaning": "",
+    "romaji": "tekitou"
+  },
+  {
+    "id": "423",
+    "hiragana": "できるだけ",
+    "kanji": "できるだけ",
+    "meaning": "",
+    "romaji": "dekirudake"
+  },
+  {
+    "id": "424",
+    "hiragana": "てつだう",
+    "kanji": "手伝う",
+    "meaning": "",
+    "romaji": "tetsudau"
+  },
+  {
+    "id": "425",
+    "hiragana": "テニス",
+    "kanji": "テニス",
+    "meaning": "",
+    "romaji": "tenisu"
+  },
+  {
+    "id": "426",
+    "hiragana": "てぶくろ",
+    "kanji": "手袋",
+    "meaning": "",
+    "romaji": "tebukuro"
+  },
+  {
+    "id": "427",
+    "hiragana": "てら",
+    "kanji": "寺",
+    "meaning": "",
+    "romaji": "tera"
+  },
+  {
+    "id": "428",
+    "hiragana": "てん",
+    "kanji": "点",
+    "meaning": "",
+    "romaji": "ten"
+  },
+  {
+    "id": "429",
+    "hiragana": "てんいん",
+    "kanji": "店員",
+    "meaning": "",
+    "romaji": "ten'in"
+  },
+  {
+    "id": "430",
+    "hiragana": "てんきよほう",
+    "kanji": "天気予報",
+    "meaning": "",
+    "romaji": "tenkiyohou"
+  },
+  {
+    "id": "431",
+    "hiragana": "でんとう",
+    "kanji": "電灯",
+    "meaning": "",
+    "romaji": "dentou"
+  },
+  {
+    "id": "432",
+    "hiragana": "でんぽう",
+    "kanji": "電報",
+    "meaning": "",
+    "romaji": "denpou"
+  },
+  {
+    "id": "433",
+    "hiragana": "てんらんかい",
+    "kanji": "展覧会",
+    "meaning": "",
+    "romaji": "tenrankai"
+  },
+  {
+    "id": "434",
+    "hiragana": "と",
+    "kanji": "都",
+    "meaning": "",
+    "romaji": "to"
+  },
+  {
+    "id": "435",
+    "hiragana": "どうぐ",
+    "kanji": "道具",
+    "meaning": "",
+    "romaji": "dougu"
+  },
+  {
+    "id": "436",
+    "hiragana": "とうとう",
+    "kanji": "とうとう",
+    "meaning": "",
+    "romaji": "toutou"
+  },
+  {
+    "id": "437",
+    "hiragana": "どうぶつえん",
+    "kanji": "動物園",
+    "meaning": "",
+    "romaji": "doubutsuen"
+  },
+  {
+    "id": "438",
+    "hiragana": "とおく",
+    "kanji": "遠く",
+    "meaning": "",
+    "romaji": "tooku"
+  },
+  {
+    "id": "439",
+    "hiragana": "とおる",
+    "kanji": "通る",
+    "meaning": "",
+    "romaji": "tooru"
+  },
+  {
+    "id": "440",
+    "hiragana": "とくに",
+    "kanji": "特に",
+    "meaning": "",
+    "romaji": "tokuni"
+  },
+  {
+    "id": "441",
+    "hiragana": "とくべつ",
+    "kanji": "特別",
+    "meaning": "",
+    "romaji": "tokubetsu"
+  },
+  {
+    "id": "442",
+    "hiragana": "とこや",
+    "kanji": "とこや",
+    "meaning": "",
+    "romaji": "tokoya"
+  },
+  {
+    "id": "443",
+    "hiragana": "とちゅう",
+    "kanji": "途中",
+    "meaning": "",
+    "romaji": "tochuu"
+  },
+  {
+    "id": "444",
+    "hiragana": "とっきゅう",
+    "kanji": "特急",
+    "meaning": "",
+    "romaji": "tokkyuu"
+  },
+  {
+    "id": "445",
+    "hiragana": "とどける",
+    "kanji": "届ける",
+    "meaning": "",
+    "romaji": "todokeru"
+  },
+  {
+    "id": "446",
+    "hiragana": "とまる",
+    "kanji": "泊まる",
+    "meaning": "",
+    "romaji": "tomaru"
+  },
+  {
+    "id": "447",
+    "hiragana": "とめる",
+    "kanji": "止める",
+    "meaning": "",
+    "romaji": "tomeru"
+  },
+  {
+    "id": "448",
+    "hiragana": "とりかえる",
+    "kanji": "取り替える",
+    "meaning": "",
+    "romaji": "torikaeru"
+  },
+  {
+    "id": "449",
+    "hiragana": "どろぼう",
+    "kanji": "泥棒",
+    "meaning": "",
+    "romaji": "dorobou"
+  },
+  {
+    "id": "450",
+    "hiragana": "どんどん",
+    "kanji": "どんどん",
+    "meaning": "",
+    "romaji": "dondon"
+  }
+]

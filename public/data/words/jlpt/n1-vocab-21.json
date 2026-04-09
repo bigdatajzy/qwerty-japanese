@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1001",
+    "hiragana": "こう",
+    "kanji": "溝",
+    "meaning": "",
+    "romaji": "kou"
+  },
+  {
+    "id": "1002",
+    "hiragana": "こう",
+    "kanji": "校",
+    "meaning": "",
+    "romaji": "kou"
+  },
+  {
+    "id": "1003",
+    "hiragana": "こうい",
+    "kanji": "好意",
+    "meaning": "",
+    "romaji": "koui"
+  },
+  {
+    "id": "1004",
+    "hiragana": "こうい",
+    "kanji": "行為",
+    "meaning": "",
+    "romaji": "koui"
+  },
+  {
+    "id": "1005",
+    "hiragana": "こういん",
+    "kanji": "行員",
+    "meaning": "",
+    "romaji": "kouin"
+  },
+  {
+    "id": "1006",
+    "hiragana": "こうえき",
+    "kanji": "交易",
+    "meaning": "",
+    "romaji": "koueki"
+  },
+  {
+    "id": "1007",
+    "hiragana": "こうえん",
+    "kanji": "公演",
+    "meaning": "",
+    "romaji": "kouen"
+  },
+  {
+    "id": "1008",
+    "hiragana": "こうかい",
+    "kanji": "後悔",
+    "meaning": "",
+    "romaji": "koukai"
+  },
+  {
+    "id": "1009",
+    "hiragana": "こうかい",
+    "kanji": "公開",
+    "meaning": "",
+    "romaji": "koukai"
+  },
+  {
+    "id": "1010",
+    "hiragana": "こうかい",
+    "kanji": "航海",
+    "meaning": "",
+    "romaji": "koukai"
+  },
+  {
+    "id": "1011",
+    "hiragana": "こうがく",
+    "kanji": "工学",
+    "meaning": "",
+    "romaji": "kougaku"
+  },
+  {
+    "id": "1012",
+    "hiragana": "こうきょ",
+    "kanji": "皇居",
+    "meaning": "",
+    "romaji": "koukyo"
+  },
+  {
+    "id": "1013",
+    "hiragana": "こうきょう",
+    "kanji": "好況",
+    "meaning": "",
+    "romaji": "koukyou"
+  },
+  {
+    "id": "1014",
+    "hiragana": "こうぎ",
+    "kanji": "抗議",
+    "meaning": "",
+    "romaji": "kougi"
+  },
+  {
+    "id": "1015",
+    "hiragana": "こうぎょう",
+    "kanji": "鉱業",
+    "meaning": "",
+    "romaji": "kougyou"
+  },
+  {
+    "id": "1016",
+    "hiragana": "こうぎょう",
+    "kanji": "興業",
+    "meaning": "",
+    "romaji": "kougyou"
+  },
+  {
+    "id": "1017",
+    "hiragana": "こうげん",
+    "kanji": "高原",
+    "meaning": "",
+    "romaji": "kougen"
+  },
+  {
+    "id": "1018",
+    "hiragana": "こうこうと",
+    "kanji": "煌々と",
+    "meaning": "",
+    "romaji": "koukouto"
+  },
+  {
+    "id": "1019",
+    "hiragana": "こうこがく",
+    "kanji": "考古学",
+    "meaning": "",
+    "romaji": "koukogaku"
+  },
+  {
+    "id": "1020",
+    "hiragana": "こうご",
+    "kanji": "交互",
+    "meaning": "",
+    "romaji": "kougo"
+  },
+  {
+    "id": "1021",
+    "hiragana": "こうさく",
+    "kanji": "工作",
+    "meaning": "",
+    "romaji": "kousaku"
+  },
+  {
+    "id": "1022",
+    "hiragana": "こうさく",
+    "kanji": "耕作",
+    "meaning": "",
+    "romaji": "kousaku"
+  },
+  {
+    "id": "1023",
+    "hiragana": "こうざん",
+    "kanji": "鉱山",
+    "meaning": "",
+    "romaji": "kouzan"
+  },
+  {
+    "id": "1024",
+    "hiragana": "こうしゅう",
+    "kanji": "講習",
+    "meaning": "",
+    "romaji": "koushuu"
+  },
+  {
+    "id": "1025",
+    "hiragana": "こうしょう",
+    "kanji": "交渉",
+    "meaning": "",
+    "romaji": "koushou"
+  },
+  {
+    "id": "1026",
+    "hiragana": "こうしょう",
+    "kanji": "高尚",
+    "meaning": "",
+    "romaji": "koushou"
+  },
+  {
+    "id": "1027",
+    "hiragana": "こうしん",
+    "kanji": "行進",
+    "meaning": "",
+    "romaji": "koushin"
+  },
+  {
+    "id": "1028",
+    "hiragana": "こうしんりょう",
+    "kanji": "香辛料",
+    "meaning": "",
+    "romaji": "koushinryou"
+  },
+  {
+    "id": "1029",
+    "hiragana": "こうじゅつ",
+    "kanji": "口述",
+    "meaning": "",
+    "romaji": "koujutsu"
+  },
+  {
+    "id": "1030",
+    "hiragana": "こうじょ",
+    "kanji": "控除",
+    "meaning": "",
+    "romaji": "koujo"
+  },
+  {
+    "id": "1031",
+    "hiragana": "こうじょう",
+    "kanji": "向上",
+    "meaning": "",
+    "romaji": "koujou"
+  },
+  {
+    "id": "1032",
+    "hiragana": "こうすい",
+    "kanji": "降水",
+    "meaning": "",
+    "romaji": "kousui"
+  },
+  {
+    "id": "1033",
+    "hiragana": "こうずい",
+    "kanji": "洪水",
+    "meaning": "",
+    "romaji": "kouzui"
+  },
+  {
+    "id": "1034",
+    "hiragana": "こうぜん",
+    "kanji": "公然",
+    "meaning": "",
+    "romaji": "kouzen"
+  },
+  {
+    "id": "1035",
+    "hiragana": "こうそう",
+    "kanji": "抗争",
+    "meaning": "",
+    "romaji": "kousou"
+  },
+  {
+    "id": "1036",
+    "hiragana": "こうそう",
+    "kanji": "構想",
+    "meaning": "",
+    "romaji": "kousou"
+  },
+  {
+    "id": "1037",
+    "hiragana": "こうそく",
+    "kanji": "拘束",
+    "meaning": "",
+    "romaji": "kousoku"
+  },
+  {
+    "id": "1038",
+    "hiragana": "こうたい",
+    "kanji": "後退",
+    "meaning": "",
+    "romaji": "koutai"
+  },
+  {
+    "id": "1039",
+    "hiragana": "こうたく",
+    "kanji": "光沢",
+    "meaning": "",
+    "romaji": "koutaku"
+  },
+  {
+    "id": "1040",
+    "hiragana": "こうだん",
+    "kanji": "公団",
+    "meaning": "",
+    "romaji": "koudan"
+  },
+  {
+    "id": "1041",
+    "hiragana": "こうちょう",
+    "kanji": "好調",
+    "meaning": "",
+    "romaji": "kouchou"
+  },
+  {
+    "id": "1042",
+    "hiragana": "こうとう",
+    "kanji": "口頭",
+    "meaning": "",
+    "romaji": "koutou"
+  },
+  {
+    "id": "1043",
+    "hiragana": "こうどく",
+    "kanji": "講読",
+    "meaning": "",
+    "romaji": "koudoku"
+  },
+  {
+    "id": "1044",
+    "hiragana": "こうどく",
+    "kanji": "購読",
+    "meaning": "",
+    "romaji": "koudoku"
+  },
+  {
+    "id": "1045",
+    "hiragana": "こうにゅう",
+    "kanji": "購入",
+    "meaning": "",
+    "romaji": "kounyuu"
+  },
+  {
+    "id": "1046",
+    "hiragana": "こうにん",
+    "kanji": "公認",
+    "meaning": "",
+    "romaji": "kounin"
+  },
+  {
+    "id": "1047",
+    "hiragana": "こうねつひ",
+    "kanji": "光熱費",
+    "meaning": "",
+    "romaji": "kounetsuhi"
+  },
+  {
+    "id": "1048",
+    "hiragana": "こうはい",
+    "kanji": "荒廃",
+    "meaning": "",
+    "romaji": "kouhai"
+  },
+  {
+    "id": "1049",
+    "hiragana": "こうばい",
+    "kanji": "購買",
+    "meaning": "",
+    "romaji": "koubai"
+  },
+  {
+    "id": "1050",
+    "hiragana": "こうひょう",
+    "kanji": "好評",
+    "meaning": "",
+    "romaji": "kouhyou"
+  }
+]

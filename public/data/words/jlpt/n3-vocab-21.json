@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1001",
+    "hiragana": "そこ",
+    "kanji": "底",
+    "meaning": "",
+    "romaji": "soko"
+  },
+  {
+    "id": "1002",
+    "hiragana": "そこで",
+    "kanji": "そこで",
+    "meaning": "",
+    "romaji": "sokode"
+  },
+  {
+    "id": "1003",
+    "hiragana": "そしき",
+    "kanji": "組織",
+    "meaning": "",
+    "romaji": "soshiki"
+  },
+  {
+    "id": "1004",
+    "hiragana": "そして",
+    "kanji": "そして",
+    "meaning": "",
+    "romaji": "soshite"
+  },
+  {
+    "id": "1005",
+    "hiragana": "そそぐ",
+    "kanji": "注ぐ",
+    "meaning": "",
+    "romaji": "sosogu"
+  },
+  {
+    "id": "1006",
+    "hiragana": "そだつ",
+    "kanji": "育つ",
+    "meaning": "",
+    "romaji": "sodatsu"
+  },
+  {
+    "id": "1007",
+    "hiragana": "そっくり",
+    "kanji": "そっくり",
+    "meaning": "",
+    "romaji": "sokkuri"
+  },
+  {
+    "id": "1008",
+    "hiragana": "そっと",
+    "kanji": "そっと",
+    "meaning": "",
+    "romaji": "sotto"
+  },
+  {
+    "id": "1009",
+    "hiragana": "そで",
+    "kanji": "袖",
+    "meaning": "",
+    "romaji": "sode"
+  },
+  {
+    "id": "1010",
+    "hiragana": "そなえる",
+    "kanji": "備える",
+    "meaning": "",
+    "romaji": "sonaeru"
+  },
+  {
+    "id": "1011",
+    "hiragana": "その",
+    "kanji": "その",
+    "meaning": "",
+    "romaji": "sono"
+  },
+  {
+    "id": "1012",
+    "hiragana": "そのうち",
+    "kanji": "そのうち",
+    "meaning": "",
+    "romaji": "sonouchi"
+  },
+  {
+    "id": "1013",
+    "hiragana": "そのまま",
+    "kanji": "そのまま",
+    "meaning": "",
+    "romaji": "sonomama"
+  },
+  {
+    "id": "1014",
+    "hiragana": "そば",
+    "kanji": "側",
+    "meaning": "",
+    "romaji": "soba"
+  },
+  {
+    "id": "1015",
+    "hiragana": "ソファー",
+    "kanji": "ソファー",
+    "meaning": "",
+    "romaji": "sofuaa"
+  },
+  {
+    "id": "1016",
+    "hiragana": "そまつ",
+    "kanji": "粗末",
+    "meaning": "",
+    "romaji": "somatsu"
+  },
+  {
+    "id": "1017",
+    "hiragana": "（接。感）",
+    "kanji": "それ",
+    "meaning": "",
+    "romaji": "(接.感)"
+  },
+  {
+    "id": "1018",
+    "hiragana": "それぞれ",
+    "kanji": "それぞれ",
+    "meaning": "",
+    "romaji": "sorezore"
+  },
+  {
+    "id": "1019",
+    "hiragana": "それでも",
+    "kanji": "それでも",
+    "meaning": "",
+    "romaji": "soredemo"
+  },
+  {
+    "id": "1020",
+    "hiragana": "それと",
+    "kanji": "それと",
+    "meaning": "",
+    "romaji": "soreto"
+  },
+  {
+    "id": "1021",
+    "hiragana": "それとも",
+    "kanji": "それとも",
+    "meaning": "",
+    "romaji": "soretomo"
+  },
+  {
+    "id": "1022",
+    "hiragana": "そん",
+    "kanji": "損",
+    "meaning": "",
+    "romaji": "son"
+  },
+  {
+    "id": "1023",
+    "hiragana": "そんがい",
+    "kanji": "損害",
+    "meaning": "",
+    "romaji": "songai"
+  },
+  {
+    "id": "1024",
+    "hiragana": "そんけい",
+    "kanji": "尊敬",
+    "meaning": "",
+    "romaji": "sonkei"
+  },
+  {
+    "id": "1025",
+    "hiragana": "そんざい",
+    "kanji": "存在",
+    "meaning": "",
+    "romaji": "sonzai"
+  },
+  {
+    "id": "1026",
+    "hiragana": "そんちょう",
+    "kanji": "尊重",
+    "meaning": "",
+    "romaji": "sonchou"
+  },
+  {
+    "id": "1027",
+    "hiragana": "た",
+    "kanji": "田",
+    "meaning": "",
+    "romaji": "ta"
+  },
+  {
+    "id": "1028",
+    "hiragana": "た",
+    "kanji": "他",
+    "meaning": "",
+    "romaji": "ta"
+  },
+  {
+    "id": "1029",
+    "hiragana": "たい",
+    "kanji": "対",
+    "meaning": "",
+    "romaji": "tai"
+  },
+  {
+    "id": "1030",
+    "hiragana": "だい",
+    "kanji": "大",
+    "meaning": "",
+    "romaji": "dai"
+  },
+  {
+    "id": "1031",
+    "hiragana": "だい",
+    "kanji": "台",
+    "meaning": "",
+    "romaji": "dai"
+  },
+  {
+    "id": "1032",
+    "hiragana": "だい",
+    "kanji": "題",
+    "meaning": "",
+    "romaji": "dai"
+  },
+  {
+    "id": "1033",
+    "hiragana": "たいいく",
+    "kanji": "体育",
+    "meaning": "",
+    "romaji": "taiiku"
+  },
+  {
+    "id": "1034",
+    "hiragana": "たいおん",
+    "kanji": "体温",
+    "meaning": "",
+    "romaji": "taion"
+  },
+  {
+    "id": "1035",
+    "hiragana": "たいかい",
+    "kanji": "大会",
+    "meaning": "",
+    "romaji": "taikai"
+  },
+  {
+    "id": "1036",
+    "hiragana": "たいき",
+    "kanji": "大気",
+    "meaning": "",
+    "romaji": "taiki"
+  },
+  {
+    "id": "1037",
+    "hiragana": "だいきん",
+    "kanji": "代金",
+    "meaning": "",
+    "romaji": "daikin"
+  },
+  {
+    "id": "1038",
+    "hiragana": "たいくつ",
+    "kanji": "退屈",
+    "meaning": "",
+    "romaji": "taikutsu"
+  },
+  {
+    "id": "1039",
+    "hiragana": "たいざい",
+    "kanji": "滞在",
+    "meaning": "",
+    "romaji": "taizai"
+  },
+  {
+    "id": "1040",
+    "hiragana": "たいし",
+    "kanji": "大使",
+    "meaning": "",
+    "romaji": "taishi"
+  },
+  {
+    "id": "1041",
+    "hiragana": "たいした",
+    "kanji": "大した",
+    "meaning": "",
+    "romaji": "taishita"
+  },
+  {
+    "id": "1042",
+    "hiragana": "たいしょう",
+    "kanji": "対象",
+    "meaning": "",
+    "romaji": "taishou"
+  },
+  {
+    "id": "1043",
+    "hiragana": "だいじん",
+    "kanji": "大臣",
+    "meaning": "",
+    "romaji": "daijin"
+  },
+  {
+    "id": "1044",
+    "hiragana": "たいする",
+    "kanji": "対する",
+    "meaning": "",
+    "romaji": "taisuru"
+  },
+  {
+    "id": "1045",
+    "hiragana": "たいせん",
+    "kanji": "大戦",
+    "meaning": "",
+    "romaji": "taisen"
+  },
+  {
+    "id": "1046",
+    "hiragana": "たいてい",
+    "kanji": "大抵",
+    "meaning": "",
+    "romaji": "taitei"
+  },
+  {
+    "id": "1047",
+    "hiragana": "たいど",
+    "kanji": "態度",
+    "meaning": "",
+    "romaji": "taido"
+  },
+  {
+    "id": "1048",
+    "hiragana": "だいとうりょう",
+    "kanji": "大統領",
+    "meaning": "",
+    "romaji": "daitouryou"
+  },
+  {
+    "id": "1049",
+    "hiragana": "たいはん",
+    "kanji": "大半",
+    "meaning": "",
+    "romaji": "taihan"
+  },
+  {
+    "id": "1050",
+    "hiragana": "だいひょう",
+    "kanji": "代表",
+    "meaning": "",
+    "romaji": "daihyou"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "201",
+    "hiragana": "きょねん",
+    "kanji": "去年",
+    "meaning": "",
+    "romaji": "kyonen"
+  },
+  {
+    "id": "202",
+    "hiragana": "きらい",
+    "kanji": "嫌い",
+    "meaning": "",
+    "romaji": "kirai"
+  },
+  {
+    "id": "203",
+    "hiragana": "きる",
+    "kanji": "切る",
+    "meaning": "",
+    "romaji": "kiru"
+  },
+  {
+    "id": "204",
+    "hiragana": "きる",
+    "kanji": "着る",
+    "meaning": "",
+    "romaji": "kiru"
+  },
+  {
+    "id": "205",
+    "hiragana": "きれい",
+    "kanji": "きれい",
+    "meaning": "",
+    "romaji": "kirei"
+  },
+  {
+    "id": "206",
+    "hiragana": "キロ",
+    "kanji": "キロ",
+    "meaning": "",
+    "romaji": "kiro"
+  },
+  {
+    "id": "207",
+    "hiragana": "キログラム",
+    "kanji": "キロ",
+    "meaning": "",
+    "romaji": "kiroguramu"
+  },
+  {
+    "id": "208",
+    "hiragana": "キロ",
+    "kanji": "キログラム",
+    "meaning": "",
+    "romaji": "kiro"
+  },
+  {
+    "id": "209",
+    "hiragana": "キログラム",
+    "kanji": "キログラム",
+    "meaning": "",
+    "romaji": "kiroguramu"
+  },
+  {
+    "id": "210",
+    "hiragana": "キロ",
+    "kanji": "キロ",
+    "meaning": "",
+    "romaji": "kiro"
+  },
+  {
+    "id": "211",
+    "hiragana": "キロメートル",
+    "kanji": "キロ",
+    "meaning": "",
+    "romaji": "kiromeetoru"
+  },
+  {
+    "id": "212",
+    "hiragana": "キロ",
+    "kanji": "キロメートル",
+    "meaning": "",
+    "romaji": "kiro"
+  },
+  {
+    "id": "213",
+    "hiragana": "キロメートル",
+    "kanji": "キロメートル",
+    "meaning": "",
+    "romaji": "kiromeetoru"
+  },
+  {
+    "id": "214",
+    "hiragana": "ぎんこう",
+    "kanji": "銀行",
+    "meaning": "",
+    "romaji": "ginkou"
+  },
+  {
+    "id": "215",
+    "hiragana": "きんようび",
+    "kanji": "金曜日",
+    "meaning": "",
+    "romaji": "kin'youbi"
+  },
+  {
+    "id": "216",
+    "hiragana": "くすり",
+    "kanji": "薬",
+    "meaning": "",
+    "romaji": "kusuri"
+  },
+  {
+    "id": "217",
+    "hiragana": "ください",
+    "kanji": "ください",
+    "meaning": "",
+    "romaji": "kudasai"
+  },
+  {
+    "id": "218",
+    "hiragana": "くだもの",
+    "kanji": "果物",
+    "meaning": "",
+    "romaji": "kudamono"
+  },
+  {
+    "id": "219",
+    "hiragana": "くち",
+    "kanji": "口",
+    "meaning": "",
+    "romaji": "kuchi"
+  },
+  {
+    "id": "220",
+    "hiragana": "くつ",
+    "kanji": "靴",
+    "meaning": "",
+    "romaji": "kutsu"
+  },
+  {
+    "id": "221",
+    "hiragana": "くつした",
+    "kanji": "靴下",
+    "meaning": "",
+    "romaji": "kutsushita"
+  },
+  {
+    "id": "222",
+    "hiragana": "くに",
+    "kanji": "国",
+    "meaning": "",
+    "romaji": "kuni"
+  },
+  {
+    "id": "223",
+    "hiragana": "くもり",
+    "kanji": "曇り",
+    "meaning": "",
+    "romaji": "kumori"
+  },
+  {
+    "id": "224",
+    "hiragana": "くもる",
+    "kanji": "曇る",
+    "meaning": "",
+    "romaji": "kumoru"
+  },
+  {
+    "id": "225",
+    "hiragana": "くらい",
+    "kanji": "暗い",
+    "meaning": "",
+    "romaji": "kurai"
+  },
+  {
+    "id": "226",
+    "hiragana": "クラス",
+    "kanji": "クラス",
+    "meaning": "",
+    "romaji": "kurasu"
+  },
+  {
+    "id": "227",
+    "hiragana": "グラム",
+    "kanji": "グラム",
+    "meaning": "",
+    "romaji": "guramu"
+  },
+  {
+    "id": "228",
+    "hiragana": "くる",
+    "kanji": "来る",
+    "meaning": "",
+    "romaji": "kuru"
+  },
+  {
+    "id": "229",
+    "hiragana": "くるま",
+    "kanji": "車",
+    "meaning": "",
+    "romaji": "kuruma"
+  },
+  {
+    "id": "230",
+    "hiragana": "くろ",
+    "kanji": "黒",
+    "meaning": "",
+    "romaji": "kuro"
+  },
+  {
+    "id": "231",
+    "hiragana": "くろい",
+    "kanji": "黒い",
+    "meaning": "",
+    "romaji": "kuroi"
+  },
+  {
+    "id": "232",
+    "hiragana": "けいかん",
+    "kanji": "警官",
+    "meaning": "",
+    "romaji": "keikan"
+  },
+  {
+    "id": "233",
+    "hiragana": "けさ",
+    "kanji": "今朝",
+    "meaning": "",
+    "romaji": "kesa"
+  },
+  {
+    "id": "234",
+    "hiragana": "けす",
+    "kanji": "消す",
+    "meaning": "",
+    "romaji": "kesu"
+  },
+  {
+    "id": "235",
+    "hiragana": "けっこう",
+    "kanji": "結構",
+    "meaning": "",
+    "romaji": "kekkou"
+  },
+  {
+    "id": "236",
+    "hiragana": "けっこん",
+    "kanji": "結婚",
+    "meaning": "",
+    "romaji": "kekkon"
+  },
+  {
+    "id": "237",
+    "hiragana": "げつようび",
+    "kanji": "月曜日",
+    "meaning": "",
+    "romaji": "getsuyoubi"
+  },
+  {
+    "id": "238",
+    "hiragana": "げんかん",
+    "kanji": "玄関",
+    "meaning": "",
+    "romaji": "genkan"
+  },
+  {
+    "id": "239",
+    "hiragana": "げんき",
+    "kanji": "元気",
+    "meaning": "",
+    "romaji": "genki"
+  },
+  {
+    "id": "240",
+    "hiragana": "ご",
+    "kanji": "五",
+    "meaning": "",
+    "romaji": "go"
+  },
+  {
+    "id": "241",
+    "hiragana": "こうえん",
+    "kanji": "公園",
+    "meaning": "",
+    "romaji": "kouen"
+  },
+  {
+    "id": "242",
+    "hiragana": "こうさてん",
+    "kanji": "交差点",
+    "meaning": "",
+    "romaji": "kousaten"
+  },
+  {
+    "id": "243",
+    "hiragana": "こうちゃ",
+    "kanji": "紅茶",
+    "meaning": "",
+    "romaji": "koucha"
+  },
+  {
+    "id": "244",
+    "hiragana": "こうばん",
+    "kanji": "交番",
+    "meaning": "",
+    "romaji": "kouban"
+  },
+  {
+    "id": "245",
+    "hiragana": "こえ",
+    "kanji": "声",
+    "meaning": "",
+    "romaji": "koe"
+  },
+  {
+    "id": "246",
+    "hiragana": "コート",
+    "kanji": "コート",
+    "meaning": "",
+    "romaji": "kooto"
+  },
+  {
+    "id": "247",
+    "hiragana": "コーヒー",
+    "kanji": "コーヒー",
+    "meaning": "",
+    "romaji": "koohii"
+  },
+  {
+    "id": "248",
+    "hiragana": "ここ",
+    "kanji": "ここ",
+    "meaning": "",
+    "romaji": "koko"
+  },
+  {
+    "id": "249",
+    "hiragana": "ごご",
+    "kanji": "午後",
+    "meaning": "",
+    "romaji": "gogo"
+  },
+  {
+    "id": "250",
+    "hiragana": "ここのか",
+    "kanji": "九日",
+    "meaning": "",
+    "romaji": "kokonoka"
+  }
+]

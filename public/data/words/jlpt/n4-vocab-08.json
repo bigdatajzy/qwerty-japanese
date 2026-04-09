@@ -1,0 +1,352 @@
+[
+  {
+    "id": "351",
+    "hiragana": "せわ",
+    "kanji": "世話",
+    "meaning": "",
+    "romaji": "sewa"
+  },
+  {
+    "id": "352",
+    "hiragana": "せん",
+    "kanji": "線",
+    "meaning": "",
+    "romaji": "sen"
+  },
+  {
+    "id": "353",
+    "hiragana": "ぜんぜん",
+    "kanji": "ぜんぜん",
+    "meaning": "",
+    "romaji": "zenzen"
+  },
+  {
+    "id": "354",
+    "hiragana": "せんそう",
+    "kanji": "戦争",
+    "meaning": "",
+    "romaji": "sensou"
+  },
+  {
+    "id": "355",
+    "hiragana": "せんぱい",
+    "kanji": "先輩",
+    "meaning": "",
+    "romaji": "senpai"
+  },
+  {
+    "id": "356",
+    "hiragana": "そう",
+    "kanji": "そう",
+    "meaning": "",
+    "romaji": "sou"
+  },
+  {
+    "id": "357",
+    "hiragana": "そうだん",
+    "kanji": "相談",
+    "meaning": "",
+    "romaji": "soudan"
+  },
+  {
+    "id": "358",
+    "hiragana": "そだてる",
+    "kanji": "育てる",
+    "meaning": "",
+    "romaji": "sodateru"
+  },
+  {
+    "id": "359",
+    "hiragana": "そつぎょう",
+    "kanji": "卒業",
+    "meaning": "",
+    "romaji": "sotsugyou"
+  },
+  {
+    "id": "360",
+    "hiragana": "そふ",
+    "kanji": "祖父",
+    "meaning": "",
+    "romaji": "sofu"
+  },
+  {
+    "id": "361",
+    "hiragana": "ソフト",
+    "kanji": "ソフト",
+    "meaning": "",
+    "romaji": "sofuto"
+  },
+  {
+    "id": "362",
+    "hiragana": "そぼ",
+    "kanji": "祖母",
+    "meaning": "",
+    "romaji": "sobo"
+  },
+  {
+    "id": "363",
+    "hiragana": "それで",
+    "kanji": "それで",
+    "meaning": "",
+    "romaji": "sorede"
+  },
+  {
+    "id": "364",
+    "hiragana": "それに",
+    "kanji": "それに",
+    "meaning": "",
+    "romaji": "soreni"
+  },
+  {
+    "id": "365",
+    "hiragana": "それほど",
+    "kanji": "それほど",
+    "meaning": "",
+    "romaji": "sorehodo"
+  },
+  {
+    "id": "366",
+    "hiragana": "そろそろ",
+    "kanji": "そろそろ",
+    "meaning": "",
+    "romaji": "sorosoro"
+  },
+  {
+    "id": "367",
+    "hiragana": "そんな",
+    "kanji": "そんな",
+    "meaning": "",
+    "romaji": "sonna"
+  },
+  {
+    "id": "368",
+    "hiragana": "そんなに",
+    "kanji": "そんなに",
+    "meaning": "",
+    "romaji": "sonnani"
+  },
+  {
+    "id": "369",
+    "hiragana": "たいいん",
+    "kanji": "退院",
+    "meaning": "",
+    "romaji": "taiin"
+  },
+  {
+    "id": "370",
+    "hiragana": "だいがくせい",
+    "kanji": "大学生",
+    "meaning": "",
+    "romaji": "daigakusei"
+  },
+  {
+    "id": "371",
+    "hiragana": "だいじ",
+    "kanji": "大事",
+    "meaning": "",
+    "romaji": "daiji"
+  },
+  {
+    "id": "372",
+    "hiragana": "だいたい",
+    "kanji": "大体",
+    "meaning": "",
+    "romaji": "daitai"
+  },
+  {
+    "id": "373",
+    "hiragana": "たいてい",
+    "kanji": "たいてい",
+    "meaning": "",
+    "romaji": "taitei"
+  },
+  {
+    "id": "374",
+    "hiragana": "タイプ",
+    "kanji": "タイプ",
+    "meaning": "",
+    "romaji": "taipu"
+  },
+  {
+    "id": "375",
+    "hiragana": "だいぶ",
+    "kanji": "大分",
+    "meaning": "",
+    "romaji": "daibu"
+  },
+  {
+    "id": "376",
+    "hiragana": "たいふう",
+    "kanji": "台風",
+    "meaning": "",
+    "romaji": "taifuu"
+  },
+  {
+    "id": "377",
+    "hiragana": "たおれる",
+    "kanji": "倒れる",
+    "meaning": "",
+    "romaji": "taoreru"
+  },
+  {
+    "id": "378",
+    "hiragana": "だから",
+    "kanji": "だから",
+    "meaning": "",
+    "romaji": "dakara"
+  },
+  {
+    "id": "379",
+    "hiragana": "たしか",
+    "kanji": "確か",
+    "meaning": "",
+    "romaji": "tashika"
+  },
+  {
+    "id": "380",
+    "hiragana": "たす",
+    "kanji": "足す",
+    "meaning": "",
+    "romaji": "tasu"
+  },
+  {
+    "id": "381",
+    "hiragana": "たずねる",
+    "kanji": "訪ねる",
+    "meaning": "",
+    "romaji": "tazuneru"
+  },
+  {
+    "id": "382",
+    "hiragana": "たずねる",
+    "kanji": "尋ねる",
+    "meaning": "",
+    "romaji": "tazuneru"
+  },
+  {
+    "id": "383",
+    "hiragana": "ただしい",
+    "kanji": "正しい",
+    "meaning": "",
+    "romaji": "tadashii"
+  },
+  {
+    "id": "384",
+    "hiragana": "たたみ",
+    "kanji": "畳",
+    "meaning": "",
+    "romaji": "tatami"
+  },
+  {
+    "id": "385",
+    "hiragana": "たてる",
+    "kanji": "立てる",
+    "meaning": "",
+    "romaji": "tateru"
+  },
+  {
+    "id": "386",
+    "hiragana": "たてる",
+    "kanji": "建てる",
+    "meaning": "",
+    "romaji": "tateru"
+  },
+  {
+    "id": "387",
+    "hiragana": "たとえば",
+    "kanji": "例えば",
+    "meaning": "",
+    "romaji": "tatoeba"
+  },
+  {
+    "id": "388",
+    "hiragana": "たな",
+    "kanji": "棚",
+    "meaning": "",
+    "romaji": "tana"
+  },
+  {
+    "id": "389",
+    "hiragana": "たのしみ",
+    "kanji": "楽しみ",
+    "meaning": "",
+    "romaji": "tanoshimi"
+  },
+  {
+    "id": "390",
+    "hiragana": "たのしむ",
+    "kanji": "楽む",
+    "meaning": "",
+    "romaji": "tanoshimu"
+  },
+  {
+    "id": "391",
+    "hiragana": "たまに",
+    "kanji": "たまに",
+    "meaning": "",
+    "romaji": "tamani"
+  },
+  {
+    "id": "392",
+    "hiragana": "ため",
+    "kanji": "為",
+    "meaning": "",
+    "romaji": "tame"
+  },
+  {
+    "id": "393",
+    "hiragana": "だめ",
+    "kanji": "だめ",
+    "meaning": "",
+    "romaji": "dame"
+  },
+  {
+    "id": "394",
+    "hiragana": "たりる",
+    "kanji": "足りる",
+    "meaning": "",
+    "romaji": "tariru"
+  },
+  {
+    "id": "395",
+    "hiragana": "だんせい",
+    "kanji": "男性",
+    "meaning": "",
+    "romaji": "dansei"
+  },
+  {
+    "id": "396",
+    "hiragana": "だんぼう",
+    "kanji": "暖房",
+    "meaning": "",
+    "romaji": "danbou"
+  },
+  {
+    "id": "397",
+    "hiragana": "ち",
+    "kanji": "血",
+    "meaning": "",
+    "romaji": "chi"
+  },
+  {
+    "id": "398",
+    "hiragana": "チェック",
+    "kanji": "チェック",
+    "meaning": "",
+    "romaji": "chekku"
+  },
+  {
+    "id": "399",
+    "hiragana": "ちから",
+    "kanji": "力",
+    "meaning": "",
+    "romaji": "chikara"
+  },
+  {
+    "id": "400",
+    "hiragana": "ちっとも",
+    "kanji": "ちっとも",
+    "meaning": "",
+    "romaji": "chittomo"
+  }
+]

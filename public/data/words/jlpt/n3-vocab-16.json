@@ -1,0 +1,352 @@
+[
+  {
+    "id": "751",
+    "hiragana": "しまい",
+    "kanji": "姉妹",
+    "meaning": "",
+    "romaji": "shimai"
+  },
+  {
+    "id": "752",
+    "hiragana": "（終わる）",
+    "kanji": "しまう",
+    "meaning": "",
+    "romaji": "(終waru)"
+  },
+  {
+    "id": "753",
+    "hiragana": "（感）",
+    "kanji": "しまった",
+    "meaning": "",
+    "romaji": "(感)"
+  },
+  {
+    "id": "754",
+    "hiragana": "じまん",
+    "kanji": "自慢",
+    "meaning": "",
+    "romaji": "jiman"
+  },
+  {
+    "id": "755",
+    "hiragana": "じむ",
+    "kanji": "事務",
+    "meaning": "",
+    "romaji": "jimu"
+  },
+  {
+    "id": "756",
+    "hiragana": "しめす",
+    "kanji": "示す",
+    "meaning": "",
+    "romaji": "shimesu"
+  },
+  {
+    "id": "757",
+    "hiragana": "しめる",
+    "kanji": "占める",
+    "meaning": "",
+    "romaji": "shimeru"
+  },
+  {
+    "id": "758",
+    "hiragana": "しも",
+    "kanji": "下",
+    "meaning": "",
+    "romaji": "shimo"
+  },
+  {
+    "id": "759",
+    "hiragana": "しも",
+    "kanji": "霜",
+    "meaning": "",
+    "romaji": "shimo"
+  },
+  {
+    "id": "760",
+    "hiragana": "じゃあ",
+    "kanji": "じゃあ",
+    "meaning": "",
+    "romaji": "jaa"
+  },
+  {
+    "id": "761",
+    "hiragana": "しゃっきん",
+    "kanji": "借金",
+    "meaning": "",
+    "romaji": "shakkin"
+  },
+  {
+    "id": "762",
+    "hiragana": "しゃべる",
+    "kanji": "しゃべる",
+    "meaning": "",
+    "romaji": "shaberu"
+  },
+  {
+    "id": "763",
+    "hiragana": "じゃま",
+    "kanji": "邪魔",
+    "meaning": "",
+    "romaji": "jama"
+  },
+  {
+    "id": "764",
+    "hiragana": "しゅう",
+    "kanji": "週",
+    "meaning": "",
+    "romaji": "shuu"
+  },
+  {
+    "id": "765",
+    "hiragana": "しゅう",
+    "kanji": "州",
+    "meaning": "",
+    "romaji": "shuu"
+  },
+  {
+    "id": "766",
+    "hiragana": "じゅう",
+    "kanji": "十",
+    "meaning": "",
+    "romaji": "juu"
+  },
+  {
+    "id": "767",
+    "hiragana": "じゅう",
+    "kanji": "銃",
+    "meaning": "",
+    "romaji": "juu"
+  },
+  {
+    "id": "768",
+    "hiragana": "しゅうい",
+    "kanji": "周囲",
+    "meaning": "",
+    "romaji": "shuui"
+  },
+  {
+    "id": "769",
+    "hiragana": "しゅうかく",
+    "kanji": "収穫",
+    "meaning": "",
+    "romaji": "shuukaku"
+  },
+  {
+    "id": "770",
+    "hiragana": "しゅうかん",
+    "kanji": "週間",
+    "meaning": "",
+    "romaji": "shuukan"
+  },
+  {
+    "id": "771",
+    "hiragana": "しゅうきょう",
+    "kanji": "宗教",
+    "meaning": "",
+    "romaji": "shuukyou"
+  },
+  {
+    "id": "772",
+    "hiragana": "じゅうし",
+    "kanji": "重視",
+    "meaning": "",
+    "romaji": "juushi"
+  },
+  {
+    "id": "773",
+    "hiragana": "しゅうしょく",
+    "kanji": "就職",
+    "meaning": "",
+    "romaji": "shuushoku"
+  },
+  {
+    "id": "774",
+    "hiragana": "ジュース",
+    "kanji": "ジュース",
+    "meaning": "",
+    "romaji": "juusu"
+  },
+  {
+    "id": "775",
+    "hiragana": "しゅうせい",
+    "kanji": "修正",
+    "meaning": "",
+    "romaji": "shuusei"
+  },
+  {
+    "id": "776",
+    "hiragana": "じゅうたい",
+    "kanji": "渋滞",
+    "meaning": "",
+    "romaji": "juutai"
+  },
+  {
+    "id": "777",
+    "hiragana": "じゅうだい",
+    "kanji": "重大",
+    "meaning": "",
+    "romaji": "juudai"
+  },
+  {
+    "id": "778",
+    "hiragana": "じゅうたく",
+    "kanji": "住宅",
+    "meaning": "",
+    "romaji": "juutaku"
+  },
+  {
+    "id": "779",
+    "hiragana": "しゅうだん",
+    "kanji": "集団",
+    "meaning": "",
+    "romaji": "shuudan"
+  },
+  {
+    "id": "780",
+    "hiragana": "しゅうちゅう",
+    "kanji": "集中",
+    "meaning": "",
+    "romaji": "shuuchuu"
+  },
+  {
+    "id": "781",
+    "hiragana": "しゅうにゅう",
+    "kanji": "収入",
+    "meaning": "",
+    "romaji": "shuunyuu"
+  },
+  {
+    "id": "782",
+    "hiragana": "じゅうみん",
+    "kanji": "住民",
+    "meaning": "",
+    "romaji": "juumin"
+  },
+  {
+    "id": "783",
+    "hiragana": "じゅうよう",
+    "kanji": "重要",
+    "meaning": "",
+    "romaji": "juuyou"
+  },
+  {
+    "id": "784",
+    "hiragana": "しゅうり",
+    "kanji": "修理",
+    "meaning": "",
+    "romaji": "shuuri"
+  },
+  {
+    "id": "785",
+    "hiragana": "しゅぎ",
+    "kanji": "主義",
+    "meaning": "",
+    "romaji": "shugi"
+  },
+  {
+    "id": "786",
+    "hiragana": "しゅくはく",
+    "kanji": "宿泊",
+    "meaning": "",
+    "romaji": "shukuhaku"
+  },
+  {
+    "id": "787",
+    "hiragana": "しゅじゅつ",
+    "kanji": "手術",
+    "meaning": "",
+    "romaji": "shujutsu"
+  },
+  {
+    "id": "788",
+    "hiragana": "しゅしょう",
+    "kanji": "首相",
+    "meaning": "",
+    "romaji": "shushou"
+  },
+  {
+    "id": "789",
+    "hiragana": "しゅだん",
+    "kanji": "手段",
+    "meaning": "",
+    "romaji": "shudan"
+  },
+  {
+    "id": "790",
+    "hiragana": "しゅちょう",
+    "kanji": "主張",
+    "meaning": "",
+    "romaji": "shuchou"
+  },
+  {
+    "id": "791",
+    "hiragana": "しゅっしん",
+    "kanji": "出身",
+    "meaning": "",
+    "romaji": "shusshin"
+  },
+  {
+    "id": "792",
+    "hiragana": "しゅっせき",
+    "kanji": "出席",
+    "meaning": "",
+    "romaji": "shusseki"
+  },
+  {
+    "id": "793",
+    "hiragana": "しゅっぱつ",
+    "kanji": "出発",
+    "meaning": "",
+    "romaji": "shuppatsu"
+  },
+  {
+    "id": "794",
+    "hiragana": "しゅっぱん",
+    "kanji": "出版",
+    "meaning": "",
+    "romaji": "shuppan"
+  },
+  {
+    "id": "795",
+    "hiragana": "しゅと",
+    "kanji": "首都",
+    "meaning": "",
+    "romaji": "shuto"
+  },
+  {
+    "id": "796",
+    "hiragana": "しゅふ",
+    "kanji": "主婦",
+    "meaning": "",
+    "romaji": "shufu"
+  },
+  {
+    "id": "797",
+    "hiragana": "しゅよう",
+    "kanji": "主要",
+    "meaning": "",
+    "romaji": "shuyou"
+  },
+  {
+    "id": "798",
+    "hiragana": "じゅよう",
+    "kanji": "需要",
+    "meaning": "",
+    "romaji": "juyou"
+  },
+  {
+    "id": "799",
+    "hiragana": "しゅるい",
+    "kanji": "種類",
+    "meaning": "",
+    "romaji": "shurui"
+  },
+  {
+    "id": "800",
+    "hiragana": "じゅん",
+    "kanji": "順",
+    "meaning": "",
+    "romaji": "jun"
+  }
+]

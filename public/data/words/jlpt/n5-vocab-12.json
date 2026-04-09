@@ -1,0 +1,352 @@
+[
+  {
+    "id": "551",
+    "hiragana": "ひるごはん",
+    "kanji": "昼御飯",
+    "meaning": "",
+    "romaji": "hirugohan"
+  },
+  {
+    "id": "552",
+    "hiragana": "ひろい",
+    "kanji": "広い",
+    "meaning": "",
+    "romaji": "hiroi"
+  },
+  {
+    "id": "553",
+    "hiragana": "フィルム",
+    "kanji": "フィルム",
+    "meaning": "",
+    "romaji": "fyirumu"
+  },
+  {
+    "id": "554",
+    "hiragana": "ふうとう",
+    "kanji": "封筒",
+    "meaning": "",
+    "romaji": "fuutou"
+  },
+  {
+    "id": "555",
+    "hiragana": "プール",
+    "kanji": "プール",
+    "meaning": "",
+    "romaji": "puuru"
+  },
+  {
+    "id": "556",
+    "hiragana": "フォーク",
+    "kanji": "フォーク",
+    "meaning": "",
+    "romaji": "fuooku"
+  },
+  {
+    "id": "557",
+    "hiragana": "ふく",
+    "kanji": "吹く",
+    "meaning": "",
+    "romaji": "fuku"
+  },
+  {
+    "id": "558",
+    "hiragana": "ふく",
+    "kanji": "服",
+    "meaning": "",
+    "romaji": "fuku"
+  },
+  {
+    "id": "559",
+    "hiragana": "ふたつ",
+    "kanji": "二つ",
+    "meaning": "",
+    "romaji": "futatsu"
+  },
+  {
+    "id": "560",
+    "hiragana": "ぶたにく",
+    "kanji": "豚肉",
+    "meaning": "",
+    "romaji": "butaniku"
+  },
+  {
+    "id": "561",
+    "hiragana": "ふたり",
+    "kanji": "二人",
+    "meaning": "",
+    "romaji": "futari"
+  },
+  {
+    "id": "562",
+    "hiragana": "ふつか",
+    "kanji": "二日",
+    "meaning": "",
+    "romaji": "futsuka"
+  },
+  {
+    "id": "563",
+    "hiragana": "ふとい",
+    "kanji": "太い",
+    "meaning": "",
+    "romaji": "futoi"
+  },
+  {
+    "id": "564",
+    "hiragana": "ふゆ",
+    "kanji": "冬",
+    "meaning": "",
+    "romaji": "fuyu"
+  },
+  {
+    "id": "565",
+    "hiragana": "ふる",
+    "kanji": "降る",
+    "meaning": "",
+    "romaji": "furu"
+  },
+  {
+    "id": "566",
+    "hiragana": "ふるい",
+    "kanji": "古い",
+    "meaning": "",
+    "romaji": "furui"
+  },
+  {
+    "id": "567",
+    "hiragana": "ふろ",
+    "kanji": "ふろ",
+    "meaning": "",
+    "romaji": "furo"
+  },
+  {
+    "id": "568",
+    "hiragana": "ぶんしょう",
+    "kanji": "文章",
+    "meaning": "",
+    "romaji": "bunshou"
+  },
+  {
+    "id": "569",
+    "hiragana": "ページ",
+    "kanji": "ページ",
+    "meaning": "",
+    "romaji": "peeji"
+  },
+  {
+    "id": "570",
+    "hiragana": "へた",
+    "kanji": "下手",
+    "meaning": "",
+    "romaji": "heta"
+  },
+  {
+    "id": "571",
+    "hiragana": "ベッド",
+    "kanji": "ベッド",
+    "meaning": "",
+    "romaji": "beddo"
+  },
+  {
+    "id": "572",
+    "hiragana": "ペット",
+    "kanji": "ペット",
+    "meaning": "",
+    "romaji": "petto"
+  },
+  {
+    "id": "573",
+    "hiragana": "へや",
+    "kanji": "部屋",
+    "meaning": "",
+    "romaji": "heya"
+  },
+  {
+    "id": "574",
+    "hiragana": "へん",
+    "kanji": "辺",
+    "meaning": "",
+    "romaji": "hen"
+  },
+  {
+    "id": "575",
+    "hiragana": "ペン",
+    "kanji": "ペン",
+    "meaning": "",
+    "romaji": "pen"
+  },
+  {
+    "id": "576",
+    "hiragana": "べんきょうする",
+    "kanji": "勉強",
+    "meaning": "",
+    "romaji": "benkyousuru"
+  },
+  {
+    "id": "577",
+    "hiragana": "べんり",
+    "kanji": "便利",
+    "meaning": "",
+    "romaji": "benri"
+  },
+  {
+    "id": "578",
+    "hiragana": "ぼうし",
+    "kanji": "帽子",
+    "meaning": "",
+    "romaji": "boushi"
+  },
+  {
+    "id": "579",
+    "hiragana": "ボールペン",
+    "kanji": "ボールペン",
+    "meaning": "",
+    "romaji": "boorupen"
+  },
+  {
+    "id": "580",
+    "hiragana": "ほか",
+    "kanji": "ほか",
+    "meaning": "",
+    "romaji": "hoka"
+  },
+  {
+    "id": "581",
+    "hiragana": "ポケット",
+    "kanji": "ポケット",
+    "meaning": "",
+    "romaji": "poketto"
+  },
+  {
+    "id": "582",
+    "hiragana": "ほしい",
+    "kanji": "欲しい",
+    "meaning": "",
+    "romaji": "hoshii"
+  },
+  {
+    "id": "583",
+    "hiragana": "ポスト",
+    "kanji": "ポスト",
+    "meaning": "",
+    "romaji": "posuto"
+  },
+  {
+    "id": "584",
+    "hiragana": "ほそい",
+    "kanji": "細い",
+    "meaning": "",
+    "romaji": "hosoi"
+  },
+  {
+    "id": "585",
+    "hiragana": "ボタン",
+    "kanji": "ボタン",
+    "meaning": "",
+    "romaji": "botan"
+  },
+  {
+    "id": "586",
+    "hiragana": "ホテル",
+    "kanji": "ホテル",
+    "meaning": "",
+    "romaji": "hoteru"
+  },
+  {
+    "id": "587",
+    "hiragana": "ほん",
+    "kanji": "本",
+    "meaning": "",
+    "romaji": "hon"
+  },
+  {
+    "id": "588",
+    "hiragana": "ほんだな",
+    "kanji": "本棚",
+    "meaning": "",
+    "romaji": "hondana"
+  },
+  {
+    "id": "589",
+    "hiragana": "ほんとう",
+    "kanji": "ほんとう",
+    "meaning": "",
+    "romaji": "hontou"
+  },
+  {
+    "id": "590",
+    "hiragana": "まいあさ",
+    "kanji": "毎朝",
+    "meaning": "",
+    "romaji": "maiasa"
+  },
+  {
+    "id": "591",
+    "hiragana": "まいげつ",
+    "kanji": "毎月",
+    "meaning": "",
+    "romaji": "maigetsu"
+  },
+  {
+    "id": "592",
+    "hiragana": "まいつき",
+    "kanji": "毎月",
+    "meaning": "",
+    "romaji": "maitsuki"
+  },
+  {
+    "id": "593",
+    "hiragana": "まいしゅう",
+    "kanji": "毎週",
+    "meaning": "",
+    "romaji": "maishuu"
+  },
+  {
+    "id": "594",
+    "hiragana": "まいにち",
+    "kanji": "毎日",
+    "meaning": "",
+    "romaji": "mainichi"
+  },
+  {
+    "id": "595",
+    "hiragana": "まいねん",
+    "kanji": "毎年",
+    "meaning": "",
+    "romaji": "mainen"
+  },
+  {
+    "id": "596",
+    "hiragana": "まいとし",
+    "kanji": "毎年",
+    "meaning": "",
+    "romaji": "maitoshi"
+  },
+  {
+    "id": "597",
+    "hiragana": "まいばん",
+    "kanji": "毎晩",
+    "meaning": "",
+    "romaji": "maiban"
+  },
+  {
+    "id": "598",
+    "hiragana": "まえ",
+    "kanji": "前",
+    "meaning": "",
+    "romaji": "mae"
+  },
+  {
+    "id": "599",
+    "hiragana": "まがる",
+    "kanji": "曲る",
+    "meaning": "",
+    "romaji": "magaru"
+  },
+  {
+    "id": "600",
+    "hiragana": "まずい",
+    "kanji": "まずい",
+    "meaning": "",
+    "romaji": "mazui"
+  }
+]

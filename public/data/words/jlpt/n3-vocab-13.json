@@ -1,0 +1,352 @@
+[
+  {
+    "id": "601",
+    "hiragana": "こくふく",
+    "kanji": "克服",
+    "meaning": "",
+    "romaji": "kokufuku"
+  },
+  {
+    "id": "602",
+    "hiragana": "こくみん",
+    "kanji": "国民",
+    "meaning": "",
+    "romaji": "kokumin"
+  },
+  {
+    "id": "603",
+    "hiragana": "こくもつ",
+    "kanji": "穀物",
+    "meaning": "",
+    "romaji": "kokumotsu"
+  },
+  {
+    "id": "604",
+    "hiragana": "ここ",
+    "kanji": "ここ",
+    "meaning": "",
+    "romaji": "koko"
+  },
+  {
+    "id": "605",
+    "hiragana": "こし",
+    "kanji": "腰",
+    "meaning": "",
+    "romaji": "koshi"
+  },
+  {
+    "id": "606",
+    "hiragana": "こしょう",
+    "kanji": "故障",
+    "meaning": "",
+    "romaji": "koshou"
+  },
+  {
+    "id": "607",
+    "hiragana": "こじん",
+    "kanji": "個人",
+    "meaning": "",
+    "romaji": "kojin"
+  },
+  {
+    "id": "608",
+    "hiragana": "こす",
+    "kanji": "越す",
+    "meaning": "",
+    "romaji": "kosu"
+  },
+  {
+    "id": "609",
+    "hiragana": "こっか",
+    "kanji": "国家",
+    "meaning": "",
+    "romaji": "kokka"
+  },
+  {
+    "id": "610",
+    "hiragana": "こっかい",
+    "kanji": "国会",
+    "meaning": "",
+    "romaji": "kokkai"
+  },
+  {
+    "id": "611",
+    "hiragana": "こっきょう",
+    "kanji": "国境",
+    "meaning": "",
+    "romaji": "kokkyou"
+  },
+  {
+    "id": "612",
+    "hiragana": "こっせつ",
+    "kanji": "骨折",
+    "meaning": "",
+    "romaji": "kossetsu"
+  },
+  {
+    "id": "613",
+    "hiragana": "こづつみ",
+    "kanji": "小包",
+    "meaning": "",
+    "romaji": "kozutsumi"
+  },
+  {
+    "id": "614",
+    "hiragana": "こと",
+    "kanji": "事",
+    "meaning": "",
+    "romaji": "koto"
+  },
+  {
+    "id": "615",
+    "hiragana": "ことなる",
+    "kanji": "異なる",
+    "meaning": "",
+    "romaji": "kotonaru"
+  },
+  {
+    "id": "616",
+    "hiragana": "ことわざ",
+    "kanji": "諺",
+    "meaning": "",
+    "romaji": "kotowaza"
+  },
+  {
+    "id": "617",
+    "hiragana": "ことわる",
+    "kanji": "断る",
+    "meaning": "",
+    "romaji": "kotowaru"
+  },
+  {
+    "id": "618",
+    "hiragana": "こな",
+    "kanji": "粉",
+    "meaning": "",
+    "romaji": "kona"
+  },
+  {
+    "id": "619",
+    "hiragana": "この",
+    "kanji": "この",
+    "meaning": "",
+    "romaji": "kono"
+  },
+  {
+    "id": "620",
+    "hiragana": "このみ",
+    "kanji": "好み",
+    "meaning": "",
+    "romaji": "konomi"
+  },
+  {
+    "id": "621",
+    "hiragana": "このむ",
+    "kanji": "好む",
+    "meaning": "",
+    "romaji": "konomu"
+  },
+  {
+    "id": "622",
+    "hiragana": "コピー",
+    "kanji": "コピー",
+    "meaning": "",
+    "romaji": "kopii"
+  },
+  {
+    "id": "623",
+    "hiragana": "ごみ",
+    "kanji": "塵",
+    "meaning": "",
+    "romaji": "gomi"
+  },
+  {
+    "id": "624",
+    "hiragana": "こむぎ",
+    "kanji": "小麦",
+    "meaning": "",
+    "romaji": "komugi"
+  },
+  {
+    "id": "625",
+    "hiragana": "ごめんなさい",
+    "kanji": "ごめんなさい",
+    "meaning": "",
+    "romaji": "gomennasai"
+  },
+  {
+    "id": "626",
+    "hiragana": "こや",
+    "kanji": "小屋",
+    "meaning": "",
+    "romaji": "koya"
+  },
+  {
+    "id": "627",
+    "hiragana": "これら",
+    "kanji": "これら",
+    "meaning": "",
+    "romaji": "korera"
+  },
+  {
+    "id": "628",
+    "hiragana": "ころ",
+    "kanji": "頃",
+    "meaning": "",
+    "romaji": "koro"
+  },
+  {
+    "id": "629",
+    "hiragana": "ころす",
+    "kanji": "殺す",
+    "meaning": "",
+    "romaji": "korosu"
+  },
+  {
+    "id": "630",
+    "hiragana": "ころぶ",
+    "kanji": "転ぶ",
+    "meaning": "",
+    "romaji": "korobu"
+  },
+  {
+    "id": "631",
+    "hiragana": "こんかい",
+    "kanji": "今回",
+    "meaning": "",
+    "romaji": "konkai"
+  },
+  {
+    "id": "632",
+    "hiragana": "こんご",
+    "kanji": "今後",
+    "meaning": "",
+    "romaji": "kongo"
+  },
+  {
+    "id": "633",
+    "hiragana": "こんざつ",
+    "kanji": "混雑",
+    "meaning": "",
+    "romaji": "konzatsu"
+  },
+  {
+    "id": "634",
+    "hiragana": "こんなに",
+    "kanji": "こんなに",
+    "meaning": "",
+    "romaji": "konnani"
+  },
+  {
+    "id": "635",
+    "hiragana": "こんなん",
+    "kanji": "困難",
+    "meaning": "",
+    "romaji": "konnan"
+  },
+  {
+    "id": "636",
+    "hiragana": "こんにち",
+    "kanji": "今日",
+    "meaning": "",
+    "romaji": "konnichi"
+  },
+  {
+    "id": "637",
+    "hiragana": "こんにちは",
+    "kanji": "こんにちは",
+    "meaning": "",
+    "romaji": "konnichiha"
+  },
+  {
+    "id": "638",
+    "hiragana": "コンピューター",
+    "kanji": "コンピューター",
+    "meaning": "",
+    "romaji": "konpyuutaa"
+  },
+  {
+    "id": "639",
+    "hiragana": "こんやく",
+    "kanji": "婚約",
+    "meaning": "",
+    "romaji": "kon'yaku"
+  },
+  {
+    "id": "640",
+    "hiragana": "こんらん",
+    "kanji": "混乱",
+    "meaning": "",
+    "romaji": "konran"
+  },
+  {
+    "id": "641",
+    "hiragana": "さ",
+    "kanji": "差",
+    "meaning": "",
+    "romaji": "sa"
+  },
+  {
+    "id": "642",
+    "hiragana": "サービス",
+    "kanji": "サービス",
+    "meaning": "",
+    "romaji": "saabisu"
+  },
+  {
+    "id": "643",
+    "hiragana": "さい",
+    "kanji": "際",
+    "meaning": "",
+    "romaji": "sai"
+  },
+  {
+    "id": "644",
+    "hiragana": "さいこう",
+    "kanji": "最高",
+    "meaning": "",
+    "romaji": "saikou"
+  },
+  {
+    "id": "645",
+    "hiragana": "ざいさん",
+    "kanji": "財産",
+    "meaning": "",
+    "romaji": "zaisan"
+  },
+  {
+    "id": "646",
+    "hiragana": "さいしゅう",
+    "kanji": "最終",
+    "meaning": "",
+    "romaji": "saishuu"
+  },
+  {
+    "id": "647",
+    "hiragana": "さいちゅう",
+    "kanji": "最中",
+    "meaning": "",
+    "romaji": "saichuu"
+  },
+  {
+    "id": "648",
+    "hiragana": "さいてい",
+    "kanji": "最低",
+    "meaning": "",
+    "romaji": "saitei"
+  },
+  {
+    "id": "649",
+    "hiragana": "さいのう",
+    "kanji": "才能",
+    "meaning": "",
+    "romaji": "sainou"
+  },
+  {
+    "id": "650",
+    "hiragana": "さいばん",
+    "kanji": "裁判",
+    "meaning": "",
+    "romaji": "saiban"
+  }
+]

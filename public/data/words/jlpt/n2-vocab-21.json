@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1001",
+    "hiragana": "たいせき",
+    "kanji": "体積",
+    "meaning": "",
+    "romaji": "taiseki"
+  },
+  {
+    "id": "1002",
+    "hiragana": "たいそう",
+    "kanji": "大層",
+    "meaning": "",
+    "romaji": "taisou"
+  },
+  {
+    "id": "1003",
+    "hiragana": "たいそう",
+    "kanji": "体操",
+    "meaning": "",
+    "romaji": "taisou"
+  },
+  {
+    "id": "1004",
+    "hiragana": "だいぶん",
+    "kanji": "大分",
+    "meaning": "",
+    "romaji": "daibun"
+  },
+  {
+    "id": "1005",
+    "hiragana": "たいぼく",
+    "kanji": "大木",
+    "meaning": "",
+    "romaji": "taiboku"
+  },
+  {
+    "id": "1006",
+    "hiragana": "だいめい",
+    "kanji": "題名",
+    "meaning": "",
+    "romaji": "daimei"
+  },
+  {
+    "id": "1007",
+    "hiragana": "だいめいし",
+    "kanji": "代名詞",
+    "meaning": "",
+    "romaji": "daimeishi"
+  },
+  {
+    "id": "1008",
+    "hiragana": "タイア",
+    "kanji": "タイア",
+    "meaning": "",
+    "romaji": "taia"
+  },
+  {
+    "id": "1009",
+    "hiragana": "ダイヤグラム",
+    "kanji": "ダイヤグラム",
+    "meaning": "",
+    "romaji": "daiyaguramu"
+  },
+  {
+    "id": "1010",
+    "hiragana": "ダイヤモンド",
+    "kanji": "ダイヤモンド",
+    "meaning": "",
+    "romaji": "daiyamondo"
+  },
+  {
+    "id": "1011",
+    "hiragana": "ダイヤル",
+    "kanji": "ダイヤル",
+    "meaning": "",
+    "romaji": "daiyaru"
+  },
+  {
+    "id": "1012",
+    "hiragana": "たいりつ",
+    "kanji": "対立",
+    "meaning": "",
+    "romaji": "tairitsu"
+  },
+  {
+    "id": "1013",
+    "hiragana": "たうえ",
+    "kanji": "田植え",
+    "meaning": "",
+    "romaji": "taue"
+  },
+  {
+    "id": "1014",
+    "hiragana": "たえず",
+    "kanji": "絶えず",
+    "meaning": "",
+    "romaji": "taezu"
+  },
+  {
+    "id": "1015",
+    "hiragana": "だえん",
+    "kanji": "楕円",
+    "meaning": "",
+    "romaji": "daen"
+  },
+  {
+    "id": "1016",
+    "hiragana": "たかめる",
+    "kanji": "高める",
+    "meaning": "",
+    "romaji": "takameru"
+  },
+  {
+    "id": "1017",
+    "hiragana": "たがやす",
+    "kanji": "耕す",
+    "meaning": "",
+    "romaji": "tagayasu"
+  },
+  {
+    "id": "1018",
+    "hiragana": "たき",
+    "kanji": "滝",
+    "meaning": "",
+    "romaji": "taki"
+  },
+  {
+    "id": "1019",
+    "hiragana": "たく",
+    "kanji": "炊く",
+    "meaning": "",
+    "romaji": "taku"
+  },
+  {
+    "id": "1020",
+    "hiragana": "たく",
+    "kanji": "焚く",
+    "meaning": "",
+    "romaji": "taku"
+  },
+  {
+    "id": "1021",
+    "hiragana": "たくわえる",
+    "kanji": "蓄える",
+    "meaning": "",
+    "romaji": "takuwaeru"
+  },
+  {
+    "id": "1022",
+    "hiragana": "たけ",
+    "kanji": "竹",
+    "meaning": "",
+    "romaji": "take"
+  },
+  {
+    "id": "1023",
+    "hiragana": "たすかる",
+    "kanji": "助かる",
+    "meaning": "",
+    "romaji": "tasukaru"
+  },
+  {
+    "id": "1024",
+    "hiragana": "ただ",
+    "kanji": "只",
+    "meaning": "",
+    "romaji": "tada"
+  },
+  {
+    "id": "1025",
+    "hiragana": "ただし",
+    "kanji": "但し",
+    "meaning": "",
+    "romaji": "tadashi"
+  },
+  {
+    "id": "1026",
+    "hiragana": "たたむ",
+    "kanji": "畳む",
+    "meaning": "",
+    "romaji": "tatamu"
+  },
+  {
+    "id": "1027",
+    "hiragana": "たちどまる",
+    "kanji": "立ち止まる",
+    "meaning": "",
+    "romaji": "tachidomaru"
+  },
+  {
+    "id": "1028",
+    "hiragana": "たちまち",
+    "kanji": "たちまち",
+    "meaning": "",
+    "romaji": "tachimachi"
+  },
+  {
+    "id": "1029",
+    "hiragana": "たつ",
+    "kanji": "建つ",
+    "meaning": "",
+    "romaji": "tatsu"
+  },
+  {
+    "id": "1030",
+    "hiragana": "たつ",
+    "kanji": "発つ",
+    "meaning": "",
+    "romaji": "tatsu"
+  },
+  {
+    "id": "1031",
+    "hiragana": "だっせん",
+    "kanji": "脱線",
+    "meaning": "",
+    "romaji": "dassen"
+  },
+  {
+    "id": "1032",
+    "hiragana": "だとう",
+    "kanji": "妥当",
+    "meaning": "",
+    "romaji": "datou"
+  },
+  {
+    "id": "1033",
+    "hiragana": "たとえる",
+    "kanji": "例える",
+    "meaning": "",
+    "romaji": "tatoeru"
+  },
+  {
+    "id": "1034",
+    "hiragana": "たのもしい",
+    "kanji": "頼もしい",
+    "meaning": "",
+    "romaji": "tanomoshii"
+  },
+  {
+    "id": "1035",
+    "hiragana": "たび",
+    "kanji": "足袋",
+    "meaning": "",
+    "romaji": "tabi"
+  },
+  {
+    "id": "1036",
+    "hiragana": "ダブル",
+    "kanji": "ダブル",
+    "meaning": "",
+    "romaji": "daburu"
+  },
+  {
+    "id": "1037",
+    "hiragana": "だます",
+    "kanji": "だます",
+    "meaning": "",
+    "romaji": "damasu"
+  },
+  {
+    "id": "1038",
+    "hiragana": "たまる",
+    "kanji": "溜まる",
+    "meaning": "",
+    "romaji": "tamaru"
+  },
+  {
+    "id": "1039",
+    "hiragana": "ダム",
+    "kanji": "ダム",
+    "meaning": "",
+    "romaji": "damu"
+  },
+  {
+    "id": "1040",
+    "hiragana": "ためいき",
+    "kanji": "溜息",
+    "meaning": "",
+    "romaji": "tameiki"
+  },
+  {
+    "id": "1041",
+    "hiragana": "ためらう",
+    "kanji": "ためらう",
+    "meaning": "",
+    "romaji": "tamerau"
+  },
+  {
+    "id": "1042",
+    "hiragana": "ためる",
+    "kanji": "溜める",
+    "meaning": "",
+    "romaji": "tameru"
+  },
+  {
+    "id": "1043",
+    "hiragana": "だらしない",
+    "kanji": "だらしない",
+    "meaning": "",
+    "romaji": "darashinai"
+  },
+  {
+    "id": "1044",
+    "hiragana": "たる",
+    "kanji": "足る",
+    "meaning": "",
+    "romaji": "taru"
+  },
+  {
+    "id": "1045",
+    "hiragana": "だんかい",
+    "kanji": "段階",
+    "meaning": "",
+    "romaji": "dankai"
+  },
+  {
+    "id": "1046",
+    "hiragana": "たんき",
+    "kanji": "短期",
+    "meaning": "",
+    "romaji": "tanki"
+  },
+  {
+    "id": "1047",
+    "hiragana": "たんこう",
+    "kanji": "炭鉱",
+    "meaning": "",
+    "romaji": "tankou"
+  },
+  {
+    "id": "1048",
+    "hiragana": "たんしょ",
+    "kanji": "短所",
+    "meaning": "",
+    "romaji": "tansho"
+  },
+  {
+    "id": "1049",
+    "hiragana": "たんす",
+    "kanji": "たんす",
+    "meaning": "",
+    "romaji": "tansu"
+  },
+  {
+    "id": "1050",
+    "hiragana": "たんすい",
+    "kanji": "淡水",
+    "meaning": "",
+    "romaji": "tansui"
+  }
+]

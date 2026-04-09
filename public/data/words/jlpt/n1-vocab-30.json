@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1451",
+    "hiragana": "しょくん",
+    "kanji": "諸君",
+    "meaning": "",
+    "romaji": "shokun"
+  },
+  {
+    "id": "1452",
+    "hiragana": "しょざい",
+    "kanji": "所在",
+    "meaning": "",
+    "romaji": "shozai"
+  },
+  {
+    "id": "1453",
+    "hiragana": "しょしょ",
+    "kanji": "所々",
+    "meaning": "",
+    "romaji": "shosho"
+  },
+  {
+    "id": "1454",
+    "hiragana": "しょじ",
+    "kanji": "所持",
+    "meaning": "",
+    "romaji": "shoji"
+  },
+  {
+    "id": "1455",
+    "hiragana": "しょぞく",
+    "kanji": "所属",
+    "meaning": "",
+    "romaji": "shozoku"
+  },
+  {
+    "id": "1456",
+    "hiragana": "しょち",
+    "kanji": "処置",
+    "meaning": "",
+    "romaji": "shochi"
+  },
+  {
+    "id": "1457",
+    "hiragana": "しょっちゅう",
+    "kanji": "しょっちゅう",
+    "meaning": "",
+    "romaji": "shotchuu"
+  },
+  {
+    "id": "1458",
+    "hiragana": "しょてい",
+    "kanji": "所定",
+    "meaning": "",
+    "romaji": "shotei"
+  },
+  {
+    "id": "1459",
+    "hiragana": "しょとく",
+    "kanji": "所得",
+    "meaning": "",
+    "romaji": "shotoku"
+  },
+  {
+    "id": "1460",
+    "hiragana": "しょはん",
+    "kanji": "初版",
+    "meaning": "",
+    "romaji": "shohan"
+  },
+  {
+    "id": "1461",
+    "hiragana": "しょばつ",
+    "kanji": "処罰",
+    "meaning": "",
+    "romaji": "shobatsu"
+  },
+  {
+    "id": "1462",
+    "hiragana": "しょひょう",
+    "kanji": "書評",
+    "meaning": "",
+    "romaji": "shohyou"
+  },
+  {
+    "id": "1463",
+    "hiragana": "しょぶん",
+    "kanji": "処分",
+    "meaning": "",
+    "romaji": "shobun"
+  },
+  {
+    "id": "1464",
+    "hiragana": "しょみん",
+    "kanji": "庶民",
+    "meaning": "",
+    "romaji": "shomin"
+  },
+  {
+    "id": "1465",
+    "hiragana": "しょむ",
+    "kanji": "庶務",
+    "meaning": "",
+    "romaji": "shomu"
+  },
+  {
+    "id": "1466",
+    "hiragana": "しよう",
+    "kanji": "私用",
+    "meaning": "",
+    "romaji": "shiyou"
+  },
+  {
+    "id": "1467",
+    "hiragana": "しよう",
+    "kanji": "仕様",
+    "meaning": "",
+    "romaji": "shiyou"
+  },
+  {
+    "id": "1468",
+    "hiragana": "しようにん",
+    "kanji": "使用人",
+    "meaning": "",
+    "romaji": "shiyounin"
+  },
+  {
+    "id": "1469",
+    "hiragana": "しらべ",
+    "kanji": "調べ",
+    "meaning": "",
+    "romaji": "shirabe"
+  },
+  {
+    "id": "1470",
+    "hiragana": "しりあい",
+    "kanji": "知り合い",
+    "meaning": "",
+    "romaji": "shiriai"
+  },
+  {
+    "id": "1471",
+    "hiragana": "しりぞく",
+    "kanji": "退く",
+    "meaning": "",
+    "romaji": "shirizoku"
+  },
+  {
+    "id": "1472",
+    "hiragana": "しりぞける",
+    "kanji": "退ける",
+    "meaning": "",
+    "romaji": "shirizokeru"
+  },
+  {
+    "id": "1473",
+    "hiragana": "しるす",
+    "kanji": "記す",
+    "meaning": "",
+    "romaji": "shirusu"
+  },
+  {
+    "id": "1474",
+    "hiragana": "しれい",
+    "kanji": "指令",
+    "meaning": "",
+    "romaji": "shirei"
+  },
+  {
+    "id": "1475",
+    "hiragana": "しろ",
+    "kanji": "代",
+    "meaning": "",
+    "romaji": "shiro"
+  },
+  {
+    "id": "1476",
+    "hiragana": "しわ",
+    "kanji": "皺",
+    "meaning": "",
+    "romaji": "shiwa"
+  },
+  {
+    "id": "1477",
+    "hiragana": "しん",
+    "kanji": "新",
+    "meaning": "",
+    "romaji": "shin"
+  },
+  {
+    "id": "1478",
+    "hiragana": "しんか",
+    "kanji": "進化",
+    "meaning": "",
+    "romaji": "shinka"
+  },
+  {
+    "id": "1479",
+    "hiragana": "しんがり",
+    "kanji": "殿",
+    "meaning": "",
+    "romaji": "shingari"
+  },
+  {
+    "id": "1480",
+    "hiragana": "しんぎ",
+    "kanji": "審議",
+    "meaning": "",
+    "romaji": "shingi"
+  },
+  {
+    "id": "1481",
+    "hiragana": "しんこう",
+    "kanji": "進行",
+    "meaning": "",
+    "romaji": "shinkou"
+  },
+  {
+    "id": "1482",
+    "hiragana": "しんこう",
+    "kanji": "新興",
+    "meaning": "",
+    "romaji": "shinkou"
+  },
+  {
+    "id": "1483",
+    "hiragana": "しんこう",
+    "kanji": "振興",
+    "meaning": "",
+    "romaji": "shinkou"
+  },
+  {
+    "id": "1484",
+    "hiragana": "しんこく",
+    "kanji": "申告",
+    "meaning": "",
+    "romaji": "shinkoku"
+  },
+  {
+    "id": "1485",
+    "hiragana": "しんこん",
+    "kanji": "新婚",
+    "meaning": "",
+    "romaji": "shinkon"
+  },
+  {
+    "id": "1486",
+    "hiragana": "しんさ",
+    "kanji": "審査",
+    "meaning": "",
+    "romaji": "shinsa"
+  },
+  {
+    "id": "1487",
+    "hiragana": "しんし",
+    "kanji": "紳士",
+    "meaning": "",
+    "romaji": "shinshi"
+  },
+  {
+    "id": "1488",
+    "hiragana": "しんしゅつ",
+    "kanji": "進出",
+    "meaning": "",
+    "romaji": "shinshutsu"
+  },
+  {
+    "id": "1489",
+    "hiragana": "しんじゃ",
+    "kanji": "信者",
+    "meaning": "",
+    "romaji": "shinja"
+  },
+  {
+    "id": "1490",
+    "hiragana": "しんじゅ",
+    "kanji": "真珠",
+    "meaning": "",
+    "romaji": "shinju"
+  },
+  {
+    "id": "1491",
+    "hiragana": "しんじゅう",
+    "kanji": "心中",
+    "meaning": "",
+    "romaji": "shinjuu"
+  },
+  {
+    "id": "1492",
+    "hiragana": "しんじょう",
+    "kanji": "心情",
+    "meaning": "",
+    "romaji": "shinjou"
+  },
+  {
+    "id": "1493",
+    "hiragana": "しんじん",
+    "kanji": "新人",
+    "meaning": "",
+    "romaji": "shinjin"
+  },
+  {
+    "id": "1494",
+    "hiragana": "しんせい",
+    "kanji": "神聖",
+    "meaning": "",
+    "romaji": "shinsei"
+  },
+  {
+    "id": "1495",
+    "hiragana": "しんぜん",
+    "kanji": "親善",
+    "meaning": "",
+    "romaji": "shinzen"
+  },
+  {
+    "id": "1496",
+    "hiragana": "しんそう",
+    "kanji": "真相",
+    "meaning": "",
+    "romaji": "shinsou"
+  },
+  {
+    "id": "1497",
+    "hiragana": "しんちく",
+    "kanji": "新築",
+    "meaning": "",
+    "romaji": "shinchiku"
+  },
+  {
+    "id": "1498",
+    "hiragana": "しんてい",
+    "kanji": "進呈",
+    "meaning": "",
+    "romaji": "shintei"
+  },
+  {
+    "id": "1499",
+    "hiragana": "しんてん",
+    "kanji": "進展",
+    "meaning": "",
+    "romaji": "shinten"
+  },
+  {
+    "id": "1500",
+    "hiragana": "しんでん",
+    "kanji": "神殿",
+    "meaning": "",
+    "romaji": "shinden"
+  }
+]

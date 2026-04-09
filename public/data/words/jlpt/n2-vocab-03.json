@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "インキ",
+    "kanji": "インキ",
+    "meaning": "",
+    "romaji": "inki"
+  },
+  {
+    "id": "102",
+    "hiragana": "インタビュー",
+    "kanji": "インタビュー",
+    "meaning": "",
+    "romaji": "intabyuu"
+  },
+  {
+    "id": "103",
+    "hiragana": "いんりょく",
+    "kanji": "引力",
+    "meaning": "",
+    "romaji": "inryoku"
+  },
+  {
+    "id": "104",
+    "hiragana": "ウーマン",
+    "kanji": "ウーマン",
+    "meaning": "",
+    "romaji": "uuman"
+  },
+  {
+    "id": "105",
+    "hiragana": "ウール",
+    "kanji": "ウール",
+    "meaning": "",
+    "romaji": "uuru"
+  },
+  {
+    "id": "106",
+    "hiragana": "ウエートレス",
+    "kanji": "ウエートレス",
+    "meaning": "",
+    "romaji": "ueetoresu"
+  },
+  {
+    "id": "107",
+    "hiragana": "うえき",
+    "kanji": "植木",
+    "meaning": "",
+    "romaji": "ueki"
+  },
+  {
+    "id": "108",
+    "hiragana": "うえる",
+    "kanji": "飢える",
+    "meaning": "",
+    "romaji": "ueru"
+  },
+  {
+    "id": "109",
+    "hiragana": "うかぶ",
+    "kanji": "浮ぶ",
+    "meaning": "",
+    "romaji": "ukabu"
+  },
+  {
+    "id": "110",
+    "hiragana": "うかべる",
+    "kanji": "浮かべる",
+    "meaning": "",
+    "romaji": "ukaberu"
+  },
+  {
+    "id": "111",
+    "hiragana": "うく",
+    "kanji": "浮く",
+    "meaning": "",
+    "romaji": "uku"
+  },
+  {
+    "id": "112",
+    "hiragana": "うけたまわる",
+    "kanji": "承る",
+    "meaning": "",
+    "romaji": "uketamawaru"
+  },
+  {
+    "id": "113",
+    "hiragana": "うけとり",
+    "kanji": "受取",
+    "meaning": "",
+    "romaji": "uketori"
+  },
+  {
+    "id": "114",
+    "hiragana": "うけもつ",
+    "kanji": "受け持つ",
+    "meaning": "",
+    "romaji": "ukemotsu"
+  },
+  {
+    "id": "115",
+    "hiragana": "うすぐらい",
+    "kanji": "薄暗い",
+    "meaning": "",
+    "romaji": "usugurai"
+  },
+  {
+    "id": "116",
+    "hiragana": "うすめる",
+    "kanji": "薄める",
+    "meaning": "",
+    "romaji": "usumeru"
+  },
+  {
+    "id": "117",
+    "hiragana": "うちあわせ",
+    "kanji": "打合せ",
+    "meaning": "",
+    "romaji": "uchiawase"
+  },
+  {
+    "id": "118",
+    "hiragana": "うちけす",
+    "kanji": "打ち消す",
+    "meaning": "",
+    "romaji": "uchikesu"
+  },
+  {
+    "id": "119",
+    "hiragana": "うつ",
+    "kanji": "討つ",
+    "meaning": "",
+    "romaji": "utsu"
+  },
+  {
+    "id": "120",
+    "hiragana": "うっかり",
+    "kanji": "うっかり",
+    "meaning": "",
+    "romaji": "ukkari"
+  },
+  {
+    "id": "121",
+    "hiragana": "うつす",
+    "kanji": "映す",
+    "meaning": "",
+    "romaji": "utsusu"
+  },
+  {
+    "id": "122",
+    "hiragana": "うつる",
+    "kanji": "写る",
+    "meaning": "",
+    "romaji": "utsuru"
+  },
+  {
+    "id": "123",
+    "hiragana": "うつる",
+    "kanji": "映る",
+    "meaning": "",
+    "romaji": "utsuru"
+  },
+  {
+    "id": "124",
+    "hiragana": "うどん",
+    "kanji": "うどん",
+    "meaning": "",
+    "romaji": "udon"
+  },
+  {
+    "id": "125",
+    "hiragana": "うむ",
+    "kanji": "有無",
+    "meaning": "",
+    "romaji": "umu"
+  },
+  {
+    "id": "126",
+    "hiragana": "うめる",
+    "kanji": "埋める",
+    "meaning": "",
+    "romaji": "umeru"
+  },
+  {
+    "id": "127",
+    "hiragana": "うやまう",
+    "kanji": "敬う",
+    "meaning": "",
+    "romaji": "uyamau"
+  },
+  {
+    "id": "128",
+    "hiragana": "うらがえす",
+    "kanji": "裏返す",
+    "meaning": "",
+    "romaji": "uragaesu"
+  },
+  {
+    "id": "129",
+    "hiragana": "うらぐち",
+    "kanji": "裏口",
+    "meaning": "",
+    "romaji": "uraguchi"
+  },
+  {
+    "id": "130",
+    "hiragana": "うらなう",
+    "kanji": "占う",
+    "meaning": "",
+    "romaji": "uranau"
+  },
+  {
+    "id": "131",
+    "hiragana": "うらみ",
+    "kanji": "恨み",
+    "meaning": "",
+    "romaji": "urami"
+  },
+  {
+    "id": "132",
+    "hiragana": "うらむ",
+    "kanji": "恨む",
+    "meaning": "",
+    "romaji": "uramu"
+  },
+  {
+    "id": "133",
+    "hiragana": "うらやましい",
+    "kanji": "羨ましい",
+    "meaning": "",
+    "romaji": "urayamashii"
+  },
+  {
+    "id": "134",
+    "hiragana": "うらやむ",
+    "kanji": "羨む",
+    "meaning": "",
+    "romaji": "urayamu"
+  },
+  {
+    "id": "135",
+    "hiragana": "うりあげ",
+    "kanji": "売上",
+    "meaning": "",
+    "romaji": "uriage"
+  },
+  {
+    "id": "136",
+    "hiragana": "うりきれ",
+    "kanji": "売り切れ",
+    "meaning": "",
+    "romaji": "urikire"
+  },
+  {
+    "id": "137",
+    "hiragana": "うりきれる",
+    "kanji": "売り切れる",
+    "meaning": "",
+    "romaji": "urikireru"
+  },
+  {
+    "id": "138",
+    "hiragana": "うれゆき",
+    "kanji": "売行き",
+    "meaning": "",
+    "romaji": "ureyuki"
+  },
+  {
+    "id": "139",
+    "hiragana": "うろうろ",
+    "kanji": "うろうろ",
+    "meaning": "",
+    "romaji": "urouro"
+  },
+  {
+    "id": "140",
+    "hiragana": "うんが",
+    "kanji": "運河",
+    "meaning": "",
+    "romaji": "unga"
+  },
+  {
+    "id": "141",
+    "hiragana": "うんと",
+    "kanji": "うんと",
+    "meaning": "",
+    "romaji": "unto"
+  },
+  {
+    "id": "142",
+    "hiragana": "えいぶん",
+    "kanji": "英文",
+    "meaning": "",
+    "romaji": "eibun"
+  },
+  {
+    "id": "143",
+    "hiragana": "えいわ",
+    "kanji": "英和",
+    "meaning": "",
+    "romaji": "eiwa"
+  },
+  {
+    "id": "144",
+    "hiragana": "ええと",
+    "kanji": "ええと",
+    "meaning": "",
+    "romaji": "eeto"
+  },
+  {
+    "id": "145",
+    "hiragana": "えきたい",
+    "kanji": "液体",
+    "meaning": "",
+    "romaji": "ekitai"
+  },
+  {
+    "id": "146",
+    "hiragana": "エチケット",
+    "kanji": "エチケット",
+    "meaning": "",
+    "romaji": "echiketto"
+  },
+  {
+    "id": "147",
+    "hiragana": "えのぐ",
+    "kanji": "絵の具",
+    "meaning": "",
+    "romaji": "enogu"
+  },
+  {
+    "id": "148",
+    "hiragana": "エプロン",
+    "kanji": "エプロン",
+    "meaning": "",
+    "romaji": "epuron"
+  },
+  {
+    "id": "149",
+    "hiragana": "えらい",
+    "kanji": "偉い",
+    "meaning": "",
+    "romaji": "erai"
+  },
+  {
+    "id": "150",
+    "hiragana": "えんかい",
+    "kanji": "宴会",
+    "meaning": "",
+    "romaji": "enkai"
+  }
+]

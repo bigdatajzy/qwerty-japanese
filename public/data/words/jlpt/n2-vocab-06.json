@@ -1,0 +1,352 @@
+[
+  {
+    "id": "251",
+    "hiragana": "かいぞう",
+    "kanji": "改造",
+    "meaning": "",
+    "romaji": "kaizou"
+  },
+  {
+    "id": "252",
+    "hiragana": "かいつう",
+    "kanji": "開通",
+    "meaning": "",
+    "romaji": "kaitsuu"
+  },
+  {
+    "id": "253",
+    "hiragana": "かいてん",
+    "kanji": "回転",
+    "meaning": "",
+    "romaji": "kaiten"
+  },
+  {
+    "id": "254",
+    "hiragana": "かいとう",
+    "kanji": "解答",
+    "meaning": "",
+    "romaji": "kaitou"
+  },
+  {
+    "id": "255",
+    "hiragana": "かいとう",
+    "kanji": "回答",
+    "meaning": "",
+    "romaji": "kaitou"
+  },
+  {
+    "id": "256",
+    "hiragana": "がいぶ",
+    "kanji": "外部",
+    "meaning": "",
+    "romaji": "gaibu"
+  },
+  {
+    "id": "257",
+    "hiragana": "かいほう",
+    "kanji": "解放",
+    "meaning": "",
+    "romaji": "kaihou"
+  },
+  {
+    "id": "258",
+    "hiragana": "かいほう",
+    "kanji": "開放",
+    "meaning": "",
+    "romaji": "kaihou"
+  },
+  {
+    "id": "259",
+    "hiragana": "かいよう",
+    "kanji": "海洋",
+    "meaning": "",
+    "romaji": "kaiyou"
+  },
+  {
+    "id": "260",
+    "hiragana": "がいろん",
+    "kanji": "概論",
+    "meaning": "",
+    "romaji": "gairon"
+  },
+  {
+    "id": "261",
+    "hiragana": "かえす",
+    "kanji": "帰す",
+    "meaning": "",
+    "romaji": "kaesu"
+  },
+  {
+    "id": "262",
+    "hiragana": "かえって",
+    "kanji": "却って",
+    "meaning": "",
+    "romaji": "kaette"
+  },
+  {
+    "id": "263",
+    "hiragana": "かえる",
+    "kanji": "代える",
+    "meaning": "",
+    "romaji": "kaeru"
+  },
+  {
+    "id": "264",
+    "hiragana": "かえる",
+    "kanji": "反る",
+    "meaning": "",
+    "romaji": "kaeru"
+  },
+  {
+    "id": "265",
+    "hiragana": "かおく",
+    "kanji": "家屋",
+    "meaning": "",
+    "romaji": "kaoku"
+  },
+  {
+    "id": "266",
+    "hiragana": "かかわる",
+    "kanji": "係わる",
+    "meaning": "",
+    "romaji": "kakawaru"
+  },
+  {
+    "id": "267",
+    "hiragana": "かきとめ",
+    "kanji": "書留",
+    "meaning": "",
+    "romaji": "kakitome"
+  },
+  {
+    "id": "268",
+    "hiragana": "かきとり",
+    "kanji": "書取",
+    "meaning": "",
+    "romaji": "kakitori"
+  },
+  {
+    "id": "269",
+    "hiragana": "かきね",
+    "kanji": "垣根",
+    "meaning": "",
+    "romaji": "kakine"
+  },
+  {
+    "id": "270",
+    "hiragana": "かく",
+    "kanji": "掻く",
+    "meaning": "",
+    "romaji": "kaku"
+  },
+  {
+    "id": "271",
+    "hiragana": "かぐ",
+    "kanji": "嗅ぐ",
+    "meaning": "",
+    "romaji": "kagu"
+  },
+  {
+    "id": "272",
+    "hiragana": "かくう",
+    "kanji": "架空",
+    "meaning": "",
+    "romaji": "kakuu"
+  },
+  {
+    "id": "273",
+    "hiragana": "かくじ",
+    "kanji": "各自",
+    "meaning": "",
+    "romaji": "kakuji"
+  },
+  {
+    "id": "274",
+    "hiragana": "かくじゅう",
+    "kanji": "拡充",
+    "meaning": "",
+    "romaji": "kakujuu"
+  },
+  {
+    "id": "275",
+    "hiragana": "がくじゅつ",
+    "kanji": "学術",
+    "meaning": "",
+    "romaji": "gakujutsu"
+  },
+  {
+    "id": "276",
+    "hiragana": "かくち",
+    "kanji": "各地",
+    "meaning": "",
+    "romaji": "kakuchi"
+  },
+  {
+    "id": "277",
+    "hiragana": "かくちょう",
+    "kanji": "拡張",
+    "meaning": "",
+    "romaji": "kakuchou"
+  },
+  {
+    "id": "278",
+    "hiragana": "かくど",
+    "kanji": "角度",
+    "meaning": "",
+    "romaji": "kakudo"
+  },
+  {
+    "id": "279",
+    "hiragana": "がくねん",
+    "kanji": "学年",
+    "meaning": "",
+    "romaji": "gakunen"
+  },
+  {
+    "id": "280",
+    "hiragana": "がくぶ",
+    "kanji": "学部",
+    "meaning": "",
+    "romaji": "gakubu"
+  },
+  {
+    "id": "281",
+    "hiragana": "かくべつ",
+    "kanji": "格別",
+    "meaning": "",
+    "romaji": "kakubetsu"
+  },
+  {
+    "id": "282",
+    "hiragana": "かくりつ",
+    "kanji": "確率",
+    "meaning": "",
+    "romaji": "kakuritsu"
+  },
+  {
+    "id": "283",
+    "hiragana": "がくりょく",
+    "kanji": "学力",
+    "meaning": "",
+    "romaji": "gakuryoku"
+  },
+  {
+    "id": "284",
+    "hiragana": "かけざん",
+    "kanji": "掛け算",
+    "meaning": "",
+    "romaji": "kakezan"
+  },
+  {
+    "id": "285",
+    "hiragana": "かけつ",
+    "kanji": "可決",
+    "meaning": "",
+    "romaji": "kaketsu"
+  },
+  {
+    "id": "286",
+    "hiragana": "かこう",
+    "kanji": "火口",
+    "meaning": "",
+    "romaji": "kakou"
+  },
+  {
+    "id": "287",
+    "hiragana": "かこう",
+    "kanji": "下降",
+    "meaning": "",
+    "romaji": "kakou"
+  },
+  {
+    "id": "288",
+    "hiragana": "かさなる",
+    "kanji": "重なる",
+    "meaning": "",
+    "romaji": "kasanaru"
+  },
+  {
+    "id": "289",
+    "hiragana": "かさねる",
+    "kanji": "重ねる",
+    "meaning": "",
+    "romaji": "kasaneru"
+  },
+  {
+    "id": "290",
+    "hiragana": "かざり",
+    "kanji": "飾り",
+    "meaning": "",
+    "romaji": "kazari"
+  },
+  {
+    "id": "291",
+    "hiragana": "かざん",
+    "kanji": "火山",
+    "meaning": "",
+    "romaji": "kazan"
+  },
+  {
+    "id": "292",
+    "hiragana": "かしこまりまし",
+    "kanji": "かしこまりまし",
+    "meaning": "",
+    "romaji": "kashikomarimashi"
+  },
+  {
+    "id": "293",
+    "hiragana": "た",
+    "kanji": "た",
+    "meaning": "",
+    "romaji": "ta"
+  },
+  {
+    "id": "294",
+    "hiragana": "かしだし",
+    "kanji": "貸し出し",
+    "meaning": "",
+    "romaji": "kashidashi"
+  },
+  {
+    "id": "295",
+    "hiragana": "かしつ",
+    "kanji": "過失",
+    "meaning": "",
+    "romaji": "kashitsu"
+  },
+  {
+    "id": "296",
+    "hiragana": "かじつ",
+    "kanji": "果実",
+    "meaning": "",
+    "romaji": "kajitsu"
+  },
+  {
+    "id": "297",
+    "hiragana": "かしま",
+    "kanji": "貸間",
+    "meaning": "",
+    "romaji": "kashima"
+  },
+  {
+    "id": "298",
+    "hiragana": "かしや",
+    "kanji": "貸家",
+    "meaning": "",
+    "romaji": "kashiya"
+  },
+  {
+    "id": "299",
+    "hiragana": "かしょ",
+    "kanji": "個所",
+    "meaning": "",
+    "romaji": "kasho"
+  },
+  {
+    "id": "300",
+    "hiragana": "かじょう",
+    "kanji": "過剰",
+    "meaning": "",
+    "romaji": "kajou"
+  }
+]

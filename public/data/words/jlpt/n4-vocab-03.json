@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "おもう",
+    "kanji": "思う",
+    "meaning": "",
+    "romaji": "omou"
+  },
+  {
+    "id": "102",
+    "hiragana": "おもちゃ",
+    "kanji": "おもちゃ",
+    "meaning": "",
+    "romaji": "omocha"
+  },
+  {
+    "id": "103",
+    "hiragana": "おもて",
+    "kanji": "表",
+    "meaning": "",
+    "romaji": "omote"
+  },
+  {
+    "id": "104",
+    "hiragana": "おや",
+    "kanji": "親",
+    "meaning": "",
+    "romaji": "oya"
+  },
+  {
+    "id": "105",
+    "hiragana": "おりる",
+    "kanji": "下りる",
+    "meaning": "",
+    "romaji": "oriru"
+  },
+  {
+    "id": "106",
+    "hiragana": "おる",
+    "kanji": "折る",
+    "meaning": "",
+    "romaji": "oru"
+  },
+  {
+    "id": "107",
+    "hiragana": "おれい",
+    "kanji": "お礼",
+    "meaning": "",
+    "romaji": "orei"
+  },
+  {
+    "id": "108",
+    "hiragana": "おれる",
+    "kanji": "折れる",
+    "meaning": "",
+    "romaji": "oreru"
+  },
+  {
+    "id": "109",
+    "hiragana": "おわり",
+    "kanji": "終わり",
+    "meaning": "",
+    "romaji": "owari"
+  },
+  {
+    "id": "110",
+    "hiragana": "カーテン",
+    "kanji": "カーテン",
+    "meaning": "",
+    "romaji": "kaaten"
+  },
+  {
+    "id": "111",
+    "hiragana": "かいがん",
+    "kanji": "海岸",
+    "meaning": "",
+    "romaji": "kaigan"
+  },
+  {
+    "id": "112",
+    "hiragana": "かいぎ",
+    "kanji": "会議",
+    "meaning": "",
+    "romaji": "kaigi"
+  },
+  {
+    "id": "113",
+    "hiragana": "かいぎしつ",
+    "kanji": "会議室",
+    "meaning": "",
+    "romaji": "kaigishitsu"
+  },
+  {
+    "id": "114",
+    "hiragana": "かいじょう",
+    "kanji": "会場",
+    "meaning": "",
+    "romaji": "kaijou"
+  },
+  {
+    "id": "115",
+    "hiragana": "かいわ",
+    "kanji": "会話",
+    "meaning": "",
+    "romaji": "kaiwa"
+  },
+  {
+    "id": "116",
+    "hiragana": "かえり",
+    "kanji": "帰り",
+    "meaning": "",
+    "romaji": "kaeri"
+  },
+  {
+    "id": "117",
+    "hiragana": "かえる",
+    "kanji": "変える",
+    "meaning": "",
+    "romaji": "kaeru"
+  },
+  {
+    "id": "118",
+    "hiragana": "かがく",
+    "kanji": "科学",
+    "meaning": "",
+    "romaji": "kagaku"
+  },
+  {
+    "id": "119",
+    "hiragana": "かがみ",
+    "kanji": "鏡",
+    "meaning": "",
+    "romaji": "kagami"
+  },
+  {
+    "id": "120",
+    "hiragana": "かける",
+    "kanji": "掛ける",
+    "meaning": "",
+    "romaji": "kakeru"
+  },
+  {
+    "id": "121",
+    "hiragana": "かざる",
+    "kanji": "飾る",
+    "meaning": "",
+    "romaji": "kazaru"
+  },
+  {
+    "id": "122",
+    "hiragana": "かじ",
+    "kanji": "火事",
+    "meaning": "",
+    "romaji": "kaji"
+  },
+  {
+    "id": "123",
+    "hiragana": "ガス",
+    "kanji": "ガス",
+    "meaning": "",
+    "romaji": "gasu"
+  },
+  {
+    "id": "124",
+    "hiragana": "ガソリン",
+    "kanji": "ガソリン",
+    "meaning": "",
+    "romaji": "gasorin"
+  },
+  {
+    "id": "125",
+    "hiragana": "ガソリンスタンド",
+    "kanji": "ガソリンスタンド",
+    "meaning": "",
+    "romaji": "gasorinsutando"
+  },
+  {
+    "id": "126",
+    "hiragana": "かたい",
+    "kanji": "堅",
+    "meaning": "",
+    "romaji": "katai"
+  },
+  {
+    "id": "127",
+    "hiragana": "かたい",
+    "kanji": "硬",
+    "meaning": "",
+    "romaji": "katai"
+  },
+  {
+    "id": "128",
+    "hiragana": "かたい",
+    "kanji": "固い",
+    "meaning": "",
+    "romaji": "katai"
+  },
+  {
+    "id": "129",
+    "hiragana": "かたち",
+    "kanji": "形",
+    "meaning": "",
+    "romaji": "katachi"
+  },
+  {
+    "id": "130",
+    "hiragana": "かたづける",
+    "kanji": "片付ける",
+    "meaning": "",
+    "romaji": "katazukeru"
+  },
+  {
+    "id": "131",
+    "hiragana": "かちょう",
+    "kanji": "課長",
+    "meaning": "",
+    "romaji": "kachou"
+  },
+  {
+    "id": "132",
+    "hiragana": "かつ",
+    "kanji": "勝つ",
+    "meaning": "",
+    "romaji": "katsu"
+  },
+  {
+    "id": "133",
+    "hiragana": "かっこう",
+    "kanji": "かっこう",
+    "meaning": "",
+    "romaji": "kakkou"
+  },
+  {
+    "id": "134",
+    "hiragana": "かない",
+    "kanji": "家内",
+    "meaning": "",
+    "romaji": "kanai"
+  },
+  {
+    "id": "135",
+    "hiragana": "かなしい",
+    "kanji": "悲しい",
+    "meaning": "",
+    "romaji": "kanashii"
+  },
+  {
+    "id": "136",
+    "hiragana": "かならず",
+    "kanji": "必ず",
+    "meaning": "",
+    "romaji": "kanarazu"
+  },
+  {
+    "id": "137",
+    "hiragana": "かねもち",
+    "kanji": "お・金持ち",
+    "meaning": "",
+    "romaji": "kanemochi"
+  },
+  {
+    "id": "138",
+    "hiragana": "おかねもち",
+    "kanji": "お・金持ち",
+    "meaning": "",
+    "romaji": "okanemochi"
+  },
+  {
+    "id": "139",
+    "hiragana": "かのじょ",
+    "kanji": "彼女",
+    "meaning": "",
+    "romaji": "kanojo"
+  },
+  {
+    "id": "140",
+    "hiragana": "かべ",
+    "kanji": "壁",
+    "meaning": "",
+    "romaji": "kabe"
+  },
+  {
+    "id": "141",
+    "hiragana": "かまう",
+    "kanji": "かまう",
+    "meaning": "",
+    "romaji": "kamau"
+  },
+  {
+    "id": "142",
+    "hiragana": "かみ",
+    "kanji": "髪",
+    "meaning": "",
+    "romaji": "kami"
+  },
+  {
+    "id": "143",
+    "hiragana": "かむ",
+    "kanji": "噛む",
+    "meaning": "",
+    "romaji": "kamu"
+  },
+  {
+    "id": "144",
+    "hiragana": "かよう",
+    "kanji": "通う",
+    "meaning": "",
+    "romaji": "kayou"
+  },
+  {
+    "id": "145",
+    "hiragana": "ガラス",
+    "kanji": "ガラス",
+    "meaning": "",
+    "romaji": "garasu"
+  },
+  {
+    "id": "146",
+    "hiragana": "かれ",
+    "kanji": "彼",
+    "meaning": "",
+    "romaji": "kare"
+  },
+  {
+    "id": "147",
+    "hiragana": "かれら",
+    "kanji": "彼ら",
+    "meaning": "",
+    "romaji": "karera"
+  },
+  {
+    "id": "148",
+    "hiragana": "かわく",
+    "kanji": "乾く",
+    "meaning": "",
+    "romaji": "kawaku"
+  },
+  {
+    "id": "149",
+    "hiragana": "かわり",
+    "kanji": "代わり",
+    "meaning": "",
+    "romaji": "kawari"
+  },
+  {
+    "id": "150",
+    "hiragana": "かわる",
+    "kanji": "変わる",
+    "meaning": "",
+    "romaji": "kawaru"
+  }
+]

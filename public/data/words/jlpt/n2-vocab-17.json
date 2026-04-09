@@ -1,0 +1,352 @@
+[
+  {
+    "id": "801",
+    "hiragana": "しょうりゃく",
+    "kanji": "省略",
+    "meaning": "",
+    "romaji": "shouryaku"
+  },
+  {
+    "id": "802",
+    "hiragana": "しょきゅう",
+    "kanji": "初級",
+    "meaning": "",
+    "romaji": "shokyuu"
+  },
+  {
+    "id": "803",
+    "hiragana": "じょきょうじゅ",
+    "kanji": "助教授",
+    "meaning": "",
+    "romaji": "jokyouju"
+  },
+  {
+    "id": "804",
+    "hiragana": "しょくえん",
+    "kanji": "食塩",
+    "meaning": "",
+    "romaji": "shokuen"
+  },
+  {
+    "id": "805",
+    "hiragana": "しょくにん",
+    "kanji": "職人",
+    "meaning": "",
+    "romaji": "shokunin"
+  },
+  {
+    "id": "806",
+    "hiragana": "しょじゅん",
+    "kanji": "初旬",
+    "meaning": "",
+    "romaji": "shojun"
+  },
+  {
+    "id": "807",
+    "hiragana": "しょせき",
+    "kanji": "書籍",
+    "meaning": "",
+    "romaji": "shoseki"
+  },
+  {
+    "id": "808",
+    "hiragana": "しょっき",
+    "kanji": "食器",
+    "meaning": "",
+    "romaji": "shokki"
+  },
+  {
+    "id": "809",
+    "hiragana": "ショップ",
+    "kanji": "ショップ",
+    "meaning": "",
+    "romaji": "shoppu"
+  },
+  {
+    "id": "810",
+    "hiragana": "しょてん",
+    "kanji": "書店",
+    "meaning": "",
+    "romaji": "shoten"
+  },
+  {
+    "id": "811",
+    "hiragana": "しょどう",
+    "kanji": "書道",
+    "meaning": "",
+    "romaji": "shodou"
+  },
+  {
+    "id": "812",
+    "hiragana": "しらが",
+    "kanji": "白髪",
+    "meaning": "",
+    "romaji": "shiraga"
+  },
+  {
+    "id": "813",
+    "hiragana": "しりあい",
+    "kanji": "知合い",
+    "meaning": "",
+    "romaji": "shiriai"
+  },
+  {
+    "id": "814",
+    "hiragana": "シリーズ",
+    "kanji": "シリーズ",
+    "meaning": "",
+    "romaji": "shiriizu"
+  },
+  {
+    "id": "815",
+    "hiragana": "しりつ",
+    "kanji": "私立",
+    "meaning": "",
+    "romaji": "shiritsu"
+  },
+  {
+    "id": "816",
+    "hiragana": "しりょう",
+    "kanji": "資料",
+    "meaning": "",
+    "romaji": "shiryou"
+  },
+  {
+    "id": "817",
+    "hiragana": "しる",
+    "kanji": "汁",
+    "meaning": "",
+    "romaji": "shiru"
+  },
+  {
+    "id": "818",
+    "hiragana": "しろうと",
+    "kanji": "素人",
+    "meaning": "",
+    "romaji": "shirouto"
+  },
+  {
+    "id": "819",
+    "hiragana": "しん",
+    "kanji": "芯",
+    "meaning": "",
+    "romaji": "shin"
+  },
+  {
+    "id": "820",
+    "hiragana": "しんかんせん",
+    "kanji": "新幹線",
+    "meaning": "",
+    "romaji": "shinkansen"
+  },
+  {
+    "id": "821",
+    "hiragana": "しんくう",
+    "kanji": "真空",
+    "meaning": "",
+    "romaji": "shinkuu"
+  },
+  {
+    "id": "822",
+    "hiragana": "しんずる",
+    "kanji": "信ずる",
+    "meaning": "",
+    "romaji": "shinzuru"
+  },
+  {
+    "id": "823",
+    "hiragana": "しんしん",
+    "kanji": "心身",
+    "meaning": "",
+    "romaji": "shinshin"
+  },
+  {
+    "id": "824",
+    "hiragana": "しんせい",
+    "kanji": "申請",
+    "meaning": "",
+    "romaji": "shinsei"
+  },
+  {
+    "id": "825",
+    "hiragana": "じんぞう",
+    "kanji": "人造",
+    "meaning": "",
+    "romaji": "jinzou"
+  },
+  {
+    "id": "826",
+    "hiragana": "しんだい",
+    "kanji": "寝台",
+    "meaning": "",
+    "romaji": "shindai"
+  },
+  {
+    "id": "827",
+    "hiragana": "しんだん",
+    "kanji": "診断",
+    "meaning": "",
+    "romaji": "shindan"
+  },
+  {
+    "id": "828",
+    "hiragana": "しんにゅう",
+    "kanji": "侵入",
+    "meaning": "",
+    "romaji": "shinnyuu"
+  },
+  {
+    "id": "829",
+    "hiragana": "じんぶんかがく",
+    "kanji": "人文科学",
+    "meaning": "",
+    "romaji": "jinbunkagaku"
+  },
+  {
+    "id": "830",
+    "hiragana": "じんめい",
+    "kanji": "人命",
+    "meaning": "",
+    "romaji": "jinmei"
+  },
+  {
+    "id": "831",
+    "hiragana": "しんや",
+    "kanji": "深夜",
+    "meaning": "",
+    "romaji": "shin'ya"
+  },
+  {
+    "id": "832",
+    "hiragana": "しんりん",
+    "kanji": "森林",
+    "meaning": "",
+    "romaji": "shinrin"
+  },
+  {
+    "id": "833",
+    "hiragana": "しんるい",
+    "kanji": "親類",
+    "meaning": "",
+    "romaji": "shinrui"
+  },
+  {
+    "id": "834",
+    "hiragana": "しんろ",
+    "kanji": "針路",
+    "meaning": "",
+    "romaji": "shinro"
+  },
+  {
+    "id": "835",
+    "hiragana": "しんわ",
+    "kanji": "神話",
+    "meaning": "",
+    "romaji": "shinwa"
+  },
+  {
+    "id": "836",
+    "hiragana": "す",
+    "kanji": "酢",
+    "meaning": "",
+    "romaji": "su"
+  },
+  {
+    "id": "837",
+    "hiragana": "すいさん",
+    "kanji": "水産",
+    "meaning": "",
+    "romaji": "suisan"
+  },
+  {
+    "id": "838",
+    "hiragana": "すいじ",
+    "kanji": "炊事",
+    "meaning": "",
+    "romaji": "suiji"
+  },
+  {
+    "id": "839",
+    "hiragana": "すいじょうき",
+    "kanji": "水蒸気",
+    "meaning": "",
+    "romaji": "suijouki"
+  },
+  {
+    "id": "840",
+    "hiragana": "すいそ",
+    "kanji": "水素",
+    "meaning": "",
+    "romaji": "suiso"
+  },
+  {
+    "id": "841",
+    "hiragana": "すいちょく",
+    "kanji": "垂直",
+    "meaning": "",
+    "romaji": "suichoku"
+  },
+  {
+    "id": "842",
+    "hiragana": "すいてい",
+    "kanji": "推定",
+    "meaning": "",
+    "romaji": "suitei"
+  },
+  {
+    "id": "843",
+    "hiragana": "すいてき",
+    "kanji": "水滴",
+    "meaning": "",
+    "romaji": "suiteki"
+  },
+  {
+    "id": "844",
+    "hiragana": "すいとう",
+    "kanji": "水筒",
+    "meaning": "",
+    "romaji": "suitou"
+  },
+  {
+    "id": "845",
+    "hiragana": "ずいひつ",
+    "kanji": "随筆",
+    "meaning": "",
+    "romaji": "zuihitsu"
+  },
+  {
+    "id": "846",
+    "hiragana": "すいぶん",
+    "kanji": "水分",
+    "meaning": "",
+    "romaji": "suibun"
+  },
+  {
+    "id": "847",
+    "hiragana": "すいへい",
+    "kanji": "水平",
+    "meaning": "",
+    "romaji": "suihei"
+  },
+  {
+    "id": "848",
+    "hiragana": "すいへいせん",
+    "kanji": "水平線",
+    "meaning": "",
+    "romaji": "suiheisen"
+  },
+  {
+    "id": "849",
+    "hiragana": "すいよう",
+    "kanji": "水曜",
+    "meaning": "",
+    "romaji": "suiyou"
+  },
+  {
+    "id": "850",
+    "hiragana": "ずうずうしい",
+    "kanji": "ずうずうしい",
+    "meaning": "",
+    "romaji": "zuuzuushii"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1651",
+    "hiragana": "せい",
+    "kanji": "制",
+    "meaning": "",
+    "romaji": "sei"
+  },
+  {
+    "id": "1652",
+    "hiragana": "せい",
+    "kanji": "製",
+    "meaning": "",
+    "romaji": "sei"
+  },
+  {
+    "id": "1653",
+    "hiragana": "せいいく",
+    "kanji": "生育",
+    "meaning": "",
+    "romaji": "seiiku"
+  },
+  {
+    "id": "1654",
+    "hiragana": "せいか",
+    "kanji": "成果",
+    "meaning": "",
+    "romaji": "seika"
+  },
+  {
+    "id": "1655",
+    "hiragana": "せいかい",
+    "kanji": "正解",
+    "meaning": "",
+    "romaji": "seikai"
+  },
+  {
+    "id": "1656",
+    "hiragana": "せいき",
+    "kanji": "正規",
+    "meaning": "",
+    "romaji": "seiki"
+  },
+  {
+    "id": "1657",
+    "hiragana": "せいぎ",
+    "kanji": "正義",
+    "meaning": "",
+    "romaji": "seigi"
+  },
+  {
+    "id": "1658",
+    "hiragana": "せいけい",
+    "kanji": "生計",
+    "meaning": "",
+    "romaji": "seikei"
+  },
+  {
+    "id": "1659",
+    "hiragana": "せいけん",
+    "kanji": "政権",
+    "meaning": "",
+    "romaji": "seiken"
+  },
+  {
+    "id": "1660",
+    "hiragana": "せいこう",
+    "kanji": "精巧",
+    "meaning": "",
+    "romaji": "seikou"
+  },
+  {
+    "id": "1661",
+    "hiragana": "せいさい",
+    "kanji": "制裁",
+    "meaning": "",
+    "romaji": "seisai"
+  },
+  {
+    "id": "1662",
+    "hiragana": "せいさく",
+    "kanji": "政策",
+    "meaning": "",
+    "romaji": "seisaku"
+  },
+  {
+    "id": "1663",
+    "hiragana": "せいさん",
+    "kanji": "清算",
+    "meaning": "",
+    "romaji": "seisan"
+  },
+  {
+    "id": "1664",
+    "hiragana": "せいざ",
+    "kanji": "星座",
+    "meaning": "",
+    "romaji": "seiza"
+  },
+  {
+    "id": "1665",
+    "hiragana": "せいし",
+    "kanji": "生死",
+    "meaning": "",
+    "romaji": "seishi"
+  },
+  {
+    "id": "1666",
+    "hiragana": "せいし",
+    "kanji": "静止",
+    "meaning": "",
+    "romaji": "seishi"
+  },
+  {
+    "id": "1667",
+    "hiragana": "せいしゅん",
+    "kanji": "青春",
+    "meaning": "",
+    "romaji": "seishun"
+  },
+  {
+    "id": "1668",
+    "hiragana": "せいしょ",
+    "kanji": "聖書",
+    "meaning": "",
+    "romaji": "seisho"
+  },
+  {
+    "id": "1669",
+    "hiragana": "せいじつ",
+    "kanji": "誠実",
+    "meaning": "",
+    "romaji": "seijitsu"
+  },
+  {
+    "id": "1670",
+    "hiragana": "せいじゅく",
+    "kanji": "成熟",
+    "meaning": "",
+    "romaji": "seijuku"
+  },
+  {
+    "id": "1671",
+    "hiragana": "せいじゅん",
+    "kanji": "清純",
+    "meaning": "",
+    "romaji": "seijun"
+  },
+  {
+    "id": "1672",
+    "hiragana": "せいじょう",
+    "kanji": "正常",
+    "meaning": "",
+    "romaji": "seijou"
+  },
+  {
+    "id": "1673",
+    "hiragana": "せいする",
+    "kanji": "制する",
+    "meaning": "",
+    "romaji": "seisuru"
+  },
+  {
+    "id": "1674",
+    "hiragana": "せいぜん",
+    "kanji": "整然",
+    "meaning": "",
+    "romaji": "seizen"
+  },
+  {
+    "id": "1675",
+    "hiragana": "せいそう",
+    "kanji": "盛装",
+    "meaning": "",
+    "romaji": "seisou"
+  },
+  {
+    "id": "1676",
+    "hiragana": "せいだい",
+    "kanji": "盛大",
+    "meaning": "",
+    "romaji": "seidai"
+  },
+  {
+    "id": "1677",
+    "hiragana": "せいだく",
+    "kanji": "清濁",
+    "meaning": "",
+    "romaji": "seidaku"
+  },
+  {
+    "id": "1678",
+    "hiragana": "せいてい",
+    "kanji": "制定",
+    "meaning": "",
+    "romaji": "seitei"
+  },
+  {
+    "id": "1679",
+    "hiragana": "せいてき",
+    "kanji": "静的",
+    "meaning": "",
+    "romaji": "seiteki"
+  },
+  {
+    "id": "1680",
+    "hiragana": "せいてつ",
+    "kanji": "製鉄",
+    "meaning": "",
+    "romaji": "seitetsu"
+  },
+  {
+    "id": "1681",
+    "hiragana": "せいてん",
+    "kanji": "晴天",
+    "meaning": "",
+    "romaji": "seiten"
+  },
+  {
+    "id": "1682",
+    "hiragana": "せいとう",
+    "kanji": "正当",
+    "meaning": "",
+    "romaji": "seitou"
+  },
+  {
+    "id": "1683",
+    "hiragana": "せいねん",
+    "kanji": "成年",
+    "meaning": "",
+    "romaji": "seinen"
+  },
+  {
+    "id": "1684",
+    "hiragana": "せいふく",
+    "kanji": "制服",
+    "meaning": "",
+    "romaji": "seifuku"
+  },
+  {
+    "id": "1685",
+    "hiragana": "せいふく",
+    "kanji": "征服",
+    "meaning": "",
+    "romaji": "seifuku"
+  },
+  {
+    "id": "1686",
+    "hiragana": "せいほう",
+    "kanji": "製法",
+    "meaning": "",
+    "romaji": "seihou"
+  },
+  {
+    "id": "1687",
+    "hiragana": "せいみつ",
+    "kanji": "精密",
+    "meaning": "",
+    "romaji": "seimitsu"
+  },
+  {
+    "id": "1688",
+    "hiragana": "せいめい",
+    "kanji": "声明",
+    "meaning": "",
+    "romaji": "seimei"
+  },
+  {
+    "id": "1689",
+    "hiragana": "せいめい",
+    "kanji": "姓名",
+    "meaning": "",
+    "romaji": "seimei"
+  },
+  {
+    "id": "1690",
+    "hiragana": "せいやく",
+    "kanji": "制約",
+    "meaning": "",
+    "romaji": "seiyaku"
+  },
+  {
+    "id": "1691",
+    "hiragana": "せいり",
+    "kanji": "生理",
+    "meaning": "",
+    "romaji": "seiri"
+  },
+  {
+    "id": "1692",
+    "hiragana": "せいりょく",
+    "kanji": "勢力",
+    "meaning": "",
+    "romaji": "seiryoku"
+  },
+  {
+    "id": "1693",
+    "hiragana": "せいれつ",
+    "kanji": "整列",
+    "meaning": "",
+    "romaji": "seiretsu"
+  },
+  {
+    "id": "1694",
+    "hiragana": "せかす",
+    "kanji": "急かす",
+    "meaning": "",
+    "romaji": "sekasu"
+  },
+  {
+    "id": "1695",
+    "hiragana": "せがれ",
+    "kanji": "伜",
+    "meaning": "",
+    "romaji": "segare"
+  },
+  {
+    "id": "1696",
+    "hiragana": "せきむ",
+    "kanji": "責務",
+    "meaning": "",
+    "romaji": "sekimu"
+  },
+  {
+    "id": "1697",
+    "hiragana": "せじ",
+    "kanji": "世辞",
+    "meaning": "",
+    "romaji": "seji"
+  },
+  {
+    "id": "1698",
+    "hiragana": "せたい",
+    "kanji": "世帯",
+    "meaning": "",
+    "romaji": "setai"
+  },
+  {
+    "id": "1699",
+    "hiragana": "せだい",
+    "kanji": "世代",
+    "meaning": "",
+    "romaji": "sedai"
+  },
+  {
+    "id": "1700",
+    "hiragana": "せっかい",
+    "kanji": "切開",
+    "meaning": "",
+    "romaji": "sekkai"
+  }
+]

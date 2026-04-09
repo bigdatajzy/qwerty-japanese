@@ -1,0 +1,352 @@
+[
+  {
+    "id": "801",
+    "hiragana": "きょうわ",
+    "kanji": "共和",
+    "meaning": "",
+    "romaji": "kyouwa"
+  },
+  {
+    "id": "802",
+    "hiragana": "きょく",
+    "kanji": "曲",
+    "meaning": "",
+    "romaji": "kyoku"
+  },
+  {
+    "id": "803",
+    "hiragana": "きょくげん",
+    "kanji": "局限",
+    "meaning": "",
+    "romaji": "kyokugen"
+  },
+  {
+    "id": "804",
+    "hiragana": "きょくたん",
+    "kanji": "極端",
+    "meaning": "",
+    "romaji": "kyokutan"
+  },
+  {
+    "id": "805",
+    "hiragana": "きょじゅう",
+    "kanji": "居住",
+    "meaning": "",
+    "romaji": "kyojuu"
+  },
+  {
+    "id": "806",
+    "hiragana": "きょぜつ",
+    "kanji": "拒絶",
+    "meaning": "",
+    "romaji": "kyozetsu"
+  },
+  {
+    "id": "807",
+    "hiragana": "きょひ",
+    "kanji": "拒否",
+    "meaning": "",
+    "romaji": "kyohi"
+  },
+  {
+    "id": "808",
+    "hiragana": "きょよう",
+    "kanji": "許容",
+    "meaning": "",
+    "romaji": "kyoyou"
+  },
+  {
+    "id": "809",
+    "hiragana": "きょり",
+    "kanji": "距離",
+    "meaning": "",
+    "romaji": "kyori"
+  },
+  {
+    "id": "810",
+    "hiragana": "きよ",
+    "kanji": "寄与",
+    "meaning": "",
+    "romaji": "kiyo"
+  },
+  {
+    "id": "811",
+    "hiragana": "きよらか",
+    "kanji": "清らか",
+    "meaning": "",
+    "romaji": "kiyoraka"
+  },
+  {
+    "id": "812",
+    "hiragana": "きらく",
+    "kanji": "気楽",
+    "meaning": "",
+    "romaji": "kiraku"
+  },
+  {
+    "id": "813",
+    "hiragana": "きらびやか",
+    "kanji": "煌びやか",
+    "meaning": "",
+    "romaji": "kirabiyaka"
+  },
+  {
+    "id": "814",
+    "hiragana": "きり",
+    "kanji": "切り",
+    "meaning": "",
+    "romaji": "kiri"
+  },
+  {
+    "id": "815",
+    "hiragana": "きり",
+    "kanji": "桐",
+    "meaning": "",
+    "romaji": "kiri"
+  },
+  {
+    "id": "816",
+    "hiragana": "きりかえる",
+    "kanji": "切り替える",
+    "meaning": "",
+    "romaji": "kirikaeru"
+  },
+  {
+    "id": "817",
+    "hiragana": "きりゅう",
+    "kanji": "気流",
+    "meaning": "",
+    "romaji": "kiryuu"
+  },
+  {
+    "id": "818",
+    "hiragana": "きれい",
+    "kanji": "奇麗",
+    "meaning": "",
+    "romaji": "kirei"
+  },
+  {
+    "id": "819",
+    "hiragana": "きれめ",
+    "kanji": "切れ目",
+    "meaning": "",
+    "romaji": "kireme"
+  },
+  {
+    "id": "820",
+    "hiragana": "きわ",
+    "kanji": "際",
+    "meaning": "",
+    "romaji": "kiwa"
+  },
+  {
+    "id": "821",
+    "hiragana": "きわた",
+    "kanji": "木綿",
+    "meaning": "",
+    "romaji": "kiwata"
+  },
+  {
+    "id": "822",
+    "hiragana": "きわめて",
+    "kanji": "極めて",
+    "meaning": "",
+    "romaji": "kiwamete"
+  },
+  {
+    "id": "823",
+    "hiragana": "きん",
+    "kanji": "僅",
+    "meaning": "",
+    "romaji": "kin"
+  },
+  {
+    "id": "824",
+    "hiragana": "きんがん",
+    "kanji": "近眼",
+    "meaning": "",
+    "romaji": "kingan"
+  },
+  {
+    "id": "825",
+    "hiragana": "きんきゅう",
+    "kanji": "緊急",
+    "meaning": "",
+    "romaji": "kinkyuu"
+  },
+  {
+    "id": "826",
+    "hiragana": "きんきん",
+    "kanji": "近々",
+    "meaning": "",
+    "romaji": "kinkin"
+  },
+  {
+    "id": "827",
+    "hiragana": "きんこう",
+    "kanji": "近郊",
+    "meaning": "",
+    "romaji": "kinkou"
+  },
+  {
+    "id": "828",
+    "hiragana": "きんこう",
+    "kanji": "均衡",
+    "meaning": "",
+    "romaji": "kinkou"
+  },
+  {
+    "id": "829",
+    "hiragana": "きんし",
+    "kanji": "近視",
+    "meaning": "",
+    "romaji": "kinshi"
+  },
+  {
+    "id": "830",
+    "hiragana": "きんじる",
+    "kanji": "禁じる",
+    "meaning": "",
+    "romaji": "kinjiru"
+  },
+  {
+    "id": "831",
+    "hiragana": "きんずる",
+    "kanji": "禁ずる",
+    "meaning": "",
+    "romaji": "kinzuru"
+  },
+  {
+    "id": "832",
+    "hiragana": "きんべん",
+    "kanji": "勤勉",
+    "meaning": "",
+    "romaji": "kinben"
+  },
+  {
+    "id": "833",
+    "hiragana": "きんむ",
+    "kanji": "勤務",
+    "meaning": "",
+    "romaji": "kinmu"
+  },
+  {
+    "id": "834",
+    "hiragana": "きんもつ",
+    "kanji": "禁物",
+    "meaning": "",
+    "romaji": "kinmotsu"
+  },
+  {
+    "id": "835",
+    "hiragana": "きんろう",
+    "kanji": "勤労",
+    "meaning": "",
+    "romaji": "kinrou"
+  },
+  {
+    "id": "836",
+    "hiragana": "ぎあん",
+    "kanji": "議案",
+    "meaning": "",
+    "romaji": "gian"
+  },
+  {
+    "id": "837",
+    "hiragana": "ぎきょく",
+    "kanji": "戯曲",
+    "meaning": "",
+    "romaji": "gikyoku"
+  },
+  {
+    "id": "838",
+    "hiragana": "ぎけつ",
+    "kanji": "議決",
+    "meaning": "",
+    "romaji": "giketsu"
+  },
+  {
+    "id": "839",
+    "hiragana": "ぎじどう",
+    "kanji": "議事堂",
+    "meaning": "",
+    "romaji": "gijidou"
+  },
+  {
+    "id": "840",
+    "hiragana": "ぎせい",
+    "kanji": "犠牲",
+    "meaning": "",
+    "romaji": "gisei"
+  },
+  {
+    "id": "841",
+    "hiragana": "ぎぞう",
+    "kanji": "偽造",
+    "meaning": "",
+    "romaji": "gizou"
+  },
+  {
+    "id": "842",
+    "hiragana": "ぎだい",
+    "kanji": "議題",
+    "meaning": "",
+    "romaji": "gidai"
+  },
+  {
+    "id": "843",
+    "hiragana": "ぎのう",
+    "kanji": "技能",
+    "meaning": "",
+    "romaji": "ginou"
+  },
+  {
+    "id": "844",
+    "hiragana": "ぎゃくてん",
+    "kanji": "逆転",
+    "meaning": "",
+    "romaji": "gyakuten"
+  },
+  {
+    "id": "845",
+    "hiragana": "ぎょう",
+    "kanji": "行",
+    "meaning": "",
+    "romaji": "gyou"
+  },
+  {
+    "id": "846",
+    "hiragana": "ぎょうしゃ",
+    "kanji": "業者",
+    "meaning": "",
+    "romaji": "gyousha"
+  },
+  {
+    "id": "847",
+    "hiragana": "ぎょうせい",
+    "kanji": "行政",
+    "meaning": "",
+    "romaji": "gyousei"
+  },
+  {
+    "id": "848",
+    "hiragana": "ぎょうせき",
+    "kanji": "業績",
+    "meaning": "",
+    "romaji": "gyouseki"
+  },
+  {
+    "id": "849",
+    "hiragana": "ぎょうむ",
+    "kanji": "業務",
+    "meaning": "",
+    "romaji": "gyoumu"
+  },
+  {
+    "id": "850",
+    "hiragana": "ぎょく",
+    "kanji": "玉",
+    "meaning": "",
+    "romaji": "gyoku"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1501",
+    "hiragana": "ふ",
+    "kanji": "不",
+    "meaning": "",
+    "romaji": "fu"
+  },
+  {
+    "id": "1502",
+    "hiragana": "ぶ",
+    "kanji": "不",
+    "meaning": "",
+    "romaji": "bu"
+  },
+  {
+    "id": "1503",
+    "hiragana": "ぶ",
+    "kanji": "無",
+    "meaning": "",
+    "romaji": "bu"
+  },
+  {
+    "id": "1504",
+    "hiragana": "ぶ",
+    "kanji": "分",
+    "meaning": "",
+    "romaji": "bu"
+  },
+  {
+    "id": "1505",
+    "hiragana": "ふあん",
+    "kanji": "不安",
+    "meaning": "",
+    "romaji": "fuan"
+  },
+  {
+    "id": "1506",
+    "hiragana": "ふうけい",
+    "kanji": "風景",
+    "meaning": "",
+    "romaji": "fuukei"
+  },
+  {
+    "id": "1507",
+    "hiragana": "ふうふ",
+    "kanji": "夫婦",
+    "meaning": "",
+    "romaji": "fuufu"
+  },
+  {
+    "id": "1508",
+    "hiragana": "ふえ",
+    "kanji": "笛",
+    "meaning": "",
+    "romaji": "fue"
+  },
+  {
+    "id": "1509",
+    "hiragana": "ふか",
+    "kanji": "不可",
+    "meaning": "",
+    "romaji": "fuka"
+  },
+  {
+    "id": "1510",
+    "hiragana": "ぶき",
+    "kanji": "武器",
+    "meaning": "",
+    "romaji": "buki"
+  },
+  {
+    "id": "1511",
+    "hiragana": "ふくそう",
+    "kanji": "服装",
+    "meaning": "",
+    "romaji": "fukusou"
+  },
+  {
+    "id": "1512",
+    "hiragana": "ふくむ",
+    "kanji": "含む",
+    "meaning": "",
+    "romaji": "fukumu"
+  },
+  {
+    "id": "1513",
+    "hiragana": "ふくろ",
+    "kanji": "袋",
+    "meaning": "",
+    "romaji": "fukuro"
+  },
+  {
+    "id": "1514",
+    "hiragana": "ふこう",
+    "kanji": "不幸",
+    "meaning": "",
+    "romaji": "fukou"
+  },
+  {
+    "id": "1515",
+    "hiragana": "ふし",
+    "kanji": "節",
+    "meaning": "",
+    "romaji": "fushi"
+  },
+  {
+    "id": "1516",
+    "hiragana": "ぶじ",
+    "kanji": "無事",
+    "meaning": "",
+    "romaji": "buji"
+  },
+  {
+    "id": "1517",
+    "hiragana": "ふしぎ",
+    "kanji": "不思議",
+    "meaning": "",
+    "romaji": "fushigi"
+  },
+  {
+    "id": "1518",
+    "hiragana": "ふじゆう",
+    "kanji": "不自由",
+    "meaning": "",
+    "romaji": "fujiyuu"
+  },
+  {
+    "id": "1519",
+    "hiragana": "ふじん",
+    "kanji": "夫人",
+    "meaning": "",
+    "romaji": "fujin"
+  },
+  {
+    "id": "1520",
+    "hiragana": "ふじん",
+    "kanji": "婦人",
+    "meaning": "",
+    "romaji": "fujin"
+  },
+  {
+    "id": "1521",
+    "hiragana": "ふせい",
+    "kanji": "不正",
+    "meaning": "",
+    "romaji": "fusei"
+  },
+  {
+    "id": "1522",
+    "hiragana": "ふせぐ",
+    "kanji": "防ぐ",
+    "meaning": "",
+    "romaji": "fusegu"
+  },
+  {
+    "id": "1523",
+    "hiragana": "ふそく",
+    "kanji": "不足",
+    "meaning": "",
+    "romaji": "fusoku"
+  },
+  {
+    "id": "1524",
+    "hiragana": "ぶたい",
+    "kanji": "舞台",
+    "meaning": "",
+    "romaji": "butai"
+  },
+  {
+    "id": "1525",
+    "hiragana": "ふたご",
+    "kanji": "双子",
+    "meaning": "",
+    "romaji": "futago"
+  },
+  {
+    "id": "1526",
+    "hiragana": "ふたたび",
+    "kanji": "再び",
+    "meaning": "",
+    "romaji": "futatabi"
+  },
+  {
+    "id": "1527",
+    "hiragana": "ふだん",
+    "kanji": "普段",
+    "meaning": "",
+    "romaji": "fudan"
+  },
+  {
+    "id": "1528",
+    "hiragana": "ふち",
+    "kanji": "縁",
+    "meaning": "",
+    "romaji": "fuchi"
+  },
+  {
+    "id": "1529",
+    "hiragana": "ぶつ",
+    "kanji": "打つ",
+    "meaning": "",
+    "romaji": "butsu"
+  },
+  {
+    "id": "1530",
+    "hiragana": "ぶっか",
+    "kanji": "物価",
+    "meaning": "",
+    "romaji": "bukka"
+  },
+  {
+    "id": "1531",
+    "hiragana": "ぶっしつ",
+    "kanji": "物質",
+    "meaning": "",
+    "romaji": "busshitsu"
+  },
+  {
+    "id": "1532",
+    "hiragana": "ぶつり",
+    "kanji": "物理",
+    "meaning": "",
+    "romaji": "butsuri"
+  },
+  {
+    "id": "1533",
+    "hiragana": "ふで",
+    "kanji": "筆",
+    "meaning": "",
+    "romaji": "fude"
+  },
+  {
+    "id": "1534",
+    "hiragana": "（副）",
+    "kanji": "ふと",
+    "meaning": "",
+    "romaji": "(副)"
+  },
+  {
+    "id": "1535",
+    "hiragana": "ふね",
+    "kanji": "船",
+    "meaning": "",
+    "romaji": "fune"
+  },
+  {
+    "id": "1536",
+    "hiragana": "ぶぶん",
+    "kanji": "部分",
+    "meaning": "",
+    "romaji": "bubun"
+  },
+  {
+    "id": "1537",
+    "hiragana": "ふへい",
+    "kanji": "不平",
+    "meaning": "",
+    "romaji": "fuhei"
+  },
+  {
+    "id": "1538",
+    "hiragana": "ふまん",
+    "kanji": "不満",
+    "meaning": "",
+    "romaji": "fuman"
+  },
+  {
+    "id": "1539",
+    "hiragana": "プラス",
+    "kanji": "プラス",
+    "meaning": "",
+    "romaji": "purasu"
+  },
+  {
+    "id": "1540",
+    "hiragana": "プラン",
+    "kanji": "プラン",
+    "meaning": "",
+    "romaji": "puran"
+  },
+  {
+    "id": "1541",
+    "hiragana": "ふり",
+    "kanji": "不利",
+    "meaning": "",
+    "romaji": "furi"
+  },
+  {
+    "id": "1542",
+    "hiragana": "ふる",
+    "kanji": "振る",
+    "meaning": "",
+    "romaji": "furu"
+  },
+  {
+    "id": "1543",
+    "hiragana": "ふるえる",
+    "kanji": "震える",
+    "meaning": "",
+    "romaji": "furueru"
+  },
+  {
+    "id": "1544",
+    "hiragana": "ブレーキ",
+    "kanji": "ブレーキ",
+    "meaning": "",
+    "romaji": "bureeki"
+  },
+  {
+    "id": "1545",
+    "hiragana": "ふれる",
+    "kanji": "触れる",
+    "meaning": "",
+    "romaji": "fureru"
+  },
+  {
+    "id": "1546",
+    "hiragana": "ふろ",
+    "kanji": "風呂",
+    "meaning": "",
+    "romaji": "furo"
+  },
+  {
+    "id": "1547",
+    "hiragana": "プロ",
+    "kanji": "プロ",
+    "meaning": "",
+    "romaji": "puro"
+  },
+  {
+    "id": "1548",
+    "hiragana": "ぶん",
+    "kanji": "分",
+    "meaning": "",
+    "romaji": "bun"
+  },
+  {
+    "id": "1549",
+    "hiragana": "ぶん",
+    "kanji": "文",
+    "meaning": "",
+    "romaji": "bun"
+  },
+  {
+    "id": "1550",
+    "hiragana": "ふんいき",
+    "kanji": "雰囲気",
+    "meaning": "",
+    "romaji": "fun'iki"
+  }
+]

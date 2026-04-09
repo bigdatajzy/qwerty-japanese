@@ -1,0 +1,352 @@
+[
+  {
+    "id": "51",
+    "hiragana": "いく",
+    "kanji": "行く",
+    "meaning": "",
+    "romaji": "iku"
+  },
+  {
+    "id": "52",
+    "hiragana": "いくつ",
+    "kanji": "いくつ",
+    "meaning": "",
+    "romaji": "ikutsu"
+  },
+  {
+    "id": "53",
+    "hiragana": "いくら",
+    "kanji": "いくら",
+    "meaning": "",
+    "romaji": "ikura"
+  },
+  {
+    "id": "54",
+    "hiragana": "いけ",
+    "kanji": "池",
+    "meaning": "",
+    "romaji": "ike"
+  },
+  {
+    "id": "55",
+    "hiragana": "いしゃ",
+    "kanji": "医者",
+    "meaning": "",
+    "romaji": "isha"
+  },
+  {
+    "id": "56",
+    "hiragana": "いす",
+    "kanji": "いす",
+    "meaning": "",
+    "romaji": "isu"
+  },
+  {
+    "id": "57",
+    "hiragana": "いそがしい",
+    "kanji": "忙しい",
+    "meaning": "",
+    "romaji": "isogashii"
+  },
+  {
+    "id": "58",
+    "hiragana": "いたい",
+    "kanji": "痛い",
+    "meaning": "",
+    "romaji": "itai"
+  },
+  {
+    "id": "59",
+    "hiragana": "いち",
+    "kanji": "一",
+    "meaning": "",
+    "romaji": "ichi"
+  },
+  {
+    "id": "60",
+    "hiragana": "いちにち",
+    "kanji": "一日",
+    "meaning": "",
+    "romaji": "ichinichi"
+  },
+  {
+    "id": "61",
+    "hiragana": "いちばん",
+    "kanji": "いちばん",
+    "meaning": "",
+    "romaji": "ichiban"
+  },
+  {
+    "id": "62",
+    "hiragana": "いつ",
+    "kanji": "いつ",
+    "meaning": "",
+    "romaji": "itsu"
+  },
+  {
+    "id": "63",
+    "hiragana": "いつか",
+    "kanji": "五日",
+    "meaning": "",
+    "romaji": "itsuka"
+  },
+  {
+    "id": "64",
+    "hiragana": "いっしょ",
+    "kanji": "一緒",
+    "meaning": "",
+    "romaji": "issho"
+  },
+  {
+    "id": "65",
+    "hiragana": "いつつ",
+    "kanji": "五つ",
+    "meaning": "",
+    "romaji": "itsutsu"
+  },
+  {
+    "id": "66",
+    "hiragana": "いつも",
+    "kanji": "いつも",
+    "meaning": "",
+    "romaji": "itsumo"
+  },
+  {
+    "id": "67",
+    "hiragana": "いぬ",
+    "kanji": "犬",
+    "meaning": "",
+    "romaji": "inu"
+  },
+  {
+    "id": "68",
+    "hiragana": "いま",
+    "kanji": "今",
+    "meaning": "",
+    "romaji": "ima"
+  },
+  {
+    "id": "69",
+    "hiragana": "いみ",
+    "kanji": "意味",
+    "meaning": "",
+    "romaji": "imi"
+  },
+  {
+    "id": "70",
+    "hiragana": "いもうと",
+    "kanji": "妹",
+    "meaning": "",
+    "romaji": "imouto"
+  },
+  {
+    "id": "71",
+    "hiragana": "いや",
+    "kanji": "嫌",
+    "meaning": "",
+    "romaji": "iya"
+  },
+  {
+    "id": "72",
+    "hiragana": "いりぐち",
+    "kanji": "入口",
+    "meaning": "",
+    "romaji": "iriguchi"
+  },
+  {
+    "id": "73",
+    "hiragana": "いる",
+    "kanji": "居る",
+    "meaning": "",
+    "romaji": "iru"
+  },
+  {
+    "id": "74",
+    "hiragana": "いる",
+    "kanji": "要る",
+    "meaning": "",
+    "romaji": "iru"
+  },
+  {
+    "id": "75",
+    "hiragana": "いれる",
+    "kanji": "入れる",
+    "meaning": "",
+    "romaji": "ireru"
+  },
+  {
+    "id": "76",
+    "hiragana": "いろ",
+    "kanji": "色",
+    "meaning": "",
+    "romaji": "iro"
+  },
+  {
+    "id": "77",
+    "hiragana": "いろいろ",
+    "kanji": "いろいろ",
+    "meaning": "",
+    "romaji": "iroiro"
+  },
+  {
+    "id": "78",
+    "hiragana": "うえ",
+    "kanji": "上",
+    "meaning": "",
+    "romaji": "ue"
+  },
+  {
+    "id": "79",
+    "hiragana": "うしろ",
+    "kanji": "後ろ",
+    "meaning": "",
+    "romaji": "ushiro"
+  },
+  {
+    "id": "80",
+    "hiragana": "うすい",
+    "kanji": "薄い",
+    "meaning": "",
+    "romaji": "usui"
+  },
+  {
+    "id": "81",
+    "hiragana": "うた",
+    "kanji": "歌",
+    "meaning": "",
+    "romaji": "uta"
+  },
+  {
+    "id": "82",
+    "hiragana": "うたう",
+    "kanji": "歌う",
+    "meaning": "",
+    "romaji": "utau"
+  },
+  {
+    "id": "83",
+    "hiragana": "うまれる",
+    "kanji": "生まれる",
+    "meaning": "",
+    "romaji": "umareru"
+  },
+  {
+    "id": "84",
+    "hiragana": "うみ",
+    "kanji": "海",
+    "meaning": "",
+    "romaji": "umi"
+  },
+  {
+    "id": "85",
+    "hiragana": "うる",
+    "kanji": "売る",
+    "meaning": "",
+    "romaji": "uru"
+  },
+  {
+    "id": "86",
+    "hiragana": "うるさい",
+    "kanji": "煩い",
+    "meaning": "",
+    "romaji": "urusai"
+  },
+  {
+    "id": "87",
+    "hiragana": "うわぎ",
+    "kanji": "上着",
+    "meaning": "",
+    "romaji": "uwagi"
+  },
+  {
+    "id": "88",
+    "hiragana": "え",
+    "kanji": "絵",
+    "meaning": "",
+    "romaji": "e"
+  },
+  {
+    "id": "89",
+    "hiragana": "えいが",
+    "kanji": "映画",
+    "meaning": "",
+    "romaji": "eiga"
+  },
+  {
+    "id": "90",
+    "hiragana": "えいがかん",
+    "kanji": "映画館",
+    "meaning": "",
+    "romaji": "eigakan"
+  },
+  {
+    "id": "91",
+    "hiragana": "えいご",
+    "kanji": "英語",
+    "meaning": "",
+    "romaji": "eigo"
+  },
+  {
+    "id": "92",
+    "hiragana": "ええ",
+    "kanji": "ええ",
+    "meaning": "",
+    "romaji": "ee"
+  },
+  {
+    "id": "93",
+    "hiragana": "えき",
+    "kanji": "駅",
+    "meaning": "",
+    "romaji": "eki"
+  },
+  {
+    "id": "94",
+    "hiragana": "エレベーター",
+    "kanji": "エレベーター",
+    "meaning": "",
+    "romaji": "erebeetaa"
+  },
+  {
+    "id": "95",
+    "hiragana": "えんぴつ",
+    "kanji": "鉛筆",
+    "meaning": "",
+    "romaji": "enpitsu"
+  },
+  {
+    "id": "96",
+    "hiragana": "おいしい",
+    "kanji": "おいしい",
+    "meaning": "",
+    "romaji": "oishii"
+  },
+  {
+    "id": "97",
+    "hiragana": "おおい",
+    "kanji": "多い",
+    "meaning": "",
+    "romaji": "ooi"
+  },
+  {
+    "id": "98",
+    "hiragana": "おおきい",
+    "kanji": "大きい",
+    "meaning": "",
+    "romaji": "ookii"
+  },
+  {
+    "id": "99",
+    "hiragana": "おおきな",
+    "kanji": "大きな",
+    "meaning": "",
+    "romaji": "ookina"
+  },
+  {
+    "id": "100",
+    "hiragana": "おおぜい",
+    "kanji": "大勢",
+    "meaning": "",
+    "romaji": "oozei"
+  }
+]

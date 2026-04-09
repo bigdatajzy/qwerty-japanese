@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1451",
+    "hiragana": "ひふ",
+    "kanji": "皮膚",
+    "meaning": "",
+    "romaji": "hifu"
+  },
+  {
+    "id": "1452",
+    "hiragana": "ひやす",
+    "kanji": "冷やす",
+    "meaning": "",
+    "romaji": "hiyasu"
+  },
+  {
+    "id": "1453",
+    "hiragana": "ひゃっかじてん",
+    "kanji": "ひゃっかじてん",
+    "meaning": "",
+    "romaji": "hyakkajiten"
+  },
+  {
+    "id": "1454",
+    "hiragana": "びよう",
+    "kanji": "美容",
+    "meaning": "",
+    "romaji": "biyou"
+  },
+  {
+    "id": "1455",
+    "hiragana": "ひょうし",
+    "kanji": "表紙",
+    "meaning": "",
+    "romaji": "hyoushi"
+  },
+  {
+    "id": "1456",
+    "hiragana": "ひょうしき",
+    "kanji": "標識",
+    "meaning": "",
+    "romaji": "hyoushiki"
+  },
+  {
+    "id": "1457",
+    "hiragana": "ひょうじゅん",
+    "kanji": "標準",
+    "meaning": "",
+    "romaji": "hyoujun"
+  },
+  {
+    "id": "1458",
+    "hiragana": "ひょうほん",
+    "kanji": "標本",
+    "meaning": "",
+    "romaji": "hyouhon"
+  },
+  {
+    "id": "1459",
+    "hiragana": "ひょうろん",
+    "kanji": "評論",
+    "meaning": "",
+    "romaji": "hyouron"
+  },
+  {
+    "id": "1460",
+    "hiragana": "ひらがな",
+    "kanji": "平仮名",
+    "meaning": "",
+    "romaji": "hiragana"
+  },
+  {
+    "id": "1461",
+    "hiragana": "ビルディング",
+    "kanji": "ビルディング",
+    "meaning": "",
+    "romaji": "birudeingu"
+  },
+  {
+    "id": "1462",
+    "hiragana": "ひるね",
+    "kanji": "昼寝",
+    "meaning": "",
+    "romaji": "hirune"
+  },
+  {
+    "id": "1463",
+    "hiragana": "ひろげる",
+    "kanji": "広げる",
+    "meaning": "",
+    "romaji": "hirogeru"
+  },
+  {
+    "id": "1464",
+    "hiragana": "ひろさ",
+    "kanji": "広さ",
+    "meaning": "",
+    "romaji": "hirosa"
+  },
+  {
+    "id": "1465",
+    "hiragana": "ひろば",
+    "kanji": "広場",
+    "meaning": "",
+    "romaji": "hiroba"
+  },
+  {
+    "id": "1466",
+    "hiragana": "ひろびろ",
+    "kanji": "広々",
+    "meaning": "",
+    "romaji": "hirobiro"
+  },
+  {
+    "id": "1467",
+    "hiragana": "ひろめる",
+    "kanji": "広める",
+    "meaning": "",
+    "romaji": "hiromeru"
+  },
+  {
+    "id": "1468",
+    "hiragana": "ピンク",
+    "kanji": "ピンク",
+    "meaning": "",
+    "romaji": "pinku"
+  },
+  {
+    "id": "1469",
+    "hiragana": "びんせん",
+    "kanji": "便箋",
+    "meaning": "",
+    "romaji": "binsen"
+  },
+  {
+    "id": "1470",
+    "hiragana": "びんづめ",
+    "kanji": "瓶詰",
+    "meaning": "",
+    "romaji": "binzume"
+  },
+  {
+    "id": "1471",
+    "hiragana": "ファスナー",
+    "kanji": "ファスナー",
+    "meaning": "",
+    "romaji": "fuasunaa"
+  },
+  {
+    "id": "1472",
+    "hiragana": "ふうせん",
+    "kanji": "風船",
+    "meaning": "",
+    "romaji": "fuusen"
+  },
+  {
+    "id": "1473",
+    "hiragana": "ふうん",
+    "kanji": "不運",
+    "meaning": "",
+    "romaji": "fuun"
+  },
+  {
+    "id": "1474",
+    "hiragana": "ふえる",
+    "kanji": "殖える",
+    "meaning": "",
+    "romaji": "fueru"
+  },
+  {
+    "id": "1475",
+    "hiragana": "ふかまる",
+    "kanji": "深まる",
+    "meaning": "",
+    "romaji": "fukamaru"
+  },
+  {
+    "id": "1476",
+    "hiragana": "ふきそく",
+    "kanji": "不規則",
+    "meaning": "",
+    "romaji": "fukisoku"
+  },
+  {
+    "id": "1477",
+    "hiragana": "ふきゅう",
+    "kanji": "普及",
+    "meaning": "",
+    "romaji": "fukyuu"
+  },
+  {
+    "id": "1478",
+    "hiragana": "ふきん",
+    "kanji": "付近",
+    "meaning": "",
+    "romaji": "fukin"
+  },
+  {
+    "id": "1479",
+    "hiragana": "ふく",
+    "kanji": "拭く",
+    "meaning": "",
+    "romaji": "fuku"
+  },
+  {
+    "id": "1480",
+    "hiragana": "ふくし",
+    "kanji": "副詞",
+    "meaning": "",
+    "romaji": "fukushi"
+  },
+  {
+    "id": "1481",
+    "hiragana": "ふくしゃ",
+    "kanji": "複写",
+    "meaning": "",
+    "romaji": "fukusha"
+  },
+  {
+    "id": "1482",
+    "hiragana": "ふくすう",
+    "kanji": "複数",
+    "meaning": "",
+    "romaji": "fukusuu"
+  },
+  {
+    "id": "1483",
+    "hiragana": "ふくめる",
+    "kanji": "含める",
+    "meaning": "",
+    "romaji": "fukumeru"
+  },
+  {
+    "id": "1484",
+    "hiragana": "ふくらます",
+    "kanji": "膨らます",
+    "meaning": "",
+    "romaji": "fukuramasu"
+  },
+  {
+    "id": "1485",
+    "hiragana": "ふくらむ",
+    "kanji": "膨らむ",
+    "meaning": "",
+    "romaji": "fukuramu"
+  },
+  {
+    "id": "1486",
+    "hiragana": "ふけつ",
+    "kanji": "不潔",
+    "meaning": "",
+    "romaji": "fuketsu"
+  },
+  {
+    "id": "1487",
+    "hiragana": "ふける",
+    "kanji": "更ける",
+    "meaning": "",
+    "romaji": "fukeru"
+  },
+  {
+    "id": "1488",
+    "hiragana": "ふごう",
+    "kanji": "符号",
+    "meaning": "",
+    "romaji": "fugou"
+  },
+  {
+    "id": "1489",
+    "hiragana": "ふさい",
+    "kanji": "夫妻",
+    "meaning": "",
+    "romaji": "fusai"
+  },
+  {
+    "id": "1490",
+    "hiragana": "ふさがる",
+    "kanji": "塞がる",
+    "meaning": "",
+    "romaji": "fusagaru"
+  },
+  {
+    "id": "1491",
+    "hiragana": "ふさぐ",
+    "kanji": "塞ぐ",
+    "meaning": "",
+    "romaji": "fusagu"
+  },
+  {
+    "id": "1492",
+    "hiragana": "ふざける",
+    "kanji": "ふざける",
+    "meaning": "",
+    "romaji": "fuzakeru"
+  },
+  {
+    "id": "1493",
+    "hiragana": "ぶさた",
+    "kanji": "無沙汰",
+    "meaning": "",
+    "romaji": "busata"
+  },
+  {
+    "id": "1494",
+    "hiragana": "ぶし",
+    "kanji": "武士",
+    "meaning": "",
+    "romaji": "bushi"
+  },
+  {
+    "id": "1495",
+    "hiragana": "ぶしゅ",
+    "kanji": "部首",
+    "meaning": "",
+    "romaji": "bushu"
+  },
+  {
+    "id": "1496",
+    "hiragana": "ふすま",
+    "kanji": "襖",
+    "meaning": "",
+    "romaji": "fusuma"
+  },
+  {
+    "id": "1497",
+    "hiragana": "ふぞく",
+    "kanji": "附属",
+    "meaning": "",
+    "romaji": "fuzoku"
+  },
+  {
+    "id": "1498",
+    "hiragana": "ふた",
+    "kanji": "蓋",
+    "meaning": "",
+    "romaji": "futa"
+  },
+  {
+    "id": "1499",
+    "hiragana": "ふつう",
+    "kanji": "不通",
+    "meaning": "",
+    "romaji": "futsuu"
+  },
+  {
+    "id": "1500",
+    "hiragana": "ぶつかる",
+    "kanji": "ぶつかる",
+    "meaning": "",
+    "romaji": "butsukaru"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "351",
+    "hiragana": "かわいがる",
+    "kanji": "かわいがる",
+    "meaning": "",
+    "romaji": "kawaigaru"
+  },
+  {
+    "id": "352",
+    "hiragana": "かわかす",
+    "kanji": "乾かす",
+    "meaning": "",
+    "romaji": "kawakasu"
+  },
+  {
+    "id": "353",
+    "hiragana": "かわく",
+    "kanji": "渇く",
+    "meaning": "",
+    "romaji": "kawaku"
+  },
+  {
+    "id": "354",
+    "hiragana": "かわせ",
+    "kanji": "為替",
+    "meaning": "",
+    "romaji": "kawase"
+  },
+  {
+    "id": "355",
+    "hiragana": "かわら",
+    "kanji": "瓦",
+    "meaning": "",
+    "romaji": "kawara"
+  },
+  {
+    "id": "356",
+    "hiragana": "かわる",
+    "kanji": "代る",
+    "meaning": "",
+    "romaji": "kawaru"
+  },
+  {
+    "id": "357",
+    "hiragana": "かんかく",
+    "kanji": "間隔",
+    "meaning": "",
+    "romaji": "kankaku"
+  },
+  {
+    "id": "358",
+    "hiragana": "かんき",
+    "kanji": "換気",
+    "meaning": "",
+    "romaji": "kanki"
+  },
+  {
+    "id": "359",
+    "hiragana": "かんげき",
+    "kanji": "感激",
+    "meaning": "",
+    "romaji": "kangeki"
+  },
+  {
+    "id": "360",
+    "hiragana": "かんさい",
+    "kanji": "関西",
+    "meaning": "",
+    "romaji": "kansai"
+  },
+  {
+    "id": "361",
+    "hiragana": "かんしょう",
+    "kanji": "鑑賞",
+    "meaning": "",
+    "romaji": "kanshou"
+  },
+  {
+    "id": "362",
+    "hiragana": "かんずる",
+    "kanji": "感ずる",
+    "meaning": "",
+    "romaji": "kanzuru"
+  },
+  {
+    "id": "363",
+    "hiragana": "かんせつ",
+    "kanji": "間接",
+    "meaning": "",
+    "romaji": "kansetsu"
+  },
+  {
+    "id": "364",
+    "hiragana": "かんそう",
+    "kanji": "乾燥",
+    "meaning": "",
+    "romaji": "kansou"
+  },
+  {
+    "id": "365",
+    "hiragana": "かんそう",
+    "kanji": "感想",
+    "meaning": "",
+    "romaji": "kansou"
+  },
+  {
+    "id": "366",
+    "hiragana": "かんそく",
+    "kanji": "観測",
+    "meaning": "",
+    "romaji": "kansoku"
+  },
+  {
+    "id": "367",
+    "hiragana": "かんたい",
+    "kanji": "寒帯",
+    "meaning": "",
+    "romaji": "kantai"
+  },
+  {
+    "id": "368",
+    "hiragana": "かんちょう",
+    "kanji": "官庁",
+    "meaning": "",
+    "romaji": "kanchou"
+  },
+  {
+    "id": "369",
+    "hiragana": "かんちがい",
+    "kanji": "勘違い",
+    "meaning": "",
+    "romaji": "kanchigai"
+  },
+  {
+    "id": "370",
+    "hiragana": "かんづめ",
+    "kanji": "缶詰",
+    "meaning": "",
+    "romaji": "kanzume"
+  },
+  {
+    "id": "371",
+    "hiragana": "かんでんち",
+    "kanji": "乾電池",
+    "meaning": "",
+    "romaji": "kandenchi"
+  },
+  {
+    "id": "372",
+    "hiragana": "かんとう",
+    "kanji": "関東",
+    "meaning": "",
+    "romaji": "kantou"
+  },
+  {
+    "id": "373",
+    "hiragana": "かんねん",
+    "kanji": "観念",
+    "meaning": "",
+    "romaji": "kannen"
+  },
+  {
+    "id": "374",
+    "hiragana": "かんぱい",
+    "kanji": "乾杯",
+    "meaning": "",
+    "romaji": "kanpai"
+  },
+  {
+    "id": "375",
+    "hiragana": "かんばん",
+    "kanji": "看板",
+    "meaning": "",
+    "romaji": "kanban"
+  },
+  {
+    "id": "376",
+    "hiragana": "かんびょう",
+    "kanji": "看病",
+    "meaning": "",
+    "romaji": "kanbyou"
+  },
+  {
+    "id": "377",
+    "hiragana": "かんむり",
+    "kanji": "冠",
+    "meaning": "",
+    "romaji": "kanmuri"
+  },
+  {
+    "id": "378",
+    "hiragana": "かんわ",
+    "kanji": "漢和",
+    "meaning": "",
+    "romaji": "kanwa"
+  },
+  {
+    "id": "379",
+    "hiragana": "きあつ",
+    "kanji": "気圧",
+    "meaning": "",
+    "romaji": "kiatsu"
+  },
+  {
+    "id": "380",
+    "hiragana": "きかい",
+    "kanji": "器械",
+    "meaning": "",
+    "romaji": "kikai"
+  },
+  {
+    "id": "381",
+    "hiragana": "きがえ",
+    "kanji": "着替え",
+    "meaning": "",
+    "romaji": "kigae"
+  },
+  {
+    "id": "382",
+    "hiragana": "きかんしゃ",
+    "kanji": "機関車",
+    "meaning": "",
+    "romaji": "kikansha"
+  },
+  {
+    "id": "383",
+    "hiragana": "ききん",
+    "kanji": "飢饉",
+    "meaning": "",
+    "romaji": "kikin"
+  },
+  {
+    "id": "384",
+    "hiragana": "きぐ",
+    "kanji": "器具",
+    "meaning": "",
+    "romaji": "kigu"
+  },
+  {
+    "id": "385",
+    "hiragana": "きげん",
+    "kanji": "期限",
+    "meaning": "",
+    "romaji": "kigen"
+  },
+  {
+    "id": "386",
+    "hiragana": "きごう",
+    "kanji": "記号",
+    "meaning": "",
+    "romaji": "kigou"
+  },
+  {
+    "id": "387",
+    "hiragana": "きざむ",
+    "kanji": "刻む",
+    "meaning": "",
+    "romaji": "kizamu"
+  },
+  {
+    "id": "388",
+    "hiragana": "ぎしき",
+    "kanji": "儀式",
+    "meaning": "",
+    "romaji": "gishiki"
+  },
+  {
+    "id": "389",
+    "hiragana": "きじゅん",
+    "kanji": "基準",
+    "meaning": "",
+    "romaji": "kijun"
+  },
+  {
+    "id": "390",
+    "hiragana": "きじゅん",
+    "kanji": "規準",
+    "meaning": "",
+    "romaji": "kijun"
+  },
+  {
+    "id": "391",
+    "hiragana": "きしょう",
+    "kanji": "起床",
+    "meaning": "",
+    "romaji": "kishou"
+  },
+  {
+    "id": "392",
+    "hiragana": "きせる",
+    "kanji": "着せる",
+    "meaning": "",
+    "romaji": "kiseru"
+  },
+  {
+    "id": "393",
+    "hiragana": "きそ",
+    "kanji": "基礎",
+    "meaning": "",
+    "romaji": "kiso"
+  },
+  {
+    "id": "394",
+    "hiragana": "きたい",
+    "kanji": "気体",
+    "meaning": "",
+    "romaji": "kitai"
+  },
+  {
+    "id": "395",
+    "hiragana": "きち",
+    "kanji": "基地",
+    "meaning": "",
+    "romaji": "kichi"
+  },
+  {
+    "id": "396",
+    "hiragana": "きっかけ",
+    "kanji": "きっかけ",
+    "meaning": "",
+    "romaji": "kikkake"
+  },
+  {
+    "id": "397",
+    "hiragana": "ぎっしり",
+    "kanji": "ぎっしり",
+    "meaning": "",
+    "romaji": "gisshiri"
+  },
+  {
+    "id": "398",
+    "hiragana": "きばん",
+    "kanji": "基盤",
+    "meaning": "",
+    "romaji": "kiban"
+  },
+  {
+    "id": "399",
+    "hiragana": "きゃくせき",
+    "kanji": "客席",
+    "meaning": "",
+    "romaji": "kyakuseki"
+  },
+  {
+    "id": "400",
+    "hiragana": "きゃくま",
+    "kanji": "客間",
+    "meaning": "",
+    "romaji": "kyakuma"
+  }
+]

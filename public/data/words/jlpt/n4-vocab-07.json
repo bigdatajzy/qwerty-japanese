@@ -1,0 +1,352 @@
+[
+  {
+    "id": "301",
+    "hiragana": "しゅみ",
+    "kanji": "趣味",
+    "meaning": "",
+    "romaji": "shumi"
+  },
+  {
+    "id": "302",
+    "hiragana": "じゅんび",
+    "kanji": "準備",
+    "meaning": "",
+    "romaji": "junbi"
+  },
+  {
+    "id": "303",
+    "hiragana": "しょうかい",
+    "kanji": "紹介",
+    "meaning": "",
+    "romaji": "shoukai"
+  },
+  {
+    "id": "304",
+    "hiragana": "しょうがっこう",
+    "kanji": "小学校",
+    "meaning": "",
+    "romaji": "shougakkou"
+  },
+  {
+    "id": "305",
+    "hiragana": "しょうせつ",
+    "kanji": "小説",
+    "meaning": "",
+    "romaji": "shousetsu"
+  },
+  {
+    "id": "306",
+    "hiragana": "しょうたい",
+    "kanji": "招待",
+    "meaning": "",
+    "romaji": "shoutai"
+  },
+  {
+    "id": "307",
+    "hiragana": "しょうち",
+    "kanji": "承知",
+    "meaning": "",
+    "romaji": "shouchi"
+  },
+  {
+    "id": "308",
+    "hiragana": "しょうらい",
+    "kanji": "将来",
+    "meaning": "",
+    "romaji": "shourai"
+  },
+  {
+    "id": "309",
+    "hiragana": "しょくじ",
+    "kanji": "食事",
+    "meaning": "",
+    "romaji": "shokuji"
+  },
+  {
+    "id": "310",
+    "hiragana": "しょくりょうひん",
+    "kanji": "食料品",
+    "meaning": "",
+    "romaji": "shokuryouhin"
+  },
+  {
+    "id": "311",
+    "hiragana": "じょせい",
+    "kanji": "女性",
+    "meaning": "",
+    "romaji": "josei"
+  },
+  {
+    "id": "312",
+    "hiragana": "しらせる",
+    "kanji": "知らせる",
+    "meaning": "",
+    "romaji": "shiraseru"
+  },
+  {
+    "id": "313",
+    "hiragana": "しらべる",
+    "kanji": "調べる",
+    "meaning": "",
+    "romaji": "shiraberu"
+  },
+  {
+    "id": "314",
+    "hiragana": "じんこう",
+    "kanji": "人口",
+    "meaning": "",
+    "romaji": "jinkou"
+  },
+  {
+    "id": "315",
+    "hiragana": "じんじゃ",
+    "kanji": "神社",
+    "meaning": "",
+    "romaji": "jinja"
+  },
+  {
+    "id": "316",
+    "hiragana": "しんせつ",
+    "kanji": "親切",
+    "meaning": "",
+    "romaji": "shinsetsu"
+  },
+  {
+    "id": "317",
+    "hiragana": "しんぱい",
+    "kanji": "心配",
+    "meaning": "",
+    "romaji": "shinpai"
+  },
+  {
+    "id": "318",
+    "hiragana": "しんぶんしゃ",
+    "kanji": "新聞社",
+    "meaning": "",
+    "romaji": "shinbunsha"
+  },
+  {
+    "id": "319",
+    "hiragana": "すいえい",
+    "kanji": "水泳",
+    "meaning": "",
+    "romaji": "suiei"
+  },
+  {
+    "id": "320",
+    "hiragana": "すいどう",
+    "kanji": "水道",
+    "meaning": "",
+    "romaji": "suidou"
+  },
+  {
+    "id": "321",
+    "hiragana": "ずいぶん",
+    "kanji": "ずいぶん",
+    "meaning": "",
+    "romaji": "zuibun"
+  },
+  {
+    "id": "322",
+    "hiragana": "すうがく",
+    "kanji": "数学",
+    "meaning": "",
+    "romaji": "suugaku"
+  },
+  {
+    "id": "323",
+    "hiragana": "スーツ",
+    "kanji": "スーツ",
+    "meaning": "",
+    "romaji": "suutsu"
+  },
+  {
+    "id": "324",
+    "hiragana": "スーツケース",
+    "kanji": "スーツケース",
+    "meaning": "",
+    "romaji": "suutsukeesu"
+  },
+  {
+    "id": "325",
+    "hiragana": "すぎる",
+    "kanji": "過ぎる",
+    "meaning": "",
+    "romaji": "sugiru"
+  },
+  {
+    "id": "326",
+    "hiragana": "すく",
+    "kanji": "すく",
+    "meaning": "",
+    "romaji": "suku"
+  },
+  {
+    "id": "327",
+    "hiragana": "スクリーン",
+    "kanji": "スクリーン",
+    "meaning": "",
+    "romaji": "sukuriin"
+  },
+  {
+    "id": "328",
+    "hiragana": "すごい",
+    "kanji": "凄い",
+    "meaning": "",
+    "romaji": "sugoi"
+  },
+  {
+    "id": "329",
+    "hiragana": "すすむ",
+    "kanji": "進む",
+    "meaning": "",
+    "romaji": "susumu"
+  },
+  {
+    "id": "330",
+    "hiragana": "すっかり",
+    "kanji": "すっかり",
+    "meaning": "",
+    "romaji": "sukkari"
+  },
+  {
+    "id": "331",
+    "hiragana": "すっと",
+    "kanji": "すっと",
+    "meaning": "",
+    "romaji": "sutto"
+  },
+  {
+    "id": "332",
+    "hiragana": "ステーキ",
+    "kanji": "ステーキ",
+    "meaning": "",
+    "romaji": "suteeki"
+  },
+  {
+    "id": "333",
+    "hiragana": "すてる",
+    "kanji": "捨てる",
+    "meaning": "",
+    "romaji": "suteru"
+  },
+  {
+    "id": "334",
+    "hiragana": "ステレオ",
+    "kanji": "ステレオ",
+    "meaning": "",
+    "romaji": "sutereo"
+  },
+  {
+    "id": "335",
+    "hiragana": "すな",
+    "kanji": "砂",
+    "meaning": "",
+    "romaji": "suna"
+  },
+  {
+    "id": "336",
+    "hiragana": "すばらしい",
+    "kanji": "すばらしい",
+    "meaning": "",
+    "romaji": "subarashii"
+  },
+  {
+    "id": "337",
+    "hiragana": "すべる",
+    "kanji": "滑る",
+    "meaning": "",
+    "romaji": "suberu"
+  },
+  {
+    "id": "338",
+    "hiragana": "すみ",
+    "kanji": "隅",
+    "meaning": "",
+    "romaji": "sumi"
+  },
+  {
+    "id": "339",
+    "hiragana": "すむ",
+    "kanji": "済む",
+    "meaning": "",
+    "romaji": "sumu"
+  },
+  {
+    "id": "340",
+    "hiragana": "すり",
+    "kanji": "すり",
+    "meaning": "",
+    "romaji": "suri"
+  },
+  {
+    "id": "341",
+    "hiragana": "すると",
+    "kanji": "すると",
+    "meaning": "",
+    "romaji": "suruto"
+  },
+  {
+    "id": "342",
+    "hiragana": "せいかつ",
+    "kanji": "生活",
+    "meaning": "",
+    "romaji": "seikatsu"
+  },
+  {
+    "id": "343",
+    "hiragana": "せいさん",
+    "kanji": "生産",
+    "meaning": "",
+    "romaji": "seisan"
+  },
+  {
+    "id": "344",
+    "hiragana": "せいじ",
+    "kanji": "政治",
+    "meaning": "",
+    "romaji": "seiji"
+  },
+  {
+    "id": "345",
+    "hiragana": "せいよう",
+    "kanji": "西洋",
+    "meaning": "",
+    "romaji": "seiyou"
+  },
+  {
+    "id": "346",
+    "hiragana": "せかい",
+    "kanji": "世界",
+    "meaning": "",
+    "romaji": "sekai"
+  },
+  {
+    "id": "347",
+    "hiragana": "せき",
+    "kanji": "席",
+    "meaning": "",
+    "romaji": "seki"
+  },
+  {
+    "id": "348",
+    "hiragana": "せつめい",
+    "kanji": "説明",
+    "meaning": "",
+    "romaji": "setsumei"
+  },
+  {
+    "id": "349",
+    "hiragana": "せなか",
+    "kanji": "背中",
+    "meaning": "",
+    "romaji": "senaka"
+  },
+  {
+    "id": "350",
+    "hiragana": "ぜひ",
+    "kanji": "ぜひ",
+    "meaning": "",
+    "romaji": "zehi"
+  }
+]

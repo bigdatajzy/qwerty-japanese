@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1901",
+    "hiragana": "たまり",
+    "kanji": "溜まり",
+    "meaning": "",
+    "romaji": "tamari"
+  },
+  {
+    "id": "1902",
+    "hiragana": "たまわる",
+    "kanji": "賜る",
+    "meaning": "",
+    "romaji": "tamawaru"
+  },
+  {
+    "id": "1903",
+    "hiragana": "ためし",
+    "kanji": "例",
+    "meaning": "",
+    "romaji": "tameshi"
+  },
+  {
+    "id": "1904",
+    "hiragana": "ためらう",
+    "kanji": "躊躇う",
+    "meaning": "",
+    "romaji": "tamerau"
+  },
+  {
+    "id": "1905",
+    "hiragana": "たもつ",
+    "kanji": "保つ",
+    "meaning": "",
+    "romaji": "tamotsu"
+  },
+  {
+    "id": "1906",
+    "hiragana": "たやすい",
+    "kanji": "容易い",
+    "meaning": "",
+    "romaji": "tayasui"
+  },
+  {
+    "id": "1907",
+    "hiragana": "たよう",
+    "kanji": "多様",
+    "meaning": "",
+    "romaji": "tayou"
+  },
+  {
+    "id": "1908",
+    "hiragana": "たるみ",
+    "kanji": "弛み",
+    "meaning": "",
+    "romaji": "tarumi"
+  },
+  {
+    "id": "1909",
+    "hiragana": "たるむ",
+    "kanji": "弛む",
+    "meaning": "",
+    "romaji": "tarumu"
+  },
+  {
+    "id": "1910",
+    "hiragana": "たれ",
+    "kanji": "誰",
+    "meaning": "",
+    "romaji": "tare"
+  },
+  {
+    "id": "1911",
+    "hiragana": "たれる",
+    "kanji": "垂れる",
+    "meaning": "",
+    "romaji": "tareru"
+  },
+  {
+    "id": "1912",
+    "hiragana": "たん",
+    "kanji": "歎",
+    "meaning": "",
+    "romaji": "tan"
+  },
+  {
+    "id": "1913",
+    "hiragana": "たん",
+    "kanji": "反",
+    "meaning": "",
+    "romaji": "tan"
+  },
+  {
+    "id": "1914",
+    "hiragana": "たんいつ",
+    "kanji": "単一",
+    "meaning": "",
+    "romaji": "tan'itsu"
+  },
+  {
+    "id": "1915",
+    "hiragana": "たんか",
+    "kanji": "短歌",
+    "meaning": "",
+    "romaji": "tanka"
+  },
+  {
+    "id": "1916",
+    "hiragana": "たんか",
+    "kanji": "担架",
+    "meaning": "",
+    "romaji": "tanka"
+  },
+  {
+    "id": "1917",
+    "hiragana": "たんき",
+    "kanji": "短気",
+    "meaning": "",
+    "romaji": "tanki"
+  },
+  {
+    "id": "1918",
+    "hiragana": "たんけん",
+    "kanji": "探検",
+    "meaning": "",
+    "romaji": "tanken"
+  },
+  {
+    "id": "1919",
+    "hiragana": "たんしゅく",
+    "kanji": "短縮",
+    "meaning": "",
+    "romaji": "tanshuku"
+  },
+  {
+    "id": "1920",
+    "hiragana": "たんす",
+    "kanji": "箪笥",
+    "meaning": "",
+    "romaji": "tansu"
+  },
+  {
+    "id": "1921",
+    "hiragana": "たんそ",
+    "kanji": "炭素",
+    "meaning": "",
+    "romaji": "tanso"
+  },
+  {
+    "id": "1922",
+    "hiragana": "たんだい",
+    "kanji": "短大",
+    "meaning": "",
+    "romaji": "tandai"
+  },
+  {
+    "id": "1923",
+    "hiragana": "たんちょう",
+    "kanji": "単調",
+    "meaning": "",
+    "romaji": "tanchou"
+  },
+  {
+    "id": "1924",
+    "hiragana": "たんどく",
+    "kanji": "単独",
+    "meaning": "",
+    "romaji": "tandoku"
+  },
+  {
+    "id": "1925",
+    "hiragana": "たんぱ",
+    "kanji": "短波",
+    "meaning": "",
+    "romaji": "tanpa"
+  },
+  {
+    "id": "1926",
+    "hiragana": "たんぱくしつ",
+    "kanji": "蛋白質",
+    "meaning": "",
+    "romaji": "tanpakushitsu"
+  },
+  {
+    "id": "1927",
+    "hiragana": "だい",
+    "kanji": "第",
+    "meaning": "",
+    "romaji": "dai"
+  },
+  {
+    "id": "1928",
+    "hiragana": "だいいち",
+    "kanji": "第一",
+    "meaning": "",
+    "romaji": "daiichi"
+  },
+  {
+    "id": "1929",
+    "hiragana": "だいたん",
+    "kanji": "大胆",
+    "meaning": "",
+    "romaji": "daitan"
+  },
+  {
+    "id": "1930",
+    "hiragana": "だいなし",
+    "kanji": "台無し",
+    "meaning": "",
+    "romaji": "dainashi"
+  },
+  {
+    "id": "1931",
+    "hiragana": "だいべん",
+    "kanji": "大便",
+    "meaning": "",
+    "romaji": "daiben"
+  },
+  {
+    "id": "1932",
+    "hiragana": "だいべん",
+    "kanji": "代弁",
+    "meaning": "",
+    "romaji": "daiben"
+  },
+  {
+    "id": "1933",
+    "hiragana": "だいほん",
+    "kanji": "台本",
+    "meaning": "",
+    "romaji": "daihon"
+  },
+  {
+    "id": "1934",
+    "hiragana": "だいよう",
+    "kanji": "代用",
+    "meaning": "",
+    "romaji": "daiyou"
+  },
+  {
+    "id": "1935",
+    "hiragana": "だかい",
+    "kanji": "打開",
+    "meaning": "",
+    "romaji": "dakai"
+  },
+  {
+    "id": "1936",
+    "hiragana": "だきょう",
+    "kanji": "妥協",
+    "meaning": "",
+    "romaji": "dakyou"
+  },
+  {
+    "id": "1937",
+    "hiragana": "だけ",
+    "kanji": "丈",
+    "meaning": "",
+    "romaji": "dake"
+  },
+  {
+    "id": "1938",
+    "hiragana": "だけつ",
+    "kanji": "妥結",
+    "meaning": "",
+    "romaji": "daketsu"
+  },
+  {
+    "id": "1939",
+    "hiragana": "だげき",
+    "kanji": "打撃",
+    "meaning": "",
+    "romaji": "dageki"
+  },
+  {
+    "id": "1940",
+    "hiragana": "ださく",
+    "kanji": "駄作",
+    "meaning": "",
+    "romaji": "dasaku"
+  },
+  {
+    "id": "1941",
+    "hiragana": "だっしゅつ",
+    "kanji": "脱出",
+    "meaning": "",
+    "romaji": "dasshutsu"
+  },
+  {
+    "id": "1942",
+    "hiragana": "だっする",
+    "kanji": "脱する",
+    "meaning": "",
+    "romaji": "dassuru"
+  },
+  {
+    "id": "1943",
+    "hiragana": "だったい",
+    "kanji": "脱退",
+    "meaning": "",
+    "romaji": "dattai"
+  },
+  {
+    "id": "1944",
+    "hiragana": "だぶだぶ",
+    "kanji": "だぶだぶ",
+    "meaning": "",
+    "romaji": "dabudabu"
+  },
+  {
+    "id": "1945",
+    "hiragana": "だます",
+    "kanji": "騙す",
+    "meaning": "",
+    "romaji": "damasu"
+  },
+  {
+    "id": "1946",
+    "hiragana": "だらけ",
+    "kanji": "だらけ",
+    "meaning": "",
+    "romaji": "darake"
+  },
+  {
+    "id": "1947",
+    "hiragana": "だるい",
+    "kanji": "怠い",
+    "meaning": "",
+    "romaji": "darui"
+  },
+  {
+    "id": "1948",
+    "hiragana": "だん",
+    "kanji": "壇",
+    "meaning": "",
+    "romaji": "dan"
+  },
+  {
+    "id": "1949",
+    "hiragana": "だんけつ",
+    "kanji": "団結",
+    "meaning": "",
+    "romaji": "danketsu"
+  },
+  {
+    "id": "1950",
+    "hiragana": "だんげん",
+    "kanji": "断言",
+    "meaning": "",
+    "romaji": "dangen"
+  }
+]

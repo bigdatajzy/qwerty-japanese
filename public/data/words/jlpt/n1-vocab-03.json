@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "あらわれ",
+    "kanji": "現われ",
+    "meaning": "",
+    "romaji": "araware"
+  },
+  {
+    "id": "102",
+    "hiragana": "あらわれる",
+    "kanji": "現われる",
+    "meaning": "",
+    "romaji": "arawareru"
+  },
+  {
+    "id": "103",
+    "hiragana": "ありがとう",
+    "kanji": "有難う",
+    "meaning": "",
+    "romaji": "arigatou"
+  },
+  {
+    "id": "104",
+    "hiragana": "ありさま",
+    "kanji": "有様",
+    "meaning": "",
+    "romaji": "arisama"
+  },
+  {
+    "id": "105",
+    "hiragana": "ありのまま",
+    "kanji": "有りのまま",
+    "meaning": "",
+    "romaji": "arinomama"
+  },
+  {
+    "id": "106",
+    "hiragana": "ある",
+    "kanji": "或る",
+    "meaning": "",
+    "romaji": "aru"
+  },
+  {
+    "id": "107",
+    "hiragana": "あるいは",
+    "kanji": "或いは",
+    "meaning": "",
+    "romaji": "aruiha"
+  },
+  {
+    "id": "108",
+    "hiragana": "あれこれ",
+    "kanji": "彼此",
+    "meaning": "",
+    "romaji": "arekore"
+  },
+  {
+    "id": "109",
+    "hiragana": "あわす",
+    "kanji": "合わす",
+    "meaning": "",
+    "romaji": "awasu"
+  },
+  {
+    "id": "110",
+    "hiragana": "あわせ",
+    "kanji": "合わせ",
+    "meaning": "",
+    "romaji": "awase"
+  },
+  {
+    "id": "111",
+    "hiragana": "あわただしい",
+    "kanji": "慌ただしい",
+    "meaning": "",
+    "romaji": "awatadashii"
+  },
+  {
+    "id": "112",
+    "hiragana": "あわてる",
+    "kanji": "慌てる",
+    "meaning": "",
+    "romaji": "awateru"
+  },
+  {
+    "id": "113",
+    "hiragana": "あんさつ",
+    "kanji": "暗殺",
+    "meaning": "",
+    "romaji": "ansatsu"
+  },
+  {
+    "id": "114",
+    "hiragana": "あんざん",
+    "kanji": "暗算",
+    "meaning": "",
+    "romaji": "anzan"
+  },
+  {
+    "id": "115",
+    "hiragana": "あんじ",
+    "kanji": "暗示",
+    "meaning": "",
+    "romaji": "anji"
+  },
+  {
+    "id": "116",
+    "hiragana": "あんじる",
+    "kanji": "案じる",
+    "meaning": "",
+    "romaji": "anjiru"
+  },
+  {
+    "id": "117",
+    "hiragana": "あんせい",
+    "kanji": "安静",
+    "meaning": "",
+    "romaji": "ansei"
+  },
+  {
+    "id": "118",
+    "hiragana": "あんのじょう",
+    "kanji": "案の定",
+    "meaning": "",
+    "romaji": "annojou"
+  },
+  {
+    "id": "119",
+    "hiragana": "あんまり",
+    "kanji": "余り",
+    "meaning": "",
+    "romaji": "anmari"
+  },
+  {
+    "id": "120",
+    "hiragana": "い",
+    "kanji": "依",
+    "meaning": "",
+    "romaji": "i"
+  },
+  {
+    "id": "121",
+    "hiragana": "いい",
+    "kanji": "良い",
+    "meaning": "",
+    "romaji": "ii"
+  },
+  {
+    "id": "122",
+    "hiragana": "いい",
+    "kanji": "伊井",
+    "meaning": "",
+    "romaji": "ii"
+  },
+  {
+    "id": "123",
+    "hiragana": "いいえ",
+    "kanji": "否",
+    "meaning": "",
+    "romaji": "iie"
+  },
+  {
+    "id": "124",
+    "hiragana": "いいかげん",
+    "kanji": "いい加減",
+    "meaning": "",
+    "romaji": "iikagen"
+  },
+  {
+    "id": "125",
+    "hiragana": "いいわけ",
+    "kanji": "言い訳",
+    "meaning": "",
+    "romaji": "iiwake"
+  },
+  {
+    "id": "126",
+    "hiragana": "いえで",
+    "kanji": "家出",
+    "meaning": "",
+    "romaji": "iede"
+  },
+  {
+    "id": "127",
+    "hiragana": "いえぬし",
+    "kanji": "家主",
+    "meaning": "",
+    "romaji": "ienushi"
+  },
+  {
+    "id": "128",
+    "hiragana": "いかが",
+    "kanji": "如何",
+    "meaning": "",
+    "romaji": "ikaga"
+  },
+  {
+    "id": "129",
+    "hiragana": "いかす",
+    "kanji": "生かす",
+    "meaning": "",
+    "romaji": "ikasu"
+  },
+  {
+    "id": "130",
+    "hiragana": "いかずち",
+    "kanji": "雷",
+    "meaning": "",
+    "romaji": "ikazuchi"
+  },
+  {
+    "id": "131",
+    "hiragana": "いかに",
+    "kanji": "如何に",
+    "meaning": "",
+    "romaji": "ikani"
+  },
+  {
+    "id": "132",
+    "hiragana": "いかにも",
+    "kanji": "如何にも",
+    "meaning": "",
+    "romaji": "ikanimo"
+  },
+  {
+    "id": "133",
+    "hiragana": "いかり",
+    "kanji": "怒り",
+    "meaning": "",
+    "romaji": "ikari"
+  },
+  {
+    "id": "134",
+    "hiragana": "いかる",
+    "kanji": "怒る",
+    "meaning": "",
+    "romaji": "ikaru"
+  },
+  {
+    "id": "135",
+    "hiragana": "いがむ",
+    "kanji": "歪む",
+    "meaning": "",
+    "romaji": "igamu"
+  },
+  {
+    "id": "136",
+    "hiragana": "いき",
+    "kanji": "粋",
+    "meaning": "",
+    "romaji": "iki"
+  },
+  {
+    "id": "137",
+    "hiragana": "いきがい",
+    "kanji": "域外",
+    "meaning": "",
+    "romaji": "ikigai"
+  },
+  {
+    "id": "138",
+    "hiragana": "いきごむ",
+    "kanji": "意気込む",
+    "meaning": "",
+    "romaji": "ikigomu"
+  },
+  {
+    "id": "139",
+    "hiragana": "いきさつ",
+    "kanji": "経緯",
+    "meaning": "",
+    "romaji": "ikisatsu"
+  },
+  {
+    "id": "140",
+    "hiragana": "いきちがい",
+    "kanji": "行き違い",
+    "meaning": "",
+    "romaji": "ikichigai"
+  },
+  {
+    "id": "141",
+    "hiragana": "いきなり",
+    "kanji": "行き成り",
+    "meaning": "",
+    "romaji": "ikinari"
+  },
+  {
+    "id": "142",
+    "hiragana": "いぎ",
+    "kanji": "異議",
+    "meaning": "",
+    "romaji": "igi"
+  },
+  {
+    "id": "143",
+    "hiragana": "いく",
+    "kanji": "いく",
+    "meaning": "",
+    "romaji": "iku"
+  },
+  {
+    "id": "144",
+    "hiragana": "いくさ",
+    "kanji": "軍",
+    "meaning": "",
+    "romaji": "ikusa"
+  },
+  {
+    "id": "145",
+    "hiragana": "いくさ",
+    "kanji": "戦",
+    "meaning": "",
+    "romaji": "ikusa"
+  },
+  {
+    "id": "146",
+    "hiragana": "いくせい",
+    "kanji": "育成",
+    "meaning": "",
+    "romaji": "ikusei"
+  },
+  {
+    "id": "147",
+    "hiragana": "いくた",
+    "kanji": "幾多",
+    "meaning": "",
+    "romaji": "ikuta"
+  },
+  {
+    "id": "148",
+    "hiragana": "いける",
+    "kanji": "活ける",
+    "meaning": "",
+    "romaji": "ikeru"
+  },
+  {
+    "id": "149",
+    "hiragana": "いけん",
+    "kanji": "異見",
+    "meaning": "",
+    "romaji": "iken"
+  },
+  {
+    "id": "150",
+    "hiragana": "いこう",
+    "kanji": "意向",
+    "meaning": "",
+    "romaji": "ikou"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "601",
+    "hiragana": "やせる",
+    "kanji": "痩せる",
+    "meaning": "",
+    "romaji": "yaseru"
+  },
+  {
+    "id": "602",
+    "hiragana": "やっと",
+    "kanji": "やっと",
+    "meaning": "",
+    "romaji": "yatto"
+  },
+  {
+    "id": "603",
+    "hiragana": "やはり",
+    "kanji": "やはり",
+    "meaning": "",
+    "romaji": "yahari"
+  },
+  {
+    "id": "604",
+    "hiragana": "やっぱり",
+    "kanji": "やはり",
+    "meaning": "",
+    "romaji": "yappari"
+  },
+  {
+    "id": "605",
+    "hiragana": "やはり",
+    "kanji": "やっぱり",
+    "meaning": "",
+    "romaji": "yahari"
+  },
+  {
+    "id": "606",
+    "hiragana": "やっぱり",
+    "kanji": "やっぱり",
+    "meaning": "",
+    "romaji": "yappari"
+  },
+  {
+    "id": "607",
+    "hiragana": "やむ",
+    "kanji": "止む",
+    "meaning": "",
+    "romaji": "yamu"
+  },
+  {
+    "id": "608",
+    "hiragana": "やめる",
+    "kanji": "止める",
+    "meaning": "",
+    "romaji": "yameru"
+  },
+  {
+    "id": "609",
+    "hiragana": "やわらかい",
+    "kanji": "柔らかい",
+    "meaning": "",
+    "romaji": "yawarakai"
+  },
+  {
+    "id": "610",
+    "hiragana": "ゆ",
+    "kanji": "湯",
+    "meaning": "",
+    "romaji": "yu"
+  },
+  {
+    "id": "611",
+    "hiragana": "ゆしゅつ",
+    "kanji": "輸出",
+    "meaning": "",
+    "romaji": "yushutsu"
+  },
+  {
+    "id": "612",
+    "hiragana": "ゆにゅう",
+    "kanji": "輸入",
+    "meaning": "",
+    "romaji": "yunyuu"
+  },
+  {
+    "id": "613",
+    "hiragana": "ゆび",
+    "kanji": "指",
+    "meaning": "",
+    "romaji": "yubi"
+  },
+  {
+    "id": "614",
+    "hiragana": "ゆびわ",
+    "kanji": "指輪",
+    "meaning": "",
+    "romaji": "yubiwa"
+  },
+  {
+    "id": "615",
+    "hiragana": "ゆめ",
+    "kanji": "夢",
+    "meaning": "",
+    "romaji": "yume"
+  },
+  {
+    "id": "616",
+    "hiragana": "ゆれる",
+    "kanji": "揺れる",
+    "meaning": "",
+    "romaji": "yureru"
+  },
+  {
+    "id": "617",
+    "hiragana": "よう",
+    "kanji": "用",
+    "meaning": "",
+    "romaji": "you"
+  },
+  {
+    "id": "618",
+    "hiragana": "ようい",
+    "kanji": "用意",
+    "meaning": "",
+    "romaji": "youi"
+  },
+  {
+    "id": "619",
+    "hiragana": "ようじ",
+    "kanji": "用事",
+    "meaning": "",
+    "romaji": "youji"
+  },
+  {
+    "id": "620",
+    "hiragana": "よごれる",
+    "kanji": "汚れる",
+    "meaning": "",
+    "romaji": "yogoreru"
+  },
+  {
+    "id": "621",
+    "hiragana": "よしゅう",
+    "kanji": "予習",
+    "meaning": "",
+    "romaji": "yoshuu"
+  },
+  {
+    "id": "622",
+    "hiragana": "よてい",
+    "kanji": "予定",
+    "meaning": "",
+    "romaji": "yotei"
+  },
+  {
+    "id": "623",
+    "hiragana": "よやく",
+    "kanji": "予約",
+    "meaning": "",
+    "romaji": "yoyaku"
+  },
+  {
+    "id": "624",
+    "hiragana": "よる",
+    "kanji": "寄る",
+    "meaning": "",
+    "romaji": "yoru"
+  },
+  {
+    "id": "625",
+    "hiragana": "よろこぶ",
+    "kanji": "喜ぶ",
+    "meaning": "",
+    "romaji": "yorokobu"
+  },
+  {
+    "id": "626",
+    "hiragana": "よろしい",
+    "kanji": "よろしい",
+    "meaning": "",
+    "romaji": "yoroshii"
+  },
+  {
+    "id": "627",
+    "hiragana": "りゆう",
+    "kanji": "理由",
+    "meaning": "",
+    "romaji": "riyuu"
+  },
+  {
+    "id": "628",
+    "hiragana": "りよう",
+    "kanji": "利用",
+    "meaning": "",
+    "romaji": "riyou"
+  },
+  {
+    "id": "629",
+    "hiragana": "りょうほう",
+    "kanji": "両方",
+    "meaning": "",
+    "romaji": "ryouhou"
+  },
+  {
+    "id": "630",
+    "hiragana": "りょかん",
+    "kanji": "旅館",
+    "meaning": "",
+    "romaji": "ryokan"
+  },
+  {
+    "id": "631",
+    "hiragana": "るす",
+    "kanji": "留守",
+    "meaning": "",
+    "romaji": "rusu"
+  },
+  {
+    "id": "632",
+    "hiragana": "れいぼう",
+    "kanji": "冷房",
+    "meaning": "",
+    "romaji": "reibou"
+  },
+  {
+    "id": "633",
+    "hiragana": "れきし",
+    "kanji": "歴史",
+    "meaning": "",
+    "romaji": "rekishi"
+  },
+  {
+    "id": "634",
+    "hiragana": "レジ",
+    "kanji": "レジ",
+    "meaning": "",
+    "romaji": "reji"
+  },
+  {
+    "id": "635",
+    "hiragana": "レポート",
+    "kanji": "レポート",
+    "meaning": "",
+    "romaji": "repooto"
+  },
+  {
+    "id": "636",
+    "hiragana": "リポート",
+    "kanji": "レポート",
+    "meaning": "",
+    "romaji": "ripooto"
+  },
+  {
+    "id": "637",
+    "hiragana": "レポート",
+    "kanji": "リポート",
+    "meaning": "",
+    "romaji": "repooto"
+  },
+  {
+    "id": "638",
+    "hiragana": "リポート",
+    "kanji": "リポート",
+    "meaning": "",
+    "romaji": "ripooto"
+  },
+  {
+    "id": "639",
+    "hiragana": "れんらく",
+    "kanji": "連絡",
+    "meaning": "",
+    "romaji": "renraku"
+  },
+  {
+    "id": "640",
+    "hiragana": "ワープロ",
+    "kanji": "ワープロ",
+    "meaning": "",
+    "romaji": "waapuro"
+  },
+  {
+    "id": "641",
+    "hiragana": "わかす",
+    "kanji": "沸かす",
+    "meaning": "",
+    "romaji": "wakasu"
+  },
+  {
+    "id": "642",
+    "hiragana": "わかれる",
+    "kanji": "別れる",
+    "meaning": "",
+    "romaji": "wakareru"
+  },
+  {
+    "id": "643",
+    "hiragana": "わく",
+    "kanji": "沸く",
+    "meaning": "",
+    "romaji": "waku"
+  },
+  {
+    "id": "644",
+    "hiragana": "わけ",
+    "kanji": "訳",
+    "meaning": "",
+    "romaji": "wake"
+  },
+  {
+    "id": "645",
+    "hiragana": "わすれもの",
+    "kanji": "忘れ物",
+    "meaning": "",
+    "romaji": "wasuremono"
+  },
+  {
+    "id": "646",
+    "hiragana": "わらう",
+    "kanji": "笑う",
+    "meaning": "",
+    "romaji": "warau"
+  },
+  {
+    "id": "647",
+    "hiragana": "わりあい",
+    "kanji": "割合",
+    "meaning": "",
+    "romaji": "wariai"
+  },
+  {
+    "id": "648",
+    "hiragana": "われる",
+    "kanji": "割れる",
+    "meaning": "",
+    "romaji": "wareru"
+  },
+  {
+    "id": "649",
+    "hiragana": "およぎかた",
+    "kanji": "泳ぎ方",
+    "meaning": "",
+    "romaji": "oyogikata"
+  }
+]

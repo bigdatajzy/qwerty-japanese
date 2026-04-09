@@ -1,0 +1,352 @@
+[
+  {
+    "id": "501",
+    "hiragana": "かく",
+    "kanji": "核",
+    "meaning": "",
+    "romaji": "kaku"
+  },
+  {
+    "id": "502",
+    "hiragana": "かく",
+    "kanji": "格",
+    "meaning": "",
+    "romaji": "kaku"
+  },
+  {
+    "id": "503",
+    "hiragana": "かく",
+    "kanji": "佳句",
+    "meaning": "",
+    "romaji": "kaku"
+  },
+  {
+    "id": "504",
+    "hiragana": "かく",
+    "kanji": "画",
+    "meaning": "",
+    "romaji": "kaku"
+  },
+  {
+    "id": "505",
+    "hiragana": "かくさ",
+    "kanji": "格差",
+    "meaning": "",
+    "romaji": "kakusa"
+  },
+  {
+    "id": "506",
+    "hiragana": "かくさん",
+    "kanji": "拡散",
+    "meaning": "",
+    "romaji": "kakusan"
+  },
+  {
+    "id": "507",
+    "hiragana": "かくしゅ",
+    "kanji": "各種",
+    "meaning": "",
+    "romaji": "kakushu"
+  },
+  {
+    "id": "508",
+    "hiragana": "かくしゅう",
+    "kanji": "隔週",
+    "meaning": "",
+    "romaji": "kakushuu"
+  },
+  {
+    "id": "509",
+    "hiragana": "かくしん",
+    "kanji": "確信",
+    "meaning": "",
+    "romaji": "kakushin"
+  },
+  {
+    "id": "510",
+    "hiragana": "かくしん",
+    "kanji": "革新",
+    "meaning": "",
+    "romaji": "kakushin"
+  },
+  {
+    "id": "511",
+    "hiragana": "かくてい",
+    "kanji": "確定",
+    "meaning": "",
+    "romaji": "kakutei"
+  },
+  {
+    "id": "512",
+    "hiragana": "かくとく",
+    "kanji": "獲得",
+    "meaning": "",
+    "romaji": "kakutoku"
+  },
+  {
+    "id": "513",
+    "hiragana": "かくほ",
+    "kanji": "確保",
+    "meaning": "",
+    "romaji": "kakuho"
+  },
+  {
+    "id": "514",
+    "hiragana": "かくめい",
+    "kanji": "革命",
+    "meaning": "",
+    "romaji": "kakumei"
+  },
+  {
+    "id": "515",
+    "hiragana": "かくりつ",
+    "kanji": "確立",
+    "meaning": "",
+    "romaji": "kakuritsu"
+  },
+  {
+    "id": "516",
+    "hiragana": "かけ",
+    "kanji": "賭け",
+    "meaning": "",
+    "romaji": "kake"
+  },
+  {
+    "id": "517",
+    "hiragana": "かけ",
+    "kanji": "掛け",
+    "meaning": "",
+    "romaji": "kake"
+  },
+  {
+    "id": "518",
+    "hiragana": "かけあし",
+    "kanji": "駆け足",
+    "meaning": "",
+    "romaji": "kakeashi"
+  },
+  {
+    "id": "519",
+    "hiragana": "かけい",
+    "kanji": "家計",
+    "meaning": "",
+    "romaji": "kakei"
+  },
+  {
+    "id": "520",
+    "hiragana": "かけっこ",
+    "kanji": "駆けっこ",
+    "meaning": "",
+    "romaji": "kakekko"
+  },
+  {
+    "id": "521",
+    "hiragana": "かける",
+    "kanji": "駆ける",
+    "meaning": "",
+    "romaji": "kakeru"
+  },
+  {
+    "id": "522",
+    "hiragana": "かける",
+    "kanji": "賭ける",
+    "meaning": "",
+    "romaji": "kakeru"
+  },
+  {
+    "id": "523",
+    "hiragana": "かげつ",
+    "kanji": "ヶ月",
+    "meaning": "",
+    "romaji": "kagetsu"
+  },
+  {
+    "id": "524",
+    "hiragana": "かこう",
+    "kanji": "加工",
+    "meaning": "",
+    "romaji": "kakou"
+  },
+  {
+    "id": "525",
+    "hiragana": "かごう",
+    "kanji": "化合",
+    "meaning": "",
+    "romaji": "kagou"
+  },
+  {
+    "id": "526",
+    "hiragana": "かさばる",
+    "kanji": "嵩張る",
+    "meaning": "",
+    "romaji": "kasabaru"
+  },
+  {
+    "id": "527",
+    "hiragana": "かさむ",
+    "kanji": "嵩む",
+    "meaning": "",
+    "romaji": "kasamu"
+  },
+  {
+    "id": "528",
+    "hiragana": "かざぐるま",
+    "kanji": "風車",
+    "meaning": "",
+    "romaji": "kazaguruma"
+  },
+  {
+    "id": "529",
+    "hiragana": "かしこまりました",
+    "kanji": "畏まりました",
+    "meaning": "",
+    "romaji": "kashikomarimashita"
+  },
+  {
+    "id": "530",
+    "hiragana": "かしゃ",
+    "kanji": "華奢",
+    "meaning": "",
+    "romaji": "kasha"
+  },
+  {
+    "id": "531",
+    "hiragana": "かしょ",
+    "kanji": "箇所",
+    "meaning": "",
+    "romaji": "kasho"
+  },
+  {
+    "id": "532",
+    "hiragana": "かしょう",
+    "kanji": "火傷",
+    "meaning": "",
+    "romaji": "kashou"
+  },
+  {
+    "id": "533",
+    "hiragana": "かじょうがき",
+    "kanji": "箇条書き",
+    "meaning": "",
+    "romaji": "kajougaki"
+  },
+  {
+    "id": "534",
+    "hiragana": "かじる",
+    "kanji": "噛る",
+    "meaning": "",
+    "romaji": "kajiru"
+  },
+  {
+    "id": "535",
+    "hiragana": "かすか",
+    "kanji": "微か",
+    "meaning": "",
+    "romaji": "kasuka"
+  },
+  {
+    "id": "536",
+    "hiragana": "かすむ",
+    "kanji": "霞む",
+    "meaning": "",
+    "romaji": "kasumu"
+  },
+  {
+    "id": "537",
+    "hiragana": "かする",
+    "kanji": "化する",
+    "meaning": "",
+    "romaji": "kasuru"
+  },
+  {
+    "id": "538",
+    "hiragana": "かする",
+    "kanji": "擦る",
+    "meaning": "",
+    "romaji": "kasuru"
+  },
+  {
+    "id": "539",
+    "hiragana": "かせい",
+    "kanji": "火星",
+    "meaning": "",
+    "romaji": "kasei"
+  },
+  {
+    "id": "540",
+    "hiragana": "かせき",
+    "kanji": "化石",
+    "meaning": "",
+    "romaji": "kaseki"
+  },
+  {
+    "id": "541",
+    "hiragana": "かせん",
+    "kanji": "河川",
+    "meaning": "",
+    "romaji": "kasen"
+  },
+  {
+    "id": "542",
+    "hiragana": "かせん",
+    "kanji": "化繊",
+    "meaning": "",
+    "romaji": "kasen"
+  },
+  {
+    "id": "543",
+    "hiragana": "かそ",
+    "kanji": "過疎",
+    "meaning": "",
+    "romaji": "kaso"
+  },
+  {
+    "id": "544",
+    "hiragana": "かた",
+    "kanji": "過多",
+    "meaning": "",
+    "romaji": "kata"
+  },
+  {
+    "id": "545",
+    "hiragana": "かたい",
+    "kanji": "難い",
+    "meaning": "",
+    "romaji": "katai"
+  },
+  {
+    "id": "546",
+    "hiragana": "かたおもい",
+    "kanji": "片思い",
+    "meaning": "",
+    "romaji": "kataomoi"
+  },
+  {
+    "id": "547",
+    "hiragana": "かたき",
+    "kanji": "敵",
+    "meaning": "",
+    "romaji": "kataki"
+  },
+  {
+    "id": "548",
+    "hiragana": "かたぎ",
+    "kanji": "気質",
+    "meaning": "",
+    "romaji": "katagi"
+  },
+  {
+    "id": "549",
+    "hiragana": "かたこと",
+    "kanji": "片言",
+    "meaning": "",
+    "romaji": "katakoto"
+  },
+  {
+    "id": "550",
+    "hiragana": "かたづけ",
+    "kanji": "片付け",
+    "meaning": "",
+    "romaji": "katazuke"
+  }
+]

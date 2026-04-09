@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1501",
+    "hiragana": "しんど",
+    "kanji": "進度",
+    "meaning": "",
+    "romaji": "shindo"
+  },
+  {
+    "id": "1502",
+    "hiragana": "しんどう",
+    "kanji": "振動",
+    "meaning": "",
+    "romaji": "shindou"
+  },
+  {
+    "id": "1503",
+    "hiragana": "しんにゅうせい",
+    "kanji": "新入生",
+    "meaning": "",
+    "romaji": "shinnyuusei"
+  },
+  {
+    "id": "1504",
+    "hiragana": "しんにん",
+    "kanji": "信任",
+    "meaning": "",
+    "romaji": "shinnin"
+  },
+  {
+    "id": "1505",
+    "hiragana": "しんばん",
+    "kanji": "審判",
+    "meaning": "",
+    "romaji": "shinban"
+  },
+  {
+    "id": "1506",
+    "hiragana": "しんぴ",
+    "kanji": "神秘",
+    "meaning": "",
+    "romaji": "shinpi"
+  },
+  {
+    "id": "1507",
+    "hiragana": "しんぼう",
+    "kanji": "辛抱",
+    "meaning": "",
+    "romaji": "shinbou"
+  },
+  {
+    "id": "1508",
+    "hiragana": "しんり",
+    "kanji": "真理",
+    "meaning": "",
+    "romaji": "shinri"
+  },
+  {
+    "id": "1509",
+    "hiragana": "しんりゃく",
+    "kanji": "侵略",
+    "meaning": "",
+    "romaji": "shinryaku"
+  },
+  {
+    "id": "1510",
+    "hiragana": "しんりょう",
+    "kanji": "診療",
+    "meaning": "",
+    "romaji": "shinryou"
+  },
+  {
+    "id": "1511",
+    "hiragana": "しんろ",
+    "kanji": "進路",
+    "meaning": "",
+    "romaji": "shinro"
+  },
+  {
+    "id": "1512",
+    "hiragana": "じかく",
+    "kanji": "自覚",
+    "meaning": "",
+    "romaji": "jikaku"
+  },
+  {
+    "id": "1513",
+    "hiragana": "じかた",
+    "kanji": "地方",
+    "meaning": "",
+    "romaji": "jikata"
+  },
+  {
+    "id": "1514",
+    "hiragana": "じが",
+    "kanji": "自我",
+    "meaning": "",
+    "romaji": "jiga"
+  },
+  {
+    "id": "1515",
+    "hiragana": "じき",
+    "kanji": "磁気",
+    "meaning": "",
+    "romaji": "jiki"
+  },
+  {
+    "id": "1516",
+    "hiragana": "じき",
+    "kanji": "磁器",
+    "meaning": "",
+    "romaji": "jiki"
+  },
+  {
+    "id": "1517",
+    "hiragana": "じぎょう",
+    "kanji": "事業",
+    "meaning": "",
+    "romaji": "jigyou"
+  },
+  {
+    "id": "1518",
+    "hiragana": "じぎょう",
+    "kanji": "地形",
+    "meaning": "",
+    "romaji": "jigyou"
+  },
+  {
+    "id": "1519",
+    "hiragana": "じく",
+    "kanji": "軸",
+    "meaning": "",
+    "romaji": "jiku"
+  },
+  {
+    "id": "1520",
+    "hiragana": "じこ",
+    "kanji": "自己",
+    "meaning": "",
+    "romaji": "jiko"
+  },
+  {
+    "id": "1521",
+    "hiragana": "じこう",
+    "kanji": "事項",
+    "meaning": "",
+    "romaji": "jikou"
+  },
+  {
+    "id": "1522",
+    "hiragana": "じこくひょう",
+    "kanji": "時刻表",
+    "meaning": "",
+    "romaji": "jikokuhyou"
+  },
+  {
+    "id": "1523",
+    "hiragana": "じごく",
+    "kanji": "地獄",
+    "meaning": "",
+    "romaji": "jigoku"
+  },
+  {
+    "id": "1524",
+    "hiragana": "じさ",
+    "kanji": "時差",
+    "meaning": "",
+    "romaji": "jisa"
+  },
+  {
+    "id": "1525",
+    "hiragana": "じざい",
+    "kanji": "自在",
+    "meaning": "",
+    "romaji": "jizai"
+  },
+  {
+    "id": "1526",
+    "hiragana": "じしゅ",
+    "kanji": "自主",
+    "meaning": "",
+    "romaji": "jishu"
+  },
+  {
+    "id": "1527",
+    "hiragana": "じしゅ",
+    "kanji": "自首",
+    "meaning": "",
+    "romaji": "jishu"
+  },
+  {
+    "id": "1528",
+    "hiragana": "じしょく",
+    "kanji": "辞職",
+    "meaning": "",
+    "romaji": "jishoku"
+  },
+  {
+    "id": "1529",
+    "hiragana": "じしん",
+    "kanji": "自信",
+    "meaning": "",
+    "romaji": "jishin"
+  },
+  {
+    "id": "1530",
+    "hiragana": "じぜん",
+    "kanji": "事前",
+    "meaning": "",
+    "romaji": "jizen"
+  },
+  {
+    "id": "1531",
+    "hiragana": "じそんしん",
+    "kanji": "自尊心",
+    "meaning": "",
+    "romaji": "jisonshin"
+  },
+  {
+    "id": "1532",
+    "hiragana": "じぞく",
+    "kanji": "持続",
+    "meaning": "",
+    "romaji": "jizoku"
+  },
+  {
+    "id": "1533",
+    "hiragana": "じたい",
+    "kanji": "字体",
+    "meaning": "",
+    "romaji": "jitai"
+  },
+  {
+    "id": "1534",
+    "hiragana": "じたい",
+    "kanji": "辞退",
+    "meaning": "",
+    "romaji": "jitai"
+  },
+  {
+    "id": "1535",
+    "hiragana": "じっくり",
+    "kanji": "じっくり",
+    "meaning": "",
+    "romaji": "jikkuri"
+  },
+  {
+    "id": "1536",
+    "hiragana": "じっしつ",
+    "kanji": "実質",
+    "meaning": "",
+    "romaji": "jisshitsu"
+  },
+  {
+    "id": "1537",
+    "hiragana": "じっせん",
+    "kanji": "実践",
+    "meaning": "",
+    "romaji": "jissen"
+  },
+  {
+    "id": "1538",
+    "hiragana": "じったい",
+    "kanji": "実態",
+    "meaning": "",
+    "romaji": "jittai"
+  },
+  {
+    "id": "1539",
+    "hiragana": "じっぴ",
+    "kanji": "実費",
+    "meaning": "",
+    "romaji": "jippi"
+  },
+  {
+    "id": "1540",
+    "hiragana": "じっぷん",
+    "kanji": "十分",
+    "meaning": "",
+    "romaji": "jippun"
+  },
+  {
+    "id": "1541",
+    "hiragana": "じつ",
+    "kanji": "実",
+    "meaning": "",
+    "romaji": "jitsu"
+  },
+  {
+    "id": "1542",
+    "hiragana": "じつぎょうか",
+    "kanji": "実業家",
+    "meaning": "",
+    "romaji": "jitsugyouka"
+  },
+  {
+    "id": "1543",
+    "hiragana": "じつじょう",
+    "kanji": "実情",
+    "meaning": "",
+    "romaji": "jitsujou"
+  },
+  {
+    "id": "1544",
+    "hiragana": "じてん",
+    "kanji": "自転",
+    "meaning": "",
+    "romaji": "jiten"
+  },
+  {
+    "id": "1545",
+    "hiragana": "じどうし",
+    "kanji": "自動詞",
+    "meaning": "",
+    "romaji": "jidoushi"
+  },
+  {
+    "id": "1546",
+    "hiragana": "じぬし",
+    "kanji": "地主",
+    "meaning": "",
+    "romaji": "jinushi"
+  },
+  {
+    "id": "1547",
+    "hiragana": "じびか",
+    "kanji": "耳鼻科",
+    "meaning": "",
+    "romaji": "jibika"
+  },
+  {
+    "id": "1548",
+    "hiragana": "じもと",
+    "kanji": "地元",
+    "meaning": "",
+    "romaji": "jimoto"
+  },
+  {
+    "id": "1549",
+    "hiragana": "じゃく",
+    "kanji": "弱",
+    "meaning": "",
+    "romaji": "jaku"
+  },
+  {
+    "id": "1550",
+    "hiragana": "じゃっかん",
+    "kanji": "若干",
+    "meaning": "",
+    "romaji": "jakkan"
+  }
+]

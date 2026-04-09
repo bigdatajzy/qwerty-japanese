@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2601",
+    "hiragana": "ひきさげる",
+    "kanji": "引き下げる",
+    "meaning": "",
+    "romaji": "hikisageru"
+  },
+  {
+    "id": "2602",
+    "hiragana": "ひきずる",
+    "kanji": "引きずる",
+    "meaning": "",
+    "romaji": "hikizuru"
+  },
+  {
+    "id": "2603",
+    "hiragana": "ひきとる",
+    "kanji": "引き取る",
+    "meaning": "",
+    "romaji": "hikitoru"
+  },
+  {
+    "id": "2604",
+    "hiragana": "ひきわけ",
+    "kanji": "引き分け",
+    "meaning": "",
+    "romaji": "hikiwake"
+  },
+  {
+    "id": "2605",
+    "hiragana": "ひけつ",
+    "kanji": "否決",
+    "meaning": "",
+    "romaji": "hiketsu"
+  },
+  {
+    "id": "2606",
+    "hiragana": "ひこう",
+    "kanji": "非行",
+    "meaning": "",
+    "romaji": "hikou"
+  },
+  {
+    "id": "2607",
+    "hiragana": "ひごろ",
+    "kanji": "日頃",
+    "meaning": "",
+    "romaji": "higoro"
+  },
+  {
+    "id": "2608",
+    "hiragana": "ひさしい",
+    "kanji": "久しい",
+    "meaning": "",
+    "romaji": "hisashii"
+  },
+  {
+    "id": "2609",
+    "hiragana": "ひさしぶり",
+    "kanji": "久し振り",
+    "meaning": "",
+    "romaji": "hisashiburi"
+  },
+  {
+    "id": "2610",
+    "hiragana": "ひさん",
+    "kanji": "悲惨",
+    "meaning": "",
+    "romaji": "hisan"
+  },
+  {
+    "id": "2611",
+    "hiragana": "ひしょ",
+    "kanji": "秘書",
+    "meaning": "",
+    "romaji": "hisho"
+  },
+  {
+    "id": "2612",
+    "hiragana": "ひじゅう",
+    "kanji": "比重",
+    "meaning": "",
+    "romaji": "hijuu"
+  },
+  {
+    "id": "2613",
+    "hiragana": "ひそか",
+    "kanji": "密か",
+    "meaning": "",
+    "romaji": "hisoka"
+  },
+  {
+    "id": "2614",
+    "hiragana": "ひたす",
+    "kanji": "浸す",
+    "meaning": "",
+    "romaji": "hitasu"
+  },
+  {
+    "id": "2615",
+    "hiragana": "ひたすら",
+    "kanji": "一向",
+    "meaning": "",
+    "romaji": "hitasura"
+  },
+  {
+    "id": "2616",
+    "hiragana": "ひだりきき",
+    "kanji": "左利き",
+    "meaning": "",
+    "romaji": "hidarikiki"
+  },
+  {
+    "id": "2617",
+    "hiragana": "ひっかく",
+    "kanji": "引っ掻く",
+    "meaning": "",
+    "romaji": "hikkaku"
+  },
+  {
+    "id": "2618",
+    "hiragana": "ひっかける",
+    "kanji": "引っ掛ける",
+    "meaning": "",
+    "romaji": "hikkakeru"
+  },
+  {
+    "id": "2619",
+    "hiragana": "ひっしゅう",
+    "kanji": "必修",
+    "meaning": "",
+    "romaji": "hisshuu"
+  },
+  {
+    "id": "2620",
+    "hiragana": "ひってき",
+    "kanji": "匹敵",
+    "meaning": "",
+    "romaji": "hitteki"
+  },
+  {
+    "id": "2621",
+    "hiragana": "ひつじ",
+    "kanji": "未",
+    "meaning": "",
+    "romaji": "hitsuji"
+  },
+  {
+    "id": "2622",
+    "hiragana": "ひつぜん",
+    "kanji": "必然",
+    "meaning": "",
+    "romaji": "hitsuzen"
+  },
+  {
+    "id": "2623",
+    "hiragana": "ひといき",
+    "kanji": "一息",
+    "meaning": "",
+    "romaji": "hitoiki"
+  },
+  {
+    "id": "2624",
+    "hiragana": "ひとえ",
+    "kanji": "単",
+    "meaning": "",
+    "romaji": "hitoe"
+  },
+  {
+    "id": "2625",
+    "hiragana": "ひとがら",
+    "kanji": "人柄",
+    "meaning": "",
+    "romaji": "hitogara"
+  },
+  {
+    "id": "2626",
+    "hiragana": "ひところ",
+    "kanji": "一頃",
+    "meaning": "",
+    "romaji": "hitokoro"
+  },
+  {
+    "id": "2627",
+    "hiragana": "ひとじち",
+    "kanji": "人質",
+    "meaning": "",
+    "romaji": "hitojichi"
+  },
+  {
+    "id": "2628",
+    "hiragana": "ひとすき",
+    "kanji": "一筋",
+    "meaning": "",
+    "romaji": "hitosuki"
+  },
+  {
+    "id": "2629",
+    "hiragana": "ひとまず",
+    "kanji": "一まず",
+    "meaning": "",
+    "romaji": "hitomazu"
+  },
+  {
+    "id": "2630",
+    "hiragana": "ひとりでに",
+    "kanji": "一人でに",
+    "meaning": "",
+    "romaji": "hitorideni"
+  },
+  {
+    "id": "2631",
+    "hiragana": "ひどい",
+    "kanji": "酷い",
+    "meaning": "",
+    "romaji": "hidoi"
+  },
+  {
+    "id": "2632",
+    "hiragana": "ひどり",
+    "kanji": "日取り",
+    "meaning": "",
+    "romaji": "hidori"
+  },
+  {
+    "id": "2633",
+    "hiragana": "ひな",
+    "kanji": "雛",
+    "meaning": "",
+    "romaji": "hina"
+  },
+  {
+    "id": "2634",
+    "hiragana": "ひなた",
+    "kanji": "日向",
+    "meaning": "",
+    "romaji": "hinata"
+  },
+  {
+    "id": "2635",
+    "hiragana": "ひなん",
+    "kanji": "非難",
+    "meaning": "",
+    "romaji": "hinan"
+  },
+  {
+    "id": "2636",
+    "hiragana": "ひなん",
+    "kanji": "避難",
+    "meaning": "",
+    "romaji": "hinan"
+  },
+  {
+    "id": "2637",
+    "hiragana": "ひのまる",
+    "kanji": "日の丸",
+    "meaning": "",
+    "romaji": "hinomaru"
+  },
+  {
+    "id": "2638",
+    "hiragana": "ひばな",
+    "kanji": "火花",
+    "meaning": "",
+    "romaji": "hibana"
+  },
+  {
+    "id": "2639",
+    "hiragana": "ひび",
+    "kanji": "日々",
+    "meaning": "",
+    "romaji": "hibi"
+  },
+  {
+    "id": "2640",
+    "hiragana": "ひめい",
+    "kanji": "悲鳴",
+    "meaning": "",
+    "romaji": "himei"
+  },
+  {
+    "id": "2641",
+    "hiragana": "ひゃっかじてん",
+    "kanji": "百科事典",
+    "meaning": "",
+    "romaji": "hyakkajiten"
+  },
+  {
+    "id": "2642",
+    "hiragana": "ひゃっかじてん",
+    "kanji": "百科辞典",
+    "meaning": "",
+    "romaji": "hyakkajiten"
+  },
+  {
+    "id": "2643",
+    "hiragana": "ひやかす",
+    "kanji": "冷やかす",
+    "meaning": "",
+    "romaji": "hiyakasu"
+  },
+  {
+    "id": "2644",
+    "hiragana": "ひやけ",
+    "kanji": "日焼け",
+    "meaning": "",
+    "romaji": "hiyake"
+  },
+  {
+    "id": "2645",
+    "hiragana": "ひょう",
+    "kanji": "票",
+    "meaning": "",
+    "romaji": "hyou"
+  },
+  {
+    "id": "2646",
+    "hiragana": "ひょうご",
+    "kanji": "標語",
+    "meaning": "",
+    "romaji": "hyougo"
+  },
+  {
+    "id": "2647",
+    "hiragana": "ひょっと",
+    "kanji": "ひょっと",
+    "meaning": "",
+    "romaji": "hyotto"
+  },
+  {
+    "id": "2648",
+    "hiragana": "ひらたい",
+    "kanji": "平たい",
+    "meaning": "",
+    "romaji": "hiratai"
+  },
+  {
+    "id": "2649",
+    "hiragana": "ひりつ",
+    "kanji": "比率",
+    "meaning": "",
+    "romaji": "hiritsu"
+  },
+  {
+    "id": "2650",
+    "hiragana": "ひりょう",
+    "kanji": "肥料",
+    "meaning": "",
+    "romaji": "hiryou"
+  }
+]

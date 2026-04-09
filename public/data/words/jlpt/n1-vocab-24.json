@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1151",
+    "hiragana": "ごえい",
+    "kanji": "護衛",
+    "meaning": "",
+    "romaji": "goei"
+  },
+  {
+    "id": "1152",
+    "hiragana": "ごく",
+    "kanji": "語句",
+    "meaning": "",
+    "romaji": "goku"
+  },
+  {
+    "id": "1153",
+    "hiragana": "ごくらく",
+    "kanji": "極楽",
+    "meaning": "",
+    "romaji": "gokuraku"
+  },
+  {
+    "id": "1154",
+    "hiragana": "ごくろうさま",
+    "kanji": "ご苦労様",
+    "meaning": "",
+    "romaji": "gokurousama"
+  },
+  {
+    "id": "1155",
+    "hiragana": "ごげん",
+    "kanji": "語源",
+    "meaning": "",
+    "romaji": "gogen"
+  },
+  {
+    "id": "1156",
+    "hiragana": "ごさ",
+    "kanji": "誤差",
+    "meaning": "",
+    "romaji": "gosa"
+  },
+  {
+    "id": "1157",
+    "hiragana": "ございます",
+    "kanji": "ご座います",
+    "meaning": "",
+    "romaji": "gozaimasu"
+  },
+  {
+    "id": "1158",
+    "hiragana": "ごちそう",
+    "kanji": "ご馳走",
+    "meaning": "",
+    "romaji": "gochisou"
+  },
+  {
+    "id": "1159",
+    "hiragana": "ごちそうさま",
+    "kanji": "ご馳走さま",
+    "meaning": "",
+    "romaji": "gochisousama"
+  },
+  {
+    "id": "1160",
+    "hiragana": "ごと",
+    "kanji": "毎",
+    "meaning": "",
+    "romaji": "goto"
+  },
+  {
+    "id": "1161",
+    "hiragana": "ごばん",
+    "kanji": "碁盤",
+    "meaning": "",
+    "romaji": "goban"
+  },
+  {
+    "id": "1162",
+    "hiragana": "ごぶさた",
+    "kanji": "ご無沙汰",
+    "meaning": "",
+    "romaji": "gobusata"
+  },
+  {
+    "id": "1163",
+    "hiragana": "ごまかす",
+    "kanji": "誤魔化す",
+    "meaning": "",
+    "romaji": "gomakasu"
+  },
+  {
+    "id": "1164",
+    "hiragana": "ごめんください",
+    "kanji": "御免ください",
+    "meaning": "",
+    "romaji": "gomenkudasai"
+  },
+  {
+    "id": "1165",
+    "hiragana": "ごめんなさい",
+    "kanji": "御免なさい",
+    "meaning": "",
+    "romaji": "gomennasai"
+  },
+  {
+    "id": "1166",
+    "hiragana": "ごらんなさい",
+    "kanji": "御覧なさい",
+    "meaning": "",
+    "romaji": "gorannasai"
+  },
+  {
+    "id": "1167",
+    "hiragana": "さ",
+    "kanji": "佐",
+    "meaning": "",
+    "romaji": "sa"
+  },
+  {
+    "id": "1168",
+    "hiragana": "さい",
+    "kanji": "再",
+    "meaning": "",
+    "romaji": "sai"
+  },
+  {
+    "id": "1169",
+    "hiragana": "さい",
+    "kanji": "差異",
+    "meaning": "",
+    "romaji": "sai"
+  },
+  {
+    "id": "1170",
+    "hiragana": "さい",
+    "kanji": "歳",
+    "meaning": "",
+    "romaji": "sai"
+  },
+  {
+    "id": "1171",
+    "hiragana": "さいかい",
+    "kanji": "再会",
+    "meaning": "",
+    "romaji": "saikai"
+  },
+  {
+    "id": "1172",
+    "hiragana": "さいがい",
+    "kanji": "災害",
+    "meaning": "",
+    "romaji": "saigai"
+  },
+  {
+    "id": "1173",
+    "hiragana": "さいきん",
+    "kanji": "細菌",
+    "meaning": "",
+    "romaji": "saikin"
+  },
+  {
+    "id": "1174",
+    "hiragana": "さいく",
+    "kanji": "細工",
+    "meaning": "",
+    "romaji": "saiku"
+  },
+  {
+    "id": "1175",
+    "hiragana": "さいくつ",
+    "kanji": "採掘",
+    "meaning": "",
+    "romaji": "saikutsu"
+  },
+  {
+    "id": "1176",
+    "hiragana": "さいけつ",
+    "kanji": "採決",
+    "meaning": "",
+    "romaji": "saiketsu"
+  },
+  {
+    "id": "1177",
+    "hiragana": "さいけん",
+    "kanji": "再建",
+    "meaning": "",
+    "romaji": "saiken"
+  },
+  {
+    "id": "1178",
+    "hiragana": "さいげん",
+    "kanji": "再現",
+    "meaning": "",
+    "romaji": "saigen"
+  },
+  {
+    "id": "1179",
+    "hiragana": "さいさん",
+    "kanji": "採算",
+    "meaning": "",
+    "romaji": "saisan"
+  },
+  {
+    "id": "1180",
+    "hiragana": "さいしゅう",
+    "kanji": "採集",
+    "meaning": "",
+    "romaji": "saishuu"
+  },
+  {
+    "id": "1181",
+    "hiragana": "さいせい",
+    "kanji": "再生",
+    "meaning": "",
+    "romaji": "saisei"
+  },
+  {
+    "id": "1182",
+    "hiragana": "さいぜん",
+    "kanji": "最善",
+    "meaning": "",
+    "romaji": "saizen"
+  },
+  {
+    "id": "1183",
+    "hiragana": "さいたく",
+    "kanji": "採択",
+    "meaning": "",
+    "romaji": "saitaku"
+  },
+  {
+    "id": "1184",
+    "hiragana": "さいはつ",
+    "kanji": "再発",
+    "meaning": "",
+    "romaji": "saihatsu"
+  },
+  {
+    "id": "1185",
+    "hiragana": "さいばい",
+    "kanji": "栽培",
+    "meaning": "",
+    "romaji": "saibai"
+  },
+  {
+    "id": "1186",
+    "hiragana": "さいぼう",
+    "kanji": "細胞",
+    "meaning": "",
+    "romaji": "saibou"
+  },
+  {
+    "id": "1187",
+    "hiragana": "さいよう",
+    "kanji": "採用",
+    "meaning": "",
+    "romaji": "saiyou"
+  },
+  {
+    "id": "1188",
+    "hiragana": "さえぎる",
+    "kanji": "遮る",
+    "meaning": "",
+    "romaji": "saegiru"
+  },
+  {
+    "id": "1189",
+    "hiragana": "さえずる",
+    "kanji": "囀る",
+    "meaning": "",
+    "romaji": "saezuru"
+  },
+  {
+    "id": "1190",
+    "hiragana": "さえる",
+    "kanji": "冴える",
+    "meaning": "",
+    "romaji": "saeru"
+  },
+  {
+    "id": "1191",
+    "hiragana": "さお",
+    "kanji": "竿",
+    "meaning": "",
+    "romaji": "sao"
+  },
+  {
+    "id": "1192",
+    "hiragana": "さかえる",
+    "kanji": "栄える",
+    "meaning": "",
+    "romaji": "sakaeru"
+  },
+  {
+    "id": "1193",
+    "hiragana": "さかずき",
+    "kanji": "杯",
+    "meaning": "",
+    "romaji": "sakazuki"
+  },
+  {
+    "id": "1194",
+    "hiragana": "さかだち",
+    "kanji": "逆立ち",
+    "meaning": "",
+    "romaji": "sakadachi"
+  },
+  {
+    "id": "1195",
+    "hiragana": "さかのぼる",
+    "kanji": "逆上る",
+    "meaning": "",
+    "romaji": "sakanoboru"
+  },
+  {
+    "id": "1196",
+    "hiragana": "さかる",
+    "kanji": "盛る",
+    "meaning": "",
+    "romaji": "sakaru"
+  },
+  {
+    "id": "1197",
+    "hiragana": "さがく",
+    "kanji": "差額",
+    "meaning": "",
+    "romaji": "sagaku"
+  },
+  {
+    "id": "1198",
+    "hiragana": "さがる",
+    "kanji": "下がる",
+    "meaning": "",
+    "romaji": "sagaru"
+  },
+  {
+    "id": "1199",
+    "hiragana": "さきおととい",
+    "kanji": "一昨昨日",
+    "meaning": "",
+    "romaji": "sakiototoi"
+  },
+  {
+    "id": "1200",
+    "hiragana": "さきに",
+    "kanji": "先に",
+    "meaning": "",
+    "romaji": "sakini"
+  }
+]

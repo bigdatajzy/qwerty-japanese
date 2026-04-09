@@ -1,0 +1,352 @@
+[
+  {
+    "id": "251",
+    "hiragana": "ここのつ",
+    "kanji": "九つ",
+    "meaning": "",
+    "romaji": "kokonotsu"
+  },
+  {
+    "id": "252",
+    "hiragana": "ごぜん",
+    "kanji": "午前",
+    "meaning": "",
+    "romaji": "gozen"
+  },
+  {
+    "id": "253",
+    "hiragana": "こたえる",
+    "kanji": "答える",
+    "meaning": "",
+    "romaji": "kotaeru"
+  },
+  {
+    "id": "254",
+    "hiragana": "こちら",
+    "kanji": "こちら",
+    "meaning": "",
+    "romaji": "kochira"
+  },
+  {
+    "id": "255",
+    "hiragana": "こっち",
+    "kanji": "こっち",
+    "meaning": "",
+    "romaji": "kotchi"
+  },
+  {
+    "id": "256",
+    "hiragana": "コップ",
+    "kanji": "コップ",
+    "meaning": "",
+    "romaji": "koppu"
+  },
+  {
+    "id": "257",
+    "hiragana": "ことし",
+    "kanji": "今年",
+    "meaning": "",
+    "romaji": "kotoshi"
+  },
+  {
+    "id": "258",
+    "hiragana": "ことば",
+    "kanji": "言葉",
+    "meaning": "",
+    "romaji": "kotoba"
+  },
+  {
+    "id": "259",
+    "hiragana": "こども",
+    "kanji": "子供",
+    "meaning": "",
+    "romaji": "kodomo"
+  },
+  {
+    "id": "260",
+    "hiragana": "この",
+    "kanji": "この",
+    "meaning": "",
+    "romaji": "kono"
+  },
+  {
+    "id": "261",
+    "hiragana": "ごはん",
+    "kanji": "御飯",
+    "meaning": "",
+    "romaji": "gohan"
+  },
+  {
+    "id": "262",
+    "hiragana": "コピーする",
+    "kanji": "コピーする",
+    "meaning": "",
+    "romaji": "kopiisuru"
+  },
+  {
+    "id": "263",
+    "hiragana": "こまる",
+    "kanji": "困る",
+    "meaning": "",
+    "romaji": "komaru"
+  },
+  {
+    "id": "264",
+    "hiragana": "これ",
+    "kanji": "これ",
+    "meaning": "",
+    "romaji": "kore"
+  },
+  {
+    "id": "265",
+    "hiragana": "こんげつ",
+    "kanji": "今月",
+    "meaning": "",
+    "romaji": "kongetsu"
+  },
+  {
+    "id": "266",
+    "hiragana": "こんしゅう",
+    "kanji": "今週",
+    "meaning": "",
+    "romaji": "konshuu"
+  },
+  {
+    "id": "267",
+    "hiragana": "こんな",
+    "kanji": "こんな",
+    "meaning": "",
+    "romaji": "konna"
+  },
+  {
+    "id": "268",
+    "hiragana": "こんばん",
+    "kanji": "今晩",
+    "meaning": "",
+    "romaji": "konban"
+  },
+  {
+    "id": "269",
+    "hiragana": "さあ",
+    "kanji": "さあ",
+    "meaning": "",
+    "romaji": "saa"
+  },
+  {
+    "id": "270",
+    "hiragana": "さいふ",
+    "kanji": "財布",
+    "meaning": "",
+    "romaji": "saifu"
+  },
+  {
+    "id": "271",
+    "hiragana": "さかな",
+    "kanji": "魚",
+    "meaning": "",
+    "romaji": "sakana"
+  },
+  {
+    "id": "272",
+    "hiragana": "さき",
+    "kanji": "先",
+    "meaning": "",
+    "romaji": "saki"
+  },
+  {
+    "id": "273",
+    "hiragana": "さく",
+    "kanji": "咲く",
+    "meaning": "",
+    "romaji": "saku"
+  },
+  {
+    "id": "274",
+    "hiragana": "さくぶん",
+    "kanji": "作文",
+    "meaning": "",
+    "romaji": "sakubun"
+  },
+  {
+    "id": "275",
+    "hiragana": "さす",
+    "kanji": "差す",
+    "meaning": "",
+    "romaji": "sasu"
+  },
+  {
+    "id": "276",
+    "hiragana": "ざっし",
+    "kanji": "雑誌",
+    "meaning": "",
+    "romaji": "zasshi"
+  },
+  {
+    "id": "277",
+    "hiragana": "さとう",
+    "kanji": "砂糖",
+    "meaning": "",
+    "romaji": "satou"
+  },
+  {
+    "id": "278",
+    "hiragana": "さむい",
+    "kanji": "寒い",
+    "meaning": "",
+    "romaji": "samui"
+  },
+  {
+    "id": "279",
+    "hiragana": "さらいねん",
+    "kanji": "さ来年",
+    "meaning": "",
+    "romaji": "sarainen"
+  },
+  {
+    "id": "280",
+    "hiragana": "さん",
+    "kanji": "三",
+    "meaning": "",
+    "romaji": "san"
+  },
+  {
+    "id": "281",
+    "hiragana": "さんぽする",
+    "kanji": "散歩",
+    "meaning": "",
+    "romaji": "sanposuru"
+  },
+  {
+    "id": "282",
+    "hiragana": "し",
+    "kanji": "四",
+    "meaning": "",
+    "romaji": "shi"
+  },
+  {
+    "id": "283",
+    "hiragana": "よん",
+    "kanji": "四",
+    "meaning": "",
+    "romaji": "yon"
+  },
+  {
+    "id": "284",
+    "hiragana": "しお",
+    "kanji": "塩",
+    "meaning": "",
+    "romaji": "shio"
+  },
+  {
+    "id": "285",
+    "hiragana": "しかし",
+    "kanji": "しかし",
+    "meaning": "",
+    "romaji": "shikashi"
+  },
+  {
+    "id": "286",
+    "hiragana": "じかん",
+    "kanji": "時間",
+    "meaning": "",
+    "romaji": "jikan"
+  },
+  {
+    "id": "287",
+    "hiragana": "しごと",
+    "kanji": "仕事",
+    "meaning": "",
+    "romaji": "shigoto"
+  },
+  {
+    "id": "288",
+    "hiragana": "じしょ",
+    "kanji": "辞書",
+    "meaning": "",
+    "romaji": "jisho"
+  },
+  {
+    "id": "289",
+    "hiragana": "しずか",
+    "kanji": "静か",
+    "meaning": "",
+    "romaji": "shizuka"
+  },
+  {
+    "id": "290",
+    "hiragana": "した",
+    "kanji": "下",
+    "meaning": "",
+    "romaji": "shita"
+  },
+  {
+    "id": "291",
+    "hiragana": "しち",
+    "kanji": "七",
+    "meaning": "",
+    "romaji": "shichi"
+  },
+  {
+    "id": "292",
+    "hiragana": "なな",
+    "kanji": "七",
+    "meaning": "",
+    "romaji": "nana"
+  },
+  {
+    "id": "293",
+    "hiragana": "しつもん",
+    "kanji": "質問",
+    "meaning": "",
+    "romaji": "shitsumon"
+  },
+  {
+    "id": "294",
+    "hiragana": "じてんしゃ",
+    "kanji": "自転車",
+    "meaning": "",
+    "romaji": "jitensha"
+  },
+  {
+    "id": "295",
+    "hiragana": "じどうしゃ",
+    "kanji": "自動車",
+    "meaning": "",
+    "romaji": "jidousha"
+  },
+  {
+    "id": "296",
+    "hiragana": "しぬ",
+    "kanji": "死ぬ",
+    "meaning": "",
+    "romaji": "shinu"
+  },
+  {
+    "id": "297",
+    "hiragana": "じびき",
+    "kanji": "字引",
+    "meaning": "",
+    "romaji": "jibiki"
+  },
+  {
+    "id": "298",
+    "hiragana": "じぶん",
+    "kanji": "自分",
+    "meaning": "",
+    "romaji": "jibun"
+  },
+  {
+    "id": "299",
+    "hiragana": "しまる",
+    "kanji": "閉まる",
+    "meaning": "",
+    "romaji": "shimaru"
+  },
+  {
+    "id": "300",
+    "hiragana": "しめる",
+    "kanji": "閉める",
+    "meaning": "",
+    "romaji": "shimeru"
+  }
+]

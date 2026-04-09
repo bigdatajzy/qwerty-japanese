@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1751",
+    "hiragana": "ゆうそう",
+    "kanji": "郵送",
+    "meaning": "",
+    "romaji": "yuusou"
+  },
+  {
+    "id": "1752",
+    "hiragana": "ゆうだち",
+    "kanji": "夕立",
+    "meaning": "",
+    "romaji": "yuudachi"
+  },
+  {
+    "id": "1753",
+    "hiragana": "ゆうひ",
+    "kanji": "夕日",
+    "meaning": "",
+    "romaji": "yuuhi"
+  },
+  {
+    "id": "1754",
+    "hiragana": "ゆうゆう",
+    "kanji": "悠々",
+    "meaning": "",
+    "romaji": "yuuyuu"
+  },
+  {
+    "id": "1755",
+    "hiragana": "ゆうりょう",
+    "kanji": "有料",
+    "meaning": "",
+    "romaji": "yuuryou"
+  },
+  {
+    "id": "1756",
+    "hiragana": "ゆかた",
+    "kanji": "浴衣",
+    "meaning": "",
+    "romaji": "yukata"
+  },
+  {
+    "id": "1757",
+    "hiragana": "ゆげ",
+    "kanji": "湯気",
+    "meaning": "",
+    "romaji": "yuge"
+  },
+  {
+    "id": "1758",
+    "hiragana": "ゆけつ",
+    "kanji": "輸血",
+    "meaning": "",
+    "romaji": "yuketsu"
+  },
+  {
+    "id": "1759",
+    "hiragana": "ゆそう",
+    "kanji": "輸送",
+    "meaning": "",
+    "romaji": "yusou"
+  },
+  {
+    "id": "1760",
+    "hiragana": "ゆだん",
+    "kanji": "油断",
+    "meaning": "",
+    "romaji": "yudan"
+  },
+  {
+    "id": "1761",
+    "hiragana": "ゆでる",
+    "kanji": "ゆでる",
+    "meaning": "",
+    "romaji": "yuderu"
+  },
+  {
+    "id": "1762",
+    "hiragana": "ゆのみ",
+    "kanji": "湯飲み",
+    "meaning": "",
+    "romaji": "yunomi"
+  },
+  {
+    "id": "1763",
+    "hiragana": "ゆるい",
+    "kanji": "緩い",
+    "meaning": "",
+    "romaji": "yurui"
+  },
+  {
+    "id": "1764",
+    "hiragana": "ようがん",
+    "kanji": "溶岩",
+    "meaning": "",
+    "romaji": "yougan"
+  },
+  {
+    "id": "1765",
+    "hiragana": "ようき",
+    "kanji": "容器",
+    "meaning": "",
+    "romaji": "youki"
+  },
+  {
+    "id": "1766",
+    "hiragana": "ようご",
+    "kanji": "用語",
+    "meaning": "",
+    "romaji": "yougo"
+  },
+  {
+    "id": "1767",
+    "hiragana": "ようし",
+    "kanji": "要旨",
+    "meaning": "",
+    "romaji": "youshi"
+  },
+  {
+    "id": "1768",
+    "hiragana": "ようじ",
+    "kanji": "幼児",
+    "meaning": "",
+    "romaji": "youji"
+  },
+  {
+    "id": "1769",
+    "hiragana": "ようせき",
+    "kanji": "容積",
+    "meaning": "",
+    "romaji": "youseki"
+  },
+  {
+    "id": "1770",
+    "hiragana": "ようち",
+    "kanji": "幼稚",
+    "meaning": "",
+    "romaji": "youchi"
+  },
+  {
+    "id": "1771",
+    "hiragana": "ようちえん",
+    "kanji": "幼稚園",
+    "meaning": "",
+    "romaji": "youchien"
+  },
+  {
+    "id": "1772",
+    "hiragana": "ようと",
+    "kanji": "用途",
+    "meaning": "",
+    "romaji": "youto"
+  },
+  {
+    "id": "1773",
+    "hiragana": "ようひんてん",
+    "kanji": "洋品店",
+    "meaning": "",
+    "romaji": "youhinten"
+  },
+  {
+    "id": "1774",
+    "hiragana": "ようぶん",
+    "kanji": "養分",
+    "meaning": "",
+    "romaji": "youbun"
+  },
+  {
+    "id": "1775",
+    "hiragana": "ようもう",
+    "kanji": "羊毛",
+    "meaning": "",
+    "romaji": "youmou"
+  },
+  {
+    "id": "1776",
+    "hiragana": "ようやく",
+    "kanji": "漸く",
+    "meaning": "",
+    "romaji": "youyaku"
+  },
+  {
+    "id": "1777",
+    "hiragana": "ようりょう",
+    "kanji": "要領",
+    "meaning": "",
+    "romaji": "youryou"
+  },
+  {
+    "id": "1778",
+    "hiragana": "よくばり",
+    "kanji": "欲張り",
+    "meaning": "",
+    "romaji": "yokubari"
+  },
+  {
+    "id": "1779",
+    "hiragana": "よけい",
+    "kanji": "余計",
+    "meaning": "",
+    "romaji": "yokei"
+  },
+  {
+    "id": "1780",
+    "hiragana": "よこす",
+    "kanji": "よこす",
+    "meaning": "",
+    "romaji": "yokosu"
+  },
+  {
+    "id": "1781",
+    "hiragana": "よごす",
+    "kanji": "汚す",
+    "meaning": "",
+    "romaji": "yogosu"
+  },
+  {
+    "id": "1782",
+    "hiragana": "よせる",
+    "kanji": "寄せる",
+    "meaning": "",
+    "romaji": "yoseru"
+  },
+  {
+    "id": "1783",
+    "hiragana": "よそ",
+    "kanji": "余所",
+    "meaning": "",
+    "romaji": "yoso"
+  },
+  {
+    "id": "1784",
+    "hiragana": "よつかど",
+    "kanji": "四つ角",
+    "meaning": "",
+    "romaji": "yotsukado"
+  },
+  {
+    "id": "1785",
+    "hiragana": "よっぱらい",
+    "kanji": "酔っ払い",
+    "meaning": "",
+    "romaji": "yopparai"
+  },
+  {
+    "id": "1786",
+    "hiragana": "よび",
+    "kanji": "予備",
+    "meaning": "",
+    "romaji": "yobi"
+  },
+  {
+    "id": "1787",
+    "hiragana": "よびかける",
+    "kanji": "呼び掛ける",
+    "meaning": "",
+    "romaji": "yobikakeru"
+  },
+  {
+    "id": "1788",
+    "hiragana": "よびだす",
+    "kanji": "呼び出す",
+    "meaning": "",
+    "romaji": "yobidasu"
+  },
+  {
+    "id": "1789",
+    "hiragana": "よみがえる",
+    "kanji": "蘇る",
+    "meaning": "",
+    "romaji": "yomigaeru"
+  },
+  {
+    "id": "1790",
+    "hiragana": "よる",
+    "kanji": "因る",
+    "meaning": "",
+    "romaji": "yoru"
+  },
+  {
+    "id": "1791",
+    "hiragana": "よろこび",
+    "kanji": "慶び",
+    "meaning": "",
+    "romaji": "yorokobi"
+  },
+  {
+    "id": "1792",
+    "hiragana": "よろこぶ",
+    "kanji": "慶ぶ",
+    "meaning": "",
+    "romaji": "yorokobu"
+  },
+  {
+    "id": "1793",
+    "hiragana": "らいにち",
+    "kanji": "来日",
+    "meaning": "",
+    "romaji": "rainichi"
+  },
+  {
+    "id": "1794",
+    "hiragana": "らくだい",
+    "kanji": "落第",
+    "meaning": "",
+    "romaji": "rakudai"
+  },
+  {
+    "id": "1795",
+    "hiragana": "ラッシュアワー",
+    "kanji": "ラッシュアワー",
+    "meaning": "",
+    "romaji": "rasshuawaa"
+  },
+  {
+    "id": "1796",
+    "hiragana": "らん",
+    "kanji": "欄",
+    "meaning": "",
+    "romaji": "ran"
+  },
+  {
+    "id": "1797",
+    "hiragana": "ランチ",
+    "kanji": "ランチ",
+    "meaning": "",
+    "romaji": "ranchi"
+  },
+  {
+    "id": "1798",
+    "hiragana": "ランニング",
+    "kanji": "ランニング",
+    "meaning": "",
+    "romaji": "ranningu"
+  },
+  {
+    "id": "1799",
+    "hiragana": "らんぼう",
+    "kanji": "乱暴",
+    "meaning": "",
+    "romaji": "ranbou"
+  },
+  {
+    "id": "1800",
+    "hiragana": "りか",
+    "kanji": "理科",
+    "meaning": "",
+    "romaji": "rika"
+  }
+]

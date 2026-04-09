@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1151",
+    "hiragana": "ていいん",
+    "kanji": "定員",
+    "meaning": "",
+    "romaji": "teiin"
+  },
+  {
+    "id": "1152",
+    "hiragana": "ていか",
+    "kanji": "定価",
+    "meaning": "",
+    "romaji": "teika"
+  },
+  {
+    "id": "1153",
+    "hiragana": "ていか",
+    "kanji": "低下",
+    "meaning": "",
+    "romaji": "teika"
+  },
+  {
+    "id": "1154",
+    "hiragana": "ていきけん",
+    "kanji": "定期券",
+    "meaning": "",
+    "romaji": "teikiken"
+  },
+  {
+    "id": "1155",
+    "hiragana": "ていきゅうび",
+    "kanji": "定休日",
+    "meaning": "",
+    "romaji": "teikyuubi"
+  },
+  {
+    "id": "1156",
+    "hiragana": "ていし",
+    "kanji": "停止",
+    "meaning": "",
+    "romaji": "teishi"
+  },
+  {
+    "id": "1157",
+    "hiragana": "ていしゃ",
+    "kanji": "停車",
+    "meaning": "",
+    "romaji": "teisha"
+  },
+  {
+    "id": "1158",
+    "hiragana": "ていでん",
+    "kanji": "停電",
+    "meaning": "",
+    "romaji": "teiden"
+  },
+  {
+    "id": "1159",
+    "hiragana": "でいり",
+    "kanji": "出入り",
+    "meaning": "",
+    "romaji": "deiri"
+  },
+  {
+    "id": "1160",
+    "hiragana": "でいりぐち",
+    "kanji": "出入口",
+    "meaning": "",
+    "romaji": "deiriguchi"
+  },
+  {
+    "id": "1161",
+    "hiragana": "ていれ",
+    "kanji": "手入れ",
+    "meaning": "",
+    "romaji": "teire"
+  },
+  {
+    "id": "1162",
+    "hiragana": "テーマ",
+    "kanji": "テーマ",
+    "meaning": "",
+    "romaji": "teema"
+  },
+  {
+    "id": "1163",
+    "hiragana": "でかける",
+    "kanji": "出掛ける",
+    "meaning": "",
+    "romaji": "dekakeru"
+  },
+  {
+    "id": "1164",
+    "hiragana": "できあがり",
+    "kanji": "出来上がり",
+    "meaning": "",
+    "romaji": "dekiagari"
+  },
+  {
+    "id": "1165",
+    "hiragana": "できあがる",
+    "kanji": "出来上がる",
+    "meaning": "",
+    "romaji": "dekiagaru"
+  },
+  {
+    "id": "1166",
+    "hiragana": "てきかく",
+    "kanji": "的確",
+    "meaning": "",
+    "romaji": "tekikaku"
+  },
+  {
+    "id": "1167",
+    "hiragana": "てきかく",
+    "kanji": "適確",
+    "meaning": "",
+    "romaji": "tekikaku"
+  },
+  {
+    "id": "1168",
+    "hiragana": "てくび",
+    "kanji": "手首",
+    "meaning": "",
+    "romaji": "tekubi"
+  },
+  {
+    "id": "1169",
+    "hiragana": "でこぼこ",
+    "kanji": "凸凹",
+    "meaning": "",
+    "romaji": "dekoboko"
+  },
+  {
+    "id": "1170",
+    "hiragana": "てごろ",
+    "kanji": "手頃",
+    "meaning": "",
+    "romaji": "tegoro"
+  },
+  {
+    "id": "1171",
+    "hiragana": "でたらめ",
+    "kanji": "でたらめ",
+    "meaning": "",
+    "romaji": "detarame"
+  },
+  {
+    "id": "1172",
+    "hiragana": "てちょう",
+    "kanji": "手帳",
+    "meaning": "",
+    "romaji": "techou"
+  },
+  {
+    "id": "1173",
+    "hiragana": "てっきょう",
+    "kanji": "鉄橋",
+    "meaning": "",
+    "romaji": "tekkyou"
+  },
+  {
+    "id": "1174",
+    "hiragana": "てつづき",
+    "kanji": "手続き",
+    "meaning": "",
+    "romaji": "tetsuzuki"
+  },
+  {
+    "id": "1175",
+    "hiragana": "てっぽう",
+    "kanji": "鉄砲",
+    "meaning": "",
+    "romaji": "teppou"
+  },
+  {
+    "id": "1176",
+    "hiragana": "テニスコート",
+    "kanji": "テニスコート",
+    "meaning": "",
+    "romaji": "tenisukooto"
+  },
+  {
+    "id": "1177",
+    "hiragana": "てぬぐい",
+    "kanji": "手拭い",
+    "meaning": "",
+    "romaji": "tenugui"
+  },
+  {
+    "id": "1178",
+    "hiragana": "てまえ",
+    "kanji": "手前",
+    "meaning": "",
+    "romaji": "temae"
+  },
+  {
+    "id": "1179",
+    "hiragana": "でむかえ",
+    "kanji": "出迎え",
+    "meaning": "",
+    "romaji": "demukae"
+  },
+  {
+    "id": "1180",
+    "hiragana": "でむかえる",
+    "kanji": "出迎える",
+    "meaning": "",
+    "romaji": "demukaeru"
+  },
+  {
+    "id": "1181",
+    "hiragana": "てらす",
+    "kanji": "照らす",
+    "meaning": "",
+    "romaji": "terasu"
+  },
+  {
+    "id": "1182",
+    "hiragana": "てる",
+    "kanji": "照る",
+    "meaning": "",
+    "romaji": "teru"
+  },
+  {
+    "id": "1183",
+    "hiragana": "てんかい",
+    "kanji": "展開",
+    "meaning": "",
+    "romaji": "tenkai"
+  },
+  {
+    "id": "1184",
+    "hiragana": "でんき",
+    "kanji": "伝記",
+    "meaning": "",
+    "romaji": "denki"
+  },
+  {
+    "id": "1185",
+    "hiragana": "でんきゅう",
+    "kanji": "電球",
+    "meaning": "",
+    "romaji": "denkyuu"
+  },
+  {
+    "id": "1186",
+    "hiragana": "てんすう",
+    "kanji": "点数",
+    "meaning": "",
+    "romaji": "tensuu"
+  },
+  {
+    "id": "1187",
+    "hiragana": "でんせん",
+    "kanji": "伝染",
+    "meaning": "",
+    "romaji": "densen"
+  },
+  {
+    "id": "1188",
+    "hiragana": "でんち",
+    "kanji": "電池",
+    "meaning": "",
+    "romaji": "denchi"
+  },
+  {
+    "id": "1189",
+    "hiragana": "てんてん",
+    "kanji": "点々",
+    "meaning": "",
+    "romaji": "tenten"
+  },
+  {
+    "id": "1190",
+    "hiragana": "てんてん",
+    "kanji": "転々",
+    "meaning": "",
+    "romaji": "tenten"
+  },
+  {
+    "id": "1191",
+    "hiragana": "でんちゅう",
+    "kanji": "電柱",
+    "meaning": "",
+    "romaji": "denchuu"
+  },
+  {
+    "id": "1192",
+    "hiragana": "てんのう",
+    "kanji": "天皇",
+    "meaning": "",
+    "romaji": "tennou"
+  },
+  {
+    "id": "1193",
+    "hiragana": "でんぱ",
+    "kanji": "電波",
+    "meaning": "",
+    "romaji": "denpa"
+  },
+  {
+    "id": "1194",
+    "hiragana": "テンポ",
+    "kanji": "テンポ",
+    "meaning": "",
+    "romaji": "tenpo"
+  },
+  {
+    "id": "1195",
+    "hiragana": "でんりゅう",
+    "kanji": "電流",
+    "meaning": "",
+    "romaji": "denryuu"
+  },
+  {
+    "id": "1196",
+    "hiragana": "でんりょく",
+    "kanji": "電力",
+    "meaning": "",
+    "romaji": "denryoku"
+  },
+  {
+    "id": "1197",
+    "hiragana": "といあわせ",
+    "kanji": "問い合わせ",
+    "meaning": "",
+    "romaji": "toiawase"
+  },
+  {
+    "id": "1198",
+    "hiragana": "どう",
+    "kanji": "銅",
+    "meaning": "",
+    "romaji": "dou"
+  },
+  {
+    "id": "1199",
+    "hiragana": "とういつ",
+    "kanji": "統一",
+    "meaning": "",
+    "romaji": "touitsu"
+  },
+  {
+    "id": "1200",
+    "hiragana": "どうかく",
+    "kanji": "同格",
+    "meaning": "",
+    "romaji": "doukaku"
+  }
+]

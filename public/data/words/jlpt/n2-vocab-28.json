@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1351",
+    "hiragana": "はかる",
+    "kanji": "測る",
+    "meaning": "",
+    "romaji": "hakaru"
+  },
+  {
+    "id": "1352",
+    "hiragana": "はきけ",
+    "kanji": "吐き気",
+    "meaning": "",
+    "romaji": "hakike"
+  },
+  {
+    "id": "1353",
+    "hiragana": "はきはき",
+    "kanji": "はきはき",
+    "meaning": "",
+    "romaji": "hakihaki"
+  },
+  {
+    "id": "1354",
+    "hiragana": "はく",
+    "kanji": "掃く",
+    "meaning": "",
+    "romaji": "haku"
+  },
+  {
+    "id": "1355",
+    "hiragana": "はぐるま",
+    "kanji": "歯車",
+    "meaning": "",
+    "romaji": "haguruma"
+  },
+  {
+    "id": "1356",
+    "hiragana": "バケツ",
+    "kanji": "バケツ",
+    "meaning": "",
+    "romaji": "baketsu"
+  },
+  {
+    "id": "1357",
+    "hiragana": "はさまる",
+    "kanji": "挟まる",
+    "meaning": "",
+    "romaji": "hasamaru"
+  },
+  {
+    "id": "1358",
+    "hiragana": "はさむ",
+    "kanji": "挟む",
+    "meaning": "",
+    "romaji": "hasamu"
+  },
+  {
+    "id": "1359",
+    "hiragana": "はし",
+    "kanji": "箸",
+    "meaning": "",
+    "romaji": "hashi"
+  },
+  {
+    "id": "1360",
+    "hiragana": "はしご",
+    "kanji": "梯子",
+    "meaning": "",
+    "romaji": "hashigo"
+  },
+  {
+    "id": "1361",
+    "hiragana": "はじめに",
+    "kanji": "始めに",
+    "meaning": "",
+    "romaji": "hajimeni"
+  },
+  {
+    "id": "1362",
+    "hiragana": "はじめに",
+    "kanji": "初めに",
+    "meaning": "",
+    "romaji": "hajimeni"
+  },
+  {
+    "id": "1363",
+    "hiragana": "はじめまして",
+    "kanji": "はじめまして",
+    "meaning": "",
+    "romaji": "hajimemashite"
+  },
+  {
+    "id": "1364",
+    "hiragana": "はす",
+    "kanji": "斜",
+    "meaning": "",
+    "romaji": "hasu"
+  },
+  {
+    "id": "1365",
+    "hiragana": "はずれる",
+    "kanji": "外れる",
+    "meaning": "",
+    "romaji": "hazureru"
+  },
+  {
+    "id": "1366",
+    "hiragana": "パターン",
+    "kanji": "パターン",
+    "meaning": "",
+    "romaji": "pataan"
+  },
+  {
+    "id": "1367",
+    "hiragana": "はだぎ",
+    "kanji": "肌着",
+    "meaning": "",
+    "romaji": "hadagi"
+  },
+  {
+    "id": "1368",
+    "hiragana": "はたして",
+    "kanji": "果して",
+    "meaning": "",
+    "romaji": "hatashite"
+  },
+  {
+    "id": "1369",
+    "hiragana": "はち",
+    "kanji": "鉢",
+    "meaning": "",
+    "romaji": "hachi"
+  },
+  {
+    "id": "1370",
+    "hiragana": "ばつ",
+    "kanji": "×",
+    "meaning": "",
+    "romaji": "batsu"
+  },
+  {
+    "id": "1371",
+    "hiragana": "はっき",
+    "kanji": "発揮",
+    "meaning": "",
+    "romaji": "hakki"
+  },
+  {
+    "id": "1372",
+    "hiragana": "バック",
+    "kanji": "バック",
+    "meaning": "",
+    "romaji": "bakku"
+  },
+  {
+    "id": "1373",
+    "hiragana": "はっしゃ",
+    "kanji": "発射",
+    "meaning": "",
+    "romaji": "hassha"
+  },
+  {
+    "id": "1374",
+    "hiragana": "はっそう",
+    "kanji": "発想",
+    "meaning": "",
+    "romaji": "hassou"
+  },
+  {
+    "id": "1375",
+    "hiragana": "はつでん",
+    "kanji": "発電",
+    "meaning": "",
+    "romaji": "hatsuden"
+  },
+  {
+    "id": "1376",
+    "hiragana": "はつばい",
+    "kanji": "発売",
+    "meaning": "",
+    "romaji": "hatsubai"
+  },
+  {
+    "id": "1377",
+    "hiragana": "はで",
+    "kanji": "派手",
+    "meaning": "",
+    "romaji": "hade"
+  },
+  {
+    "id": "1378",
+    "hiragana": "はなしあい",
+    "kanji": "話合い",
+    "meaning": "",
+    "romaji": "hanashiai"
+  },
+  {
+    "id": "1379",
+    "hiragana": "はなしかける",
+    "kanji": "話し掛ける",
+    "meaning": "",
+    "romaji": "hanashikakeru"
+  },
+  {
+    "id": "1380",
+    "hiragana": "はなしちゅう",
+    "kanji": "話中",
+    "meaning": "",
+    "romaji": "hanashichuu"
+  },
+  {
+    "id": "1381",
+    "hiragana": "はなはだしい",
+    "kanji": "甚だしい",
+    "meaning": "",
+    "romaji": "hanahadashii"
+  },
+  {
+    "id": "1382",
+    "hiragana": "はなび",
+    "kanji": "花火",
+    "meaning": "",
+    "romaji": "hanabi"
+  },
+  {
+    "id": "1383",
+    "hiragana": "はなよめ",
+    "kanji": "花嫁",
+    "meaning": "",
+    "romaji": "hanayome"
+  },
+  {
+    "id": "1384",
+    "hiragana": "はなれる",
+    "kanji": "放れる",
+    "meaning": "",
+    "romaji": "hanareru"
+  },
+  {
+    "id": "1385",
+    "hiragana": "はね",
+    "kanji": "羽根",
+    "meaning": "",
+    "romaji": "hane"
+  },
+  {
+    "id": "1386",
+    "hiragana": "ばね",
+    "kanji": "ばね",
+    "meaning": "",
+    "romaji": "bane"
+  },
+  {
+    "id": "1387",
+    "hiragana": "はねる",
+    "kanji": "跳ねる",
+    "meaning": "",
+    "romaji": "haneru"
+  },
+  {
+    "id": "1388",
+    "hiragana": "はへん",
+    "kanji": "破片",
+    "meaning": "",
+    "romaji": "hahen"
+  },
+  {
+    "id": "1389",
+    "hiragana": "はみがき",
+    "kanji": "歯磨き",
+    "meaning": "",
+    "romaji": "hamigaki"
+  },
+  {
+    "id": "1390",
+    "hiragana": "はめる",
+    "kanji": "はめる",
+    "meaning": "",
+    "romaji": "hameru"
+  },
+  {
+    "id": "1391",
+    "hiragana": "はやくち",
+    "kanji": "早口",
+    "meaning": "",
+    "romaji": "hayakuchi"
+  },
+  {
+    "id": "1392",
+    "hiragana": "はやる",
+    "kanji": "流行る",
+    "meaning": "",
+    "romaji": "hayaru"
+  },
+  {
+    "id": "1393",
+    "hiragana": "はらいこむ",
+    "kanji": "払い込む",
+    "meaning": "",
+    "romaji": "haraikomu"
+  },
+  {
+    "id": "1394",
+    "hiragana": "はらいもどす",
+    "kanji": "払い戻す",
+    "meaning": "",
+    "romaji": "haraimodosu"
+  },
+  {
+    "id": "1395",
+    "hiragana": "バランス",
+    "kanji": "バランス",
+    "meaning": "",
+    "romaji": "baransu"
+  },
+  {
+    "id": "1396",
+    "hiragana": "はりがね",
+    "kanji": "針金",
+    "meaning": "",
+    "romaji": "harigane"
+  },
+  {
+    "id": "1397",
+    "hiragana": "はりきる",
+    "kanji": "張り切る",
+    "meaning": "",
+    "romaji": "harikiru"
+  },
+  {
+    "id": "1398",
+    "hiragana": "はんえい",
+    "kanji": "反映",
+    "meaning": "",
+    "romaji": "han'ei"
+  },
+  {
+    "id": "1399",
+    "hiragana": "はんけい",
+    "kanji": "半径",
+    "meaning": "",
+    "romaji": "hankei"
+  },
+  {
+    "id": "1400",
+    "hiragana": "はんこ",
+    "kanji": "判子",
+    "meaning": "",
+    "romaji": "hanko"
+  }
+]

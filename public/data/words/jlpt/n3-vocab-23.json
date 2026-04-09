@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1101",
+    "hiragana": "だめ",
+    "kanji": "駄目",
+    "meaning": "",
+    "romaji": "dame"
+  },
+  {
+    "id": "1102",
+    "hiragana": "ためし",
+    "kanji": "試し",
+    "meaning": "",
+    "romaji": "tameshi"
+  },
+  {
+    "id": "1103",
+    "hiragana": "ためす",
+    "kanji": "試す",
+    "meaning": "",
+    "romaji": "tamesu"
+  },
+  {
+    "id": "1104",
+    "hiragana": "たより",
+    "kanji": "便り",
+    "meaning": "",
+    "romaji": "tayori"
+  },
+  {
+    "id": "1105",
+    "hiragana": "たよる",
+    "kanji": "頼る",
+    "meaning": "",
+    "romaji": "tayoru"
+  },
+  {
+    "id": "1106",
+    "hiragana": "だれか",
+    "kanji": "誰か",
+    "meaning": "",
+    "romaji": "dareka"
+  },
+  {
+    "id": "1107",
+    "hiragana": "だん",
+    "kanji": "段",
+    "meaning": "",
+    "romaji": "dan"
+  },
+  {
+    "id": "1108",
+    "hiragana": "たんい",
+    "kanji": "単位",
+    "meaning": "",
+    "romaji": "tan'i"
+  },
+  {
+    "id": "1109",
+    "hiragana": "たんご",
+    "kanji": "単語",
+    "meaning": "",
+    "romaji": "tango"
+  },
+  {
+    "id": "1110",
+    "hiragana": "だんし",
+    "kanji": "男子",
+    "meaning": "",
+    "romaji": "danshi"
+  },
+  {
+    "id": "1111",
+    "hiragana": "たんじゅん",
+    "kanji": "単純",
+    "meaning": "",
+    "romaji": "tanjun"
+  },
+  {
+    "id": "1112",
+    "hiragana": "たんじょう",
+    "kanji": "誕生",
+    "meaning": "",
+    "romaji": "tanjou"
+  },
+  {
+    "id": "1113",
+    "hiragana": "ダンス",
+    "kanji": "ダンス",
+    "meaning": "",
+    "romaji": "dansu"
+  },
+  {
+    "id": "1114",
+    "hiragana": "だんたい",
+    "kanji": "団体",
+    "meaning": "",
+    "romaji": "dantai"
+  },
+  {
+    "id": "1115",
+    "hiragana": "たんとう",
+    "kanji": "担当",
+    "meaning": "",
+    "romaji": "tantou"
+  },
+  {
+    "id": "1116",
+    "hiragana": "たんなる",
+    "kanji": "単なる",
+    "meaning": "",
+    "romaji": "tannaru"
+  },
+  {
+    "id": "1117",
+    "hiragana": "たんに",
+    "kanji": "単に",
+    "meaning": "",
+    "romaji": "tanni"
+  },
+  {
+    "id": "1118",
+    "hiragana": "ち",
+    "kanji": "地",
+    "meaning": "",
+    "romaji": "chi"
+  },
+  {
+    "id": "1119",
+    "hiragana": "ちい",
+    "kanji": "地位",
+    "meaning": "",
+    "romaji": "chii"
+  },
+  {
+    "id": "1120",
+    "hiragana": "ちいき",
+    "kanji": "地域",
+    "meaning": "",
+    "romaji": "chiiki"
+  },
+  {
+    "id": "1121",
+    "hiragana": "チーズ",
+    "kanji": "チーズ",
+    "meaning": "",
+    "romaji": "chiizu"
+  },
+  {
+    "id": "1122",
+    "hiragana": "チーム",
+    "kanji": "チーム",
+    "meaning": "",
+    "romaji": "chiimu"
+  },
+  {
+    "id": "1123",
+    "hiragana": "ちえ",
+    "kanji": "知恵",
+    "meaning": "",
+    "romaji": "chie"
+  },
+  {
+    "id": "1124",
+    "hiragana": "ちか",
+    "kanji": "地下",
+    "meaning": "",
+    "romaji": "chika"
+  },
+  {
+    "id": "1125",
+    "hiragana": "ちがい",
+    "kanji": "違い",
+    "meaning": "",
+    "romaji": "chigai"
+  },
+  {
+    "id": "1126",
+    "hiragana": "ちがいない",
+    "kanji": "違いない",
+    "meaning": "",
+    "romaji": "chigainai"
+  },
+  {
+    "id": "1127",
+    "hiragana": "ちかごろ",
+    "kanji": "近頃",
+    "meaning": "",
+    "romaji": "chikagoro"
+  },
+  {
+    "id": "1128",
+    "hiragana": "ちきゅう",
+    "kanji": "地球",
+    "meaning": "",
+    "romaji": "chikyuu"
+  },
+  {
+    "id": "1129",
+    "hiragana": "ちく",
+    "kanji": "地区",
+    "meaning": "",
+    "romaji": "chiku"
+  },
+  {
+    "id": "1130",
+    "hiragana": "ちこく",
+    "kanji": "遅刻",
+    "meaning": "",
+    "romaji": "chikoku"
+  },
+  {
+    "id": "1131",
+    "hiragana": "ちじ",
+    "kanji": "知事",
+    "meaning": "",
+    "romaji": "chiji"
+  },
+  {
+    "id": "1132",
+    "hiragana": "ちしき",
+    "kanji": "知識",
+    "meaning": "",
+    "romaji": "chishiki"
+  },
+  {
+    "id": "1133",
+    "hiragana": "ちちおや",
+    "kanji": "父親",
+    "meaning": "",
+    "romaji": "chichioya"
+  },
+  {
+    "id": "1134",
+    "hiragana": "ちのう",
+    "kanji": "知能",
+    "meaning": "",
+    "romaji": "chinou"
+  },
+  {
+    "id": "1135",
+    "hiragana": "ちへいせん",
+    "kanji": "地平線",
+    "meaning": "",
+    "romaji": "chiheisen"
+  },
+  {
+    "id": "1136",
+    "hiragana": "ちほう",
+    "kanji": "地方",
+    "meaning": "",
+    "romaji": "chihou"
+  },
+  {
+    "id": "1137",
+    "hiragana": "ちゃ",
+    "kanji": "茶",
+    "meaning": "",
+    "romaji": "cha"
+  },
+  {
+    "id": "1138",
+    "hiragana": "チャンス",
+    "kanji": "チャンス",
+    "meaning": "",
+    "romaji": "chansu"
+  },
+  {
+    "id": "1139",
+    "hiragana": "ちゃんと",
+    "kanji": "ちゃんと",
+    "meaning": "",
+    "romaji": "chanto"
+  },
+  {
+    "id": "1140",
+    "hiragana": "ちゅう",
+    "kanji": "中",
+    "meaning": "",
+    "romaji": "chuu"
+  },
+  {
+    "id": "1141",
+    "hiragana": "ちゅう",
+    "kanji": "注",
+    "meaning": "",
+    "romaji": "chuu"
+  },
+  {
+    "id": "1142",
+    "hiragana": "ちゅうおう",
+    "kanji": "中央",
+    "meaning": "",
+    "romaji": "chuuou"
+  },
+  {
+    "id": "1143",
+    "hiragana": "ちゅうがく",
+    "kanji": "中学",
+    "meaning": "",
+    "romaji": "chuugaku"
+  },
+  {
+    "id": "1144",
+    "hiragana": "ちゅうこ",
+    "kanji": "中古",
+    "meaning": "",
+    "romaji": "chuuko"
+  },
+  {
+    "id": "1145",
+    "hiragana": "ちゅうし",
+    "kanji": "中止",
+    "meaning": "",
+    "romaji": "chuushi"
+  },
+  {
+    "id": "1146",
+    "hiragana": "ちゅうしゃ",
+    "kanji": "駐車",
+    "meaning": "",
+    "romaji": "chuusha"
+  },
+  {
+    "id": "1147",
+    "hiragana": "ちゅうしょく",
+    "kanji": "昼食",
+    "meaning": "",
+    "romaji": "chuushoku"
+  },
+  {
+    "id": "1148",
+    "hiragana": "ちゅうしん",
+    "kanji": "中心",
+    "meaning": "",
+    "romaji": "chuushin"
+  },
+  {
+    "id": "1149",
+    "hiragana": "ちゅうもく",
+    "kanji": "注目",
+    "meaning": "",
+    "romaji": "chuumoku"
+  },
+  {
+    "id": "1150",
+    "hiragana": "ちゅうもん",
+    "kanji": "注文",
+    "meaning": "",
+    "romaji": "chuumon"
+  }
+]

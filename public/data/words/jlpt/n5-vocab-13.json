@@ -1,0 +1,352 @@
+[
+  {
+    "id": "601",
+    "hiragana": "また",
+    "kanji": "また",
+    "meaning": "",
+    "romaji": "mata"
+  },
+  {
+    "id": "602",
+    "hiragana": "まだ",
+    "kanji": "まだ",
+    "meaning": "",
+    "romaji": "mada"
+  },
+  {
+    "id": "603",
+    "hiragana": "まち",
+    "kanji": "町",
+    "meaning": "",
+    "romaji": "machi"
+  },
+  {
+    "id": "604",
+    "hiragana": "まつ",
+    "kanji": "待つ",
+    "meaning": "",
+    "romaji": "matsu"
+  },
+  {
+    "id": "605",
+    "hiragana": "まっすぐ",
+    "kanji": "まっすぐ",
+    "meaning": "",
+    "romaji": "massugu"
+  },
+  {
+    "id": "606",
+    "hiragana": "マッチ",
+    "kanji": "マッチ",
+    "meaning": "",
+    "romaji": "matchi"
+  },
+  {
+    "id": "607",
+    "hiragana": "まど",
+    "kanji": "窓",
+    "meaning": "",
+    "romaji": "mado"
+  },
+  {
+    "id": "608",
+    "hiragana": "まるい",
+    "kanji": "丸い",
+    "meaning": "",
+    "romaji": "marui"
+  },
+  {
+    "id": "609",
+    "hiragana": "まるい",
+    "kanji": "円い",
+    "meaning": "",
+    "romaji": "marui"
+  },
+  {
+    "id": "610",
+    "hiragana": "まん",
+    "kanji": "万",
+    "meaning": "",
+    "romaji": "man"
+  },
+  {
+    "id": "611",
+    "hiragana": "まんねんひつ",
+    "kanji": "万年筆",
+    "meaning": "",
+    "romaji": "mannenhitsu"
+  },
+  {
+    "id": "612",
+    "hiragana": "みがく",
+    "kanji": "磨く",
+    "meaning": "",
+    "romaji": "migaku"
+  },
+  {
+    "id": "613",
+    "hiragana": "みぎ",
+    "kanji": "右",
+    "meaning": "",
+    "romaji": "migi"
+  },
+  {
+    "id": "614",
+    "hiragana": "みじかい",
+    "kanji": "短い",
+    "meaning": "",
+    "romaji": "mijikai"
+  },
+  {
+    "id": "615",
+    "hiragana": "みず",
+    "kanji": "水",
+    "meaning": "",
+    "romaji": "mizu"
+  },
+  {
+    "id": "616",
+    "hiragana": "みせ",
+    "kanji": "店",
+    "meaning": "",
+    "romaji": "mise"
+  },
+  {
+    "id": "617",
+    "hiragana": "みせる",
+    "kanji": "見せる",
+    "meaning": "",
+    "romaji": "miseru"
+  },
+  {
+    "id": "618",
+    "hiragana": "みち",
+    "kanji": "道",
+    "meaning": "",
+    "romaji": "michi"
+  },
+  {
+    "id": "619",
+    "hiragana": "みっか",
+    "kanji": "三日",
+    "meaning": "",
+    "romaji": "mikka"
+  },
+  {
+    "id": "620",
+    "hiragana": "みっつ",
+    "kanji": "三つ",
+    "meaning": "",
+    "romaji": "mittsu"
+  },
+  {
+    "id": "621",
+    "hiragana": "みどり",
+    "kanji": "緑",
+    "meaning": "",
+    "romaji": "midori"
+  },
+  {
+    "id": "622",
+    "hiragana": "みなさん",
+    "kanji": "皆さん",
+    "meaning": "",
+    "romaji": "minasan"
+  },
+  {
+    "id": "623",
+    "hiragana": "みなみ",
+    "kanji": "南",
+    "meaning": "",
+    "romaji": "minami"
+  },
+  {
+    "id": "624",
+    "hiragana": "みみ",
+    "kanji": "耳",
+    "meaning": "",
+    "romaji": "mimi"
+  },
+  {
+    "id": "625",
+    "hiragana": "みる",
+    "kanji": "見る 観る",
+    "meaning": "",
+    "romaji": "miru"
+  },
+  {
+    "id": "626",
+    "hiragana": "みんな",
+    "kanji": "みんな",
+    "meaning": "",
+    "romaji": "minna"
+  },
+  {
+    "id": "627",
+    "hiragana": "むいか",
+    "kanji": "六日",
+    "meaning": "",
+    "romaji": "muika"
+  },
+  {
+    "id": "628",
+    "hiragana": "むこう",
+    "kanji": "向こう",
+    "meaning": "",
+    "romaji": "mukou"
+  },
+  {
+    "id": "629",
+    "hiragana": "むずかしい",
+    "kanji": "難しい",
+    "meaning": "",
+    "romaji": "muzukashii"
+  },
+  {
+    "id": "630",
+    "hiragana": "むっつ",
+    "kanji": "六つ",
+    "meaning": "",
+    "romaji": "muttsu"
+  },
+  {
+    "id": "631",
+    "hiragana": "むら",
+    "kanji": "村",
+    "meaning": "",
+    "romaji": "mura"
+  },
+  {
+    "id": "632",
+    "hiragana": "め",
+    "kanji": "目",
+    "meaning": "",
+    "romaji": "me"
+  },
+  {
+    "id": "633",
+    "hiragana": "メートル",
+    "kanji": "メートル",
+    "meaning": "",
+    "romaji": "meetoru"
+  },
+  {
+    "id": "634",
+    "hiragana": "めがね",
+    "kanji": "眼鏡",
+    "meaning": "",
+    "romaji": "megane"
+  },
+  {
+    "id": "635",
+    "hiragana": "もう",
+    "kanji": "もう",
+    "meaning": "",
+    "romaji": "mou"
+  },
+  {
+    "id": "636",
+    "hiragana": "もういちど",
+    "kanji": "もう一度",
+    "meaning": "",
+    "romaji": "mouichido"
+  },
+  {
+    "id": "637",
+    "hiragana": "もくようび",
+    "kanji": "木曜日",
+    "meaning": "",
+    "romaji": "mokuyoubi"
+  },
+  {
+    "id": "638",
+    "hiragana": "もつ",
+    "kanji": "持つ",
+    "meaning": "",
+    "romaji": "motsu"
+  },
+  {
+    "id": "639",
+    "hiragana": "もっと",
+    "kanji": "もっと",
+    "meaning": "",
+    "romaji": "motto"
+  },
+  {
+    "id": "640",
+    "hiragana": "もの",
+    "kanji": "物",
+    "meaning": "",
+    "romaji": "mono"
+  },
+  {
+    "id": "641",
+    "hiragana": "もん",
+    "kanji": "門",
+    "meaning": "",
+    "romaji": "mon"
+  },
+  {
+    "id": "642",
+    "hiragana": "もんだい",
+    "kanji": "問題",
+    "meaning": "",
+    "romaji": "mondai"
+  },
+  {
+    "id": "643",
+    "hiragana": "やおや",
+    "kanji": "八百屋",
+    "meaning": "",
+    "romaji": "yaoya"
+  },
+  {
+    "id": "644",
+    "hiragana": "やさい",
+    "kanji": "野菜",
+    "meaning": "",
+    "romaji": "yasai"
+  },
+  {
+    "id": "645",
+    "hiragana": "やさしい",
+    "kanji": "易しい",
+    "meaning": "",
+    "romaji": "yasashii"
+  },
+  {
+    "id": "646",
+    "hiragana": "やすい",
+    "kanji": "安い",
+    "meaning": "",
+    "romaji": "yasui"
+  },
+  {
+    "id": "647",
+    "hiragana": "やすみ",
+    "kanji": "休み",
+    "meaning": "",
+    "romaji": "yasumi"
+  },
+  {
+    "id": "648",
+    "hiragana": "やすむ",
+    "kanji": "休む",
+    "meaning": "",
+    "romaji": "yasumu"
+  },
+  {
+    "id": "649",
+    "hiragana": "やっつ",
+    "kanji": "八つ",
+    "meaning": "",
+    "romaji": "yattsu"
+  },
+  {
+    "id": "650",
+    "hiragana": "やま",
+    "kanji": "山",
+    "meaning": "",
+    "romaji": "yama"
+  }
+]

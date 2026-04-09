@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "hiragana": "あう",
+    "kanji": "会う",
+    "meaning": "",
+    "romaji": "au"
+  },
+  {
+    "id": "2",
+    "hiragana": "あお",
+    "kanji": "青",
+    "meaning": "",
+    "romaji": "ao"
+  },
+  {
+    "id": "3",
+    "hiragana": "あおい",
+    "kanji": "青い",
+    "meaning": "",
+    "romaji": "aoi"
+  },
+  {
+    "id": "4",
+    "hiragana": "あか",
+    "kanji": "赤",
+    "meaning": "",
+    "romaji": "aka"
+  },
+  {
+    "id": "5",
+    "hiragana": "あかい",
+    "kanji": "赤い",
+    "meaning": "",
+    "romaji": "akai"
+  },
+  {
+    "id": "6",
+    "hiragana": "あかるい",
+    "kanji": "明い",
+    "meaning": "",
+    "romaji": "akarui"
+  },
+  {
+    "id": "7",
+    "hiragana": "あき",
+    "kanji": "秋",
+    "meaning": "",
+    "romaji": "aki"
+  },
+  {
+    "id": "8",
+    "hiragana": "あく",
+    "kanji": "開く",
+    "meaning": "",
+    "romaji": "aku"
+  },
+  {
+    "id": "9",
+    "hiragana": "あける",
+    "kanji": "開ける",
+    "meaning": "",
+    "romaji": "akeru"
+  },
+  {
+    "id": "10",
+    "hiragana": "あげる",
+    "kanji": "上げる",
+    "meaning": "",
+    "romaji": "ageru"
+  },
+  {
+    "id": "11",
+    "hiragana": "あさ",
+    "kanji": "朝",
+    "meaning": "",
+    "romaji": "asa"
+  },
+  {
+    "id": "12",
+    "hiragana": "あさごはん",
+    "kanji": "朝御飯",
+    "meaning": "",
+    "romaji": "asagohan"
+  },
+  {
+    "id": "13",
+    "hiragana": "あさって",
+    "kanji": "あさって",
+    "meaning": "",
+    "romaji": "asatte"
+  },
+  {
+    "id": "14",
+    "hiragana": "あし",
+    "kanji": "足",
+    "meaning": "",
+    "romaji": "ashi"
+  },
+  {
+    "id": "15",
+    "hiragana": "あした",
+    "kanji": "明日",
+    "meaning": "",
+    "romaji": "ashita"
+  },
+  {
+    "id": "16",
+    "hiragana": "あそこ",
+    "kanji": "あそこ",
+    "meaning": "",
+    "romaji": "asoko"
+  },
+  {
+    "id": "17",
+    "hiragana": "あそぶ",
+    "kanji": "遊ぶ",
+    "meaning": "",
+    "romaji": "asobu"
+  },
+  {
+    "id": "18",
+    "hiragana": "あたたかい",
+    "kanji": "暖かい",
+    "meaning": "",
+    "romaji": "atatakai"
+  },
+  {
+    "id": "19",
+    "hiragana": "あたま",
+    "kanji": "頭",
+    "meaning": "",
+    "romaji": "atama"
+  },
+  {
+    "id": "20",
+    "hiragana": "あたらしい",
+    "kanji": "新しい",
+    "meaning": "",
+    "romaji": "atarashii"
+  },
+  {
+    "id": "21",
+    "hiragana": "あちら",
+    "kanji": "あちら",
+    "meaning": "",
+    "romaji": "achira"
+  },
+  {
+    "id": "22",
+    "hiragana": "あつい",
+    "kanji": "暑い",
+    "meaning": "",
+    "romaji": "atsui"
+  },
+  {
+    "id": "23",
+    "hiragana": "あつい",
+    "kanji": "熱い",
+    "meaning": "",
+    "romaji": "atsui"
+  },
+  {
+    "id": "24",
+    "hiragana": "あつい",
+    "kanji": "厚い",
+    "meaning": "",
+    "romaji": "atsui"
+  },
+  {
+    "id": "25",
+    "hiragana": "あっち",
+    "kanji": "あっち",
+    "meaning": "",
+    "romaji": "atchi"
+  },
+  {
+    "id": "26",
+    "hiragana": "あと",
+    "kanji": "後",
+    "meaning": "",
+    "romaji": "ato"
+  },
+  {
+    "id": "27",
+    "hiragana": "あなた",
+    "kanji": "あなた",
+    "meaning": "",
+    "romaji": "anata"
+  },
+  {
+    "id": "28",
+    "hiragana": "あに",
+    "kanji": "兄",
+    "meaning": "",
+    "romaji": "ani"
+  },
+  {
+    "id": "29",
+    "hiragana": "あね",
+    "kanji": "姉",
+    "meaning": "",
+    "romaji": "ane"
+  },
+  {
+    "id": "30",
+    "hiragana": "あの",
+    "kanji": "あの",
+    "meaning": "",
+    "romaji": "ano"
+  },
+  {
+    "id": "31",
+    "hiragana": "あの",
+    "kanji": "あの",
+    "meaning": "",
+    "romaji": "ano"
+  },
+  {
+    "id": "32",
+    "hiragana": "アパート",
+    "kanji": "アパート",
+    "meaning": "",
+    "romaji": "apaato"
+  },
+  {
+    "id": "33",
+    "hiragana": "あびる",
+    "kanji": "あびる",
+    "meaning": "",
+    "romaji": "abiru"
+  },
+  {
+    "id": "34",
+    "hiragana": "あぶない",
+    "kanji": "危ない",
+    "meaning": "",
+    "romaji": "abunai"
+  },
+  {
+    "id": "35",
+    "hiragana": "あまい",
+    "kanji": "甘い",
+    "meaning": "",
+    "romaji": "amai"
+  },
+  {
+    "id": "36",
+    "hiragana": "あまり",
+    "kanji": "あまり",
+    "meaning": "",
+    "romaji": "amari"
+  },
+  {
+    "id": "37",
+    "hiragana": "あめ",
+    "kanji": "雨",
+    "meaning": "",
+    "romaji": "ame"
+  },
+  {
+    "id": "38",
+    "hiragana": "あめ",
+    "kanji": "飴",
+    "meaning": "",
+    "romaji": "ame"
+  },
+  {
+    "id": "39",
+    "hiragana": "あらう",
+    "kanji": "洗う",
+    "meaning": "",
+    "romaji": "arau"
+  },
+  {
+    "id": "40",
+    "hiragana": "ある",
+    "kanji": "ある",
+    "meaning": "",
+    "romaji": "aru"
+  },
+  {
+    "id": "41",
+    "hiragana": "あるく",
+    "kanji": "歩く",
+    "meaning": "",
+    "romaji": "aruku"
+  },
+  {
+    "id": "42",
+    "hiragana": "あれ",
+    "kanji": "あれ",
+    "meaning": "",
+    "romaji": "are"
+  },
+  {
+    "id": "43",
+    "hiragana": "いい",
+    "kanji": "いい",
+    "meaning": "",
+    "romaji": "ii"
+  },
+  {
+    "id": "44",
+    "hiragana": "よい",
+    "kanji": "いい",
+    "meaning": "",
+    "romaji": "yoi"
+  },
+  {
+    "id": "45",
+    "hiragana": "いい",
+    "kanji": "よい",
+    "meaning": "",
+    "romaji": "ii"
+  },
+  {
+    "id": "46",
+    "hiragana": "よい",
+    "kanji": "よい",
+    "meaning": "",
+    "romaji": "yoi"
+  },
+  {
+    "id": "47",
+    "hiragana": "いいえ",
+    "kanji": "いいえ",
+    "meaning": "",
+    "romaji": "iie"
+  },
+  {
+    "id": "48",
+    "hiragana": "いう",
+    "kanji": "言う",
+    "meaning": "",
+    "romaji": "iu"
+  },
+  {
+    "id": "49",
+    "hiragana": "いえ",
+    "kanji": "家",
+    "meaning": "",
+    "romaji": "ie"
+  },
+  {
+    "id": "50",
+    "hiragana": "いかが",
+    "kanji": "いかが",
+    "meaning": "",
+    "romaji": "ikaga"
+  }
+]

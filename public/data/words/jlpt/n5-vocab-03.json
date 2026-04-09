@@ -1,0 +1,352 @@
+[
+  {
+    "id": "101",
+    "hiragana": "おかあさん",
+    "kanji": "お母さん",
+    "meaning": "",
+    "romaji": "okaasan"
+  },
+  {
+    "id": "102",
+    "hiragana": "おかし",
+    "kanji": "お菓子",
+    "meaning": "",
+    "romaji": "okashi"
+  },
+  {
+    "id": "103",
+    "hiragana": "おかね",
+    "kanji": "お金",
+    "meaning": "",
+    "romaji": "okane"
+  },
+  {
+    "id": "104",
+    "hiragana": "おきる",
+    "kanji": "起きる",
+    "meaning": "",
+    "romaji": "okiru"
+  },
+  {
+    "id": "105",
+    "hiragana": "おく",
+    "kanji": "置く",
+    "meaning": "",
+    "romaji": "oku"
+  },
+  {
+    "id": "106",
+    "hiragana": "おくさん",
+    "kanji": "奥さん",
+    "meaning": "",
+    "romaji": "okusan"
+  },
+  {
+    "id": "107",
+    "hiragana": "おさけ",
+    "kanji": "お酒",
+    "meaning": "",
+    "romaji": "osake"
+  },
+  {
+    "id": "108",
+    "hiragana": "おさら",
+    "kanji": "お皿",
+    "meaning": "",
+    "romaji": "osara"
+  },
+  {
+    "id": "109",
+    "hiragana": "おじいさん",
+    "kanji": "伯父",
+    "meaning": "",
+    "romaji": "ojiisan"
+  },
+  {
+    "id": "110",
+    "hiragana": "おじいさん",
+    "kanji": "叔父",
+    "meaning": "",
+    "romaji": "ojiisan"
+  },
+  {
+    "id": "111",
+    "hiragana": "おしえる",
+    "kanji": "教える",
+    "meaning": "",
+    "romaji": "oshieru"
+  },
+  {
+    "id": "112",
+    "hiragana": "おじさん",
+    "kanji": "伯父",
+    "meaning": "",
+    "romaji": "ojisan"
+  },
+  {
+    "id": "113",
+    "hiragana": "おじさん",
+    "kanji": "叔父",
+    "meaning": "",
+    "romaji": "ojisan"
+  },
+  {
+    "id": "114",
+    "hiragana": "おす",
+    "kanji": "押す",
+    "meaning": "",
+    "romaji": "osu"
+  },
+  {
+    "id": "115",
+    "hiragana": "おそい",
+    "kanji": "遅い",
+    "meaning": "",
+    "romaji": "osoi"
+  },
+  {
+    "id": "116",
+    "hiragana": "おちゃ",
+    "kanji": "お茶",
+    "meaning": "",
+    "romaji": "ocha"
+  },
+  {
+    "id": "117",
+    "hiragana": "おてあらい",
+    "kanji": "お手洗い",
+    "meaning": "",
+    "romaji": "otearai"
+  },
+  {
+    "id": "118",
+    "hiragana": "おとうさん",
+    "kanji": "お父さん",
+    "meaning": "",
+    "romaji": "otousan"
+  },
+  {
+    "id": "119",
+    "hiragana": "おとうと",
+    "kanji": "弟",
+    "meaning": "",
+    "romaji": "otouto"
+  },
+  {
+    "id": "120",
+    "hiragana": "おとこ",
+    "kanji": "男",
+    "meaning": "",
+    "romaji": "otoko"
+  },
+  {
+    "id": "121",
+    "hiragana": "おとこのこ",
+    "kanji": "男の子",
+    "meaning": "",
+    "romaji": "otokonoko"
+  },
+  {
+    "id": "122",
+    "hiragana": "おととい",
+    "kanji": "一昨日",
+    "meaning": "",
+    "romaji": "ototoi"
+  },
+  {
+    "id": "123",
+    "hiragana": "おととし",
+    "kanji": "一昨年",
+    "meaning": "",
+    "romaji": "ototoshi"
+  },
+  {
+    "id": "124",
+    "hiragana": "おとな",
+    "kanji": "大人",
+    "meaning": "",
+    "romaji": "otona"
+  },
+  {
+    "id": "125",
+    "hiragana": "おなか",
+    "kanji": "おなか",
+    "meaning": "",
+    "romaji": "onaka"
+  },
+  {
+    "id": "126",
+    "hiragana": "おなじ",
+    "kanji": "同じ",
+    "meaning": "",
+    "romaji": "onaji"
+  },
+  {
+    "id": "127",
+    "hiragana": "おにいさん",
+    "kanji": "お兄さん",
+    "meaning": "",
+    "romaji": "oniisan"
+  },
+  {
+    "id": "128",
+    "hiragana": "おねえさん",
+    "kanji": "お姉さん",
+    "meaning": "",
+    "romaji": "oneesan"
+  },
+  {
+    "id": "129",
+    "hiragana": "おばあさん",
+    "kanji": "おばあさん",
+    "meaning": "",
+    "romaji": "obaasan"
+  },
+  {
+    "id": "130",
+    "hiragana": "おばさん",
+    "kanji": "伯母さん",
+    "meaning": "",
+    "romaji": "obasan"
+  },
+  {
+    "id": "131",
+    "hiragana": "おばさん",
+    "kanji": "叔母さん",
+    "meaning": "",
+    "romaji": "obasan"
+  },
+  {
+    "id": "132",
+    "hiragana": "おふろ",
+    "kanji": "お風呂",
+    "meaning": "",
+    "romaji": "ofuro"
+  },
+  {
+    "id": "133",
+    "hiragana": "おべんとう",
+    "kanji": "お弁当",
+    "meaning": "",
+    "romaji": "obentou"
+  },
+  {
+    "id": "134",
+    "hiragana": "おぼえる",
+    "kanji": "覚える",
+    "meaning": "",
+    "romaji": "oboeru"
+  },
+  {
+    "id": "135",
+    "hiragana": "おまわりさん",
+    "kanji": "おまわりさん",
+    "meaning": "",
+    "romaji": "omawarisan"
+  },
+  {
+    "id": "136",
+    "hiragana": "おもい",
+    "kanji": "重い",
+    "meaning": "",
+    "romaji": "omoi"
+  },
+  {
+    "id": "137",
+    "hiragana": "おもしろい",
+    "kanji": "おもしろい",
+    "meaning": "",
+    "romaji": "omoshiroi"
+  },
+  {
+    "id": "138",
+    "hiragana": "およぐ",
+    "kanji": "泳ぐ",
+    "meaning": "",
+    "romaji": "oyogu"
+  },
+  {
+    "id": "139",
+    "hiragana": "おりる",
+    "kanji": "降りる",
+    "meaning": "",
+    "romaji": "oriru"
+  },
+  {
+    "id": "140",
+    "hiragana": "おわる",
+    "kanji": "終る",
+    "meaning": "",
+    "romaji": "owaru"
+  },
+  {
+    "id": "141",
+    "hiragana": "おんがく",
+    "kanji": "音楽",
+    "meaning": "",
+    "romaji": "ongaku"
+  },
+  {
+    "id": "142",
+    "hiragana": "おんな",
+    "kanji": "女",
+    "meaning": "",
+    "romaji": "onna"
+  },
+  {
+    "id": "143",
+    "hiragana": "おんなのこ",
+    "kanji": "女の子",
+    "meaning": "",
+    "romaji": "onnanoko"
+  },
+  {
+    "id": "144",
+    "hiragana": "がいこく",
+    "kanji": "外国",
+    "meaning": "",
+    "romaji": "gaikoku"
+  },
+  {
+    "id": "145",
+    "hiragana": "がいこくじん",
+    "kanji": "外国人",
+    "meaning": "",
+    "romaji": "gaikokujin"
+  },
+  {
+    "id": "146",
+    "hiragana": "かいしゃ",
+    "kanji": "会社",
+    "meaning": "",
+    "romaji": "kaisha"
+  },
+  {
+    "id": "147",
+    "hiragana": "かいだん",
+    "kanji": "階段",
+    "meaning": "",
+    "romaji": "kaidan"
+  },
+  {
+    "id": "148",
+    "hiragana": "かいもの",
+    "kanji": "買い物",
+    "meaning": "",
+    "romaji": "kaimono"
+  },
+  {
+    "id": "149",
+    "hiragana": "かう",
+    "kanji": "買う",
+    "meaning": "",
+    "romaji": "kau"
+  },
+  {
+    "id": "150",
+    "hiragana": "かえす",
+    "kanji": "返す",
+    "meaning": "",
+    "romaji": "kaesu"
+  }
+]

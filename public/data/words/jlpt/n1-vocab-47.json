@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2301",
+    "hiragana": "どうよう",
+    "kanji": "動揺",
+    "meaning": "",
+    "romaji": "douyou"
+  },
+  {
+    "id": "2302",
+    "hiragana": "どうりょく",
+    "kanji": "動力",
+    "meaning": "",
+    "romaji": "douryoku"
+  },
+  {
+    "id": "2303",
+    "hiragana": "どくさい",
+    "kanji": "独裁",
+    "meaning": "",
+    "romaji": "dokusai"
+  },
+  {
+    "id": "2304",
+    "hiragana": "どくしゃ",
+    "kanji": "読者",
+    "meaning": "",
+    "romaji": "dokusha"
+  },
+  {
+    "id": "2305",
+    "hiragana": "どくじ",
+    "kanji": "独自",
+    "meaning": "",
+    "romaji": "dokuji"
+  },
+  {
+    "id": "2306",
+    "hiragana": "どくせん",
+    "kanji": "独占",
+    "meaning": "",
+    "romaji": "dokusen"
+  },
+  {
+    "id": "2307",
+    "hiragana": "どくそう",
+    "kanji": "独創",
+    "meaning": "",
+    "romaji": "dokusou"
+  },
+  {
+    "id": "2308",
+    "hiragana": "どこ",
+    "kanji": "何処",
+    "meaning": "",
+    "romaji": "doko"
+  },
+  {
+    "id": "2309",
+    "hiragana": "どこか",
+    "kanji": "何処か",
+    "meaning": "",
+    "romaji": "dokoka"
+  },
+  {
+    "id": "2310",
+    "hiragana": "どさん",
+    "kanji": "土産",
+    "meaning": "",
+    "romaji": "dosan"
+  },
+  {
+    "id": "2311",
+    "hiragana": "どだい",
+    "kanji": "土台",
+    "meaning": "",
+    "romaji": "dodai"
+  },
+  {
+    "id": "2312",
+    "hiragana": "どちら",
+    "kanji": "何方",
+    "meaning": "",
+    "romaji": "dochira"
+  },
+  {
+    "id": "2313",
+    "hiragana": "どて",
+    "kanji": "土手",
+    "meaning": "",
+    "romaji": "dote"
+  },
+  {
+    "id": "2314",
+    "hiragana": "どなた",
+    "kanji": "何方",
+    "meaning": "",
+    "romaji": "donata"
+  },
+  {
+    "id": "2315",
+    "hiragana": "どなる",
+    "kanji": "怒鳴る",
+    "meaning": "",
+    "romaji": "donaru"
+  },
+  {
+    "id": "2316",
+    "hiragana": "どの",
+    "kanji": "何の",
+    "meaning": "",
+    "romaji": "dono"
+  },
+  {
+    "id": "2317",
+    "hiragana": "どひょう",
+    "kanji": "土俵",
+    "meaning": "",
+    "romaji": "dohyou"
+  },
+  {
+    "id": "2318",
+    "hiragana": "どぼく",
+    "kanji": "土木",
+    "meaning": "",
+    "romaji": "doboku"
+  },
+  {
+    "id": "2319",
+    "hiragana": "どれ",
+    "kanji": "何れ",
+    "meaning": "",
+    "romaji": "dore"
+  },
+  {
+    "id": "2320",
+    "hiragana": "どれどれ",
+    "kanji": "何々",
+    "meaning": "",
+    "romaji": "doredore"
+  },
+  {
+    "id": "2321",
+    "hiragana": "どわすれ",
+    "kanji": "度忘れ",
+    "meaning": "",
+    "romaji": "dowasure"
+  },
+  {
+    "id": "2322",
+    "hiragana": "どんかん",
+    "kanji": "鈍感",
+    "meaning": "",
+    "romaji": "donkan"
+  },
+  {
+    "id": "2323",
+    "hiragana": "ないかく",
+    "kanji": "内閣",
+    "meaning": "",
+    "romaji": "naikaku"
+  },
+  {
+    "id": "2324",
+    "hiragana": "ないし",
+    "kanji": "乃至",
+    "meaning": "",
+    "romaji": "naishi"
+  },
+  {
+    "id": "2325",
+    "hiragana": "ないぞう",
+    "kanji": "内臓",
+    "meaning": "",
+    "romaji": "naizou"
+  },
+  {
+    "id": "2326",
+    "hiragana": "ないぶ",
+    "kanji": "内部",
+    "meaning": "",
+    "romaji": "naibu"
+  },
+  {
+    "id": "2327",
+    "hiragana": "ないらん",
+    "kanji": "内乱",
+    "meaning": "",
+    "romaji": "nairan"
+  },
+  {
+    "id": "2328",
+    "hiragana": "ないりく",
+    "kanji": "内陸",
+    "meaning": "",
+    "romaji": "nairiku"
+  },
+  {
+    "id": "2329",
+    "hiragana": "なえ",
+    "kanji": "苗",
+    "meaning": "",
+    "romaji": "nae"
+  },
+  {
+    "id": "2330",
+    "hiragana": "なお",
+    "kanji": "尚",
+    "meaning": "",
+    "romaji": "nao"
+  },
+  {
+    "id": "2331",
+    "hiragana": "なおさら",
+    "kanji": "尚更",
+    "meaning": "",
+    "romaji": "naosara"
+  },
+  {
+    "id": "2332",
+    "hiragana": "なかほど",
+    "kanji": "中程",
+    "meaning": "",
+    "romaji": "nakahodo"
+  },
+  {
+    "id": "2333",
+    "hiragana": "ながし",
+    "kanji": "流し",
+    "meaning": "",
+    "romaji": "nagashi"
+  },
+  {
+    "id": "2334",
+    "hiragana": "ながなが",
+    "kanji": "長々",
+    "meaning": "",
+    "romaji": "naganaga"
+  },
+  {
+    "id": "2335",
+    "hiragana": "なぐる",
+    "kanji": "殴る",
+    "meaning": "",
+    "romaji": "naguru"
+  },
+  {
+    "id": "2336",
+    "hiragana": "なげく",
+    "kanji": "嘆く",
+    "meaning": "",
+    "romaji": "nageku"
+  },
+  {
+    "id": "2337",
+    "hiragana": "なげだす",
+    "kanji": "投げ出す",
+    "meaning": "",
+    "romaji": "nagedasu"
+  },
+  {
+    "id": "2338",
+    "hiragana": "なごやか",
+    "kanji": "和やか",
+    "meaning": "",
+    "romaji": "nagoyaka"
+  },
+  {
+    "id": "2339",
+    "hiragana": "なごり",
+    "kanji": "名残",
+    "meaning": "",
+    "romaji": "nagori"
+  },
+  {
+    "id": "2340",
+    "hiragana": "なさけ",
+    "kanji": "情け",
+    "meaning": "",
+    "romaji": "nasake"
+  },
+  {
+    "id": "2341",
+    "hiragana": "なさけぶかい",
+    "kanji": "情け深い",
+    "meaning": "",
+    "romaji": "nasakebukai"
+  },
+  {
+    "id": "2342",
+    "hiragana": "なさる",
+    "kanji": "為さる",
+    "meaning": "",
+    "romaji": "nasaru"
+  },
+  {
+    "id": "2343",
+    "hiragana": "なじる",
+    "kanji": "詰る",
+    "meaning": "",
+    "romaji": "najiru"
+  },
+  {
+    "id": "2344",
+    "hiragana": "なぜ",
+    "kanji": "何故",
+    "meaning": "",
+    "romaji": "naze"
+  },
+  {
+    "id": "2345",
+    "hiragana": "なぜなら",
+    "kanji": "何故なら",
+    "meaning": "",
+    "romaji": "nazenara"
+  },
+  {
+    "id": "2346",
+    "hiragana": "なだかい",
+    "kanji": "名高い",
+    "meaning": "",
+    "romaji": "nadakai"
+  },
+  {
+    "id": "2347",
+    "hiragana": "なだれ",
+    "kanji": "雪崩",
+    "meaning": "",
+    "romaji": "nadare"
+  },
+  {
+    "id": "2348",
+    "hiragana": "なつく",
+    "kanji": "懐く",
+    "meaning": "",
+    "romaji": "natsuku"
+  },
+  {
+    "id": "2349",
+    "hiragana": "なづける",
+    "kanji": "名付ける",
+    "meaning": "",
+    "romaji": "nazukeru"
+  },
+  {
+    "id": "2350",
+    "hiragana": "なにげない",
+    "kanji": "何気ない",
+    "meaning": "",
+    "romaji": "nanigenai"
+  }
+]

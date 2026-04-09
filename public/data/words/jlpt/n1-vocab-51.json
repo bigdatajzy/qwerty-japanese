@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2501",
+    "hiragana": "はさみ",
+    "kanji": "鋏",
+    "meaning": "",
+    "romaji": "hasami"
+  },
+  {
+    "id": "2502",
+    "hiragana": "はしら",
+    "kanji": "柱",
+    "meaning": "",
+    "romaji": "hashira"
+  },
+  {
+    "id": "2503",
+    "hiragana": "はしわたし",
+    "kanji": "橋渡し",
+    "meaning": "",
+    "romaji": "hashiwatashi"
+  },
+  {
+    "id": "2504",
+    "hiragana": "はじ",
+    "kanji": "恥",
+    "meaning": "",
+    "romaji": "haji"
+  },
+  {
+    "id": "2505",
+    "hiragana": "はじく",
+    "kanji": "弾く",
+    "meaning": "",
+    "romaji": "hajiku"
+  },
+  {
+    "id": "2506",
+    "hiragana": "はじめ",
+    "kanji": "始め",
+    "meaning": "",
+    "romaji": "hajime"
+  },
+  {
+    "id": "2507",
+    "hiragana": "はじめまして",
+    "kanji": "始めまして",
+    "meaning": "",
+    "romaji": "hajimemashite"
+  },
+  {
+    "id": "2508",
+    "hiragana": "はじらう",
+    "kanji": "恥じらう",
+    "meaning": "",
+    "romaji": "hajirau"
+  },
+  {
+    "id": "2509",
+    "hiragana": "はじる",
+    "kanji": "恥じる",
+    "meaning": "",
+    "romaji": "hajiru"
+  },
+  {
+    "id": "2510",
+    "hiragana": "はす",
+    "kanji": "蓮",
+    "meaning": "",
+    "romaji": "hasu"
+  },
+  {
+    "id": "2511",
+    "hiragana": "はず",
+    "kanji": "筈",
+    "meaning": "",
+    "romaji": "hazu"
+  },
+  {
+    "id": "2512",
+    "hiragana": "はずむ",
+    "kanji": "弾む",
+    "meaning": "",
+    "romaji": "hazumu"
+  },
+  {
+    "id": "2513",
+    "hiragana": "はそん",
+    "kanji": "破損",
+    "meaning": "",
+    "romaji": "hason"
+  },
+  {
+    "id": "2514",
+    "hiragana": "はた",
+    "kanji": "機",
+    "meaning": "",
+    "romaji": "hata"
+  },
+  {
+    "id": "2515",
+    "hiragana": "はたして",
+    "kanji": "果たして",
+    "meaning": "",
+    "romaji": "hatashite"
+  },
+  {
+    "id": "2516",
+    "hiragana": "はたす",
+    "kanji": "果たす",
+    "meaning": "",
+    "romaji": "hatasu"
+  },
+  {
+    "id": "2517",
+    "hiragana": "はだし",
+    "kanji": "裸足",
+    "meaning": "",
+    "romaji": "hadashi"
+  },
+  {
+    "id": "2518",
+    "hiragana": "はちみつ",
+    "kanji": "蜂蜜",
+    "meaning": "",
+    "romaji": "hachimitsu"
+  },
+  {
+    "id": "2519",
+    "hiragana": "はっくつ",
+    "kanji": "発掘",
+    "meaning": "",
+    "romaji": "hakkutsu"
+  },
+  {
+    "id": "2520",
+    "hiragana": "はっせい",
+    "kanji": "発生",
+    "meaning": "",
+    "romaji": "hassei"
+  },
+  {
+    "id": "2521",
+    "hiragana": "はっそく",
+    "kanji": "発足",
+    "meaning": "",
+    "romaji": "hassoku"
+  },
+  {
+    "id": "2522",
+    "hiragana": "はつ",
+    "kanji": "初",
+    "meaning": "",
+    "romaji": "hatsu"
+  },
+  {
+    "id": "2523",
+    "hiragana": "はつ",
+    "kanji": "発",
+    "meaning": "",
+    "romaji": "hatsu"
+  },
+  {
+    "id": "2524",
+    "hiragana": "はついく",
+    "kanji": "発育",
+    "meaning": "",
+    "romaji": "hatsuiku"
+  },
+  {
+    "id": "2525",
+    "hiragana": "はつが",
+    "kanji": "発芽",
+    "meaning": "",
+    "romaji": "hatsuga"
+  },
+  {
+    "id": "2526",
+    "hiragana": "はつげん",
+    "kanji": "発言",
+    "meaning": "",
+    "romaji": "hatsugen"
+  },
+  {
+    "id": "2527",
+    "hiragana": "はつびょう",
+    "kanji": "発病",
+    "meaning": "",
+    "romaji": "hatsubyou"
+  },
+  {
+    "id": "2528",
+    "hiragana": "はつみみ",
+    "kanji": "初耳",
+    "meaning": "",
+    "romaji": "hatsumimi"
+  },
+  {
+    "id": "2529",
+    "hiragana": "はて",
+    "kanji": "果て",
+    "meaning": "",
+    "romaji": "hate"
+  },
+  {
+    "id": "2530",
+    "hiragana": "はてる",
+    "kanji": "果てる",
+    "meaning": "",
+    "romaji": "hateru"
+  },
+  {
+    "id": "2531",
+    "hiragana": "はなしあい",
+    "kanji": "話し合い",
+    "meaning": "",
+    "romaji": "hanashiai"
+  },
+  {
+    "id": "2532",
+    "hiragana": "はなはだ",
+    "kanji": "甚だ",
+    "meaning": "",
+    "romaji": "hanahada"
+  },
+  {
+    "id": "2533",
+    "hiragana": "はなばなしい",
+    "kanji": "華々しい",
+    "meaning": "",
+    "romaji": "hanabanashii"
+  },
+  {
+    "id": "2534",
+    "hiragana": "はなびら",
+    "kanji": "花びら",
+    "meaning": "",
+    "romaji": "hanabira"
+  },
+  {
+    "id": "2535",
+    "hiragana": "はなやか",
+    "kanji": "華やか",
+    "meaning": "",
+    "romaji": "hanayaka"
+  },
+  {
+    "id": "2536",
+    "hiragana": "はばむ",
+    "kanji": "阻む",
+    "meaning": "",
+    "romaji": "habamu"
+  },
+  {
+    "id": "2537",
+    "hiragana": "はま",
+    "kanji": "浜",
+    "meaning": "",
+    "romaji": "hama"
+  },
+  {
+    "id": "2538",
+    "hiragana": "はまべ",
+    "kanji": "浜辺",
+    "meaning": "",
+    "romaji": "hamabe"
+  },
+  {
+    "id": "2539",
+    "hiragana": "はまる",
+    "kanji": "填まる",
+    "meaning": "",
+    "romaji": "hamaru"
+  },
+  {
+    "id": "2540",
+    "hiragana": "はみがき",
+    "kanji": "歯磨",
+    "meaning": "",
+    "romaji": "hamigaki"
+  },
+  {
+    "id": "2541",
+    "hiragana": "はめる",
+    "kanji": "填める",
+    "meaning": "",
+    "romaji": "hameru"
+  },
+  {
+    "id": "2542",
+    "hiragana": "はやす",
+    "kanji": "生やす",
+    "meaning": "",
+    "romaji": "hayasu"
+  },
+  {
+    "id": "2543",
+    "hiragana": "はやめる",
+    "kanji": "早める",
+    "meaning": "",
+    "romaji": "hayameru"
+  },
+  {
+    "id": "2544",
+    "hiragana": "はやり",
+    "kanji": "流行",
+    "meaning": "",
+    "romaji": "hayari"
+  },
+  {
+    "id": "2545",
+    "hiragana": "はらだち",
+    "kanji": "腹立ち",
+    "meaning": "",
+    "romaji": "haradachi"
+  },
+  {
+    "id": "2546",
+    "hiragana": "はらっぱ",
+    "kanji": "原っぱ",
+    "meaning": "",
+    "romaji": "harappa"
+  },
+  {
+    "id": "2547",
+    "hiragana": "はりがみ",
+    "kanji": "張り紙",
+    "meaning": "",
+    "romaji": "harigami"
+  },
+  {
+    "id": "2548",
+    "hiragana": "はるか",
+    "kanji": "遥か",
+    "meaning": "",
+    "romaji": "haruka"
+  },
+  {
+    "id": "2549",
+    "hiragana": "はれつ",
+    "kanji": "破裂",
+    "meaning": "",
+    "romaji": "haretsu"
+  },
+  {
+    "id": "2550",
+    "hiragana": "はれる",
+    "kanji": "腫れる",
+    "meaning": "",
+    "romaji": "hareru"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "201",
+    "hiragana": "おおいに",
+    "kanji": "大いに",
+    "meaning": "",
+    "romaji": "ooini"
+  },
+  {
+    "id": "202",
+    "hiragana": "おおう",
+    "kanji": "覆う",
+    "meaning": "",
+    "romaji": "oou"
+  },
+  {
+    "id": "203",
+    "hiragana": "オーバー",
+    "kanji": "オーバー",
+    "meaning": "",
+    "romaji": "oobaa"
+  },
+  {
+    "id": "204",
+    "hiragana": "おおや",
+    "kanji": "大家",
+    "meaning": "",
+    "romaji": "ooya"
+  },
+  {
+    "id": "205",
+    "hiragana": "おか",
+    "kanji": "丘",
+    "meaning": "",
+    "romaji": "oka"
+  },
+  {
+    "id": "206",
+    "hiragana": "おき",
+    "kanji": "沖",
+    "meaning": "",
+    "romaji": "oki"
+  },
+  {
+    "id": "207",
+    "hiragana": "おく",
+    "kanji": "奥",
+    "meaning": "",
+    "romaji": "oku"
+  },
+  {
+    "id": "208",
+    "hiragana": "おくる",
+    "kanji": "贈る",
+    "meaning": "",
+    "romaji": "okuru"
+  },
+  {
+    "id": "209",
+    "hiragana": "おこる",
+    "kanji": "起こる",
+    "meaning": "",
+    "romaji": "okoru"
+  },
+  {
+    "id": "210",
+    "hiragana": "おさない",
+    "kanji": "幼い",
+    "meaning": "",
+    "romaji": "osanai"
+  },
+  {
+    "id": "211",
+    "hiragana": "おさめる",
+    "kanji": "収める",
+    "meaning": "",
+    "romaji": "osameru"
+  },
+  {
+    "id": "212",
+    "hiragana": "おじいさん",
+    "kanji": "おじいさん",
+    "meaning": "",
+    "romaji": "ojiisan"
+  },
+  {
+    "id": "213",
+    "hiragana": "おしゃべり",
+    "kanji": "おしゃべり",
+    "meaning": "",
+    "romaji": "oshaberi"
+  },
+  {
+    "id": "214",
+    "hiragana": "おせん",
+    "kanji": "汚染",
+    "meaning": "",
+    "romaji": "osen"
+  },
+  {
+    "id": "215",
+    "hiragana": "おそらく",
+    "kanji": "おそらく",
+    "meaning": "",
+    "romaji": "osoraku"
+  },
+  {
+    "id": "216",
+    "hiragana": "おそれる",
+    "kanji": "恐れる",
+    "meaning": "",
+    "romaji": "osoreru"
+  },
+  {
+    "id": "217",
+    "hiragana": "おそろしい",
+    "kanji": "恐ろしい",
+    "meaning": "",
+    "romaji": "osoroshii"
+  },
+  {
+    "id": "218",
+    "hiragana": "おたがい",
+    "kanji": "お互い",
+    "meaning": "",
+    "romaji": "otagai"
+  },
+  {
+    "id": "219",
+    "hiragana": "おだやか",
+    "kanji": "穏やか",
+    "meaning": "",
+    "romaji": "odayaka"
+  },
+  {
+    "id": "220",
+    "hiragana": "おとこのひと",
+    "kanji": "男の人",
+    "meaning": "",
+    "romaji": "otokonohito"
+  },
+  {
+    "id": "221",
+    "hiragana": "おとる",
+    "kanji": "劣る",
+    "meaning": "",
+    "romaji": "otoru"
+  },
+  {
+    "id": "222",
+    "hiragana": "おなか",
+    "kanji": "お腹",
+    "meaning": "",
+    "romaji": "onaka"
+  },
+  {
+    "id": "223",
+    "hiragana": "おに",
+    "kanji": "鬼",
+    "meaning": "",
+    "romaji": "oni"
+  },
+  {
+    "id": "224",
+    "hiragana": "おび",
+    "kanji": "帯",
+    "meaning": "",
+    "romaji": "obi"
+  },
+  {
+    "id": "225",
+    "hiragana": "おひる",
+    "kanji": "お昼",
+    "meaning": "",
+    "romaji": "ohiru"
+  },
+  {
+    "id": "226",
+    "hiragana": "オフィス",
+    "kanji": "オフィス",
+    "meaning": "",
+    "romaji": "ofyisu"
+  },
+  {
+    "id": "227",
+    "hiragana": "おぼれる",
+    "kanji": "溺れる",
+    "meaning": "",
+    "romaji": "oboreru"
+  },
+  {
+    "id": "228",
+    "hiragana": "おまえ",
+    "kanji": "おまえ",
+    "meaning": "",
+    "romaji": "omae"
+  },
+  {
+    "id": "229",
+    "hiragana": "おめでとう",
+    "kanji": "おめでとう",
+    "meaning": "",
+    "romaji": "omedetou"
+  },
+  {
+    "id": "230",
+    "hiragana": "おめにかかる",
+    "kanji": "お目に掛",
+    "meaning": "",
+    "romaji": "omenikakaru"
+  },
+  {
+    "id": "231",
+    "hiragana": "おもいで",
+    "kanji": "思い出",
+    "meaning": "",
+    "romaji": "omoide"
+  },
+  {
+    "id": "232",
+    "hiragana": "おもに",
+    "kanji": "主に",
+    "meaning": "",
+    "romaji": "omoni"
+  },
+  {
+    "id": "233",
+    "hiragana": "おもわず",
+    "kanji": "思わず",
+    "meaning": "",
+    "romaji": "omowazu"
+  },
+  {
+    "id": "234",
+    "hiragana": "おや",
+    "kanji": "おや",
+    "meaning": "",
+    "romaji": "oya"
+  },
+  {
+    "id": "235",
+    "hiragana": "およぎ",
+    "kanji": "泳ぎ",
+    "meaning": "",
+    "romaji": "oyogi"
+  },
+  {
+    "id": "236",
+    "hiragana": "およそ",
+    "kanji": "およそ",
+    "meaning": "",
+    "romaji": "oyoso"
+  },
+  {
+    "id": "237",
+    "hiragana": "およぼす",
+    "kanji": "及ぼす",
+    "meaning": "",
+    "romaji": "oyobosu"
+  },
+  {
+    "id": "238",
+    "hiragana": "おる",
+    "kanji": "居る",
+    "meaning": "",
+    "romaji": "oru"
+  },
+  {
+    "id": "239",
+    "hiragana": "おろす",
+    "kanji": "下す",
+    "meaning": "",
+    "romaji": "orosu"
+  },
+  {
+    "id": "240",
+    "hiragana": "おろす",
+    "kanji": "降ろす",
+    "meaning": "",
+    "romaji": "orosu"
+  },
+  {
+    "id": "241",
+    "hiragana": "おわり",
+    "kanji": "終",
+    "meaning": "",
+    "romaji": "owari"
+  },
+  {
+    "id": "242",
+    "hiragana": "おん",
+    "kanji": "音",
+    "meaning": "",
+    "romaji": "on"
+  },
+  {
+    "id": "243",
+    "hiragana": "おん",
+    "kanji": "恩",
+    "meaning": "",
+    "romaji": "on"
+  },
+  {
+    "id": "244",
+    "hiragana": "おんだん",
+    "kanji": "温暖",
+    "meaning": "",
+    "romaji": "ondan"
+  },
+  {
+    "id": "245",
+    "hiragana": "おんど",
+    "kanji": "温度",
+    "meaning": "",
+    "romaji": "ondo"
+  },
+  {
+    "id": "246",
+    "hiragana": "か",
+    "kanji": "可",
+    "meaning": "",
+    "romaji": "ka"
+  },
+  {
+    "id": "247",
+    "hiragana": "か",
+    "kanji": "課",
+    "meaning": "",
+    "romaji": "ka"
+  },
+  {
+    "id": "248",
+    "hiragana": "カー",
+    "kanji": "カー",
+    "meaning": "",
+    "romaji": "kaa"
+  },
+  {
+    "id": "249",
+    "hiragana": "カード",
+    "kanji": "カード",
+    "meaning": "",
+    "romaji": "kaado"
+  },
+  {
+    "id": "250",
+    "hiragana": "かい",
+    "kanji": "会",
+    "meaning": "",
+    "romaji": "kai"
+  }
+]

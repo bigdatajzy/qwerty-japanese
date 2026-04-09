@@ -1,0 +1,352 @@
+[
+  {
+    "id": "3351",
+    "hiragana": "スピード",
+    "kanji": "スピード",
+    "meaning": "",
+    "romaji": "supiido"
+  },
+  {
+    "id": "3352",
+    "hiragana": "スプリング",
+    "kanji": "スプリング",
+    "meaning": "",
+    "romaji": "supuringu"
+  },
+  {
+    "id": "3353",
+    "hiragana": "スペース",
+    "kanji": "スペース",
+    "meaning": "",
+    "romaji": "supeesu"
+  },
+  {
+    "id": "3354",
+    "hiragana": "スポーツカー",
+    "kanji": "スポーツカー",
+    "meaning": "",
+    "romaji": "supootsukaa"
+  },
+  {
+    "id": "3355",
+    "hiragana": "スラックス",
+    "kanji": "スラックス",
+    "meaning": "",
+    "romaji": "surakkusu"
+  },
+  {
+    "id": "3356",
+    "hiragana": "セール",
+    "kanji": "セール",
+    "meaning": "",
+    "romaji": "seeru"
+  },
+  {
+    "id": "3357",
+    "hiragana": "セクション",
+    "kanji": "セクション",
+    "meaning": "",
+    "romaji": "sekushon"
+  },
+  {
+    "id": "3358",
+    "hiragana": "セックス",
+    "kanji": "セックス",
+    "meaning": "",
+    "romaji": "sekkusu"
+  },
+  {
+    "id": "3359",
+    "hiragana": "セレモニー",
+    "kanji": "セレモニー",
+    "meaning": "",
+    "romaji": "seremonii"
+  },
+  {
+    "id": "3360",
+    "hiragana": "センス",
+    "kanji": "センス",
+    "meaning": "",
+    "romaji": "sensu"
+  },
+  {
+    "id": "3361",
+    "hiragana": "ゼリー",
+    "kanji": "ゼリー",
+    "meaning": "",
+    "romaji": "zerii"
+  },
+  {
+    "id": "3362",
+    "hiragana": "ソース",
+    "kanji": "ソース",
+    "meaning": "",
+    "romaji": "soosu"
+  },
+  {
+    "id": "3363",
+    "hiragana": "ソックス",
+    "kanji": "ソックス",
+    "meaning": "",
+    "romaji": "sokkusu"
+  },
+  {
+    "id": "3364",
+    "hiragana": "ソロ",
+    "kanji": "ソロ",
+    "meaning": "",
+    "romaji": "soro"
+  },
+  {
+    "id": "3365",
+    "hiragana": "タイトル",
+    "kanji": "タイトル",
+    "meaning": "",
+    "romaji": "taitoru"
+  },
+  {
+    "id": "3366",
+    "hiragana": "タイピスト",
+    "kanji": "タイピスト",
+    "meaning": "",
+    "romaji": "taipisuto"
+  },
+  {
+    "id": "3367",
+    "hiragana": "タイマー",
+    "kanji": "タイマー",
+    "meaning": "",
+    "romaji": "taimaa"
+  },
+  {
+    "id": "3368",
+    "hiragana": "タイミング",
+    "kanji": "タイミング",
+    "meaning": "",
+    "romaji": "taimingu"
+  },
+  {
+    "id": "3369",
+    "hiragana": "タイム",
+    "kanji": "タイム",
+    "meaning": "",
+    "romaji": "taimu"
+  },
+  {
+    "id": "3370",
+    "hiragana": "タイムリー",
+    "kanji": "タイムリー",
+    "meaning": "",
+    "romaji": "taimurii"
+  },
+  {
+    "id": "3371",
+    "hiragana": "タイヤ",
+    "kanji": "タイヤ",
+    "meaning": "",
+    "romaji": "taiya"
+  },
+  {
+    "id": "3372",
+    "hiragana": "タイル",
+    "kanji": "タイル",
+    "meaning": "",
+    "romaji": "tairu"
+  },
+  {
+    "id": "3373",
+    "hiragana": "タレント",
+    "kanji": "タレント",
+    "meaning": "",
+    "romaji": "tarento"
+  },
+  {
+    "id": "3374",
+    "hiragana": "タワー",
+    "kanji": "タワー",
+    "meaning": "",
+    "romaji": "tawaa"
+  },
+  {
+    "id": "3375",
+    "hiragana": "ダース",
+    "kanji": "ダース",
+    "meaning": "",
+    "romaji": "daasu"
+  },
+  {
+    "id": "3376",
+    "hiragana": "ダウン",
+    "kanji": "ダウン",
+    "meaning": "",
+    "romaji": "daun"
+  },
+  {
+    "id": "3377",
+    "hiragana": "ダブる",
+    "kanji": "ダブる",
+    "meaning": "",
+    "romaji": "daburu"
+  },
+  {
+    "id": "3378",
+    "hiragana": "ダンプ",
+    "kanji": "ダンプ",
+    "meaning": "",
+    "romaji": "danpu"
+  },
+  {
+    "id": "3379",
+    "hiragana": "チームワーク",
+    "kanji": "チームワーク",
+    "meaning": "",
+    "romaji": "chiimuwaaku"
+  },
+  {
+    "id": "3380",
+    "hiragana": "チェンジ",
+    "kanji": "チェンジ",
+    "meaning": "",
+    "romaji": "chenji"
+  },
+  {
+    "id": "3381",
+    "hiragana": "チャイム",
+    "kanji": "チャイム",
+    "meaning": "",
+    "romaji": "chaimu"
+  },
+  {
+    "id": "3382",
+    "hiragana": "チャンネル",
+    "kanji": "チャンネル",
+    "meaning": "",
+    "romaji": "channeru"
+  },
+  {
+    "id": "3383",
+    "hiragana": "ティッシュペーパー",
+    "kanji": "ティッシュペーパー",
+    "meaning": "",
+    "romaji": "teisshupeepaa"
+  },
+  {
+    "id": "3384",
+    "hiragana": "テレックス",
+    "kanji": "テレックス",
+    "meaning": "",
+    "romaji": "terekkusu"
+  },
+  {
+    "id": "3385",
+    "hiragana": "データ",
+    "kanji": "データ",
+    "meaning": "",
+    "romaji": "deeta"
+  },
+  {
+    "id": "3386",
+    "hiragana": "デコレーション",
+    "kanji": "デコレーション",
+    "meaning": "",
+    "romaji": "dekoreeshon"
+  },
+  {
+    "id": "3387",
+    "hiragana": "デザート",
+    "kanji": "デザート",
+    "meaning": "",
+    "romaji": "dezaato"
+  },
+  {
+    "id": "3388",
+    "hiragana": "デザイン",
+    "kanji": "デザイン",
+    "meaning": "",
+    "romaji": "dezain"
+  },
+  {
+    "id": "3389",
+    "hiragana": "デッサン",
+    "kanji": "デッサン",
+    "meaning": "",
+    "romaji": "dessan"
+  },
+  {
+    "id": "3390",
+    "hiragana": "デモンストレーション",
+    "kanji": "デモンストレーション",
+    "meaning": "",
+    "romaji": "demonsutoreeshon"
+  },
+  {
+    "id": "3391",
+    "hiragana": "トーン",
+    "kanji": "トーン",
+    "meaning": "",
+    "romaji": "toon"
+  },
+  {
+    "id": "3392",
+    "hiragana": "トラブル",
+    "kanji": "トラブル",
+    "meaning": "",
+    "romaji": "toraburu"
+  },
+  {
+    "id": "3393",
+    "hiragana": "トランジスター",
+    "kanji": "トランジスター",
+    "meaning": "",
+    "romaji": "toranjisutaa"
+  },
+  {
+    "id": "3394",
+    "hiragana": "ドライ",
+    "kanji": "ドライ",
+    "meaning": "",
+    "romaji": "dorai"
+  },
+  {
+    "id": "3395",
+    "hiragana": "ドライクリーニング",
+    "kanji": "ドライクリーニング",
+    "meaning": "",
+    "romaji": "doraikuriiningu"
+  },
+  {
+    "id": "3396",
+    "hiragana": "ドライバー",
+    "kanji": "ドライバー",
+    "meaning": "",
+    "romaji": "doraibaa"
+  },
+  {
+    "id": "3397",
+    "hiragana": "ドライブイン",
+    "kanji": "ドライブイン",
+    "meaning": "",
+    "romaji": "doraibuin"
+  },
+  {
+    "id": "3398",
+    "hiragana": "ドリル",
+    "kanji": "ドリル",
+    "meaning": "",
+    "romaji": "doriru"
+  },
+  {
+    "id": "3399",
+    "hiragana": "ナイター",
+    "kanji": "ナイター",
+    "meaning": "",
+    "romaji": "naitaa"
+  },
+  {
+    "id": "3400",
+    "hiragana": "ナプキン",
+    "kanji": "ナプキン",
+    "meaning": "",
+    "romaji": "napukin"
+  }
+]

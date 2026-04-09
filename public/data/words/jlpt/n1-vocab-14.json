@@ -1,0 +1,352 @@
+[
+  {
+    "id": "651",
+    "hiragana": "かんろく",
+    "kanji": "貫禄",
+    "meaning": "",
+    "romaji": "kanroku"
+  },
+  {
+    "id": "652",
+    "hiragana": "かんわ",
+    "kanji": "緩和",
+    "meaning": "",
+    "romaji": "kanwa"
+  },
+  {
+    "id": "653",
+    "hiragana": "がい",
+    "kanji": "蓋",
+    "meaning": "",
+    "romaji": "gai"
+  },
+  {
+    "id": "654",
+    "hiragana": "がい",
+    "kanji": "街",
+    "meaning": "",
+    "romaji": "gai"
+  },
+  {
+    "id": "655",
+    "hiragana": "がいか",
+    "kanji": "外貨",
+    "meaning": "",
+    "romaji": "gaika"
+  },
+  {
+    "id": "656",
+    "hiragana": "がいかん",
+    "kanji": "外観",
+    "meaning": "",
+    "romaji": "gaikan"
+  },
+  {
+    "id": "657",
+    "hiragana": "がいしょう",
+    "kanji": "外相",
+    "meaning": "",
+    "romaji": "gaishou"
+  },
+  {
+    "id": "658",
+    "hiragana": "がいする",
+    "kanji": "害する",
+    "meaning": "",
+    "romaji": "gaisuru"
+  },
+  {
+    "id": "659",
+    "hiragana": "がいせつ",
+    "kanji": "概説",
+    "meaning": "",
+    "romaji": "gaisetsu"
+  },
+  {
+    "id": "660",
+    "hiragana": "がいとう",
+    "kanji": "該当",
+    "meaning": "",
+    "romaji": "gaitou"
+  },
+  {
+    "id": "661",
+    "hiragana": "がいとう",
+    "kanji": "街頭",
+    "meaning": "",
+    "romaji": "gaitou"
+  },
+  {
+    "id": "662",
+    "hiragana": "がいねん",
+    "kanji": "概念",
+    "meaning": "",
+    "romaji": "gainen"
+  },
+  {
+    "id": "663",
+    "hiragana": "がいらい",
+    "kanji": "外来",
+    "meaning": "",
+    "romaji": "gairai"
+  },
+  {
+    "id": "664",
+    "hiragana": "がいりゃく",
+    "kanji": "概略",
+    "meaning": "",
+    "romaji": "gairyaku"
+  },
+  {
+    "id": "665",
+    "hiragana": "がくげい",
+    "kanji": "学芸",
+    "meaning": "",
+    "romaji": "gakugei"
+  },
+  {
+    "id": "666",
+    "hiragana": "がくし",
+    "kanji": "学士",
+    "meaning": "",
+    "romaji": "gakushi"
+  },
+  {
+    "id": "667",
+    "hiragana": "がくせつ",
+    "kanji": "学説",
+    "meaning": "",
+    "romaji": "gakusetsu"
+  },
+  {
+    "id": "668",
+    "hiragana": "がくふ",
+    "kanji": "楽譜",
+    "meaning": "",
+    "romaji": "gakufu"
+  },
+  {
+    "id": "669",
+    "hiragana": "がくれき",
+    "kanji": "学歴",
+    "meaning": "",
+    "romaji": "gakureki"
+  },
+  {
+    "id": "670",
+    "hiragana": "がけ",
+    "kanji": "崖",
+    "meaning": "",
+    "romaji": "gake"
+  },
+  {
+    "id": "671",
+    "hiragana": "がち",
+    "kanji": "雅致",
+    "meaning": "",
+    "romaji": "gachi"
+  },
+  {
+    "id": "672",
+    "hiragana": "がっくり",
+    "kanji": "がっくり",
+    "meaning": "",
+    "romaji": "gakkuri"
+  },
+  {
+    "id": "673",
+    "hiragana": "がっしょう",
+    "kanji": "合唱",
+    "meaning": "",
+    "romaji": "gasshou"
+  },
+  {
+    "id": "674",
+    "hiragana": "がっしり",
+    "kanji": "がっしり",
+    "meaning": "",
+    "romaji": "gasshiri"
+  },
+  {
+    "id": "675",
+    "hiragana": "がっち",
+    "kanji": "合致",
+    "meaning": "",
+    "romaji": "gatchi"
+  },
+  {
+    "id": "676",
+    "hiragana": "がっちり",
+    "kanji": "がっちり",
+    "meaning": "",
+    "romaji": "gatchiri"
+  },
+  {
+    "id": "677",
+    "hiragana": "がっぴ",
+    "kanji": "月日",
+    "meaning": "",
+    "romaji": "gappi"
+  },
+  {
+    "id": "678",
+    "hiragana": "がっぺい",
+    "kanji": "合併",
+    "meaning": "",
+    "romaji": "gappei"
+  },
+  {
+    "id": "679",
+    "hiragana": "がる",
+    "kanji": "がる",
+    "meaning": "",
+    "romaji": "garu"
+  },
+  {
+    "id": "680",
+    "hiragana": "がわ",
+    "kanji": "側",
+    "meaning": "",
+    "romaji": "gawa"
+  },
+  {
+    "id": "681",
+    "hiragana": "がん",
+    "kanji": "癌",
+    "meaning": "",
+    "romaji": "gan"
+  },
+  {
+    "id": "682",
+    "hiragana": "がんか",
+    "kanji": "眼科",
+    "meaning": "",
+    "romaji": "ganka"
+  },
+  {
+    "id": "683",
+    "hiragana": "がんきゅう",
+    "kanji": "眼球",
+    "meaning": "",
+    "romaji": "gankyuu"
+  },
+  {
+    "id": "684",
+    "hiragana": "がんきょう",
+    "kanji": "眼鏡",
+    "meaning": "",
+    "romaji": "gankyou"
+  },
+  {
+    "id": "685",
+    "hiragana": "がんこ",
+    "kanji": "頑固",
+    "meaning": "",
+    "romaji": "ganko"
+  },
+  {
+    "id": "686",
+    "hiragana": "がんしょ",
+    "kanji": "願書",
+    "meaning": "",
+    "romaji": "gansho"
+  },
+  {
+    "id": "687",
+    "hiragana": "がんじょう",
+    "kanji": "頑丈",
+    "meaning": "",
+    "romaji": "ganjou"
+  },
+  {
+    "id": "688",
+    "hiragana": "がんせき",
+    "kanji": "岩石",
+    "meaning": "",
+    "romaji": "ganseki"
+  },
+  {
+    "id": "689",
+    "hiragana": "がんねん",
+    "kanji": "元年",
+    "meaning": "",
+    "romaji": "gannen"
+  },
+  {
+    "id": "690",
+    "hiragana": "がんぶつ",
+    "kanji": "贋物",
+    "meaning": "",
+    "romaji": "ganbutsu"
+  },
+  {
+    "id": "691",
+    "hiragana": "がんらい",
+    "kanji": "元来",
+    "meaning": "",
+    "romaji": "ganrai"
+  },
+  {
+    "id": "692",
+    "hiragana": "き",
+    "kanji": "生",
+    "meaning": "",
+    "romaji": "ki"
+  },
+  {
+    "id": "693",
+    "hiragana": "き",
+    "kanji": "期",
+    "meaning": "",
+    "romaji": "ki"
+  },
+  {
+    "id": "694",
+    "hiragana": "きかく",
+    "kanji": "企画",
+    "meaning": "",
+    "romaji": "kikaku"
+  },
+  {
+    "id": "695",
+    "hiragana": "きかく",
+    "kanji": "規格",
+    "meaning": "",
+    "romaji": "kikaku"
+  },
+  {
+    "id": "696",
+    "hiragana": "きかざる",
+    "kanji": "着飾る",
+    "meaning": "",
+    "romaji": "kikazaru"
+  },
+  {
+    "id": "697",
+    "hiragana": "きかん",
+    "kanji": "器官",
+    "meaning": "",
+    "romaji": "kikan"
+  },
+  {
+    "id": "698",
+    "hiragana": "きかん",
+    "kanji": "季刊",
+    "meaning": "",
+    "romaji": "kikan"
+  },
+  {
+    "id": "699",
+    "hiragana": "きがい",
+    "kanji": "危害",
+    "meaning": "",
+    "romaji": "kigai"
+  },
+  {
+    "id": "700",
+    "hiragana": "きがね",
+    "kanji": "気兼ね",
+    "meaning": "",
+    "romaji": "kigane"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "551",
+    "hiragana": "ほうそう",
+    "kanji": "放送",
+    "meaning": "",
+    "romaji": "housou"
+  },
+  {
+    "id": "552",
+    "hiragana": "ほうりつ",
+    "kanji": "法律",
+    "meaning": "",
+    "romaji": "houritsu"
+  },
+  {
+    "id": "553",
+    "hiragana": "ぼく",
+    "kanji": "僕",
+    "meaning": "",
+    "romaji": "boku"
+  },
+  {
+    "id": "554",
+    "hiragana": "ほし",
+    "kanji": "星",
+    "meaning": "",
+    "romaji": "hoshi"
+  },
+  {
+    "id": "555",
+    "hiragana": "ほど",
+    "kanji": "ほど",
+    "meaning": "",
+    "romaji": "hodo"
+  },
+  {
+    "id": "556",
+    "hiragana": "ほとんど",
+    "kanji": "ほとんど",
+    "meaning": "",
+    "romaji": "hotondo"
+  },
+  {
+    "id": "557",
+    "hiragana": "ほめる",
+    "kanji": "ほめる",
+    "meaning": "",
+    "romaji": "homeru"
+  },
+  {
+    "id": "558",
+    "hiragana": "ほんやく",
+    "kanji": "翻訳",
+    "meaning": "",
+    "romaji": "hon'yaku"
+  },
+  {
+    "id": "559",
+    "hiragana": "まいる",
+    "kanji": "参る",
+    "meaning": "",
+    "romaji": "mairu"
+  },
+  {
+    "id": "560",
+    "hiragana": "まける",
+    "kanji": "負ける",
+    "meaning": "",
+    "romaji": "makeru"
+  },
+  {
+    "id": "561",
+    "hiragana": "まじめ",
+    "kanji": "まじめ",
+    "meaning": "",
+    "romaji": "majime"
+  },
+  {
+    "id": "562",
+    "hiragana": "まず",
+    "kanji": "まず",
+    "meaning": "",
+    "romaji": "mazu"
+  },
+  {
+    "id": "563",
+    "hiragana": "または",
+    "kanji": "または",
+    "meaning": "",
+    "romaji": "mataha"
+  },
+  {
+    "id": "564",
+    "hiragana": "まちがえる",
+    "kanji": "間違える",
+    "meaning": "",
+    "romaji": "machigaeru"
+  },
+  {
+    "id": "565",
+    "hiragana": "まにあう",
+    "kanji": "間に合う",
+    "meaning": "",
+    "romaji": "maniau"
+  },
+  {
+    "id": "566",
+    "hiragana": "まわり",
+    "kanji": "周り",
+    "meaning": "",
+    "romaji": "mawari"
+  },
+  {
+    "id": "567",
+    "hiragana": "まわる",
+    "kanji": "回る",
+    "meaning": "",
+    "romaji": "mawaru"
+  },
+  {
+    "id": "568",
+    "hiragana": "まんが",
+    "kanji": "漫画",
+    "meaning": "",
+    "romaji": "manga"
+  },
+  {
+    "id": "569",
+    "hiragana": "まんなか",
+    "kanji": "真中",
+    "meaning": "",
+    "romaji": "mannaka"
+  },
+  {
+    "id": "570",
+    "hiragana": "みえる",
+    "kanji": "見える",
+    "meaning": "",
+    "romaji": "mieru"
+  },
+  {
+    "id": "571",
+    "hiragana": "みずうみ",
+    "kanji": "湖",
+    "meaning": "",
+    "romaji": "mizuumi"
+  },
+  {
+    "id": "572",
+    "hiragana": "みそ",
+    "kanji": "味噌",
+    "meaning": "",
+    "romaji": "miso"
+  },
+  {
+    "id": "573",
+    "hiragana": "みつかる",
+    "kanji": "見つかる",
+    "meaning": "",
+    "romaji": "mitsukaru"
+  },
+  {
+    "id": "574",
+    "hiragana": "みつける",
+    "kanji": "見つける",
+    "meaning": "",
+    "romaji": "mitsukeru"
+  },
+  {
+    "id": "575",
+    "hiragana": "みな",
+    "kanji": "皆",
+    "meaning": "",
+    "romaji": "mina"
+  },
+  {
+    "id": "576",
+    "hiragana": "みなと",
+    "kanji": "港",
+    "meaning": "",
+    "romaji": "minato"
+  },
+  {
+    "id": "577",
+    "hiragana": "むかう",
+    "kanji": "向かう",
+    "meaning": "",
+    "romaji": "mukau"
+  },
+  {
+    "id": "578",
+    "hiragana": "むかえる",
+    "kanji": "迎える",
+    "meaning": "",
+    "romaji": "mukaeru"
+  },
+  {
+    "id": "579",
+    "hiragana": "むかし",
+    "kanji": "昔",
+    "meaning": "",
+    "romaji": "mukashi"
+  },
+  {
+    "id": "580",
+    "hiragana": "むし",
+    "kanji": "虫",
+    "meaning": "",
+    "romaji": "mushi"
+  },
+  {
+    "id": "581",
+    "hiragana": "むすこ",
+    "kanji": "息子",
+    "meaning": "",
+    "romaji": "musuko"
+  },
+  {
+    "id": "582",
+    "hiragana": "むすめ",
+    "kanji": "娘",
+    "meaning": "",
+    "romaji": "musume"
+  },
+  {
+    "id": "583",
+    "hiragana": "むり",
+    "kanji": "無理",
+    "meaning": "",
+    "romaji": "muri"
+  },
+  {
+    "id": "584",
+    "hiragana": "めしあがる",
+    "kanji": "召し上がる",
+    "meaning": "",
+    "romaji": "meshiagaru"
+  },
+  {
+    "id": "585",
+    "hiragana": "めずらしい",
+    "kanji": "珍しい",
+    "meaning": "",
+    "romaji": "mezurashii"
+  },
+  {
+    "id": "586",
+    "hiragana": "もうしあげる",
+    "kanji": "申し上げる",
+    "meaning": "",
+    "romaji": "moushiageru"
+  },
+  {
+    "id": "587",
+    "hiragana": "もうす",
+    "kanji": "申す",
+    "meaning": "",
+    "romaji": "mousu"
+  },
+  {
+    "id": "588",
+    "hiragana": "もうすぐ",
+    "kanji": "もうすぐ",
+    "meaning": "",
+    "romaji": "mousugu"
+  },
+  {
+    "id": "589",
+    "hiragana": "もし",
+    "kanji": "もし",
+    "meaning": "",
+    "romaji": "moshi"
+  },
+  {
+    "id": "590",
+    "hiragana": "もちろん",
+    "kanji": "もちろん",
+    "meaning": "",
+    "romaji": "mochiron"
+  },
+  {
+    "id": "591",
+    "hiragana": "もっとも",
+    "kanji": "もっとも",
+    "meaning": "",
+    "romaji": "mottomo"
+  },
+  {
+    "id": "592",
+    "hiragana": "もどる",
+    "kanji": "戻る",
+    "meaning": "",
+    "romaji": "modoru"
+  },
+  {
+    "id": "593",
+    "hiragana": "もめん",
+    "kanji": "木綿",
+    "meaning": "",
+    "romaji": "momen"
+  },
+  {
+    "id": "594",
+    "hiragana": "もらう",
+    "kanji": "もらう",
+    "meaning": "",
+    "romaji": "morau"
+  },
+  {
+    "id": "595",
+    "hiragana": "もり",
+    "kanji": "森",
+    "meaning": "",
+    "romaji": "mori"
+  },
+  {
+    "id": "596",
+    "hiragana": "やく",
+    "kanji": "焼く",
+    "meaning": "",
+    "romaji": "yaku"
+  },
+  {
+    "id": "597",
+    "hiragana": "やくそく",
+    "kanji": "約束",
+    "meaning": "",
+    "romaji": "yakusoku"
+  },
+  {
+    "id": "598",
+    "hiragana": "やくにたつ",
+    "kanji": "役に立つ",
+    "meaning": "",
+    "romaji": "yakunitatsu"
+  },
+  {
+    "id": "599",
+    "hiragana": "やける",
+    "kanji": "焼ける",
+    "meaning": "",
+    "romaji": "yakeru"
+  },
+  {
+    "id": "600",
+    "hiragana": "やさしい",
+    "kanji": "優しい",
+    "meaning": "",
+    "romaji": "yasashii"
+  }
+]
