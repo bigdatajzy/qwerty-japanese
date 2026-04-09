@@ -111,7 +111,7 @@ try {
 
 const newSet = {
   id: args.id,
-  title: `JLPT ${args.level} 单词（GitHub 词表）`,
+  title: `JLPT ${args.level} 单词`,
   level: args.level,
   description: 'JLPT_Vocabulary',
   wordCount: items.length,

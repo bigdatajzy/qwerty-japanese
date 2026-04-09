@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, onUnmounted, watch, nextTick } from 'vue'
+import { ref, computed, onMounted, onUnmounted, onBeforeUnmount, watch, nextTick } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useSound } from '@/composables/useSound'
 import { useSettingsStore } from '@/stores/settings'
@@ -9,6 +9,11 @@ import { normalizeWordRomaji } from '@/utils/wordRomaji'
 import type { PracticeWord } from '@/types/word'
 import { loadWordsForSet } from '@/api/wordsData'
 import { recordPracticeSession } from '@/utils/practiceStatsDb'
+import {
+  clearWordPracticeProgress,
+  loadWordPracticeProgress,
+  saveWordPracticeProgress,
+} from '@/utils/wordPracticeProgress'
 
 const route = useRoute()
 const router = useRouter()
@@ -87,6 +92,21 @@ function toggleInputMode() {
   inputRef.value?.focus()
 }
 
+function persistProgress() {
+  if (loadError.value || sessionWords.value.length === 0) return
+  const total = sessionWords.value.length
+  // 未答过第一题（仍为第 1 题）不写盘，避免列表里出现无意义的「1/700」
+  if (currentIndex.value <= 0 || currentIndex.value >= total) return
+  const mode = resolveOrderMode()
+  saveWordPracticeProgress({
+    setId: level.value,
+    mode,
+    currentIndex: currentIndex.value,
+    totalWords: total,
+    wordIds: mode === 'random' ? sessionWords.value.map((w) => w.id) : undefined,
+  })
+}
+
 async function loadWords() {
   isLoading.value = true
   loadError.value = false
@@ -97,8 +117,69 @@ async function loadWords() {
     loadError.value = true
   }
   if (words.value.length === 0) loadError.value = true
-  sessionWords.value = orderedWordsForMode(words.value, resolveOrderMode())
+  if (loadError.value) {
+    isLoading.value = false
+    return
+  }
+
+  const mode = resolveOrderMode()
+  const total = words.value.length
+  const saved = loadWordPracticeProgress(level.value, mode)
+
+  if (mode === 'random') {
+    if (
+      saved &&
+      saved.totalWords === total &&
+      saved.wordIds &&
+      saved.wordIds.length === total &&
+      saved.currentIndex < total
+    ) {
+      const map = new Map(words.value.map((w) => [w.id, w]))
+      const rebuilt = saved.wordIds
+        .map((id) => map.get(id))
+        .filter((x): x is PracticeWord => x != null)
+      if (rebuilt.length === total) {
+        sessionWords.value = rebuilt
+        currentIndex.value = Math.min(saved.currentIndex, total - 1)
+      } else {
+        sessionWords.value = orderedWordsForMode(words.value, 'random')
+        currentIndex.value = 0
+      }
+    } else {
+      sessionWords.value = orderedWordsForMode(words.value, 'random')
+      currentIndex.value = 0
+    }
+  } else {
+    sessionWords.value = orderedWordsForMode(words.value, 'sequential')
+    if (saved && saved.totalWords === total && saved.currentIndex >= 0 && saved.currentIndex < total) {
+      currentIndex.value = saved.currentIndex
+    } else {
+      currentIndex.value = 0
+    }
+  }
+
   isLoading.value = false
+}
+
+function restartFromBeginning() {
+  clearWordPracticeProgress(level.value, resolveOrderMode())
+  if (words.value.length === 0) return
+  const mode = resolveOrderMode()
+  if (mode === 'random') {
+    sessionWords.value = orderedWordsForMode(words.value, 'random')
+  } else {
+    sessionWords.value = orderedWordsForMode(words.value, 'sequential')
+  }
+  currentIndex.value = 0
+  correctCount.value = 0
+  errorCount.value = 0
+  errors.value = []
+  isStarted.value = false
+  startTime.value = null
+  inputValue.value = ''
+  inputStatus.value = 'default'
+  showErrorHint.value = false
+  nextTick(() => inputRef.value?.focus())
 }
 
 function startSession() {
@@ -108,6 +189,7 @@ function startSession() {
 }
 
 async function finishPractice() {
+  clearWordPracticeProgress(level.value, resolveOrderMode())
   const endTime = Date.now()
   playComplete()
   const durationSec = startTime.value ? (endTime - startTime.value) / 1000 : 0
@@ -149,7 +231,11 @@ async function finishPractice() {
 
 function advanceOrFinish() {
   currentIndex.value++
-  if (currentIndex.value >= totalWords.value) finishPractice()
+  if (currentIndex.value >= totalWords.value) {
+    finishPractice()
+  } else {
+    persistProgress()
+  }
 }
 
 function handleInput() {
@@ -243,6 +329,10 @@ onMounted(() => {
   window.addEventListener('keydown', onKeydown)
 })
 
+onBeforeUnmount(() => {
+  persistProgress()
+})
+
 onUnmounted(() => {
   window.removeEventListener('keydown', onKeydown)
 })
@@ -273,13 +363,23 @@ onUnmounted(() => {
     <template v-else>
       <header class="bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm shadow-sm sticky top-0 z-10">
         <div class="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between flex-wrap gap-2">
-          <button
-            type="button"
-            class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600"
-            @click="router.push({ name: 'words' })"
-          >
-            <span class="text-xl">←</span><span>退出</span>
-          </button>
+          <div class="flex items-center gap-2 shrink-0">
+            <button
+              type="button"
+              class="flex items-center gap-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600"
+              @click="router.push({ name: 'words' })"
+            >
+              <span class="text-xl">←</span><span>退出</span>
+            </button>
+            <button
+              type="button"
+              class="text-xs px-2 py-1 rounded-lg border border-slate-200 dark:border-slate-600 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700"
+              title="清除本地进度并从第一题开始"
+              @click="restartFromBeginning"
+            >
+              从头开始
+            </button>
+          </div>
           <h1 class="text-lg font-semibold text-slate-800 dark:text-white">
             {{ level.toUpperCase() }} 单词打字
           </h1>

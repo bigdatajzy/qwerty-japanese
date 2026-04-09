@@ -4,7 +4,7 @@
   "sets": [
     {
       "id": "jlpt-n5-vocabulary",
-      "title": "JLPT N5 单词（GitHub 词表）",
+      "title": "JLPT N5 单词",
       "level": "N5",
       "description": "JLPT_Vocabulary",
       "wordCount": 700,
@@ -27,7 +27,7 @@
     },
     {
       "id": "jlpt-n4-vocabulary",
-      "title": "JLPT N4 单词（GitHub 词表）",
+      "title": "JLPT N4 单词",
       "level": "N4",
       "description": "JLPT_Vocabulary",
       "wordCount": 649,
@@ -49,7 +49,7 @@
     },
     {
       "id": "jlpt-n3-vocabulary",
-      "title": "JLPT N3 单词（GitHub 词表）",
+      "title": "JLPT N3 单词",
       "level": "N3",
       "description": "JLPT_Vocabulary",
       "wordCount": 1835,
@@ -95,7 +95,7 @@
     },
     {
       "id": "jlpt-n2-vocabulary",
-      "title": "JLPT N2 单词（GitHub 词表）",
+      "title": "JLPT N2 单词",
       "level": "N2",
       "description": "JLPT_Vocabulary",
       "wordCount": 1846,
@@ -141,7 +141,7 @@
     },
     {
       "id": "jlpt-n1-vocabulary",
-      "title": "JLPT N1 单词（GitHub 词表）",
+      "title": "JLPT N1 单词",
       "level": "N1",
       "description": "JLPT_Vocabulary",
       "wordCount": 3475,

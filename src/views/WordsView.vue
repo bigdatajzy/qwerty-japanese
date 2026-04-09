@@ -1,9 +1,21 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
-import { useRouter } from 'vue-router'
+import { ref, computed, onMounted, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 import { fetchWordsManifest } from '@/api/wordsData'
+import { getWordPracticeResumeLabels } from '@/utils/wordPracticeProgress'
 
 const router = useRouter()
+const route = useRoute()
+
+/** 从练习页返回时刷新本页展示的「上次进度」 */
+const resumeTick = ref(0)
+watch(
+  () => route.name,
+  (n) => {
+    if (n === 'words') resumeTick.value++
+  },
+  { immediate: true },
+)
 
 /** 与 word-practice 路由 query.mode 对齐：order → 顺序，其它 → 随机 */
 const practiceOrder = ref<'random' | 'sequential'>('random')
@@ -49,6 +61,20 @@ function startPractice(level: WordLevel) {
     })
   }
 }
+
+/** 本地保存的练习进度（顺序 / 随机各一份） */
+const resumeHints = computed(() => {
+  void resumeTick.value
+  const o: Record<string, string> = {}
+  for (const l of levels.value) {
+    const { sequential, random } = getWordPracticeResumeLabels(l.id)
+    const parts: string[] = []
+    if (sequential) parts.push(`顺序 ${sequential}`)
+    if (random) parts.push(`随机 ${random}`)
+    o[l.id] = parts.length ? `上次进度：${parts.join(' · ')}` : ''
+  }
+  return o
+})
 </script>
 
 <template>
@@ -111,6 +137,12 @@ function startPractice(level: WordLevel) {
             <div>
               <h3 class="text-xl font-semibold text-slate-800 dark:text-white">{{ item.name }}</h3>
               <p class="text-sm text-slate-500 dark:text-slate-400 mt-1">{{ item.description }}</p>
+              <p
+                v-if="resumeHints[item.id]"
+                class="text-xs text-emerald-600 dark:text-emerald-400 mt-1.5"
+              >
+                {{ resumeHints[item.id] }}
+              </p>
             </div>
             <div class="text-right">
               <span v-if="item.wordCount > 0" class="inline-flex items-center justify-center w-12 h-12 rounded-full bg-emerald-100 dark:bg-emerald-900 text-emerald-600 dark:text-emerald-300 font-bold">
