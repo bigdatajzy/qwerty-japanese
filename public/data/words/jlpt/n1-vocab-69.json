@@ -1,0 +1,352 @@
+[
+  {
+    "id": "3401",
+    "hiragana": "ナンセンス",
+    "kanji": "ナンセンス",
+    "meaning": "",
+    "romaji": "nansensu"
+  },
+  {
+    "id": "3402",
+    "hiragana": "ニュー",
+    "kanji": "ニュー",
+    "meaning": "",
+    "romaji": "nyuu"
+  },
+  {
+    "id": "3403",
+    "hiragana": "ニュアンス",
+    "kanji": "ニュアンス",
+    "meaning": "",
+    "romaji": "nyuansu"
+  },
+  {
+    "id": "3404",
+    "hiragana": "ネガ",
+    "kanji": "ネガ",
+    "meaning": "",
+    "romaji": "nega"
+  },
+  {
+    "id": "3405",
+    "hiragana": "ノイローゼ",
+    "kanji": "ノイローゼ",
+    "meaning": "",
+    "romaji": "noirooze"
+  },
+  {
+    "id": "3406",
+    "hiragana": "ハンガー",
+    "kanji": "ハンガー",
+    "meaning": "",
+    "romaji": "hangaa"
+  },
+  {
+    "id": "3407",
+    "hiragana": "バー",
+    "kanji": "バー",
+    "meaning": "",
+    "romaji": "baa"
+  },
+  {
+    "id": "3408",
+    "hiragana": "バッジ",
+    "kanji": "バッジ",
+    "meaning": "",
+    "romaji": "bajji"
+  },
+  {
+    "id": "3409",
+    "hiragana": "バット",
+    "kanji": "バット",
+    "meaning": "",
+    "romaji": "batto"
+  },
+  {
+    "id": "3410",
+    "hiragana": "パジャマ",
+    "kanji": "パジャマ",
+    "meaning": "",
+    "romaji": "pajama"
+  },
+  {
+    "id": "3411",
+    "hiragana": "パチンコ",
+    "kanji": "パチンコ",
+    "meaning": "",
+    "romaji": "pachinko"
+  },
+  {
+    "id": "3412",
+    "hiragana": "パトカー",
+    "kanji": "パトカー",
+    "meaning": "",
+    "romaji": "patokaa"
+  },
+  {
+    "id": "3413",
+    "hiragana": "パンク",
+    "kanji": "パンク",
+    "meaning": "",
+    "romaji": "panku"
+  },
+  {
+    "id": "3414",
+    "hiragana": "ヒント",
+    "kanji": "ヒント",
+    "meaning": "",
+    "romaji": "hinto"
+  },
+  {
+    "id": "3415",
+    "hiragana": "ビールス",
+    "kanji": "ビールス",
+    "meaning": "",
+    "romaji": "biirusu"
+  },
+  {
+    "id": "3416",
+    "hiragana": "ビジネス",
+    "kanji": "ビジネス",
+    "meaning": "",
+    "romaji": "bijinesu"
+  },
+  {
+    "id": "3417",
+    "hiragana": "ファイト",
+    "kanji": "ファイト",
+    "meaning": "",
+    "romaji": "fuaito"
+  },
+  {
+    "id": "3418",
+    "hiragana": "ファイル",
+    "kanji": "ファイル",
+    "meaning": "",
+    "romaji": "fuairu"
+  },
+  {
+    "id": "3419",
+    "hiragana": "ファン",
+    "kanji": "ファン",
+    "meaning": "",
+    "romaji": "fuan"
+  },
+  {
+    "id": "3420",
+    "hiragana": "フィルター",
+    "kanji": "フィルター",
+    "meaning": "",
+    "romaji": "fyirutaa"
+  },
+  {
+    "id": "3421",
+    "hiragana": "フェリー",
+    "kanji": "フェリー",
+    "meaning": "",
+    "romaji": "fyerii"
+  },
+  {
+    "id": "3422",
+    "hiragana": "フォーム",
+    "kanji": "フォーム",
+    "meaning": "",
+    "romaji": "fuoomu"
+  },
+  {
+    "id": "3423",
+    "hiragana": "フロント",
+    "kanji": "フロント",
+    "meaning": "",
+    "romaji": "furonto"
+  },
+  {
+    "id": "3424",
+    "hiragana": "ブーツ",
+    "kanji": "ブーツ",
+    "meaning": "",
+    "romaji": "buutsu"
+  },
+  {
+    "id": "3425",
+    "hiragana": "ブーム",
+    "kanji": "ブーム",
+    "meaning": "",
+    "romaji": "buumu"
+  },
+  {
+    "id": "3426",
+    "hiragana": "ブザー",
+    "kanji": "ブザー",
+    "meaning": "",
+    "romaji": "buzaa"
+  },
+  {
+    "id": "3427",
+    "hiragana": "ブルー",
+    "kanji": "ブルー",
+    "meaning": "",
+    "romaji": "buruu"
+  },
+  {
+    "id": "3428",
+    "hiragana": "ベース",
+    "kanji": "ベース",
+    "meaning": "",
+    "romaji": "beesu"
+  },
+  {
+    "id": "3429",
+    "hiragana": "ベスト",
+    "kanji": "ベスト",
+    "meaning": "",
+    "romaji": "besuto"
+  },
+  {
+    "id": "3430",
+    "hiragana": "ベストセラー",
+    "kanji": "ベストセラー",
+    "meaning": "",
+    "romaji": "besutoseraa"
+  },
+  {
+    "id": "3431",
+    "hiragana": "ペア",
+    "kanji": "ペア",
+    "meaning": "",
+    "romaji": "pea"
+  },
+  {
+    "id": "3432",
+    "hiragana": "ホース",
+    "kanji": "ホース",
+    "meaning": "",
+    "romaji": "hoosu"
+  },
+  {
+    "id": "3433",
+    "hiragana": "ホール",
+    "kanji": "ホール",
+    "meaning": "",
+    "romaji": "hooru"
+  },
+  {
+    "id": "3434",
+    "hiragana": "ボイコット",
+    "kanji": "ボイコット",
+    "meaning": "",
+    "romaji": "boikotto"
+  },
+  {
+    "id": "3435",
+    "hiragana": "ボルト",
+    "kanji": "ボルト",
+    "meaning": "",
+    "romaji": "boruto"
+  },
+  {
+    "id": "3436",
+    "hiragana": "ポーズ",
+    "kanji": "ポーズ",
+    "meaning": "",
+    "romaji": "poozu"
+  },
+  {
+    "id": "3437",
+    "hiragana": "ポイント",
+    "kanji": "ポイント",
+    "meaning": "",
+    "romaji": "pointo"
+  },
+  {
+    "id": "3438",
+    "hiragana": "ポジション",
+    "kanji": "ポジション",
+    "meaning": "",
+    "romaji": "pojishon"
+  },
+  {
+    "id": "3439",
+    "hiragana": "ポット",
+    "kanji": "ポット",
+    "meaning": "",
+    "romaji": "potto"
+  },
+  {
+    "id": "3440",
+    "hiragana": "ポンプ",
+    "kanji": "ポンプ",
+    "meaning": "",
+    "romaji": "ponpu"
+  },
+  {
+    "id": "3441",
+    "hiragana": "マーク",
+    "kanji": "マーク",
+    "meaning": "",
+    "romaji": "maaku"
+  },
+  {
+    "id": "3442",
+    "hiragana": "マスコミ",
+    "kanji": "マスコミ",
+    "meaning": "",
+    "romaji": "masukomi"
+  },
+  {
+    "id": "3443",
+    "hiragana": "マッサージ",
+    "kanji": "マッサージ",
+    "meaning": "",
+    "romaji": "massaaji"
+  },
+  {
+    "id": "3444",
+    "hiragana": "ミスプリント",
+    "kanji": "ミスプリント",
+    "meaning": "",
+    "romaji": "misupurinto"
+  },
+  {
+    "id": "3445",
+    "hiragana": "ミセス",
+    "kanji": "ミセス",
+    "meaning": "",
+    "romaji": "misesu"
+  },
+  {
+    "id": "3446",
+    "hiragana": "ミュージック",
+    "kanji": "ミュージック",
+    "meaning": "",
+    "romaji": "myuujikku"
+  },
+  {
+    "id": "3447",
+    "hiragana": "ミリ",
+    "kanji": "ミリ",
+    "meaning": "",
+    "romaji": "miri"
+  },
+  {
+    "id": "3448",
+    "hiragana": "ムード",
+    "kanji": "ムード",
+    "meaning": "",
+    "romaji": "muudo"
+  },
+  {
+    "id": "3449",
+    "hiragana": "メーカー",
+    "kanji": "メーカー",
+    "meaning": "",
+    "romaji": "meekaa"
+  },
+  {
+    "id": "3450",
+    "hiragana": "メッセージ",
+    "kanji": "メッセージ",
+    "meaning": "",
+    "romaji": "messeeji"
+  }
+]

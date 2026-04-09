@@ -1,0 +1,352 @@
+[
+  {
+    "id": "51",
+    "hiragana": "あたりまえ",
+    "kanji": "当たり前",
+    "meaning": "",
+    "romaji": "atarimae"
+  },
+  {
+    "id": "52",
+    "hiragana": "あだびと",
+    "kanji": "他人",
+    "meaning": "",
+    "romaji": "adabito"
+  },
+  {
+    "id": "53",
+    "hiragana": "あちこち",
+    "kanji": "彼方此方",
+    "meaning": "",
+    "romaji": "achikochi"
+  },
+  {
+    "id": "54",
+    "hiragana": "あちら",
+    "kanji": "彼方",
+    "meaning": "",
+    "romaji": "achira"
+  },
+  {
+    "id": "55",
+    "hiragana": "あちらこちら",
+    "kanji": "彼方此方",
+    "meaning": "",
+    "romaji": "achirakochira"
+  },
+  {
+    "id": "56",
+    "hiragana": "あっか",
+    "kanji": "悪化",
+    "meaning": "",
+    "romaji": "akka"
+  },
+  {
+    "id": "57",
+    "hiragana": "あっけない",
+    "kanji": "呆気ない",
+    "meaning": "",
+    "romaji": "akkenai"
+  },
+  {
+    "id": "58",
+    "hiragana": "あっこう",
+    "kanji": "悪口",
+    "meaning": "",
+    "romaji": "akkou"
+  },
+  {
+    "id": "59",
+    "hiragana": "あっさり",
+    "kanji": "あっさり",
+    "meaning": "",
+    "romaji": "assari"
+  },
+  {
+    "id": "60",
+    "hiragana": "あっぱく",
+    "kanji": "圧迫",
+    "meaning": "",
+    "romaji": "appaku"
+  },
+  {
+    "id": "61",
+    "hiragana": "あつかい",
+    "kanji": "扱い",
+    "meaning": "",
+    "romaji": "atsukai"
+  },
+  {
+    "id": "62",
+    "hiragana": "あつまる",
+    "kanji": "集まる",
+    "meaning": "",
+    "romaji": "atsumaru"
+  },
+  {
+    "id": "63",
+    "hiragana": "あつらえる",
+    "kanji": "誂える",
+    "meaning": "",
+    "romaji": "atsuraeru"
+  },
+  {
+    "id": "64",
+    "hiragana": "あつりょく",
+    "kanji": "圧力",
+    "meaning": "",
+    "romaji": "atsuryoku"
+  },
+  {
+    "id": "65",
+    "hiragana": "あて",
+    "kanji": "当て",
+    "meaning": "",
+    "romaji": "ate"
+  },
+  {
+    "id": "66",
+    "hiragana": "あて",
+    "kanji": "宛",
+    "meaning": "",
+    "romaji": "ate"
+  },
+  {
+    "id": "67",
+    "hiragana": "あてじ",
+    "kanji": "当て字",
+    "meaning": "",
+    "romaji": "ateji"
+  },
+  {
+    "id": "68",
+    "hiragana": "あてはまる",
+    "kanji": "当てはまる",
+    "meaning": "",
+    "romaji": "atehamaru"
+  },
+  {
+    "id": "69",
+    "hiragana": "あてはめる",
+    "kanji": "当てはめる",
+    "meaning": "",
+    "romaji": "atehameru"
+  },
+  {
+    "id": "70",
+    "hiragana": "あてる",
+    "kanji": "宛てる",
+    "meaning": "",
+    "romaji": "ateru"
+  },
+  {
+    "id": "71",
+    "hiragana": "あとつぎ",
+    "kanji": "跡継ぎ",
+    "meaning": "",
+    "romaji": "atotsugi"
+  },
+  {
+    "id": "72",
+    "hiragana": "あとまわし",
+    "kanji": "後回し",
+    "meaning": "",
+    "romaji": "atomawashi"
+  },
+  {
+    "id": "73",
+    "hiragana": "あなた",
+    "kanji": "貴女",
+    "meaning": "",
+    "romaji": "anata"
+  },
+  {
+    "id": "74",
+    "hiragana": "あの",
+    "kanji": "彼の",
+    "meaning": "",
+    "romaji": "ano"
+  },
+  {
+    "id": "75",
+    "hiragana": "あふれる",
+    "kanji": "溢れる",
+    "meaning": "",
+    "romaji": "afureru"
+  },
+  {
+    "id": "76",
+    "hiragana": "あぶらえ",
+    "kanji": "油絵",
+    "meaning": "",
+    "romaji": "aburae"
+  },
+  {
+    "id": "77",
+    "hiragana": "あぶる",
+    "kanji": "炙る",
+    "meaning": "",
+    "romaji": "aburu"
+  },
+  {
+    "id": "78",
+    "hiragana": "あべこべ",
+    "kanji": "あべこべ",
+    "meaning": "",
+    "romaji": "abekobe"
+  },
+  {
+    "id": "79",
+    "hiragana": "あまえる",
+    "kanji": "甘える",
+    "meaning": "",
+    "romaji": "amaeru"
+  },
+  {
+    "id": "80",
+    "hiragana": "あまくち",
+    "kanji": "甘口",
+    "meaning": "",
+    "romaji": "amakuchi"
+  },
+  {
+    "id": "81",
+    "hiragana": "あまぐ",
+    "kanji": "雨具",
+    "meaning": "",
+    "romaji": "amagu"
+  },
+  {
+    "id": "82",
+    "hiragana": "あまつ",
+    "kanji": "天",
+    "meaning": "",
+    "romaji": "amatsu"
+  },
+  {
+    "id": "83",
+    "hiragana": "あみ",
+    "kanji": "網",
+    "meaning": "",
+    "romaji": "ami"
+  },
+  {
+    "id": "84",
+    "hiragana": "あめつち",
+    "kanji": "天地",
+    "meaning": "",
+    "romaji": "ametsuchi"
+  },
+  {
+    "id": "85",
+    "hiragana": "あやつる",
+    "kanji": "操る",
+    "meaning": "",
+    "romaji": "ayatsuru"
+  },
+  {
+    "id": "86",
+    "hiragana": "あやふや",
+    "kanji": "あやふや",
+    "meaning": "",
+    "romaji": "ayafuya"
+  },
+  {
+    "id": "87",
+    "hiragana": "あやぶむ",
+    "kanji": "危ぶむ",
+    "meaning": "",
+    "romaji": "ayabumu"
+  },
+  {
+    "id": "88",
+    "hiragana": "あやまち",
+    "kanji": "過ち",
+    "meaning": "",
+    "romaji": "ayamachi"
+  },
+  {
+    "id": "89",
+    "hiragana": "あやまる",
+    "kanji": "誤る",
+    "meaning": "",
+    "romaji": "ayamaru"
+  },
+  {
+    "id": "90",
+    "hiragana": "あゆみ",
+    "kanji": "歩み",
+    "meaning": "",
+    "romaji": "ayumi"
+  },
+  {
+    "id": "91",
+    "hiragana": "あゆむ",
+    "kanji": "歩む",
+    "meaning": "",
+    "romaji": "ayumu"
+  },
+  {
+    "id": "92",
+    "hiragana": "あら",
+    "kanji": "あら",
+    "meaning": "",
+    "romaji": "ara"
+  },
+  {
+    "id": "93",
+    "hiragana": "あらかじめ",
+    "kanji": "予め",
+    "meaning": "",
+    "romaji": "arakajime"
+  },
+  {
+    "id": "94",
+    "hiragana": "あらす",
+    "kanji": "荒らす",
+    "meaning": "",
+    "romaji": "arasu"
+  },
+  {
+    "id": "95",
+    "hiragana": "あらすじ",
+    "kanji": "粗筋",
+    "meaning": "",
+    "romaji": "arasuji"
+  },
+  {
+    "id": "96",
+    "hiragana": "あらそい",
+    "kanji": "争い",
+    "meaning": "",
+    "romaji": "arasoi"
+  },
+  {
+    "id": "97",
+    "hiragana": "あらたまる",
+    "kanji": "改まる",
+    "meaning": "",
+    "romaji": "aratamaru"
+  },
+  {
+    "id": "98",
+    "hiragana": "あらっぽい",
+    "kanji": "荒っぽい",
+    "meaning": "",
+    "romaji": "arappoi"
+  },
+  {
+    "id": "99",
+    "hiragana": "あらゆる",
+    "kanji": "凡ゆる",
+    "meaning": "",
+    "romaji": "arayuru"
+  },
+  {
+    "id": "100",
+    "hiragana": "あられ",
+    "kanji": "あられ",
+    "meaning": "",
+    "romaji": "arare"
+  }
+]

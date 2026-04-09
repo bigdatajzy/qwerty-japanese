@@ -1,0 +1,352 @@
+[
+  {
+    "id": "251",
+    "hiragana": "かい",
+    "kanji": "回",
+    "meaning": "",
+    "romaji": "kai"
+  },
+  {
+    "id": "252",
+    "hiragana": "がい",
+    "kanji": "害",
+    "meaning": "",
+    "romaji": "gai"
+  },
+  {
+    "id": "253",
+    "hiragana": "かいいん",
+    "kanji": "会員",
+    "meaning": "",
+    "romaji": "kaiin"
+  },
+  {
+    "id": "254",
+    "hiragana": "かいが",
+    "kanji": "絵画",
+    "meaning": "",
+    "romaji": "kaiga"
+  },
+  {
+    "id": "255",
+    "hiragana": "かいがい",
+    "kanji": "海外",
+    "meaning": "",
+    "romaji": "kaigai"
+  },
+  {
+    "id": "256",
+    "hiragana": "かいけい",
+    "kanji": "会計",
+    "meaning": "",
+    "romaji": "kaikei"
+  },
+  {
+    "id": "257",
+    "hiragana": "かいけつ",
+    "kanji": "解決",
+    "meaning": "",
+    "romaji": "kaiketsu"
+  },
+  {
+    "id": "258",
+    "hiragana": "かいごう",
+    "kanji": "会合",
+    "meaning": "",
+    "romaji": "kaigou"
+  },
+  {
+    "id": "259",
+    "hiragana": "がいこう",
+    "kanji": "外交",
+    "meaning": "",
+    "romaji": "gaikou"
+  },
+  {
+    "id": "260",
+    "hiragana": "かいし",
+    "kanji": "開始",
+    "meaning": "",
+    "romaji": "kaishi"
+  },
+  {
+    "id": "261",
+    "hiragana": "かいしゃく",
+    "kanji": "解釈",
+    "meaning": "",
+    "romaji": "kaishaku"
+  },
+  {
+    "id": "262",
+    "hiragana": "がいしゅつ",
+    "kanji": "外出",
+    "meaning": "",
+    "romaji": "gaishutsu"
+  },
+  {
+    "id": "263",
+    "hiragana": "かいぜん",
+    "kanji": "改善",
+    "meaning": "",
+    "romaji": "kaizen"
+  },
+  {
+    "id": "264",
+    "hiragana": "かいてき",
+    "kanji": "快適",
+    "meaning": "",
+    "romaji": "kaiteki"
+  },
+  {
+    "id": "265",
+    "hiragana": "かいふく",
+    "kanji": "回復",
+    "meaning": "",
+    "romaji": "kaifuku"
+  },
+  {
+    "id": "266",
+    "hiragana": "かう",
+    "kanji": "飼う",
+    "meaning": "",
+    "romaji": "kau"
+  },
+  {
+    "id": "267",
+    "hiragana": "かえる",
+    "kanji": "替える",
+    "meaning": "",
+    "romaji": "kaeru"
+  },
+  {
+    "id": "268",
+    "hiragana": "かえる",
+    "kanji": "換える",
+    "meaning": "",
+    "romaji": "kaeru"
+  },
+  {
+    "id": "269",
+    "hiragana": "かおり",
+    "kanji": "香り",
+    "meaning": "",
+    "romaji": "kaori"
+  },
+  {
+    "id": "270",
+    "hiragana": "がか",
+    "kanji": "画家",
+    "meaning": "",
+    "romaji": "gaka"
+  },
+  {
+    "id": "271",
+    "hiragana": "かかえる",
+    "kanji": "抱える",
+    "meaning": "",
+    "romaji": "kakaeru"
+  },
+  {
+    "id": "272",
+    "hiragana": "かかく",
+    "kanji": "価格",
+    "meaning": "",
+    "romaji": "kakaku"
+  },
+  {
+    "id": "273",
+    "hiragana": "かがく",
+    "kanji": "化学",
+    "meaning": "",
+    "romaji": "kagaku"
+  },
+  {
+    "id": "274",
+    "hiragana": "かがやく",
+    "kanji": "輝く",
+    "meaning": "",
+    "romaji": "kagayaku"
+  },
+  {
+    "id": "275",
+    "hiragana": "かかり",
+    "kanji": "係",
+    "meaning": "",
+    "romaji": "kakari"
+  },
+  {
+    "id": "276",
+    "hiragana": "かかる",
+    "kanji": "掛かる",
+    "meaning": "",
+    "romaji": "kakaru"
+  },
+  {
+    "id": "277",
+    "hiragana": "かかる",
+    "kanji": "罹る",
+    "meaning": "",
+    "romaji": "kakaru"
+  },
+  {
+    "id": "278",
+    "hiragana": "かぎ",
+    "kanji": "鍵",
+    "meaning": "",
+    "romaji": "kagi"
+  },
+  {
+    "id": "279",
+    "hiragana": "かぎる",
+    "kanji": "限る",
+    "meaning": "",
+    "romaji": "kagiru"
+  },
+  {
+    "id": "280",
+    "hiragana": "かく",
+    "kanji": "描く",
+    "meaning": "",
+    "romaji": "kaku"
+  },
+  {
+    "id": "281",
+    "hiragana": "かぐ",
+    "kanji": "家具",
+    "meaning": "",
+    "romaji": "kagu"
+  },
+  {
+    "id": "282",
+    "hiragana": "がく",
+    "kanji": "学",
+    "meaning": "",
+    "romaji": "gaku"
+  },
+  {
+    "id": "283",
+    "hiragana": "がく",
+    "kanji": "額",
+    "meaning": "",
+    "romaji": "gaku"
+  },
+  {
+    "id": "284",
+    "hiragana": "かくご",
+    "kanji": "覚悟",
+    "meaning": "",
+    "romaji": "kakugo"
+  },
+  {
+    "id": "285",
+    "hiragana": "かくじつ",
+    "kanji": "確実",
+    "meaning": "",
+    "romaji": "kakujitsu"
+  },
+  {
+    "id": "286",
+    "hiragana": "がくしゃ",
+    "kanji": "学者",
+    "meaning": "",
+    "romaji": "gakusha"
+  },
+  {
+    "id": "287",
+    "hiragana": "がくしゅう",
+    "kanji": "学習",
+    "meaning": "",
+    "romaji": "gakushuu"
+  },
+  {
+    "id": "288",
+    "hiragana": "かくす",
+    "kanji": "隠す",
+    "meaning": "",
+    "romaji": "kakusu"
+  },
+  {
+    "id": "289",
+    "hiragana": "かくだい",
+    "kanji": "拡大",
+    "meaning": "",
+    "romaji": "kakudai"
+  },
+  {
+    "id": "290",
+    "hiragana": "かくにん",
+    "kanji": "確認",
+    "meaning": "",
+    "romaji": "kakunin"
+  },
+  {
+    "id": "291",
+    "hiragana": "がくもん",
+    "kanji": "学問",
+    "meaning": "",
+    "romaji": "gakumon"
+  },
+  {
+    "id": "292",
+    "hiragana": "かくれる",
+    "kanji": "隠れる",
+    "meaning": "",
+    "romaji": "kakureru"
+  },
+  {
+    "id": "293",
+    "hiragana": "かげ",
+    "kanji": "影",
+    "meaning": "",
+    "romaji": "kage"
+  },
+  {
+    "id": "294",
+    "hiragana": "かげ",
+    "kanji": "陰",
+    "meaning": "",
+    "romaji": "kage"
+  },
+  {
+    "id": "295",
+    "hiragana": "かける",
+    "kanji": "欠ける",
+    "meaning": "",
+    "romaji": "kakeru"
+  },
+  {
+    "id": "296",
+    "hiragana": "かげん",
+    "kanji": "加減",
+    "meaning": "",
+    "romaji": "kagen"
+  },
+  {
+    "id": "297",
+    "hiragana": "かこ",
+    "kanji": "過去",
+    "meaning": "",
+    "romaji": "kako"
+  },
+  {
+    "id": "298",
+    "hiragana": "かご",
+    "kanji": "籠",
+    "meaning": "",
+    "romaji": "kago"
+  },
+  {
+    "id": "299",
+    "hiragana": "かこむ",
+    "kanji": "囲む",
+    "meaning": "",
+    "romaji": "kakomu"
+  },
+  {
+    "id": "300",
+    "hiragana": "かさい",
+    "kanji": "火災",
+    "meaning": "",
+    "romaji": "kasai"
+  }
+]

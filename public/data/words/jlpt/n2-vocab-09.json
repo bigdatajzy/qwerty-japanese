@@ -1,0 +1,352 @@
+[
+  {
+    "id": "401",
+    "hiragana": "ギャング",
+    "kanji": "ギャング",
+    "meaning": "",
+    "romaji": "gyangu"
+  },
+  {
+    "id": "402",
+    "hiragana": "キャンパス",
+    "kanji": "キャンパス",
+    "meaning": "",
+    "romaji": "kyanpasu"
+  },
+  {
+    "id": "403",
+    "hiragana": "きゅうぎょう",
+    "kanji": "休業",
+    "meaning": "",
+    "romaji": "kyuugyou"
+  },
+  {
+    "id": "404",
+    "hiragana": "きゅうこう",
+    "kanji": "休講",
+    "meaning": "",
+    "romaji": "kyuukou"
+  },
+  {
+    "id": "405",
+    "hiragana": "きゅうそく",
+    "kanji": "休息",
+    "meaning": "",
+    "romaji": "kyuusoku"
+  },
+  {
+    "id": "406",
+    "hiragana": "きゅうよ",
+    "kanji": "給与",
+    "meaning": "",
+    "romaji": "kyuuyo"
+  },
+  {
+    "id": "407",
+    "hiragana": "きゅうよう",
+    "kanji": "休養",
+    "meaning": "",
+    "romaji": "kyuuyou"
+  },
+  {
+    "id": "408",
+    "hiragana": "きよい",
+    "kanji": "清い",
+    "meaning": "",
+    "romaji": "kiyoi"
+  },
+  {
+    "id": "409",
+    "hiragana": "きょうか",
+    "kanji": "強化",
+    "meaning": "",
+    "romaji": "kyouka"
+  },
+  {
+    "id": "410",
+    "hiragana": "きょうかい",
+    "kanji": "境界",
+    "meaning": "",
+    "romaji": "kyoukai"
+  },
+  {
+    "id": "411",
+    "hiragana": "ぎょうじ",
+    "kanji": "行事",
+    "meaning": "",
+    "romaji": "gyouji"
+  },
+  {
+    "id": "412",
+    "hiragana": "きょうしゅく",
+    "kanji": "恐縮",
+    "meaning": "",
+    "romaji": "kyoushuku"
+  },
+  {
+    "id": "413",
+    "hiragana": "きょうよう",
+    "kanji": "教養",
+    "meaning": "",
+    "romaji": "kyouyou"
+  },
+  {
+    "id": "414",
+    "hiragana": "ぎょうれつ",
+    "kanji": "行列",
+    "meaning": "",
+    "romaji": "gyouretsu"
+  },
+  {
+    "id": "415",
+    "hiragana": "ぎょぎょう",
+    "kanji": "漁業",
+    "meaning": "",
+    "romaji": "gyogyou"
+  },
+  {
+    "id": "416",
+    "hiragana": "きょくせん",
+    "kanji": "曲線",
+    "meaning": "",
+    "romaji": "kyokusen"
+  },
+  {
+    "id": "417",
+    "hiragana": "きりつ",
+    "kanji": "規律",
+    "meaning": "",
+    "romaji": "kiritsu"
+  },
+  {
+    "id": "418",
+    "hiragana": "きる",
+    "kanji": "斬る",
+    "meaning": "",
+    "romaji": "kiru"
+  },
+  {
+    "id": "419",
+    "hiragana": "きをつける",
+    "kanji": "気を付ける",
+    "meaning": "",
+    "romaji": "kiwotsukeru"
+  },
+  {
+    "id": "420",
+    "hiragana": "きんぎょ",
+    "kanji": "金魚",
+    "meaning": "",
+    "romaji": "kingyo"
+  },
+  {
+    "id": "421",
+    "hiragana": "くいき",
+    "kanji": "区域",
+    "meaning": "",
+    "romaji": "kuiki"
+  },
+  {
+    "id": "422",
+    "hiragana": "ぐうすう",
+    "kanji": "偶数",
+    "meaning": "",
+    "romaji": "guusuu"
+  },
+  {
+    "id": "423",
+    "hiragana": "くうそう",
+    "kanji": "空想",
+    "meaning": "",
+    "romaji": "kuusou"
+  },
+  {
+    "id": "424",
+    "hiragana": "くうちゅう",
+    "kanji": "空中",
+    "meaning": "",
+    "romaji": "kuuchuu"
+  },
+  {
+    "id": "425",
+    "hiragana": "クーラー",
+    "kanji": "クーラー",
+    "meaning": "",
+    "romaji": "kuuraa"
+  },
+  {
+    "id": "426",
+    "hiragana": "くぎ",
+    "kanji": "釘",
+    "meaning": "",
+    "romaji": "kugi"
+  },
+  {
+    "id": "427",
+    "hiragana": "くぎる",
+    "kanji": "区切る",
+    "meaning": "",
+    "romaji": "kugiru"
+  },
+  {
+    "id": "428",
+    "hiragana": "くし",
+    "kanji": "櫛",
+    "meaning": "",
+    "romaji": "kushi"
+  },
+  {
+    "id": "429",
+    "hiragana": "くしゃみ",
+    "kanji": "くしゃみ",
+    "meaning": "",
+    "romaji": "kushami"
+  },
+  {
+    "id": "430",
+    "hiragana": "くじょう",
+    "kanji": "苦情",
+    "meaning": "",
+    "romaji": "kujou"
+  },
+  {
+    "id": "431",
+    "hiragana": "くしん",
+    "kanji": "苦心",
+    "meaning": "",
+    "romaji": "kushin"
+  },
+  {
+    "id": "432",
+    "hiragana": "くず",
+    "kanji": "屑",
+    "meaning": "",
+    "romaji": "kuzu"
+  },
+  {
+    "id": "433",
+    "hiragana": "くずす",
+    "kanji": "崩す",
+    "meaning": "",
+    "romaji": "kuzusu"
+  },
+  {
+    "id": "434",
+    "hiragana": "くすりゆび",
+    "kanji": "薬指",
+    "meaning": "",
+    "romaji": "kusuriyubi"
+  },
+  {
+    "id": "435",
+    "hiragana": "くずれる",
+    "kanji": "崩れる",
+    "meaning": "",
+    "romaji": "kuzureru"
+  },
+  {
+    "id": "436",
+    "hiragana": "くだく",
+    "kanji": "砕く",
+    "meaning": "",
+    "romaji": "kudaku"
+  },
+  {
+    "id": "437",
+    "hiragana": "くだける",
+    "kanji": "砕ける",
+    "meaning": "",
+    "romaji": "kudakeru"
+  },
+  {
+    "id": "438",
+    "hiragana": "くたびれる",
+    "kanji": "くたびれる",
+    "meaning": "",
+    "romaji": "kutabireru"
+  },
+  {
+    "id": "439",
+    "hiragana": "くだらない",
+    "kanji": "くだらない",
+    "meaning": "",
+    "romaji": "kudaranai"
+  },
+  {
+    "id": "440",
+    "hiragana": "くだる",
+    "kanji": "下る",
+    "meaning": "",
+    "romaji": "kudaru"
+  },
+  {
+    "id": "441",
+    "hiragana": "くちびる",
+    "kanji": "唇",
+    "meaning": "",
+    "romaji": "kuchibiru"
+  },
+  {
+    "id": "442",
+    "hiragana": "くちべに",
+    "kanji": "口紅",
+    "meaning": "",
+    "romaji": "kuchibeni"
+  },
+  {
+    "id": "443",
+    "hiragana": "くっつく",
+    "kanji": "くっつく",
+    "meaning": "",
+    "romaji": "kuttsuku"
+  },
+  {
+    "id": "444",
+    "hiragana": "くっつける",
+    "kanji": "くっつける",
+    "meaning": "",
+    "romaji": "kuttsukeru"
+  },
+  {
+    "id": "445",
+    "hiragana": "くどい",
+    "kanji": "くどい",
+    "meaning": "",
+    "romaji": "kudoi"
+  },
+  {
+    "id": "446",
+    "hiragana": "くとうてん",
+    "kanji": "句読点",
+    "meaning": "",
+    "romaji": "kutouten"
+  },
+  {
+    "id": "447",
+    "hiragana": "くばる",
+    "kanji": "配る",
+    "meaning": "",
+    "romaji": "kubaru"
+  },
+  {
+    "id": "448",
+    "hiragana": "くふう",
+    "kanji": "工夫",
+    "meaning": "",
+    "romaji": "kufuu"
+  },
+  {
+    "id": "449",
+    "hiragana": "くぶん",
+    "kanji": "区分",
+    "meaning": "",
+    "romaji": "kubun"
+  },
+  {
+    "id": "450",
+    "hiragana": "くみあわせ",
+    "kanji": "組合せ",
+    "meaning": "",
+    "romaji": "kumiawase"
+  }
+]

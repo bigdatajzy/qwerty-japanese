@@ -1,0 +1,352 @@
+[
+  {
+    "id": "3151",
+    "hiragana": "よい",
+    "kanji": "好い",
+    "meaning": "",
+    "romaji": "yoi"
+  },
+  {
+    "id": "3152",
+    "hiragana": "よういん",
+    "kanji": "要因",
+    "meaning": "",
+    "romaji": "youin"
+  },
+  {
+    "id": "3153",
+    "hiragana": "ようえき",
+    "kanji": "溶液",
+    "meaning": "",
+    "romaji": "youeki"
+  },
+  {
+    "id": "3154",
+    "hiragana": "ようけん",
+    "kanji": "用件",
+    "meaning": "",
+    "romaji": "youken"
+  },
+  {
+    "id": "3155",
+    "hiragana": "ようご",
+    "kanji": "養護",
+    "meaning": "",
+    "romaji": "yougo"
+  },
+  {
+    "id": "3156",
+    "hiragana": "ようし",
+    "kanji": "用紙",
+    "meaning": "",
+    "romaji": "youshi"
+  },
+  {
+    "id": "3157",
+    "hiragana": "ようしき",
+    "kanji": "様式",
+    "meaning": "",
+    "romaji": "youshiki"
+  },
+  {
+    "id": "3158",
+    "hiragana": "ようする",
+    "kanji": "要する",
+    "meaning": "",
+    "romaji": "yousuru"
+  },
+  {
+    "id": "3159",
+    "hiragana": "ようせい",
+    "kanji": "要請",
+    "meaning": "",
+    "romaji": "yousei"
+  },
+  {
+    "id": "3160",
+    "hiragana": "ようせい",
+    "kanji": "養成",
+    "meaning": "",
+    "romaji": "yousei"
+  },
+  {
+    "id": "3161",
+    "hiragana": "ようそう",
+    "kanji": "様相",
+    "meaning": "",
+    "romaji": "yousou"
+  },
+  {
+    "id": "3162",
+    "hiragana": "ようひん",
+    "kanji": "用品",
+    "meaning": "",
+    "romaji": "youhin"
+  },
+  {
+    "id": "3163",
+    "hiragana": "ようふう",
+    "kanji": "洋風",
+    "meaning": "",
+    "romaji": "youfuu"
+  },
+  {
+    "id": "3164",
+    "hiragana": "ようほう",
+    "kanji": "用法",
+    "meaning": "",
+    "romaji": "youhou"
+  },
+  {
+    "id": "3165",
+    "hiragana": "ようぼう",
+    "kanji": "要望",
+    "meaning": "",
+    "romaji": "youbou"
+  },
+  {
+    "id": "3166",
+    "hiragana": "よか",
+    "kanji": "余暇",
+    "meaning": "",
+    "romaji": "yoka"
+  },
+  {
+    "id": "3167",
+    "hiragana": "よかん",
+    "kanji": "予感",
+    "meaning": "",
+    "romaji": "yokan"
+  },
+  {
+    "id": "3168",
+    "hiragana": "よきょう",
+    "kanji": "余興",
+    "meaning": "",
+    "romaji": "yokyou"
+  },
+  {
+    "id": "3169",
+    "hiragana": "よきん",
+    "kanji": "預金",
+    "meaning": "",
+    "romaji": "yokin"
+  },
+  {
+    "id": "3170",
+    "hiragana": "よくあつ",
+    "kanji": "抑圧",
+    "meaning": "",
+    "romaji": "yokuatsu"
+  },
+  {
+    "id": "3171",
+    "hiragana": "よくしつ",
+    "kanji": "浴室",
+    "meaning": "",
+    "romaji": "yokushitsu"
+  },
+  {
+    "id": "3172",
+    "hiragana": "よくせい",
+    "kanji": "抑制",
+    "meaning": "",
+    "romaji": "yokusei"
+  },
+  {
+    "id": "3173",
+    "hiragana": "よくふかい",
+    "kanji": "欲深い",
+    "meaning": "",
+    "romaji": "yokufukai"
+  },
+  {
+    "id": "3174",
+    "hiragana": "よくぼう",
+    "kanji": "欲望",
+    "meaning": "",
+    "romaji": "yokubou"
+  },
+  {
+    "id": "3175",
+    "hiragana": "よこす",
+    "kanji": "寄こす",
+    "meaning": "",
+    "romaji": "yokosu"
+  },
+  {
+    "id": "3176",
+    "hiragana": "よこづな",
+    "kanji": "横綱",
+    "meaning": "",
+    "romaji": "yokozuna"
+  },
+  {
+    "id": "3177",
+    "hiragana": "よし",
+    "kanji": "葦",
+    "meaning": "",
+    "romaji": "yoshi"
+  },
+  {
+    "id": "3178",
+    "hiragana": "よしあし",
+    "kanji": "善し悪し",
+    "meaning": "",
+    "romaji": "yoshiashi"
+  },
+  {
+    "id": "3179",
+    "hiragana": "よそう",
+    "kanji": "予想",
+    "meaning": "",
+    "romaji": "yosou"
+  },
+  {
+    "id": "3180",
+    "hiragana": "よそみ",
+    "kanji": "余所見",
+    "meaning": "",
+    "romaji": "yosomi"
+  },
+  {
+    "id": "3181",
+    "hiragana": "よち",
+    "kanji": "余地",
+    "meaning": "",
+    "romaji": "yochi"
+  },
+  {
+    "id": "3182",
+    "hiragana": "よって",
+    "kanji": "依って",
+    "meaning": "",
+    "romaji": "yotte"
+  },
+  {
+    "id": "3183",
+    "hiragana": "よっぽど",
+    "kanji": "余程",
+    "meaning": "",
+    "romaji": "yoppodo"
+  },
+  {
+    "id": "3184",
+    "hiragana": "よとう",
+    "kanji": "与党",
+    "meaning": "",
+    "romaji": "yotou"
+  },
+  {
+    "id": "3185",
+    "hiragana": "よびとめる",
+    "kanji": "呼び止める",
+    "meaning": "",
+    "romaji": "yobitomeru"
+  },
+  {
+    "id": "3186",
+    "hiragana": "よふかし",
+    "kanji": "夜更かし",
+    "meaning": "",
+    "romaji": "yofukashi"
+  },
+  {
+    "id": "3187",
+    "hiragana": "よふけ",
+    "kanji": "夜更け",
+    "meaning": "",
+    "romaji": "yofuke"
+  },
+  {
+    "id": "3188",
+    "hiragana": "よみあげる",
+    "kanji": "読み上げる",
+    "meaning": "",
+    "romaji": "yomiageru"
+  },
+  {
+    "id": "3189",
+    "hiragana": "よりかかる",
+    "kanji": "寄り掛かる",
+    "meaning": "",
+    "romaji": "yorikakaru"
+  },
+  {
+    "id": "3190",
+    "hiragana": "よろしく",
+    "kanji": "宜しく",
+    "meaning": "",
+    "romaji": "yoroshiku"
+  },
+  {
+    "id": "3191",
+    "hiragana": "よわまる",
+    "kanji": "弱まる",
+    "meaning": "",
+    "romaji": "yowamaru"
+  },
+  {
+    "id": "3192",
+    "hiragana": "よわめる",
+    "kanji": "弱める",
+    "meaning": "",
+    "romaji": "yowameru"
+  },
+  {
+    "id": "3193",
+    "hiragana": "よわる",
+    "kanji": "弱る",
+    "meaning": "",
+    "romaji": "yowaru"
+  },
+  {
+    "id": "3194",
+    "hiragana": "らいじょう",
+    "kanji": "来場",
+    "meaning": "",
+    "romaji": "raijou"
+  },
+  {
+    "id": "3195",
+    "hiragana": "らくのう",
+    "kanji": "酪農",
+    "meaning": "",
+    "romaji": "rakunou"
+  },
+  {
+    "id": "3196",
+    "hiragana": "らっか",
+    "kanji": "落下",
+    "meaning": "",
+    "romaji": "rakka"
+  },
+  {
+    "id": "3197",
+    "hiragana": "らっかん",
+    "kanji": "楽観",
+    "meaning": "",
+    "romaji": "rakkan"
+  },
+  {
+    "id": "3198",
+    "hiragana": "らんよう",
+    "kanji": "濫用",
+    "meaning": "",
+    "romaji": "ran'you"
+  },
+  {
+    "id": "3199",
+    "hiragana": "りくつ",
+    "kanji": "理屈",
+    "meaning": "",
+    "romaji": "rikutsu"
+  },
+  {
+    "id": "3200",
+    "hiragana": "りこん",
+    "kanji": "利根",
+    "meaning": "",
+    "romaji": "rikon"
+  }
+]

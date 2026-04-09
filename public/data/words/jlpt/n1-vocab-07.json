@@ -1,0 +1,352 @@
+[
+  {
+    "id": "301",
+    "hiragana": "え",
+    "kanji": "重",
+    "meaning": "",
+    "romaji": "e"
+  },
+  {
+    "id": "302",
+    "hiragana": "えい",
+    "kanji": "えい",
+    "meaning": "",
+    "romaji": "ei"
+  },
+  {
+    "id": "303",
+    "hiragana": "えいしゃ",
+    "kanji": "映写",
+    "meaning": "",
+    "romaji": "eisha"
+  },
+  {
+    "id": "304",
+    "hiragana": "えいじ",
+    "kanji": "英字",
+    "meaning": "",
+    "romaji": "eiji"
+  },
+  {
+    "id": "305",
+    "hiragana": "えいせい",
+    "kanji": "衛生",
+    "meaning": "",
+    "romaji": "eisei"
+  },
+  {
+    "id": "306",
+    "hiragana": "えいぞう",
+    "kanji": "映像",
+    "meaning": "",
+    "romaji": "eizou"
+  },
+  {
+    "id": "307",
+    "hiragana": "えいゆう",
+    "kanji": "英雄",
+    "meaning": "",
+    "romaji": "eiyuu"
+  },
+  {
+    "id": "308",
+    "hiragana": "えき",
+    "kanji": "液",
+    "meaning": "",
+    "romaji": "eki"
+  },
+  {
+    "id": "309",
+    "hiragana": "えき",
+    "kanji": "役",
+    "meaning": "",
+    "romaji": "eki"
+  },
+  {
+    "id": "310",
+    "hiragana": "えつらん",
+    "kanji": "閲覧",
+    "meaning": "",
+    "romaji": "etsuran"
+  },
+  {
+    "id": "311",
+    "hiragana": "えもの",
+    "kanji": "獲物",
+    "meaning": "",
+    "romaji": "emono"
+  },
+  {
+    "id": "312",
+    "hiragana": "えり",
+    "kanji": "襟",
+    "meaning": "",
+    "romaji": "eri"
+  },
+  {
+    "id": "313",
+    "hiragana": "えん",
+    "kanji": "縁",
+    "meaning": "",
+    "romaji": "en"
+  },
+  {
+    "id": "314",
+    "hiragana": "えん",
+    "kanji": "塩",
+    "meaning": "",
+    "romaji": "en"
+  },
+  {
+    "id": "315",
+    "hiragana": "えん",
+    "kanji": "艶",
+    "meaning": "",
+    "romaji": "en"
+  },
+  {
+    "id": "316",
+    "hiragana": "えん",
+    "kanji": "園",
+    "meaning": "",
+    "romaji": "en"
+  },
+  {
+    "id": "317",
+    "hiragana": "えんかつ",
+    "kanji": "円滑",
+    "meaning": "",
+    "romaji": "enkatsu"
+  },
+  {
+    "id": "318",
+    "hiragana": "えんがわ",
+    "kanji": "縁側",
+    "meaning": "",
+    "romaji": "engawa"
+  },
+  {
+    "id": "319",
+    "hiragana": "えんがん",
+    "kanji": "沿岸",
+    "meaning": "",
+    "romaji": "engan"
+  },
+  {
+    "id": "320",
+    "hiragana": "えんきょく",
+    "kanji": "婉曲",
+    "meaning": "",
+    "romaji": "enkyoku"
+  },
+  {
+    "id": "321",
+    "hiragana": "えんしゅう",
+    "kanji": "演習",
+    "meaning": "",
+    "romaji": "enshuu"
+  },
+  {
+    "id": "322",
+    "hiragana": "えんしゅつ",
+    "kanji": "演出",
+    "meaning": "",
+    "romaji": "enshutsu"
+  },
+  {
+    "id": "323",
+    "hiragana": "えんじる",
+    "kanji": "演じる",
+    "meaning": "",
+    "romaji": "enjiru"
+  },
+  {
+    "id": "324",
+    "hiragana": "えんずる",
+    "kanji": "演ずる",
+    "meaning": "",
+    "romaji": "enzuru"
+  },
+  {
+    "id": "325",
+    "hiragana": "えんせん",
+    "kanji": "沿線",
+    "meaning": "",
+    "romaji": "ensen"
+  },
+  {
+    "id": "326",
+    "hiragana": "えんだん",
+    "kanji": "縁談",
+    "meaning": "",
+    "romaji": "endan"
+  },
+  {
+    "id": "327",
+    "hiragana": "えんぽう",
+    "kanji": "遠方",
+    "meaning": "",
+    "romaji": "enpou"
+  },
+  {
+    "id": "328",
+    "hiragana": "えんまん",
+    "kanji": "円満",
+    "meaning": "",
+    "romaji": "enman"
+  },
+  {
+    "id": "329",
+    "hiragana": "お",
+    "kanji": "尾",
+    "meaning": "",
+    "romaji": "o"
+  },
+  {
+    "id": "330",
+    "hiragana": "お",
+    "kanji": "於",
+    "meaning": "",
+    "romaji": "o"
+  },
+  {
+    "id": "331",
+    "hiragana": "おい",
+    "kanji": "甥",
+    "meaning": "",
+    "romaji": "oi"
+  },
+  {
+    "id": "332",
+    "hiragana": "おいこむ",
+    "kanji": "追い込む",
+    "meaning": "",
+    "romaji": "oikomu"
+  },
+  {
+    "id": "333",
+    "hiragana": "おいしい",
+    "kanji": "美味しい",
+    "meaning": "",
+    "romaji": "oishii"
+  },
+  {
+    "id": "334",
+    "hiragana": "おいだす",
+    "kanji": "追い出す",
+    "meaning": "",
+    "romaji": "oidasu"
+  },
+  {
+    "id": "335",
+    "hiragana": "おいて",
+    "kanji": "於いて",
+    "meaning": "",
+    "romaji": "oite"
+  },
+  {
+    "id": "336",
+    "hiragana": "おいでになる",
+    "kanji": "お出でになる",
+    "meaning": "",
+    "romaji": "oideninaru"
+  },
+  {
+    "id": "337",
+    "hiragana": "おいる",
+    "kanji": "老いる",
+    "meaning": "",
+    "romaji": "oiru"
+  },
+  {
+    "id": "338",
+    "hiragana": "おう",
+    "kanji": "負う",
+    "meaning": "",
+    "romaji": "ou"
+  },
+  {
+    "id": "339",
+    "hiragana": "おうきゅう",
+    "kanji": "応急",
+    "meaning": "",
+    "romaji": "oukyuu"
+  },
+  {
+    "id": "340",
+    "hiragana": "おうごん",
+    "kanji": "黄金",
+    "meaning": "",
+    "romaji": "ougon"
+  },
+  {
+    "id": "341",
+    "hiragana": "おうしょく",
+    "kanji": "黄色",
+    "meaning": "",
+    "romaji": "oushoku"
+  },
+  {
+    "id": "342",
+    "hiragana": "おうぼ",
+    "kanji": "応募",
+    "meaning": "",
+    "romaji": "oubo"
+  },
+  {
+    "id": "343",
+    "hiragana": "おおい",
+    "kanji": "おおい",
+    "meaning": "",
+    "romaji": "ooi"
+  },
+  {
+    "id": "344",
+    "hiragana": "おおかた",
+    "kanji": "大方",
+    "meaning": "",
+    "romaji": "ookata"
+  },
+  {
+    "id": "345",
+    "hiragana": "おおがら",
+    "kanji": "大柄",
+    "meaning": "",
+    "romaji": "oogara"
+  },
+  {
+    "id": "346",
+    "hiragana": "おおげさ",
+    "kanji": "大げさ",
+    "meaning": "",
+    "romaji": "oogesa"
+  },
+  {
+    "id": "347",
+    "hiragana": "おおごと",
+    "kanji": "大事",
+    "meaning": "",
+    "romaji": "oogoto"
+  },
+  {
+    "id": "348",
+    "hiragana": "おおざっぱ",
+    "kanji": "大ざっぱ",
+    "meaning": "",
+    "romaji": "oozappa"
+  },
+  {
+    "id": "349",
+    "hiragana": "おおすじ",
+    "kanji": "大筋",
+    "meaning": "",
+    "romaji": "oosuji"
+  },
+  {
+    "id": "350",
+    "hiragana": "おおぞら",
+    "kanji": "大空",
+    "meaning": "",
+    "romaji": "oozora"
+  }
+]

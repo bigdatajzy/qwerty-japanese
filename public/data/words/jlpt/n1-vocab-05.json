@@ -1,0 +1,352 @@
+[
+  {
+    "id": "201",
+    "hiragana": "いつ",
+    "kanji": "何時",
+    "meaning": "",
+    "romaji": "itsu"
+  },
+  {
+    "id": "202",
+    "hiragana": "いつか",
+    "kanji": "何時か",
+    "meaning": "",
+    "romaji": "itsuka"
+  },
+  {
+    "id": "203",
+    "hiragana": "いつでも",
+    "kanji": "何時でも",
+    "meaning": "",
+    "romaji": "itsudemo"
+  },
+  {
+    "id": "204",
+    "hiragana": "いつのまにか",
+    "kanji": "何時の間にか",
+    "meaning": "",
+    "romaji": "itsunomanika"
+  },
+  {
+    "id": "205",
+    "hiragana": "いつまでも",
+    "kanji": "何時までも",
+    "meaning": "",
+    "romaji": "itsumademo"
+  },
+  {
+    "id": "206",
+    "hiragana": "いつも",
+    "kanji": "何時も",
+    "meaning": "",
+    "romaji": "itsumo"
+  },
+  {
+    "id": "207",
+    "hiragana": "いと",
+    "kanji": "意図",
+    "meaning": "",
+    "romaji": "ito"
+  },
+  {
+    "id": "208",
+    "hiragana": "いとなむ",
+    "kanji": "営む",
+    "meaning": "",
+    "romaji": "itonamu"
+  },
+  {
+    "id": "209",
+    "hiragana": "いとま",
+    "kanji": "暇",
+    "meaning": "",
+    "romaji": "itoma"
+  },
+  {
+    "id": "210",
+    "hiragana": "いどう",
+    "kanji": "異動",
+    "meaning": "",
+    "romaji": "idou"
+  },
+  {
+    "id": "211",
+    "hiragana": "いどむ",
+    "kanji": "挑む",
+    "meaning": "",
+    "romaji": "idomu"
+  },
+  {
+    "id": "212",
+    "hiragana": "いなびかり",
+    "kanji": "稲光",
+    "meaning": "",
+    "romaji": "inabikari"
+  },
+  {
+    "id": "213",
+    "hiragana": "いにしえ",
+    "kanji": "古",
+    "meaning": "",
+    "romaji": "inishie"
+  },
+  {
+    "id": "214",
+    "hiragana": "いのり",
+    "kanji": "祈り",
+    "meaning": "",
+    "romaji": "inori"
+  },
+  {
+    "id": "215",
+    "hiragana": "いびき",
+    "kanji": "鼾",
+    "meaning": "",
+    "romaji": "ibiki"
+  },
+  {
+    "id": "216",
+    "hiragana": "いまさら",
+    "kanji": "今更",
+    "meaning": "",
+    "romaji": "imasara"
+  },
+  {
+    "id": "217",
+    "hiragana": "いまだ",
+    "kanji": "未だ",
+    "meaning": "",
+    "romaji": "imada"
+  },
+  {
+    "id": "218",
+    "hiragana": "いみん",
+    "kanji": "移民",
+    "meaning": "",
+    "romaji": "imin"
+  },
+  {
+    "id": "219",
+    "hiragana": "いやいや",
+    "kanji": "厭々",
+    "meaning": "",
+    "romaji": "iyaiya"
+  },
+  {
+    "id": "220",
+    "hiragana": "いやしい",
+    "kanji": "卑しい",
+    "meaning": "",
+    "romaji": "iyashii"
+  },
+  {
+    "id": "221",
+    "hiragana": "いやに",
+    "kanji": "いやに",
+    "meaning": "",
+    "romaji": "iyani"
+  },
+  {
+    "id": "222",
+    "hiragana": "いやらしい",
+    "kanji": "厭やらしい",
+    "meaning": "",
+    "romaji": "iyarashii"
+  },
+  {
+    "id": "223",
+    "hiragana": "いよいよ",
+    "kanji": "愈々",
+    "meaning": "",
+    "romaji": "iyoiyo"
+  },
+  {
+    "id": "224",
+    "hiragana": "いよく",
+    "kanji": "意欲",
+    "meaning": "",
+    "romaji": "iyoku"
+  },
+  {
+    "id": "225",
+    "hiragana": "いらいら",
+    "kanji": "苛々",
+    "meaning": "",
+    "romaji": "iraira"
+  },
+  {
+    "id": "226",
+    "hiragana": "いりくち",
+    "kanji": "入口",
+    "meaning": "",
+    "romaji": "irikuchi"
+  },
+  {
+    "id": "227",
+    "hiragana": "いりょう",
+    "kanji": "衣料",
+    "meaning": "",
+    "romaji": "iryou"
+  },
+  {
+    "id": "228",
+    "hiragana": "いりょく",
+    "kanji": "威力",
+    "meaning": "",
+    "romaji": "iryoku"
+  },
+  {
+    "id": "229",
+    "hiragana": "いる",
+    "kanji": "入る",
+    "meaning": "",
+    "romaji": "iru"
+  },
+  {
+    "id": "230",
+    "hiragana": "いるい",
+    "kanji": "衣類",
+    "meaning": "",
+    "romaji": "irui"
+  },
+  {
+    "id": "231",
+    "hiragana": "いろいろ",
+    "kanji": "色々",
+    "meaning": "",
+    "romaji": "iroiro"
+  },
+  {
+    "id": "232",
+    "hiragana": "いろん",
+    "kanji": "異論",
+    "meaning": "",
+    "romaji": "iron"
+  },
+  {
+    "id": "233",
+    "hiragana": "いわゆる",
+    "kanji": "所謂",
+    "meaning": "",
+    "romaji": "iwayuru"
+  },
+  {
+    "id": "234",
+    "hiragana": "いん",
+    "kanji": "印",
+    "meaning": "",
+    "romaji": "in"
+  },
+  {
+    "id": "235",
+    "hiragana": "いん",
+    "kanji": "員",
+    "meaning": "",
+    "romaji": "in"
+  },
+  {
+    "id": "236",
+    "hiragana": "いんかん",
+    "kanji": "印鑑",
+    "meaning": "",
+    "romaji": "inkan"
+  },
+  {
+    "id": "237",
+    "hiragana": "いんき",
+    "kanji": "陰気",
+    "meaning": "",
+    "romaji": "inki"
+  },
+  {
+    "id": "238",
+    "hiragana": "いんきょ",
+    "kanji": "隠居",
+    "meaning": "",
+    "romaji": "inkyo"
+  },
+  {
+    "id": "239",
+    "hiragana": "うえした",
+    "kanji": "上下",
+    "meaning": "",
+    "romaji": "ueshita"
+  },
+  {
+    "id": "240",
+    "hiragana": "うかぶ",
+    "kanji": "浮かぶ",
+    "meaning": "",
+    "romaji": "ukabu"
+  },
+  {
+    "id": "241",
+    "hiragana": "うかる",
+    "kanji": "受かる",
+    "meaning": "",
+    "romaji": "ukaru"
+  },
+  {
+    "id": "242",
+    "hiragana": "うがい",
+    "kanji": "含嗽",
+    "meaning": "",
+    "romaji": "ugai"
+  },
+  {
+    "id": "243",
+    "hiragana": "うけいれ",
+    "kanji": "受け入れ",
+    "meaning": "",
+    "romaji": "ukeire"
+  },
+  {
+    "id": "244",
+    "hiragana": "うけいれる",
+    "kanji": "受け入れる",
+    "meaning": "",
+    "romaji": "ukeireru"
+  },
+  {
+    "id": "245",
+    "hiragana": "うけつぐ",
+    "kanji": "受け継ぐ",
+    "meaning": "",
+    "romaji": "uketsugu"
+  },
+  {
+    "id": "246",
+    "hiragana": "うけつける",
+    "kanji": "受け付ける",
+    "meaning": "",
+    "romaji": "uketsukeru"
+  },
+  {
+    "id": "247",
+    "hiragana": "うけとめる",
+    "kanji": "受け止める",
+    "meaning": "",
+    "romaji": "uketomeru"
+  },
+  {
+    "id": "248",
+    "hiragana": "うけとり",
+    "kanji": "受け取り",
+    "meaning": "",
+    "romaji": "uketori"
+  },
+  {
+    "id": "249",
+    "hiragana": "うけみ",
+    "kanji": "受身",
+    "meaning": "",
+    "romaji": "ukemi"
+  },
+  {
+    "id": "250",
+    "hiragana": "うごき",
+    "kanji": "動き",
+    "meaning": "",
+    "romaji": "ugoki"
+  }
+]

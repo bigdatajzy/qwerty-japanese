@@ -1,0 +1,352 @@
+[
+  {
+    "id": "201",
+    "hiragana": "けっして",
+    "kanji": "決して",
+    "meaning": "",
+    "romaji": "kesshite"
+  },
+  {
+    "id": "202",
+    "hiragana": "けれど",
+    "kanji": "けれど",
+    "meaning": "",
+    "romaji": "keredo"
+  },
+  {
+    "id": "203",
+    "hiragana": "けれども",
+    "kanji": "けれど",
+    "meaning": "",
+    "romaji": "keredomo"
+  },
+  {
+    "id": "204",
+    "hiragana": "けれど",
+    "kanji": "けれども",
+    "meaning": "",
+    "romaji": "keredo"
+  },
+  {
+    "id": "205",
+    "hiragana": "けれども",
+    "kanji": "けれども",
+    "meaning": "",
+    "romaji": "keredomo"
+  },
+  {
+    "id": "206",
+    "hiragana": "げんいん",
+    "kanji": "原因",
+    "meaning": "",
+    "romaji": "gen'in"
+  },
+  {
+    "id": "207",
+    "hiragana": "けんか",
+    "kanji": "けんか",
+    "meaning": "",
+    "romaji": "kenka"
+  },
+  {
+    "id": "208",
+    "hiragana": "けんきゅう",
+    "kanji": "研究",
+    "meaning": "",
+    "romaji": "kenkyuu"
+  },
+  {
+    "id": "209",
+    "hiragana": "けんきゅうしつ",
+    "kanji": "研究室",
+    "meaning": "",
+    "romaji": "kenkyuushitsu"
+  },
+  {
+    "id": "210",
+    "hiragana": "けんぶつ",
+    "kanji": "見物",
+    "meaning": "",
+    "romaji": "kenbutsu"
+  },
+  {
+    "id": "211",
+    "hiragana": "こ",
+    "kanji": "子",
+    "meaning": "",
+    "romaji": "ko"
+  },
+  {
+    "id": "212",
+    "hiragana": "こう",
+    "kanji": "こう",
+    "meaning": "",
+    "romaji": "kou"
+  },
+  {
+    "id": "213",
+    "hiragana": "こうがい",
+    "kanji": "郊外",
+    "meaning": "",
+    "romaji": "kougai"
+  },
+  {
+    "id": "214",
+    "hiragana": "こうぎ",
+    "kanji": "講義",
+    "meaning": "",
+    "romaji": "kougi"
+  },
+  {
+    "id": "215",
+    "hiragana": "こうぎょう",
+    "kanji": "工業",
+    "meaning": "",
+    "romaji": "kougyou"
+  },
+  {
+    "id": "216",
+    "hiragana": "こうこう",
+    "kanji": "高校",
+    "meaning": "",
+    "romaji": "koukou"
+  },
+  {
+    "id": "217",
+    "hiragana": "こうこうせい",
+    "kanji": "高校生",
+    "meaning": "",
+    "romaji": "koukousei"
+  },
+  {
+    "id": "218",
+    "hiragana": "こうじょう",
+    "kanji": "工場",
+    "meaning": "",
+    "romaji": "koujou"
+  },
+  {
+    "id": "219",
+    "hiragana": "こうちょう",
+    "kanji": "校長",
+    "meaning": "",
+    "romaji": "kouchou"
+  },
+  {
+    "id": "220",
+    "hiragana": "こうつう",
+    "kanji": "交通",
+    "meaning": "",
+    "romaji": "koutsuu"
+  },
+  {
+    "id": "221",
+    "hiragana": "こうどう",
+    "kanji": "講堂",
+    "meaning": "",
+    "romaji": "koudou"
+  },
+  {
+    "id": "222",
+    "hiragana": "こうとうがっこう",
+    "kanji": "高等学校",
+    "meaning": "",
+    "romaji": "koutougakkou"
+  },
+  {
+    "id": "223",
+    "hiragana": "こうむいん",
+    "kanji": "公務員",
+    "meaning": "",
+    "romaji": "koumuin"
+  },
+  {
+    "id": "224",
+    "hiragana": "こくさい",
+    "kanji": "国際",
+    "meaning": "",
+    "romaji": "kokusai"
+  },
+  {
+    "id": "225",
+    "hiragana": "こころ",
+    "kanji": "心",
+    "meaning": "",
+    "romaji": "kokoro"
+  },
+  {
+    "id": "226",
+    "hiragana": "ごしゅじん",
+    "kanji": "御主人",
+    "meaning": "",
+    "romaji": "goshujin"
+  },
+  {
+    "id": "227",
+    "hiragana": "こしょう",
+    "kanji": "故障",
+    "meaning": "",
+    "romaji": "koshou"
+  },
+  {
+    "id": "228",
+    "hiragana": "ごぞんじ",
+    "kanji": "ご存じ",
+    "meaning": "",
+    "romaji": "gozonji"
+  },
+  {
+    "id": "229",
+    "hiragana": "こたえ",
+    "kanji": "答",
+    "meaning": "",
+    "romaji": "kotae"
+  },
+  {
+    "id": "230",
+    "hiragana": "ごちそう",
+    "kanji": "ごちそう",
+    "meaning": "",
+    "romaji": "gochisou"
+  },
+  {
+    "id": "231",
+    "hiragana": "こと",
+    "kanji": "こと",
+    "meaning": "",
+    "romaji": "koto"
+  },
+  {
+    "id": "232",
+    "hiragana": "ことり",
+    "kanji": "小鳥",
+    "meaning": "",
+    "romaji": "kotori"
+  },
+  {
+    "id": "233",
+    "hiragana": "このあいだ",
+    "kanji": "このあいだ",
+    "meaning": "",
+    "romaji": "konoaida"
+  },
+  {
+    "id": "234",
+    "hiragana": "このごろ",
+    "kanji": "このごろ",
+    "meaning": "",
+    "romaji": "konogoro"
+  },
+  {
+    "id": "235",
+    "hiragana": "こまかい",
+    "kanji": "細かい",
+    "meaning": "",
+    "romaji": "komakai"
+  },
+  {
+    "id": "236",
+    "hiragana": "ごみ",
+    "kanji": "ごみ",
+    "meaning": "",
+    "romaji": "gomi"
+  },
+  {
+    "id": "237",
+    "hiragana": "こむ",
+    "kanji": "込む",
+    "meaning": "",
+    "romaji": "komu"
+  },
+  {
+    "id": "238",
+    "hiragana": "こめ",
+    "kanji": "米",
+    "meaning": "",
+    "romaji": "kome"
+  },
+  {
+    "id": "239",
+    "hiragana": "ごらんになる",
+    "kanji": "ごらんになる",
+    "meaning": "",
+    "romaji": "goranninaru"
+  },
+  {
+    "id": "240",
+    "hiragana": "これから",
+    "kanji": "これから",
+    "meaning": "",
+    "romaji": "korekara"
+  },
+  {
+    "id": "241",
+    "hiragana": "こわい",
+    "kanji": "怖い",
+    "meaning": "",
+    "romaji": "kowai"
+  },
+  {
+    "id": "242",
+    "hiragana": "こわす",
+    "kanji": "壊す",
+    "meaning": "",
+    "romaji": "kowasu"
+  },
+  {
+    "id": "243",
+    "hiragana": "こわれる",
+    "kanji": "壊れる",
+    "meaning": "",
+    "romaji": "kowareru"
+  },
+  {
+    "id": "244",
+    "hiragana": "コンサート",
+    "kanji": "コンサート",
+    "meaning": "",
+    "romaji": "konsaato"
+  },
+  {
+    "id": "245",
+    "hiragana": "こんど",
+    "kanji": "今度",
+    "meaning": "",
+    "romaji": "kondo"
+  },
+  {
+    "id": "246",
+    "hiragana": "コンピュータ",
+    "kanji": "コンピュータ",
+    "meaning": "",
+    "romaji": "konpyuuta"
+  },
+  {
+    "id": "247",
+    "hiragana": "コンピューター",
+    "kanji": "コンピュータ",
+    "meaning": "",
+    "romaji": "konpyuutaa"
+  },
+  {
+    "id": "248",
+    "hiragana": "コンピュータ",
+    "kanji": "コンピューター",
+    "meaning": "",
+    "romaji": "konpyuuta"
+  },
+  {
+    "id": "249",
+    "hiragana": "コンピューター",
+    "kanji": "コンピューター",
+    "meaning": "",
+    "romaji": "konpyuutaa"
+  },
+  {
+    "id": "250",
+    "hiragana": "こんや",
+    "kanji": "今夜",
+    "meaning": "",
+    "romaji": "kon'ya"
+  }
+]

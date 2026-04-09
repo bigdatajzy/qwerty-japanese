@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1251",
+    "hiragana": "とき",
+    "kanji": "時",
+    "meaning": "",
+    "romaji": "toki"
+  },
+  {
+    "id": "1252",
+    "hiragana": "とく",
+    "kanji": "解く",
+    "meaning": "",
+    "romaji": "toku"
+  },
+  {
+    "id": "1253",
+    "hiragana": "どく",
+    "kanji": "毒",
+    "meaning": "",
+    "romaji": "doku"
+  },
+  {
+    "id": "1254",
+    "hiragana": "とくい",
+    "kanji": "得意",
+    "meaning": "",
+    "romaji": "tokui"
+  },
+  {
+    "id": "1255",
+    "hiragana": "どくしょ",
+    "kanji": "読書",
+    "meaning": "",
+    "romaji": "dokusho"
+  },
+  {
+    "id": "1256",
+    "hiragana": "どくしん",
+    "kanji": "独身",
+    "meaning": "",
+    "romaji": "dokushin"
+  },
+  {
+    "id": "1257",
+    "hiragana": "とくちょう",
+    "kanji": "特徴",
+    "meaning": "",
+    "romaji": "tokuchou"
+  },
+  {
+    "id": "1258",
+    "hiragana": "どくとく",
+    "kanji": "独特",
+    "meaning": "",
+    "romaji": "dokutoku"
+  },
+  {
+    "id": "1259",
+    "hiragana": "どくりつ",
+    "kanji": "独立",
+    "meaning": "",
+    "romaji": "dokuritsu"
+  },
+  {
+    "id": "1260",
+    "hiragana": "とける",
+    "kanji": "解ける",
+    "meaning": "",
+    "romaji": "tokeru"
+  },
+  {
+    "id": "1261",
+    "hiragana": "どこか",
+    "kanji": "どこか",
+    "meaning": "",
+    "romaji": "dokoka"
+  },
+  {
+    "id": "1262",
+    "hiragana": "ところが",
+    "kanji": "ところが",
+    "meaning": "",
+    "romaji": "tokoroga"
+  },
+  {
+    "id": "1263",
+    "hiragana": "ところで",
+    "kanji": "ところで",
+    "meaning": "",
+    "romaji": "tokorode"
+  },
+  {
+    "id": "1264",
+    "hiragana": "とざん",
+    "kanji": "登山",
+    "meaning": "",
+    "romaji": "tozan"
+  },
+  {
+    "id": "1265",
+    "hiragana": "とし",
+    "kanji": "都市",
+    "meaning": "",
+    "romaji": "toshi"
+  },
+  {
+    "id": "1266",
+    "hiragana": "としつき",
+    "kanji": "年月",
+    "meaning": "",
+    "romaji": "toshitsuki"
+  },
+  {
+    "id": "1267",
+    "hiragana": "としょ",
+    "kanji": "図書",
+    "meaning": "",
+    "romaji": "tosho"
+  },
+  {
+    "id": "1268",
+    "hiragana": "としより",
+    "kanji": "年寄",
+    "meaning": "",
+    "romaji": "toshiyori"
+  },
+  {
+    "id": "1269",
+    "hiragana": "とじる",
+    "kanji": "閉じる",
+    "meaning": "",
+    "romaji": "tojiru"
+  },
+  {
+    "id": "1270",
+    "hiragana": "とたん",
+    "kanji": "途端",
+    "meaning": "",
+    "romaji": "totan"
+  },
+  {
+    "id": "1271",
+    "hiragana": "とち",
+    "kanji": "土地",
+    "meaning": "",
+    "romaji": "tochi"
+  },
+  {
+    "id": "1272",
+    "hiragana": "とつぜん",
+    "kanji": "突然",
+    "meaning": "",
+    "romaji": "totsuzen"
+  },
+  {
+    "id": "1273",
+    "hiragana": "トップ",
+    "kanji": "トップ",
+    "meaning": "",
+    "romaji": "toppu"
+  },
+  {
+    "id": "1274",
+    "hiragana": "とどく",
+    "kanji": "届く",
+    "meaning": "",
+    "romaji": "todoku"
+  },
+  {
+    "id": "1275",
+    "hiragana": "とにかく",
+    "kanji": "とにかく",
+    "meaning": "",
+    "romaji": "tonikaku"
+  },
+  {
+    "id": "1276",
+    "hiragana": "とばす",
+    "kanji": "飛ばす",
+    "meaning": "",
+    "romaji": "tobasu"
+  },
+  {
+    "id": "1277",
+    "hiragana": "とびだす",
+    "kanji": "飛び出す",
+    "meaning": "",
+    "romaji": "tobidasu"
+  },
+  {
+    "id": "1278",
+    "hiragana": "とめる",
+    "kanji": "留める",
+    "meaning": "",
+    "romaji": "tomeru"
+  },
+  {
+    "id": "1279",
+    "hiragana": "とも",
+    "kanji": "友",
+    "meaning": "",
+    "romaji": "tomo"
+  },
+  {
+    "id": "1280",
+    "hiragana": "ともに",
+    "kanji": "共に",
+    "meaning": "",
+    "romaji": "tomoni"
+  },
+  {
+    "id": "1281",
+    "hiragana": "どよう",
+    "kanji": "土曜",
+    "meaning": "",
+    "romaji": "doyou"
+  },
+  {
+    "id": "1282",
+    "hiragana": "とら",
+    "kanji": "虎",
+    "meaning": "",
+    "romaji": "tora"
+  },
+  {
+    "id": "1283",
+    "hiragana": "ドライブ",
+    "kanji": "ドライブ",
+    "meaning": "",
+    "romaji": "doraibu"
+  },
+  {
+    "id": "1284",
+    "hiragana": "トラック",
+    "kanji": "トラック",
+    "meaning": "",
+    "romaji": "torakku"
+  },
+  {
+    "id": "1285",
+    "hiragana": "ドラマ",
+    "kanji": "ドラマ",
+    "meaning": "",
+    "romaji": "dorama"
+  },
+  {
+    "id": "1286",
+    "hiragana": "トランプ",
+    "kanji": "トランプ",
+    "meaning": "",
+    "romaji": "toranpu"
+  },
+  {
+    "id": "1287",
+    "hiragana": "とりあげる",
+    "kanji": "取り上げ",
+    "meaning": "",
+    "romaji": "toriageru"
+  },
+  {
+    "id": "1288",
+    "hiragana": "どりょく",
+    "kanji": "努力",
+    "meaning": "",
+    "romaji": "doryoku"
+  },
+  {
+    "id": "1289",
+    "hiragana": "どれ",
+    "kanji": "どれ",
+    "meaning": "",
+    "romaji": "dore"
+  },
+  {
+    "id": "1290",
+    "hiragana": "ドレス",
+    "kanji": "ドレス",
+    "meaning": "",
+    "romaji": "doresu"
+  },
+  {
+    "id": "1291",
+    "hiragana": "とれる",
+    "kanji": "取れる",
+    "meaning": "",
+    "romaji": "toreru"
+  },
+  {
+    "id": "1292",
+    "hiragana": "どろ",
+    "kanji": "泥",
+    "meaning": "",
+    "romaji": "doro"
+  },
+  {
+    "id": "1293",
+    "hiragana": "（1000",
+    "kanji": "とん",
+    "meaning": "",
+    "romaji": "(1000"
+  },
+  {
+    "id": "1294",
+    "hiragana": "とんでもない",
+    "kanji": "とんでもない",
+    "meaning": "",
+    "romaji": "tondemonai"
+  },
+  {
+    "id": "1295",
+    "hiragana": "どんな",
+    "kanji": "どんな",
+    "meaning": "",
+    "romaji": "donna"
+  },
+  {
+    "id": "1296",
+    "hiragana": "どんなに",
+    "kanji": "どんなに",
+    "meaning": "",
+    "romaji": "donnani"
+  },
+  {
+    "id": "1297",
+    "hiragana": "トンネル",
+    "kanji": "トンネル",
+    "meaning": "",
+    "romaji": "tonneru"
+  },
+  {
+    "id": "1298",
+    "hiragana": "な",
+    "kanji": "名",
+    "meaning": "",
+    "romaji": "na"
+  },
+  {
+    "id": "1299",
+    "hiragana": "ないよう",
+    "kanji": "内容",
+    "meaning": "",
+    "romaji": "naiyou"
+  },
+  {
+    "id": "1300",
+    "hiragana": "なお",
+    "kanji": "なお",
+    "meaning": "",
+    "romaji": "nao"
+  }
+]

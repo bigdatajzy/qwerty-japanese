@@ -1,0 +1,352 @@
+[
+  {
+    "id": "851",
+    "hiragana": "じょし",
+    "kanji": "女子",
+    "meaning": "",
+    "romaji": "joshi"
+  },
+  {
+    "id": "852",
+    "hiragana": "じょしゅ",
+    "kanji": "助手",
+    "meaning": "",
+    "romaji": "joshu"
+  },
+  {
+    "id": "853",
+    "hiragana": "じょじょに",
+    "kanji": "徐々に",
+    "meaning": "",
+    "romaji": "jojoni"
+  },
+  {
+    "id": "854",
+    "hiragana": "しょめい",
+    "kanji": "署名",
+    "meaning": "",
+    "romaji": "shomei"
+  },
+  {
+    "id": "855",
+    "hiragana": "しょもつ",
+    "kanji": "書物",
+    "meaning": "",
+    "romaji": "shomotsu"
+  },
+  {
+    "id": "856",
+    "hiragana": "じょゆう",
+    "kanji": "女優",
+    "meaning": "",
+    "romaji": "joyuu"
+  },
+  {
+    "id": "857",
+    "hiragana": "しょり",
+    "kanji": "処理",
+    "meaning": "",
+    "romaji": "shori"
+  },
+  {
+    "id": "858",
+    "hiragana": "しょるい",
+    "kanji": "書類",
+    "meaning": "",
+    "romaji": "shorui"
+  },
+  {
+    "id": "859",
+    "hiragana": "しらせ",
+    "kanji": "知らせ",
+    "meaning": "",
+    "romaji": "shirase"
+  },
+  {
+    "id": "860",
+    "hiragana": "しり",
+    "kanji": "尻",
+    "meaning": "",
+    "romaji": "shiri"
+  },
+  {
+    "id": "861",
+    "hiragana": "しるし",
+    "kanji": "印",
+    "meaning": "",
+    "romaji": "shirushi"
+  },
+  {
+    "id": "862",
+    "hiragana": "しろ",
+    "kanji": "城",
+    "meaning": "",
+    "romaji": "shiro"
+  },
+  {
+    "id": "863",
+    "hiragana": "しんがく",
+    "kanji": "進学",
+    "meaning": "",
+    "romaji": "shingaku"
+  },
+  {
+    "id": "864",
+    "hiragana": "しんけい",
+    "kanji": "神経",
+    "meaning": "",
+    "romaji": "shinkei"
+  },
+  {
+    "id": "865",
+    "hiragana": "しんけん",
+    "kanji": "真剣",
+    "meaning": "",
+    "romaji": "shinken"
+  },
+  {
+    "id": "866",
+    "hiragana": "しんこう",
+    "kanji": "信仰",
+    "meaning": "",
+    "romaji": "shinkou"
+  },
+  {
+    "id": "867",
+    "hiragana": "しんごう",
+    "kanji": "信号",
+    "meaning": "",
+    "romaji": "shingou"
+  },
+  {
+    "id": "868",
+    "hiragana": "じんこう",
+    "kanji": "人工",
+    "meaning": "",
+    "romaji": "jinkou"
+  },
+  {
+    "id": "869",
+    "hiragana": "しんこく",
+    "kanji": "深刻",
+    "meaning": "",
+    "romaji": "shinkoku"
+  },
+  {
+    "id": "870",
+    "hiragana": "しんさつ",
+    "kanji": "診察",
+    "meaning": "",
+    "romaji": "shinsatsu"
+  },
+  {
+    "id": "871",
+    "hiragana": "じんしゅ",
+    "kanji": "人種",
+    "meaning": "",
+    "romaji": "jinshu"
+  },
+  {
+    "id": "872",
+    "hiragana": "しんじる",
+    "kanji": "信じる",
+    "meaning": "",
+    "romaji": "shinjiru"
+  },
+  {
+    "id": "873",
+    "hiragana": "じんせい",
+    "kanji": "人生",
+    "meaning": "",
+    "romaji": "jinsei"
+  },
+  {
+    "id": "874",
+    "hiragana": "しんせき",
+    "kanji": "親戚",
+    "meaning": "",
+    "romaji": "shinseki"
+  },
+  {
+    "id": "875",
+    "hiragana": "しんせん",
+    "kanji": "新鮮",
+    "meaning": "",
+    "romaji": "shinsen"
+  },
+  {
+    "id": "876",
+    "hiragana": "しんぞう",
+    "kanji": "心臓",
+    "meaning": "",
+    "romaji": "shinzou"
+  },
+  {
+    "id": "877",
+    "hiragana": "しんたい",
+    "kanji": "身体",
+    "meaning": "",
+    "romaji": "shintai"
+  },
+  {
+    "id": "878",
+    "hiragana": "しんちょう",
+    "kanji": "身長",
+    "meaning": "",
+    "romaji": "shinchou"
+  },
+  {
+    "id": "879",
+    "hiragana": "しんちょう",
+    "kanji": "慎重",
+    "meaning": "",
+    "romaji": "shinchou"
+  },
+  {
+    "id": "880",
+    "hiragana": "しんぱい",
+    "kanji": "心配",
+    "meaning": "",
+    "romaji": "shinpai"
+  },
+  {
+    "id": "881",
+    "hiragana": "しんぱん",
+    "kanji": "審判",
+    "meaning": "",
+    "romaji": "shinpan"
+  },
+  {
+    "id": "882",
+    "hiragana": "じんぶつ",
+    "kanji": "人物",
+    "meaning": "",
+    "romaji": "jinbutsu"
+  },
+  {
+    "id": "883",
+    "hiragana": "しんぽ",
+    "kanji": "進歩",
+    "meaning": "",
+    "romaji": "shinpo"
+  },
+  {
+    "id": "884",
+    "hiragana": "しんゆう",
+    "kanji": "親友",
+    "meaning": "",
+    "romaji": "shin'yuu"
+  },
+  {
+    "id": "885",
+    "hiragana": "しんよう",
+    "kanji": "信用",
+    "meaning": "",
+    "romaji": "shin'you"
+  },
+  {
+    "id": "886",
+    "hiragana": "しんらい",
+    "kanji": "信頼",
+    "meaning": "",
+    "romaji": "shinrai"
+  },
+  {
+    "id": "887",
+    "hiragana": "しんり",
+    "kanji": "心理",
+    "meaning": "",
+    "romaji": "shinri"
+  },
+  {
+    "id": "888",
+    "hiragana": "じんるい",
+    "kanji": "人類",
+    "meaning": "",
+    "romaji": "jinrui"
+  },
+  {
+    "id": "889",
+    "hiragana": "す",
+    "kanji": "巣",
+    "meaning": "",
+    "romaji": "su"
+  },
+  {
+    "id": "890",
+    "hiragana": "ず",
+    "kanji": "図",
+    "meaning": "",
+    "romaji": "zu"
+  },
+  {
+    "id": "891",
+    "hiragana": "すいじゅん",
+    "kanji": "水準",
+    "meaning": "",
+    "romaji": "suijun"
+  },
+  {
+    "id": "892",
+    "hiragana": "すいせん",
+    "kanji": "推薦",
+    "meaning": "",
+    "romaji": "suisen"
+  },
+  {
+    "id": "893",
+    "hiragana": "スイッチ",
+    "kanji": "スイッチ",
+    "meaning": "",
+    "romaji": "suitchi"
+  },
+  {
+    "id": "894",
+    "hiragana": "ずいぶん",
+    "kanji": "随分",
+    "meaning": "",
+    "romaji": "zuibun"
+  },
+  {
+    "id": "895",
+    "hiragana": "すいみん",
+    "kanji": "睡眠",
+    "meaning": "",
+    "romaji": "suimin"
+  },
+  {
+    "id": "896",
+    "hiragana": "すう",
+    "kanji": "数",
+    "meaning": "",
+    "romaji": "suu"
+  },
+  {
+    "id": "897",
+    "hiragana": "すうじ",
+    "kanji": "数字",
+    "meaning": "",
+    "romaji": "suuji"
+  },
+  {
+    "id": "898",
+    "hiragana": "スープ",
+    "kanji": "スープ",
+    "meaning": "",
+    "romaji": "suupu"
+  },
+  {
+    "id": "899",
+    "hiragana": "すえ",
+    "kanji": "末",
+    "meaning": "",
+    "romaji": "sue"
+  },
+  {
+    "id": "900",
+    "hiragana": "すがた",
+    "kanji": "姿",
+    "meaning": "",
+    "romaji": "sugata"
+  }
+]

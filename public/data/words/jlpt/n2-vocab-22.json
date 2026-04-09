@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1051",
+    "hiragana": "だんすい",
+    "kanji": "断水",
+    "meaning": "",
+    "romaji": "dansui"
+  },
+  {
+    "id": "1052",
+    "hiragana": "たんすう",
+    "kanji": "単数",
+    "meaning": "",
+    "romaji": "tansuu"
+  },
+  {
+    "id": "1053",
+    "hiragana": "だんち",
+    "kanji": "団地",
+    "meaning": "",
+    "romaji": "danchi"
+  },
+  {
+    "id": "1054",
+    "hiragana": "だんてい",
+    "kanji": "断定",
+    "meaning": "",
+    "romaji": "dantei"
+  },
+  {
+    "id": "1055",
+    "hiragana": "たんぺん",
+    "kanji": "短編",
+    "meaning": "",
+    "romaji": "tanpen"
+  },
+  {
+    "id": "1056",
+    "hiragana": "ちかう",
+    "kanji": "誓う",
+    "meaning": "",
+    "romaji": "chikau"
+  },
+  {
+    "id": "1057",
+    "hiragana": "ちかすい",
+    "kanji": "地下水",
+    "meaning": "",
+    "romaji": "chikasui"
+  },
+  {
+    "id": "1058",
+    "hiragana": "ちかぢか",
+    "kanji": "近々",
+    "meaning": "",
+    "romaji": "chikajika"
+  },
+  {
+    "id": "1059",
+    "hiragana": "ちかづける",
+    "kanji": "近付ける",
+    "meaning": "",
+    "romaji": "chikazukeru"
+  },
+  {
+    "id": "1060",
+    "hiragana": "ちかよる",
+    "kanji": "近寄る",
+    "meaning": "",
+    "romaji": "chikayoru"
+  },
+  {
+    "id": "1061",
+    "hiragana": "ちからづよい",
+    "kanji": "力強い",
+    "meaning": "",
+    "romaji": "chikarazuyoi"
+  },
+  {
+    "id": "1062",
+    "hiragana": "ちぎる",
+    "kanji": "ちぎる",
+    "meaning": "",
+    "romaji": "chigiru"
+  },
+  {
+    "id": "1063",
+    "hiragana": "ちしつ",
+    "kanji": "地質",
+    "meaning": "",
+    "romaji": "chishitsu"
+  },
+  {
+    "id": "1064",
+    "hiragana": "ちじん",
+    "kanji": "知人",
+    "meaning": "",
+    "romaji": "chijin"
+  },
+  {
+    "id": "1065",
+    "hiragana": "ちたい",
+    "kanji": "地帯",
+    "meaning": "",
+    "romaji": "chitai"
+  },
+  {
+    "id": "1066",
+    "hiragana": "ちぢむ",
+    "kanji": "縮む",
+    "meaning": "",
+    "romaji": "chijimu"
+  },
+  {
+    "id": "1067",
+    "hiragana": "ちぢめる",
+    "kanji": "縮める",
+    "meaning": "",
+    "romaji": "chijimeru"
+  },
+  {
+    "id": "1068",
+    "hiragana": "ちぢれる",
+    "kanji": "縮れる",
+    "meaning": "",
+    "romaji": "chijireru"
+  },
+  {
+    "id": "1069",
+    "hiragana": "チップ",
+    "kanji": "チップ",
+    "meaning": "",
+    "romaji": "chippu"
+  },
+  {
+    "id": "1070",
+    "hiragana": "ちてん",
+    "kanji": "地点",
+    "meaning": "",
+    "romaji": "chiten"
+  },
+  {
+    "id": "1071",
+    "hiragana": "ちめい",
+    "kanji": "地名",
+    "meaning": "",
+    "romaji": "chimei"
+  },
+  {
+    "id": "1072",
+    "hiragana": "ちゃいろい",
+    "kanji": "茶色い",
+    "meaning": "",
+    "romaji": "chairoi"
+  },
+  {
+    "id": "1073",
+    "hiragana": "ちゃくちゃく",
+    "kanji": "着々",
+    "meaning": "",
+    "romaji": "chakuchaku"
+  },
+  {
+    "id": "1074",
+    "hiragana": "ちゃわん",
+    "kanji": "茶碗",
+    "meaning": "",
+    "romaji": "chawan"
+  },
+  {
+    "id": "1075",
+    "hiragana": "ちゅうかん",
+    "kanji": "中間",
+    "meaning": "",
+    "romaji": "chuukan"
+  },
+  {
+    "id": "1076",
+    "hiragana": "ちゅうじゅん",
+    "kanji": "中旬",
+    "meaning": "",
+    "romaji": "chuujun"
+  },
+  {
+    "id": "1077",
+    "hiragana": "ちゅうしょう",
+    "kanji": "抽象",
+    "meaning": "",
+    "romaji": "chuushou"
+  },
+  {
+    "id": "1078",
+    "hiragana": "ちゅうせい",
+    "kanji": "中世",
+    "meaning": "",
+    "romaji": "chuusei"
+  },
+  {
+    "id": "1079",
+    "hiragana": "ちゅうせい",
+    "kanji": "中性",
+    "meaning": "",
+    "romaji": "chuusei"
+  },
+  {
+    "id": "1080",
+    "hiragana": "ちゅうと",
+    "kanji": "中途",
+    "meaning": "",
+    "romaji": "chuuto"
+  },
+  {
+    "id": "1081",
+    "hiragana": "ちゅうねん",
+    "kanji": "中年",
+    "meaning": "",
+    "romaji": "chuunen"
+  },
+  {
+    "id": "1082",
+    "hiragana": "ちょうか",
+    "kanji": "超過",
+    "meaning": "",
+    "romaji": "chouka"
+  },
+  {
+    "id": "1083",
+    "hiragana": "ちょうこく",
+    "kanji": "彫刻",
+    "meaning": "",
+    "romaji": "choukoku"
+  },
+  {
+    "id": "1084",
+    "hiragana": "ちょうしょ",
+    "kanji": "長所",
+    "meaning": "",
+    "romaji": "chousho"
+  },
+  {
+    "id": "1085",
+    "hiragana": "ちょうじょ",
+    "kanji": "長女",
+    "meaning": "",
+    "romaji": "choujo"
+  },
+  {
+    "id": "1086",
+    "hiragana": "ちょうせい",
+    "kanji": "調整",
+    "meaning": "",
+    "romaji": "chousei"
+  },
+  {
+    "id": "1087",
+    "hiragana": "ちょうせつ",
+    "kanji": "調節",
+    "meaning": "",
+    "romaji": "chousetsu"
+  },
+  {
+    "id": "1088",
+    "hiragana": "ちょうたん",
+    "kanji": "長短",
+    "meaning": "",
+    "romaji": "choutan"
+  },
+  {
+    "id": "1089",
+    "hiragana": "ちょうてん",
+    "kanji": "頂点",
+    "meaning": "",
+    "romaji": "chouten"
+  },
+  {
+    "id": "1090",
+    "hiragana": "ちょうなん",
+    "kanji": "長男",
+    "meaning": "",
+    "romaji": "chounan"
+  },
+  {
+    "id": "1091",
+    "hiragana": "ちょうほうけい",
+    "kanji": "長方形",
+    "meaning": "",
+    "romaji": "chouhoukei"
+  },
+  {
+    "id": "1092",
+    "hiragana": "ちょうみりょう",
+    "kanji": "調味料",
+    "meaning": "",
+    "romaji": "choumiryou"
+  },
+  {
+    "id": "1093",
+    "hiragana": "チョーク",
+    "kanji": "チョーク",
+    "meaning": "",
+    "romaji": "chooku"
+  },
+  {
+    "id": "1094",
+    "hiragana": "ちょくご",
+    "kanji": "直後",
+    "meaning": "",
+    "romaji": "chokugo"
+  },
+  {
+    "id": "1095",
+    "hiragana": "ちょくせん",
+    "kanji": "直線",
+    "meaning": "",
+    "romaji": "chokusen"
+  },
+  {
+    "id": "1096",
+    "hiragana": "ちょくぜん",
+    "kanji": "直前",
+    "meaning": "",
+    "romaji": "chokuzen"
+  },
+  {
+    "id": "1097",
+    "hiragana": "ちょくつう",
+    "kanji": "直通",
+    "meaning": "",
+    "romaji": "chokutsuu"
+  },
+  {
+    "id": "1098",
+    "hiragana": "ちょくりゅう",
+    "kanji": "直流",
+    "meaning": "",
+    "romaji": "chokuryuu"
+  },
+  {
+    "id": "1099",
+    "hiragana": "ちょぞう",
+    "kanji": "貯蔵",
+    "meaning": "",
+    "romaji": "chozou"
+  },
+  {
+    "id": "1100",
+    "hiragana": "ちょっかく",
+    "kanji": "直角",
+    "meaning": "",
+    "romaji": "chokkaku"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1601",
+    "hiragana": "まげる",
+    "kanji": "曲げる",
+    "meaning": "",
+    "romaji": "mageru"
+  },
+  {
+    "id": "1602",
+    "hiragana": "まごまご",
+    "kanji": "まごまご",
+    "meaning": "",
+    "romaji": "magomago"
+  },
+  {
+    "id": "1603",
+    "hiragana": "まさつ",
+    "kanji": "摩擦",
+    "meaning": "",
+    "romaji": "masatsu"
+  },
+  {
+    "id": "1604",
+    "hiragana": "まざる",
+    "kanji": "混ざる",
+    "meaning": "",
+    "romaji": "mazaru"
+  },
+  {
+    "id": "1605",
+    "hiragana": "まざる",
+    "kanji": "交ざる",
+    "meaning": "",
+    "romaji": "mazaru"
+  },
+  {
+    "id": "1606",
+    "hiragana": "まじる",
+    "kanji": "混じる",
+    "meaning": "",
+    "romaji": "majiru"
+  },
+  {
+    "id": "1607",
+    "hiragana": "まじる",
+    "kanji": "交じる",
+    "meaning": "",
+    "romaji": "majiru"
+  },
+  {
+    "id": "1608",
+    "hiragana": "マスク",
+    "kanji": "マスク",
+    "meaning": "",
+    "romaji": "masuku"
+  },
+  {
+    "id": "1609",
+    "hiragana": "まぜる",
+    "kanji": "混ぜる",
+    "meaning": "",
+    "romaji": "mazeru"
+  },
+  {
+    "id": "1610",
+    "hiragana": "まぜる",
+    "kanji": "交ぜる",
+    "meaning": "",
+    "romaji": "mazeru"
+  },
+  {
+    "id": "1611",
+    "hiragana": "またぐ",
+    "kanji": "またぐ",
+    "meaning": "",
+    "romaji": "matagu"
+  },
+  {
+    "id": "1612",
+    "hiragana": "または",
+    "kanji": "又は",
+    "meaning": "",
+    "romaji": "mataha"
+  },
+  {
+    "id": "1613",
+    "hiragana": "まちあいしつ",
+    "kanji": "待合室",
+    "meaning": "",
+    "romaji": "machiaishitsu"
+  },
+  {
+    "id": "1614",
+    "hiragana": "まちあわせる",
+    "kanji": "待ち合わせ",
+    "meaning": "",
+    "romaji": "machiawaseru"
+  },
+  {
+    "id": "1615",
+    "hiragana": "まちかど",
+    "kanji": "街角",
+    "meaning": "",
+    "romaji": "machikado"
+  },
+  {
+    "id": "1616",
+    "hiragana": "まっくら",
+    "kanji": "真っ暗",
+    "meaning": "",
+    "romaji": "makkura"
+  },
+  {
+    "id": "1617",
+    "hiragana": "まっくろ",
+    "kanji": "真っ黒",
+    "meaning": "",
+    "romaji": "makkuro"
+  },
+  {
+    "id": "1618",
+    "hiragana": "まっさお",
+    "kanji": "真っ青",
+    "meaning": "",
+    "romaji": "massao"
+  },
+  {
+    "id": "1619",
+    "hiragana": "まっさき",
+    "kanji": "真っ先",
+    "meaning": "",
+    "romaji": "massaki"
+  },
+  {
+    "id": "1620",
+    "hiragana": "まっしろ",
+    "kanji": "真っ白",
+    "meaning": "",
+    "romaji": "masshiro"
+  },
+  {
+    "id": "1621",
+    "hiragana": "まつる",
+    "kanji": "祭る",
+    "meaning": "",
+    "romaji": "matsuru"
+  },
+  {
+    "id": "1622",
+    "hiragana": "まどぐち",
+    "kanji": "窓口",
+    "meaning": "",
+    "romaji": "madoguchi"
+  },
+  {
+    "id": "1623",
+    "hiragana": "まとまる",
+    "kanji": "纏まる",
+    "meaning": "",
+    "romaji": "matomaru"
+  },
+  {
+    "id": "1624",
+    "hiragana": "まとめる",
+    "kanji": "纏める",
+    "meaning": "",
+    "romaji": "matomeru"
+  },
+  {
+    "id": "1625",
+    "hiragana": "まねる",
+    "kanji": "真似る",
+    "meaning": "",
+    "romaji": "maneru"
+  },
+  {
+    "id": "1626",
+    "hiragana": "まぶしい",
+    "kanji": "まぶしい",
+    "meaning": "",
+    "romaji": "mabushii"
+  },
+  {
+    "id": "1627",
+    "hiragana": "まぶた",
+    "kanji": "まぶた",
+    "meaning": "",
+    "romaji": "mabuta"
+  },
+  {
+    "id": "1628",
+    "hiragana": "マフラー",
+    "kanji": "マフラー",
+    "meaning": "",
+    "romaji": "mafuraa"
+  },
+  {
+    "id": "1629",
+    "hiragana": "まもなく",
+    "kanji": "間も無く",
+    "meaning": "",
+    "romaji": "mamonaku"
+  },
+  {
+    "id": "1630",
+    "hiragana": "マラソン",
+    "kanji": "マラソン",
+    "meaning": "",
+    "romaji": "marason"
+  },
+  {
+    "id": "1631",
+    "hiragana": "まるい",
+    "kanji": "円い",
+    "meaning": "",
+    "romaji": "marui"
+  },
+  {
+    "id": "1632",
+    "hiragana": "まれ",
+    "kanji": "稀",
+    "meaning": "",
+    "romaji": "mare"
+  },
+  {
+    "id": "1633",
+    "hiragana": "まわりみち",
+    "kanji": "回り道",
+    "meaning": "",
+    "romaji": "mawarimichi"
+  },
+  {
+    "id": "1634",
+    "hiragana": "まんいん",
+    "kanji": "満員",
+    "meaning": "",
+    "romaji": "man'in"
+  },
+  {
+    "id": "1635",
+    "hiragana": "マンション",
+    "kanji": "マンション",
+    "meaning": "",
+    "romaji": "manshon"
+  },
+  {
+    "id": "1636",
+    "hiragana": "まんてん",
+    "kanji": "満点",
+    "meaning": "",
+    "romaji": "manten"
+  },
+  {
+    "id": "1637",
+    "hiragana": "みおくる",
+    "kanji": "見送る",
+    "meaning": "",
+    "romaji": "miokuru"
+  },
+  {
+    "id": "1638",
+    "hiragana": "みおろす",
+    "kanji": "見下ろす",
+    "meaning": "",
+    "romaji": "miorosu"
+  },
+  {
+    "id": "1639",
+    "hiragana": "みかけ",
+    "kanji": "見掛け",
+    "meaning": "",
+    "romaji": "mikake"
+  },
+  {
+    "id": "1640",
+    "hiragana": "みかづき",
+    "kanji": "三日月",
+    "meaning": "",
+    "romaji": "mikazuki"
+  },
+  {
+    "id": "1641",
+    "hiragana": "みさき",
+    "kanji": "岬",
+    "meaning": "",
+    "romaji": "misaki"
+  },
+  {
+    "id": "1642",
+    "hiragana": "みじめ",
+    "kanji": "みじめ",
+    "meaning": "",
+    "romaji": "mijime"
+  },
+  {
+    "id": "1643",
+    "hiragana": "ミシン",
+    "kanji": "ミシン",
+    "meaning": "",
+    "romaji": "mishin"
+  },
+  {
+    "id": "1644",
+    "hiragana": "みせや",
+    "kanji": "店屋",
+    "meaning": "",
+    "romaji": "miseya"
+  },
+  {
+    "id": "1645",
+    "hiragana": "みだし",
+    "kanji": "見出し",
+    "meaning": "",
+    "romaji": "midashi"
+  },
+  {
+    "id": "1646",
+    "hiragana": "みちじゅん",
+    "kanji": "道順",
+    "meaning": "",
+    "romaji": "michijun"
+  },
+  {
+    "id": "1647",
+    "hiragana": "みつかる",
+    "kanji": "見付かる",
+    "meaning": "",
+    "romaji": "mitsukaru"
+  },
+  {
+    "id": "1648",
+    "hiragana": "みつける",
+    "kanji": "見付ける",
+    "meaning": "",
+    "romaji": "mitsukeru"
+  },
+  {
+    "id": "1649",
+    "hiragana": "みっともない",
+    "kanji": "みっともない",
+    "meaning": "",
+    "romaji": "mittomonai"
+  },
+  {
+    "id": "1650",
+    "hiragana": "みなおす",
+    "kanji": "見直す",
+    "meaning": "",
+    "romaji": "minaosu"
+  }
+]

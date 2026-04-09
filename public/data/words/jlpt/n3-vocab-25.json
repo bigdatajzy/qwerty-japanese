@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1201",
+    "hiragana": "できごと",
+    "kanji": "出来事",
+    "meaning": "",
+    "romaji": "dekigoto"
+  },
+  {
+    "id": "1202",
+    "hiragana": "てきする",
+    "kanji": "適する",
+    "meaning": "",
+    "romaji": "tekisuru"
+  },
+  {
+    "id": "1203",
+    "hiragana": "てきせつ",
+    "kanji": "適切",
+    "meaning": "",
+    "romaji": "tekisetsu"
+  },
+  {
+    "id": "1204",
+    "hiragana": "てきど",
+    "kanji": "適度",
+    "meaning": "",
+    "romaji": "tekido"
+  },
+  {
+    "id": "1205",
+    "hiragana": "てきよう",
+    "kanji": "適用",
+    "meaning": "",
+    "romaji": "tekiyou"
+  },
+  {
+    "id": "1206",
+    "hiragana": "（可能。出現。",
+    "kanji": "できる",
+    "meaning": "",
+    "romaji": "(可能.出現."
+  },
+  {
+    "id": "1207",
+    "hiragana": "発生）",
+    "kanji": "発生）",
+    "meaning": "",
+    "romaji": "発生)"
+  },
+  {
+    "id": "1208",
+    "hiragana": "できるだけ",
+    "kanji": "出来るだ",
+    "meaning": "",
+    "romaji": "dekirudake"
+  },
+  {
+    "id": "1209",
+    "hiragana": "できれば",
+    "kanji": "できれば",
+    "meaning": "",
+    "romaji": "dekireba"
+  },
+  {
+    "id": "1210",
+    "hiragana": "てじな",
+    "kanji": "手品",
+    "meaning": "",
+    "romaji": "tejina"
+  },
+  {
+    "id": "1211",
+    "hiragana": "ですから",
+    "kanji": "ですから",
+    "meaning": "",
+    "romaji": "desukara"
+  },
+  {
+    "id": "1212",
+    "hiragana": "てつ",
+    "kanji": "鉄",
+    "meaning": "",
+    "romaji": "tetsu"
+  },
+  {
+    "id": "1213",
+    "hiragana": "てつがく",
+    "kanji": "哲学",
+    "meaning": "",
+    "romaji": "tetsugaku"
+  },
+  {
+    "id": "1214",
+    "hiragana": "てつだい",
+    "kanji": "手伝い",
+    "meaning": "",
+    "romaji": "tetsudai"
+  },
+  {
+    "id": "1215",
+    "hiragana": "てってい",
+    "kanji": "徹底",
+    "meaning": "",
+    "romaji": "tettei"
+  },
+  {
+    "id": "1216",
+    "hiragana": "てつどう",
+    "kanji": "鉄道",
+    "meaning": "",
+    "romaji": "tetsudou"
+  },
+  {
+    "id": "1217",
+    "hiragana": "てつや",
+    "kanji": "徹夜",
+    "meaning": "",
+    "romaji": "tetsuya"
+  },
+  {
+    "id": "1218",
+    "hiragana": "では",
+    "kanji": "では",
+    "meaning": "",
+    "romaji": "deha"
+  },
+  {
+    "id": "1219",
+    "hiragana": "てま",
+    "kanji": "手間",
+    "meaning": "",
+    "romaji": "tema"
+  },
+  {
+    "id": "1220",
+    "hiragana": "でも",
+    "kanji": "でも",
+    "meaning": "",
+    "romaji": "demo"
+  },
+  {
+    "id": "1221",
+    "hiragana": "デモ",
+    "kanji": "デモ",
+    "meaning": "",
+    "romaji": "demo"
+  },
+  {
+    "id": "1222",
+    "hiragana": "てんけい",
+    "kanji": "典型",
+    "meaning": "",
+    "romaji": "tenkei"
+  },
+  {
+    "id": "1223",
+    "hiragana": "てんこう",
+    "kanji": "天候",
+    "meaning": "",
+    "romaji": "tenkou"
+  },
+  {
+    "id": "1224",
+    "hiragana": "でんし",
+    "kanji": "電子",
+    "meaning": "",
+    "romaji": "denshi"
+  },
+  {
+    "id": "1225",
+    "hiragana": "テント",
+    "kanji": "テント",
+    "meaning": "",
+    "romaji": "tento"
+  },
+  {
+    "id": "1226",
+    "hiragana": "でんとう",
+    "kanji": "伝統",
+    "meaning": "",
+    "romaji": "dentou"
+  },
+  {
+    "id": "1227",
+    "hiragana": "てんねん",
+    "kanji": "天然",
+    "meaning": "",
+    "romaji": "tennen"
+  },
+  {
+    "id": "1228",
+    "hiragana": "ど",
+    "kanji": "度",
+    "meaning": "",
+    "romaji": "do"
+  },
+  {
+    "id": "1229",
+    "hiragana": "とい",
+    "kanji": "問い",
+    "meaning": "",
+    "romaji": "toi"
+  },
+  {
+    "id": "1230",
+    "hiragana": "とう",
+    "kanji": "党",
+    "meaning": "",
+    "romaji": "tou"
+  },
+  {
+    "id": "1231",
+    "hiragana": "とう",
+    "kanji": "塔",
+    "meaning": "",
+    "romaji": "tou"
+  },
+  {
+    "id": "1232",
+    "hiragana": "（接。副）",
+    "kanji": "どう",
+    "meaning": "",
+    "romaji": "(接.副)"
+  },
+  {
+    "id": "1233",
+    "hiragana": "とうあん",
+    "kanji": "答案",
+    "meaning": "",
+    "romaji": "touan"
+  },
+  {
+    "id": "1234",
+    "hiragana": "どういつ",
+    "kanji": "同一",
+    "meaning": "",
+    "romaji": "douitsu"
+  },
+  {
+    "id": "1235",
+    "hiragana": "どうか",
+    "kanji": "どうか",
+    "meaning": "",
+    "romaji": "douka"
+  },
+  {
+    "id": "1236",
+    "hiragana": "とうじ",
+    "kanji": "当時",
+    "meaning": "",
+    "romaji": "touji"
+  },
+  {
+    "id": "1237",
+    "hiragana": "どうし",
+    "kanji": "動詞",
+    "meaning": "",
+    "romaji": "doushi"
+  },
+  {
+    "id": "1238",
+    "hiragana": "どうじ",
+    "kanji": "同時",
+    "meaning": "",
+    "romaji": "douji"
+  },
+  {
+    "id": "1239",
+    "hiragana": "どうしても",
+    "kanji": "どうしても",
+    "meaning": "",
+    "romaji": "doushitemo"
+  },
+  {
+    "id": "1240",
+    "hiragana": "とうちゃく",
+    "kanji": "到着",
+    "meaning": "",
+    "romaji": "touchaku"
+  },
+  {
+    "id": "1241",
+    "hiragana": "どうとく",
+    "kanji": "道徳",
+    "meaning": "",
+    "romaji": "doutoku"
+  },
+  {
+    "id": "1242",
+    "hiragana": "とうひょう",
+    "kanji": "投票",
+    "meaning": "",
+    "romaji": "touhyou"
+  },
+  {
+    "id": "1243",
+    "hiragana": "どうよう",
+    "kanji": "同様",
+    "meaning": "",
+    "romaji": "douyou"
+  },
+  {
+    "id": "1244",
+    "hiragana": "どうりょう",
+    "kanji": "同僚",
+    "meaning": "",
+    "romaji": "douryou"
+  },
+  {
+    "id": "1245",
+    "hiragana": "どうろ",
+    "kanji": "道路",
+    "meaning": "",
+    "romaji": "douro"
+  },
+  {
+    "id": "1246",
+    "hiragana": "とお",
+    "kanji": "十",
+    "meaning": "",
+    "romaji": "too"
+  },
+  {
+    "id": "1247",
+    "hiragana": "とおす",
+    "kanji": "通す",
+    "meaning": "",
+    "romaji": "toosu"
+  },
+  {
+    "id": "1248",
+    "hiragana": "とおり",
+    "kanji": "通り",
+    "meaning": "",
+    "romaji": "toori"
+  },
+  {
+    "id": "1249",
+    "hiragana": "とおりすぎる",
+    "kanji": "通り過ぎ",
+    "meaning": "",
+    "romaji": "toorisugiru"
+  },
+  {
+    "id": "1250",
+    "hiragana": "とかい",
+    "kanji": "都会",
+    "meaning": "",
+    "romaji": "tokai"
+  }
+]

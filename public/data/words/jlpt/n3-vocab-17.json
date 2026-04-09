@@ -1,0 +1,352 @@
+[
+  {
+    "id": "801",
+    "hiragana": "しゅんかん",
+    "kanji": "瞬間",
+    "meaning": "",
+    "romaji": "shunkan"
+  },
+  {
+    "id": "802",
+    "hiragana": "じゅんちょう",
+    "kanji": "順調",
+    "meaning": "",
+    "romaji": "junchou"
+  },
+  {
+    "id": "803",
+    "hiragana": "じゅんばん",
+    "kanji": "順番",
+    "meaning": "",
+    "romaji": "junban"
+  },
+  {
+    "id": "804",
+    "hiragana": "じゅんび",
+    "kanji": "準備",
+    "meaning": "",
+    "romaji": "junbi"
+  },
+  {
+    "id": "805",
+    "hiragana": "しよう",
+    "kanji": "使用",
+    "meaning": "",
+    "romaji": "shiyou"
+  },
+  {
+    "id": "806",
+    "hiragana": "しょう",
+    "kanji": "小",
+    "meaning": "",
+    "romaji": "shou"
+  },
+  {
+    "id": "807",
+    "hiragana": "しょう",
+    "kanji": "章",
+    "meaning": "",
+    "romaji": "shou"
+  },
+  {
+    "id": "808",
+    "hiragana": "しょう",
+    "kanji": "賞",
+    "meaning": "",
+    "romaji": "shou"
+  },
+  {
+    "id": "809",
+    "hiragana": "じょう",
+    "kanji": "上",
+    "meaning": "",
+    "romaji": "jou"
+  },
+  {
+    "id": "810",
+    "hiragana": "しょうがい",
+    "kanji": "障害",
+    "meaning": "",
+    "romaji": "shougai"
+  },
+  {
+    "id": "811",
+    "hiragana": "しょうがくきん",
+    "kanji": "奨学金",
+    "meaning": "",
+    "romaji": "shougakukin"
+  },
+  {
+    "id": "812",
+    "hiragana": "じょうきゃく",
+    "kanji": "乗客",
+    "meaning": "",
+    "romaji": "joukyaku"
+  },
+  {
+    "id": "813",
+    "hiragana": "じょうきょう",
+    "kanji": "上京",
+    "meaning": "",
+    "romaji": "joukyou"
+  },
+  {
+    "id": "814",
+    "hiragana": "じょうきょう",
+    "kanji": "状況",
+    "meaning": "",
+    "romaji": "joukyou"
+  },
+  {
+    "id": "815",
+    "hiragana": "じょうけん",
+    "kanji": "条件",
+    "meaning": "",
+    "romaji": "jouken"
+  },
+  {
+    "id": "816",
+    "hiragana": "しょうご",
+    "kanji": "正午",
+    "meaning": "",
+    "romaji": "shougo"
+  },
+  {
+    "id": "817",
+    "hiragana": "しょうじき",
+    "kanji": "正直",
+    "meaning": "",
+    "romaji": "shoujiki"
+  },
+  {
+    "id": "818",
+    "hiragana": "じょうしき",
+    "kanji": "常識",
+    "meaning": "",
+    "romaji": "joushiki"
+  },
+  {
+    "id": "819",
+    "hiragana": "しょうじょ",
+    "kanji": "少女",
+    "meaning": "",
+    "romaji": "shoujo"
+  },
+  {
+    "id": "820",
+    "hiragana": "しょうしょう",
+    "kanji": "少々",
+    "meaning": "",
+    "romaji": "shoushou"
+  },
+  {
+    "id": "821",
+    "hiragana": "しょうじょう",
+    "kanji": "症状",
+    "meaning": "",
+    "romaji": "shoujou"
+  },
+  {
+    "id": "822",
+    "hiragana": "しょうじる",
+    "kanji": "生じる",
+    "meaning": "",
+    "romaji": "shoujiru"
+  },
+  {
+    "id": "823",
+    "hiragana": "しょうたい",
+    "kanji": "招待",
+    "meaning": "",
+    "romaji": "shoutai"
+  },
+  {
+    "id": "824",
+    "hiragana": "じょうたい",
+    "kanji": "状態",
+    "meaning": "",
+    "romaji": "joutai"
+  },
+  {
+    "id": "825",
+    "hiragana": "じょうたつ",
+    "kanji": "上達",
+    "meaning": "",
+    "romaji": "joutatsu"
+  },
+  {
+    "id": "826",
+    "hiragana": "じょうだん",
+    "kanji": "冗談",
+    "meaning": "",
+    "romaji": "joudan"
+  },
+  {
+    "id": "827",
+    "hiragana": "しょうち",
+    "kanji": "承知",
+    "meaning": "",
+    "romaji": "shouchi"
+  },
+  {
+    "id": "828",
+    "hiragana": "じょうとう",
+    "kanji": "上等",
+    "meaning": "",
+    "romaji": "joutou"
+  },
+  {
+    "id": "829",
+    "hiragana": "しょうとつ",
+    "kanji": "衝突",
+    "meaning": "",
+    "romaji": "shoutotsu"
+  },
+  {
+    "id": "830",
+    "hiragana": "しょうにん",
+    "kanji": "商人",
+    "meaning": "",
+    "romaji": "shounin"
+  },
+  {
+    "id": "831",
+    "hiragana": "しょうにん",
+    "kanji": "承認",
+    "meaning": "",
+    "romaji": "shounin"
+  },
+  {
+    "id": "832",
+    "hiragana": "しょうねん",
+    "kanji": "少年",
+    "meaning": "",
+    "romaji": "shounen"
+  },
+  {
+    "id": "833",
+    "hiragana": "しょうばい",
+    "kanji": "商売",
+    "meaning": "",
+    "romaji": "shoubai"
+  },
+  {
+    "id": "834",
+    "hiragana": "しょうひ",
+    "kanji": "消費",
+    "meaning": "",
+    "romaji": "shouhi"
+  },
+  {
+    "id": "835",
+    "hiragana": "しょうひん",
+    "kanji": "商品",
+    "meaning": "",
+    "romaji": "shouhin"
+  },
+  {
+    "id": "836",
+    "hiragana": "しょうぼう",
+    "kanji": "消防",
+    "meaning": "",
+    "romaji": "shoubou"
+  },
+  {
+    "id": "837",
+    "hiragana": "じょうほう",
+    "kanji": "情報",
+    "meaning": "",
+    "romaji": "jouhou"
+  },
+  {
+    "id": "838",
+    "hiragana": "しょうめい",
+    "kanji": "証明",
+    "meaning": "",
+    "romaji": "shoumei"
+  },
+  {
+    "id": "839",
+    "hiragana": "じょおう",
+    "kanji": "女王",
+    "meaning": "",
+    "romaji": "joou"
+  },
+  {
+    "id": "840",
+    "hiragana": "しょく",
+    "kanji": "職",
+    "meaning": "",
+    "romaji": "shoku"
+  },
+  {
+    "id": "841",
+    "hiragana": "しょくぎょう",
+    "kanji": "職業",
+    "meaning": "",
+    "romaji": "shokugyou"
+  },
+  {
+    "id": "842",
+    "hiragana": "しょくじ",
+    "kanji": "食事",
+    "meaning": "",
+    "romaji": "shokuji"
+  },
+  {
+    "id": "843",
+    "hiragana": "しょくたく",
+    "kanji": "食卓",
+    "meaning": "",
+    "romaji": "shokutaku"
+  },
+  {
+    "id": "844",
+    "hiragana": "しょくひん",
+    "kanji": "食品",
+    "meaning": "",
+    "romaji": "shokuhin"
+  },
+  {
+    "id": "845",
+    "hiragana": "しょくぶつ",
+    "kanji": "植物",
+    "meaning": "",
+    "romaji": "shokubutsu"
+  },
+  {
+    "id": "846",
+    "hiragana": "しょくもつ",
+    "kanji": "食物",
+    "meaning": "",
+    "romaji": "shokumotsu"
+  },
+  {
+    "id": "847",
+    "hiragana": "しょくよく",
+    "kanji": "食欲",
+    "meaning": "",
+    "romaji": "shokuyoku"
+  },
+  {
+    "id": "848",
+    "hiragana": "しょくりょう",
+    "kanji": "食料",
+    "meaning": "",
+    "romaji": "shokuryou"
+  },
+  {
+    "id": "849",
+    "hiragana": "しょくりょう",
+    "kanji": "食糧",
+    "meaning": "",
+    "romaji": "shokuryou"
+  },
+  {
+    "id": "850",
+    "hiragana": "しょさい",
+    "kanji": "書斎",
+    "meaning": "",
+    "romaji": "shosai"
+  }
+]

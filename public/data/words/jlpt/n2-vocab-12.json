@@ -1,0 +1,352 @@
+[
+  {
+    "id": "551",
+    "hiragana": "コーラス",
+    "kanji": "コーラス",
+    "meaning": "",
+    "romaji": "koorasu"
+  },
+  {
+    "id": "552",
+    "hiragana": "こがす",
+    "kanji": "焦がす",
+    "meaning": "",
+    "romaji": "kogasu"
+  },
+  {
+    "id": "553",
+    "hiragana": "こくおう",
+    "kanji": "国王",
+    "meaning": "",
+    "romaji": "kokuou"
+  },
+  {
+    "id": "554",
+    "hiragana": "こくせき",
+    "kanji": "国籍",
+    "meaning": "",
+    "romaji": "kokuseki"
+  },
+  {
+    "id": "555",
+    "hiragana": "こくりつ",
+    "kanji": "国立",
+    "meaning": "",
+    "romaji": "kokuritsu"
+  },
+  {
+    "id": "556",
+    "hiragana": "ごくろうさま",
+    "kanji": "ごくろうさま",
+    "meaning": "",
+    "romaji": "gokurousama"
+  },
+  {
+    "id": "557",
+    "hiragana": "こげる",
+    "kanji": "焦げる",
+    "meaning": "",
+    "romaji": "kogeru"
+  },
+  {
+    "id": "558",
+    "hiragana": "こごえる",
+    "kanji": "凍える",
+    "meaning": "",
+    "romaji": "kogoeru"
+  },
+  {
+    "id": "559",
+    "hiragana": "こころあたり",
+    "kanji": "心当たり",
+    "meaning": "",
+    "romaji": "kokoroatari"
+  },
+  {
+    "id": "560",
+    "hiragana": "こころえる",
+    "kanji": "心得る",
+    "meaning": "",
+    "romaji": "kokoroeru"
+  },
+  {
+    "id": "561",
+    "hiragana": "こしかけ",
+    "kanji": "腰掛け",
+    "meaning": "",
+    "romaji": "koshikake"
+  },
+  {
+    "id": "562",
+    "hiragana": "こしかける",
+    "kanji": "腰掛ける",
+    "meaning": "",
+    "romaji": "koshikakeru"
+  },
+  {
+    "id": "563",
+    "hiragana": "ごじゅうおん",
+    "kanji": "五十音",
+    "meaning": "",
+    "romaji": "gojuuon"
+  },
+  {
+    "id": "564",
+    "hiragana": "こしょう",
+    "kanji": "胡椒",
+    "meaning": "",
+    "romaji": "koshou"
+  },
+  {
+    "id": "565",
+    "hiragana": "こしらえる",
+    "kanji": "こしらえる",
+    "meaning": "",
+    "romaji": "koshiraeru"
+  },
+  {
+    "id": "566",
+    "hiragana": "こす",
+    "kanji": "超す",
+    "meaning": "",
+    "romaji": "kosu"
+  },
+  {
+    "id": "567",
+    "hiragana": "こする",
+    "kanji": "擦る",
+    "meaning": "",
+    "romaji": "kosuru"
+  },
+  {
+    "id": "568",
+    "hiragana": "ごぞんじですか",
+    "kanji": "ごぞんじですか",
+    "meaning": "",
+    "romaji": "gozonjidesuka"
+  },
+  {
+    "id": "569",
+    "hiragana": "こたい",
+    "kanji": "個体",
+    "meaning": "",
+    "romaji": "kotai"
+  },
+  {
+    "id": "570",
+    "hiragana": "ごちそう",
+    "kanji": "御馳走",
+    "meaning": "",
+    "romaji": "gochisou"
+  },
+  {
+    "id": "571",
+    "hiragana": "ごちそうさま",
+    "kanji": "ごちそうさま",
+    "meaning": "",
+    "romaji": "gochisousama"
+  },
+  {
+    "id": "572",
+    "hiragana": "こちらこそ",
+    "kanji": "こちらこそ",
+    "meaning": "",
+    "romaji": "kochirakoso"
+  },
+  {
+    "id": "573",
+    "hiragana": "こづかい",
+    "kanji": "小遣い",
+    "meaning": "",
+    "romaji": "kozukai"
+  },
+  {
+    "id": "574",
+    "hiragana": "コック",
+    "kanji": "コック",
+    "meaning": "",
+    "romaji": "kokku"
+  },
+  {
+    "id": "575",
+    "hiragana": "こっそり",
+    "kanji": "こっそり",
+    "meaning": "",
+    "romaji": "kossori"
+  },
+  {
+    "id": "576",
+    "hiragana": "こてん",
+    "kanji": "古典",
+    "meaning": "",
+    "romaji": "koten"
+  },
+  {
+    "id": "577",
+    "hiragana": "こと",
+    "kanji": "琴",
+    "meaning": "",
+    "romaji": "koto"
+  },
+  {
+    "id": "578",
+    "hiragana": "ことづける",
+    "kanji": "言付ける",
+    "meaning": "",
+    "romaji": "kotozukeru"
+  },
+  {
+    "id": "579",
+    "hiragana": "ことばづかい",
+    "kanji": "言葉遣い",
+    "meaning": "",
+    "romaji": "kotobazukai"
+  },
+  {
+    "id": "580",
+    "hiragana": "こないだ",
+    "kanji": "こないだ",
+    "meaning": "",
+    "romaji": "konaida"
+  },
+  {
+    "id": "581",
+    "hiragana": "ごぶさた",
+    "kanji": "御無沙汰",
+    "meaning": "",
+    "romaji": "gobusata"
+  },
+  {
+    "id": "582",
+    "hiragana": "こぼす",
+    "kanji": "こぼす",
+    "meaning": "",
+    "romaji": "kobosu"
+  },
+  {
+    "id": "583",
+    "hiragana": "こぼれる",
+    "kanji": "こぼれる",
+    "meaning": "",
+    "romaji": "koboreru"
+  },
+  {
+    "id": "584",
+    "hiragana": "ごみ",
+    "kanji": "塵芥",
+    "meaning": "",
+    "romaji": "gomi"
+  },
+  {
+    "id": "585",
+    "hiragana": "ゴム",
+    "kanji": "ゴム",
+    "meaning": "",
+    "romaji": "gomu"
+  },
+  {
+    "id": "586",
+    "hiragana": "ごめん",
+    "kanji": "御免",
+    "meaning": "",
+    "romaji": "gomen"
+  },
+  {
+    "id": "587",
+    "hiragana": "ごめんください",
+    "kanji": "ごめんください",
+    "meaning": "",
+    "romaji": "gomenkudasai"
+  },
+  {
+    "id": "588",
+    "hiragana": "こゆび",
+    "kanji": "小指",
+    "meaning": "",
+    "romaji": "koyubi"
+  },
+  {
+    "id": "589",
+    "hiragana": "こらえる",
+    "kanji": "こらえる",
+    "meaning": "",
+    "romaji": "koraeru"
+  },
+  {
+    "id": "590",
+    "hiragana": "ごらく",
+    "kanji": "娯楽",
+    "meaning": "",
+    "romaji": "goraku"
+  },
+  {
+    "id": "591",
+    "hiragana": "ごらん",
+    "kanji": "御覧",
+    "meaning": "",
+    "romaji": "goran"
+  },
+  {
+    "id": "592",
+    "hiragana": "コレクション",
+    "kanji": "コレクション",
+    "meaning": "",
+    "romaji": "korekushon"
+  },
+  {
+    "id": "593",
+    "hiragana": "ころがす",
+    "kanji": "転がす",
+    "meaning": "",
+    "romaji": "korogasu"
+  },
+  {
+    "id": "594",
+    "hiragana": "ころがる",
+    "kanji": "転がる",
+    "meaning": "",
+    "romaji": "korogaru"
+  },
+  {
+    "id": "595",
+    "hiragana": "こん",
+    "kanji": "紺",
+    "meaning": "",
+    "romaji": "kon"
+  },
+  {
+    "id": "596",
+    "hiragana": "コンクール",
+    "kanji": "コンクール",
+    "meaning": "",
+    "romaji": "konkuuru"
+  },
+  {
+    "id": "597",
+    "hiragana": "コンクリート",
+    "kanji": "コンクリート",
+    "meaning": "",
+    "romaji": "konkuriito"
+  },
+  {
+    "id": "598",
+    "hiragana": "こんごう",
+    "kanji": "混合",
+    "meaning": "",
+    "romaji": "kongou"
+  },
+  {
+    "id": "599",
+    "hiragana": "コンセント",
+    "kanji": "コンセント",
+    "meaning": "",
+    "romaji": "konsento"
+  },
+  {
+    "id": "600",
+    "hiragana": "こんだて",
+    "kanji": "献立",
+    "meaning": "",
+    "romaji": "kondate"
+  }
+]

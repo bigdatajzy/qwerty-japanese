@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2001",
+    "hiragana": "ちょう",
+    "kanji": "庁",
+    "meaning": "",
+    "romaji": "chou"
+  },
+  {
+    "id": "2002",
+    "hiragana": "ちょういん",
+    "kanji": "調印",
+    "meaning": "",
+    "romaji": "chouin"
+  },
+  {
+    "id": "2003",
+    "hiragana": "ちょうかく",
+    "kanji": "聴覚",
+    "meaning": "",
+    "romaji": "choukaku"
+  },
+  {
+    "id": "2004",
+    "hiragana": "ちょうかん",
+    "kanji": "長官",
+    "meaning": "",
+    "romaji": "choukan"
+  },
+  {
+    "id": "2005",
+    "hiragana": "ちょうこう",
+    "kanji": "聴講",
+    "meaning": "",
+    "romaji": "choukou"
+  },
+  {
+    "id": "2006",
+    "hiragana": "ちょうしゅう",
+    "kanji": "徴収",
+    "meaning": "",
+    "romaji": "choushuu"
+  },
+  {
+    "id": "2007",
+    "hiragana": "ちょうしんき",
+    "kanji": "聴診器",
+    "meaning": "",
+    "romaji": "choushinki"
+  },
+  {
+    "id": "2008",
+    "hiragana": "ちょうせん",
+    "kanji": "挑戦",
+    "meaning": "",
+    "romaji": "chousen"
+  },
+  {
+    "id": "2009",
+    "hiragana": "ちょうだい",
+    "kanji": "長大",
+    "meaning": "",
+    "romaji": "choudai"
+  },
+  {
+    "id": "2010",
+    "hiragana": "ちょうてい",
+    "kanji": "調停",
+    "meaning": "",
+    "romaji": "choutei"
+  },
+  {
+    "id": "2011",
+    "hiragana": "ちょうど",
+    "kanji": "恰度",
+    "meaning": "",
+    "romaji": "choudo"
+  },
+  {
+    "id": "2012",
+    "hiragana": "ちょうへん",
+    "kanji": "長編",
+    "meaning": "",
+    "romaji": "chouhen"
+  },
+  {
+    "id": "2013",
+    "hiragana": "ちょうめ",
+    "kanji": "丁目",
+    "meaning": "",
+    "romaji": "choume"
+  },
+  {
+    "id": "2014",
+    "hiragana": "ちょうり",
+    "kanji": "調理",
+    "meaning": "",
+    "romaji": "chouri"
+  },
+  {
+    "id": "2015",
+    "hiragana": "ちょうわ",
+    "kanji": "調和",
+    "meaning": "",
+    "romaji": "chouwa"
+  },
+  {
+    "id": "2016",
+    "hiragana": "ちょくちょく",
+    "kanji": "ちょくちょく",
+    "meaning": "",
+    "romaji": "chokuchoku"
+  },
+  {
+    "id": "2017",
+    "hiragana": "ちょくめん",
+    "kanji": "直面",
+    "meaning": "",
+    "romaji": "chokumen"
+  },
+  {
+    "id": "2018",
+    "hiragana": "ちょしょ",
+    "kanji": "著書",
+    "meaning": "",
+    "romaji": "chosho"
+  },
+  {
+    "id": "2019",
+    "hiragana": "ちょちく",
+    "kanji": "貯蓄",
+    "meaning": "",
+    "romaji": "chochiku"
+  },
+  {
+    "id": "2020",
+    "hiragana": "ちょっかん",
+    "kanji": "直感",
+    "meaning": "",
+    "romaji": "chokkan"
+  },
+  {
+    "id": "2021",
+    "hiragana": "ちょっと",
+    "kanji": "一寸",
+    "meaning": "",
+    "romaji": "chotto"
+  },
+  {
+    "id": "2022",
+    "hiragana": "ちょめい",
+    "kanji": "著名",
+    "meaning": "",
+    "romaji": "chomei"
+  },
+  {
+    "id": "2023",
+    "hiragana": "ちらっと",
+    "kanji": "ちらっと",
+    "meaning": "",
+    "romaji": "chiratto"
+  },
+  {
+    "id": "2024",
+    "hiragana": "ちりとり",
+    "kanji": "塵取り",
+    "meaning": "",
+    "romaji": "chiritori"
+  },
+  {
+    "id": "2025",
+    "hiragana": "ちりょう",
+    "kanji": "治療",
+    "meaning": "",
+    "romaji": "chiryou"
+  },
+  {
+    "id": "2026",
+    "hiragana": "ちんぎん",
+    "kanji": "賃金",
+    "meaning": "",
+    "romaji": "chingin"
+  },
+  {
+    "id": "2027",
+    "hiragana": "ちんでん",
+    "kanji": "沈殿",
+    "meaning": "",
+    "romaji": "chinden"
+  },
+  {
+    "id": "2028",
+    "hiragana": "ちんぼつ",
+    "kanji": "沈没",
+    "meaning": "",
+    "romaji": "chinbotsu"
+  },
+  {
+    "id": "2029",
+    "hiragana": "ちんもく",
+    "kanji": "沈黙",
+    "meaning": "",
+    "romaji": "chinmoku"
+  },
+  {
+    "id": "2030",
+    "hiragana": "ちんれつ",
+    "kanji": "陳列",
+    "meaning": "",
+    "romaji": "chinretsu"
+  },
+  {
+    "id": "2031",
+    "hiragana": "ついきゅう",
+    "kanji": "追及",
+    "meaning": "",
+    "romaji": "tsuikyuu"
+  },
+  {
+    "id": "2032",
+    "hiragana": "ついせき",
+    "kanji": "追跡",
+    "meaning": "",
+    "romaji": "tsuiseki"
+  },
+  {
+    "id": "2033",
+    "hiragana": "ついで",
+    "kanji": "次いで",
+    "meaning": "",
+    "romaji": "tsuide"
+  },
+  {
+    "id": "2034",
+    "hiragana": "ついほう",
+    "kanji": "追放",
+    "meaning": "",
+    "romaji": "tsuihou"
+  },
+  {
+    "id": "2035",
+    "hiragana": "ついやす",
+    "kanji": "費やす",
+    "meaning": "",
+    "romaji": "tsuiyasu"
+  },
+  {
+    "id": "2036",
+    "hiragana": "ついらく",
+    "kanji": "墜落",
+    "meaning": "",
+    "romaji": "tsuiraku"
+  },
+  {
+    "id": "2037",
+    "hiragana": "つう",
+    "kanji": "通",
+    "meaning": "",
+    "romaji": "tsuu"
+  },
+  {
+    "id": "2038",
+    "hiragana": "つうかん",
+    "kanji": "痛感",
+    "meaning": "",
+    "romaji": "tsuukan"
+  },
+  {
+    "id": "2039",
+    "hiragana": "つうじょう",
+    "kanji": "通常",
+    "meaning": "",
+    "romaji": "tsuujou"
+  },
+  {
+    "id": "2040",
+    "hiragana": "つうせつ",
+    "kanji": "痛切",
+    "meaning": "",
+    "romaji": "tsuusetsu"
+  },
+  {
+    "id": "2041",
+    "hiragana": "つえ",
+    "kanji": "杖",
+    "meaning": "",
+    "romaji": "tsue"
+  },
+  {
+    "id": "2042",
+    "hiragana": "つかい",
+    "kanji": "遣い",
+    "meaning": "",
+    "romaji": "tsukai"
+  },
+  {
+    "id": "2043",
+    "hiragana": "つかいみち",
+    "kanji": "使い道",
+    "meaning": "",
+    "romaji": "tsukaimichi"
+  },
+  {
+    "id": "2044",
+    "hiragana": "つかえる",
+    "kanji": "仕える",
+    "meaning": "",
+    "romaji": "tsukaeru"
+  },
+  {
+    "id": "2045",
+    "hiragana": "つかさどる",
+    "kanji": "司る",
+    "meaning": "",
+    "romaji": "tsukasadoru"
+  },
+  {
+    "id": "2046",
+    "hiragana": "つかのま",
+    "kanji": "束の間",
+    "meaning": "",
+    "romaji": "tsukanoma"
+  },
+  {
+    "id": "2047",
+    "hiragana": "つき",
+    "kanji": "付き",
+    "meaning": "",
+    "romaji": "tsuki"
+  },
+  {
+    "id": "2048",
+    "hiragana": "つきあう",
+    "kanji": "付き合う",
+    "meaning": "",
+    "romaji": "tsukiau"
+  },
+  {
+    "id": "2049",
+    "hiragana": "つきなみ",
+    "kanji": "月並み",
+    "meaning": "",
+    "romaji": "tsukinami"
+  },
+  {
+    "id": "2050",
+    "hiragana": "つきる",
+    "kanji": "尽きる",
+    "meaning": "",
+    "romaji": "tsukiru"
+  }
+]

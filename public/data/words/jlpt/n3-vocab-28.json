@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1351",
+    "hiragana": "ぬの",
+    "kanji": "布",
+    "meaning": "",
+    "romaji": "nuno"
+  },
+  {
+    "id": "1352",
+    "hiragana": "ぬれる",
+    "kanji": "濡れる",
+    "meaning": "",
+    "romaji": "nureru"
+  },
+  {
+    "id": "1353",
+    "hiragana": "（感）",
+    "kanji": "ね",
+    "meaning": "",
+    "romaji": "(感)"
+  },
+  {
+    "id": "1354",
+    "hiragana": "ね",
+    "kanji": "根",
+    "meaning": "",
+    "romaji": "ne"
+  },
+  {
+    "id": "1355",
+    "hiragana": "ね",
+    "kanji": "値",
+    "meaning": "",
+    "romaji": "ne"
+  },
+  {
+    "id": "1356",
+    "hiragana": "ねがい",
+    "kanji": "願い",
+    "meaning": "",
+    "romaji": "negai"
+  },
+  {
+    "id": "1357",
+    "hiragana": "ねがう",
+    "kanji": "願う",
+    "meaning": "",
+    "romaji": "negau"
+  },
+  {
+    "id": "1358",
+    "hiragana": "ねずみ",
+    "kanji": "鼠",
+    "meaning": "",
+    "romaji": "nezumi"
+  },
+  {
+    "id": "1359",
+    "hiragana": "ねだん",
+    "kanji": "値段",
+    "meaning": "",
+    "romaji": "nedan"
+  },
+  {
+    "id": "1360",
+    "hiragana": "ねっしん",
+    "kanji": "熱心",
+    "meaning": "",
+    "romaji": "nesshin"
+  },
+  {
+    "id": "1361",
+    "hiragana": "ねったい",
+    "kanji": "熱帯",
+    "meaning": "",
+    "romaji": "nettai"
+  },
+  {
+    "id": "1362",
+    "hiragana": "ねっちゅう",
+    "kanji": "熱中",
+    "meaning": "",
+    "romaji": "netchuu"
+  },
+  {
+    "id": "1363",
+    "hiragana": "ねんかん",
+    "kanji": "年間",
+    "meaning": "",
+    "romaji": "nenkan"
+  },
+  {
+    "id": "1364",
+    "hiragana": "ねんげつ",
+    "kanji": "年月",
+    "meaning": "",
+    "romaji": "nengetsu"
+  },
+  {
+    "id": "1365",
+    "hiragana": "ねんじゅう",
+    "kanji": "年中",
+    "meaning": "",
+    "romaji": "nenjuu"
+  },
+  {
+    "id": "1366",
+    "hiragana": "ねんだい",
+    "kanji": "年代",
+    "meaning": "",
+    "romaji": "nendai"
+  },
+  {
+    "id": "1367",
+    "hiragana": "ねんれい",
+    "kanji": "年齢",
+    "meaning": "",
+    "romaji": "nenrei"
+  },
+  {
+    "id": "1368",
+    "hiragana": "の",
+    "kanji": "野",
+    "meaning": "",
+    "romaji": "no"
+  },
+  {
+    "id": "1369",
+    "hiragana": "のう",
+    "kanji": "能",
+    "meaning": "",
+    "romaji": "nou"
+  },
+  {
+    "id": "1370",
+    "hiragana": "のうか",
+    "kanji": "農家",
+    "meaning": "",
+    "romaji": "nouka"
+  },
+  {
+    "id": "1371",
+    "hiragana": "のうぎょう",
+    "kanji": "農業",
+    "meaning": "",
+    "romaji": "nougyou"
+  },
+  {
+    "id": "1372",
+    "hiragana": "のうみん",
+    "kanji": "農民",
+    "meaning": "",
+    "romaji": "noumin"
+  },
+  {
+    "id": "1373",
+    "hiragana": "のうりょく",
+    "kanji": "能力",
+    "meaning": "",
+    "romaji": "nouryoku"
+  },
+  {
+    "id": "1374",
+    "hiragana": "（no）",
+    "kanji": "ノー",
+    "meaning": "",
+    "romaji": "(no)"
+  },
+  {
+    "id": "1375",
+    "hiragana": "のき",
+    "kanji": "軒",
+    "meaning": "",
+    "romaji": "noki"
+  },
+  {
+    "id": "1376",
+    "hiragana": "のこす",
+    "kanji": "残す",
+    "meaning": "",
+    "romaji": "nokosu"
+  },
+  {
+    "id": "1377",
+    "hiragana": "のこり",
+    "kanji": "残り",
+    "meaning": "",
+    "romaji": "nokori"
+  },
+  {
+    "id": "1378",
+    "hiragana": "のせる",
+    "kanji": "乗せる",
+    "meaning": "",
+    "romaji": "noseru"
+  },
+  {
+    "id": "1379",
+    "hiragana": "のぞく",
+    "kanji": "除く",
+    "meaning": "",
+    "romaji": "nozoku"
+  },
+  {
+    "id": "1380",
+    "hiragana": "のぞみ",
+    "kanji": "望み",
+    "meaning": "",
+    "romaji": "nozomi"
+  },
+  {
+    "id": "1381",
+    "hiragana": "のぞむ",
+    "kanji": "望む",
+    "meaning": "",
+    "romaji": "nozomu"
+  },
+  {
+    "id": "1382",
+    "hiragana": "のち",
+    "kanji": "後",
+    "meaning": "",
+    "romaji": "nochi"
+  },
+  {
+    "id": "1383",
+    "hiragana": "ノック",
+    "kanji": "ノック",
+    "meaning": "",
+    "romaji": "nokku"
+  },
+  {
+    "id": "1384",
+    "hiragana": "のど",
+    "kanji": "喉",
+    "meaning": "",
+    "romaji": "nodo"
+  },
+  {
+    "id": "1385",
+    "hiragana": "のばす",
+    "kanji": "伸ばす",
+    "meaning": "",
+    "romaji": "nobasu"
+  },
+  {
+    "id": "1386",
+    "hiragana": "のびる",
+    "kanji": "伸びる",
+    "meaning": "",
+    "romaji": "nobiru"
+  },
+  {
+    "id": "1387",
+    "hiragana": "のべる",
+    "kanji": "述べる",
+    "meaning": "",
+    "romaji": "noberu"
+  },
+  {
+    "id": "1388",
+    "hiragana": "のぼる",
+    "kanji": "昇る",
+    "meaning": "",
+    "romaji": "noboru"
+  },
+  {
+    "id": "1389",
+    "hiragana": "のんびり",
+    "kanji": "のんびり",
+    "meaning": "",
+    "romaji": "nonbiri"
+  },
+  {
+    "id": "1390",
+    "hiragana": "ば",
+    "kanji": "場",
+    "meaning": "",
+    "romaji": "ba"
+  },
+  {
+    "id": "1391",
+    "hiragana": "（感）",
+    "kanji": "はあ",
+    "meaning": "",
+    "romaji": "(感)"
+  },
+  {
+    "id": "1392",
+    "hiragana": "パーセント",
+    "kanji": "パーセント",
+    "meaning": "",
+    "romaji": "paasento"
+  },
+  {
+    "id": "1393",
+    "hiragana": "（感）",
+    "kanji": "はい",
+    "meaning": "",
+    "romaji": "(感)"
+  },
+  {
+    "id": "1394",
+    "hiragana": "はい",
+    "kanji": "灰",
+    "meaning": "",
+    "romaji": "hai"
+  },
+  {
+    "id": "1395",
+    "hiragana": "ばいう",
+    "kanji": "梅雨",
+    "meaning": "",
+    "romaji": "baiu"
+  },
+  {
+    "id": "1396",
+    "hiragana": "バイオリン",
+    "kanji": "バイオリン",
+    "meaning": "",
+    "romaji": "baiorin"
+  },
+  {
+    "id": "1397",
+    "hiragana": "ハイキング",
+    "kanji": "ハイキング",
+    "meaning": "",
+    "romaji": "haikingu"
+  },
+  {
+    "id": "1398",
+    "hiragana": "はいたつ",
+    "kanji": "配達",
+    "meaning": "",
+    "romaji": "haitatsu"
+  },
+  {
+    "id": "1399",
+    "hiragana": "パイプ",
+    "kanji": "パイプ",
+    "meaning": "",
+    "romaji": "paipu"
+  },
+  {
+    "id": "1400",
+    "hiragana": "はいゆう",
+    "kanji": "俳優",
+    "meaning": "",
+    "romaji": "haiyuu"
+  }
+]

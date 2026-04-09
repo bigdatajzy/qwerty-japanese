@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1801",
+    "hiragana": "そびえる",
+    "kanji": "聳える",
+    "meaning": "",
+    "romaji": "sobieru"
+  },
+  {
+    "id": "1802",
+    "hiragana": "そぼく",
+    "kanji": "素朴",
+    "meaning": "",
+    "romaji": "soboku"
+  },
+  {
+    "id": "1803",
+    "hiragana": "そまる",
+    "kanji": "染まる",
+    "meaning": "",
+    "romaji": "somaru"
+  },
+  {
+    "id": "1804",
+    "hiragana": "そむく",
+    "kanji": "背く",
+    "meaning": "",
+    "romaji": "somuku"
+  },
+  {
+    "id": "1805",
+    "hiragana": "そめる",
+    "kanji": "染める",
+    "meaning": "",
+    "romaji": "someru"
+  },
+  {
+    "id": "1806",
+    "hiragana": "そらす",
+    "kanji": "逸らす",
+    "meaning": "",
+    "romaji": "sorasu"
+  },
+  {
+    "id": "1807",
+    "hiragana": "そり",
+    "kanji": "反り",
+    "meaning": "",
+    "romaji": "sori"
+  },
+  {
+    "id": "1808",
+    "hiragana": "それ",
+    "kanji": "其れ",
+    "meaning": "",
+    "romaji": "sore"
+  },
+  {
+    "id": "1809",
+    "hiragana": "それから",
+    "kanji": "其れから",
+    "meaning": "",
+    "romaji": "sorekara"
+  },
+  {
+    "id": "1810",
+    "hiragana": "それぞれ",
+    "kanji": "各々",
+    "meaning": "",
+    "romaji": "sorezore"
+  },
+  {
+    "id": "1811",
+    "hiragana": "それで",
+    "kanji": "其れで",
+    "meaning": "",
+    "romaji": "sorede"
+  },
+  {
+    "id": "1812",
+    "hiragana": "それでは",
+    "kanji": "其れでは",
+    "meaning": "",
+    "romaji": "soredeha"
+  },
+  {
+    "id": "1813",
+    "hiragana": "それでも",
+    "kanji": "其れでも",
+    "meaning": "",
+    "romaji": "soredemo"
+  },
+  {
+    "id": "1814",
+    "hiragana": "それとも",
+    "kanji": "其れ共",
+    "meaning": "",
+    "romaji": "soretomo"
+  },
+  {
+    "id": "1815",
+    "hiragana": "それに",
+    "kanji": "其れに",
+    "meaning": "",
+    "romaji": "soreni"
+  },
+  {
+    "id": "1816",
+    "hiragana": "それほど",
+    "kanji": "其れ程",
+    "meaning": "",
+    "romaji": "sorehodo"
+  },
+  {
+    "id": "1817",
+    "hiragana": "それゆえ",
+    "kanji": "其れ故",
+    "meaning": "",
+    "romaji": "soreyue"
+  },
+  {
+    "id": "1818",
+    "hiragana": "そろい",
+    "kanji": "揃い",
+    "meaning": "",
+    "romaji": "soroi"
+  },
+  {
+    "id": "1819",
+    "hiragana": "そろそろ",
+    "kanji": "徐々",
+    "meaning": "",
+    "romaji": "sorosoro"
+  },
+  {
+    "id": "1820",
+    "hiragana": "そんしつ",
+    "kanji": "損失",
+    "meaning": "",
+    "romaji": "sonshitsu"
+  },
+  {
+    "id": "1821",
+    "hiragana": "そんぞく",
+    "kanji": "存続",
+    "meaning": "",
+    "romaji": "sonzoku"
+  },
+  {
+    "id": "1822",
+    "hiragana": "ぞい",
+    "kanji": "沿い",
+    "meaning": "",
+    "romaji": "zoi"
+  },
+  {
+    "id": "1823",
+    "hiragana": "ぞう",
+    "kanji": "像",
+    "meaning": "",
+    "romaji": "zou"
+  },
+  {
+    "id": "1824",
+    "hiragana": "ぞうきょう",
+    "kanji": "増強",
+    "meaning": "",
+    "romaji": "zoukyou"
+  },
+  {
+    "id": "1825",
+    "hiragana": "ぞうしょう",
+    "kanji": "蔵相",
+    "meaning": "",
+    "romaji": "zoushou"
+  },
+  {
+    "id": "1826",
+    "hiragana": "ぞうしん",
+    "kanji": "増進",
+    "meaning": "",
+    "romaji": "zoushin"
+  },
+  {
+    "id": "1827",
+    "hiragana": "ぞんざい",
+    "kanji": "ぞんざい",
+    "meaning": "",
+    "romaji": "zonzai"
+  },
+  {
+    "id": "1828",
+    "hiragana": "たい",
+    "kanji": "他意",
+    "meaning": "",
+    "romaji": "tai"
+  },
+  {
+    "id": "1829",
+    "hiragana": "たいおう",
+    "kanji": "対応",
+    "meaning": "",
+    "romaji": "taiou"
+  },
+  {
+    "id": "1830",
+    "hiragana": "たいか",
+    "kanji": "退化",
+    "meaning": "",
+    "romaji": "taika"
+  },
+  {
+    "id": "1831",
+    "hiragana": "たいかく",
+    "kanji": "体格",
+    "meaning": "",
+    "romaji": "taikaku"
+  },
+  {
+    "id": "1832",
+    "hiragana": "たいがい",
+    "kanji": "大概",
+    "meaning": "",
+    "romaji": "taigai"
+  },
+  {
+    "id": "1833",
+    "hiragana": "たいがく",
+    "kanji": "退学",
+    "meaning": "",
+    "romaji": "taigaku"
+  },
+  {
+    "id": "1834",
+    "hiragana": "たいきん",
+    "kanji": "大金",
+    "meaning": "",
+    "romaji": "taikin"
+  },
+  {
+    "id": "1835",
+    "hiragana": "たいぐう",
+    "kanji": "待遇",
+    "meaning": "",
+    "romaji": "taiguu"
+  },
+  {
+    "id": "1836",
+    "hiragana": "たいけつ",
+    "kanji": "対決",
+    "meaning": "",
+    "romaji": "taiketsu"
+  },
+  {
+    "id": "1837",
+    "hiragana": "たいけん",
+    "kanji": "体験",
+    "meaning": "",
+    "romaji": "taiken"
+  },
+  {
+    "id": "1838",
+    "hiragana": "たいこう",
+    "kanji": "対抗",
+    "meaning": "",
+    "romaji": "taikou"
+  },
+  {
+    "id": "1839",
+    "hiragana": "たいして",
+    "kanji": "対して",
+    "meaning": "",
+    "romaji": "taishite"
+  },
+  {
+    "id": "1840",
+    "hiragana": "たいしゅう",
+    "kanji": "大衆",
+    "meaning": "",
+    "romaji": "taishuu"
+  },
+  {
+    "id": "1841",
+    "hiragana": "たいしょ",
+    "kanji": "対処",
+    "meaning": "",
+    "romaji": "taisho"
+  },
+  {
+    "id": "1842",
+    "hiragana": "たいしょく",
+    "kanji": "退職",
+    "meaning": "",
+    "romaji": "taishoku"
+  },
+  {
+    "id": "1843",
+    "hiragana": "たいじ",
+    "kanji": "退治",
+    "meaning": "",
+    "romaji": "taiji"
+  },
+  {
+    "id": "1844",
+    "hiragana": "たいせい",
+    "kanji": "態勢",
+    "meaning": "",
+    "romaji": "taisei"
+  },
+  {
+    "id": "1845",
+    "hiragana": "たいだん",
+    "kanji": "対談",
+    "meaning": "",
+    "romaji": "taidan"
+  },
+  {
+    "id": "1846",
+    "hiragana": "たいとう",
+    "kanji": "対等",
+    "meaning": "",
+    "romaji": "taitou"
+  },
+  {
+    "id": "1847",
+    "hiragana": "たいのう",
+    "kanji": "滞納",
+    "meaning": "",
+    "romaji": "tainou"
+  },
+  {
+    "id": "1848",
+    "hiragana": "たいひ",
+    "kanji": "対比",
+    "meaning": "",
+    "romaji": "taihi"
+  },
+  {
+    "id": "1849",
+    "hiragana": "たいぶ",
+    "kanji": "大部",
+    "meaning": "",
+    "romaji": "taibu"
+  },
+  {
+    "id": "1850",
+    "hiragana": "たいへん",
+    "kanji": "対辺",
+    "meaning": "",
+    "romaji": "taihen"
+  }
+]

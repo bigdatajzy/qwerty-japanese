@@ -1,0 +1,352 @@
+[
+  {
+    "id": "151",
+    "hiragana": "かんがえる",
+    "kanji": "考える",
+    "meaning": "",
+    "romaji": "kangaeru"
+  },
+  {
+    "id": "152",
+    "hiragana": "かんけい",
+    "kanji": "関係",
+    "meaning": "",
+    "romaji": "kankei"
+  },
+  {
+    "id": "153",
+    "hiragana": "かんごふ",
+    "kanji": "看護婦",
+    "meaning": "",
+    "romaji": "kangofu"
+  },
+  {
+    "id": "154",
+    "hiragana": "かんたん",
+    "kanji": "簡単",
+    "meaning": "",
+    "romaji": "kantan"
+  },
+  {
+    "id": "155",
+    "hiragana": "き",
+    "kanji": "気",
+    "meaning": "",
+    "romaji": "ki"
+  },
+  {
+    "id": "156",
+    "hiragana": "きかい",
+    "kanji": "機会",
+    "meaning": "",
+    "romaji": "kikai"
+  },
+  {
+    "id": "157",
+    "hiragana": "きけん",
+    "kanji": "危険",
+    "meaning": "",
+    "romaji": "kiken"
+  },
+  {
+    "id": "158",
+    "hiragana": "きこえる",
+    "kanji": "聞こえる",
+    "meaning": "",
+    "romaji": "kikoeru"
+  },
+  {
+    "id": "159",
+    "hiragana": "きしゃ",
+    "kanji": "汽車",
+    "meaning": "",
+    "romaji": "kisha"
+  },
+  {
+    "id": "160",
+    "hiragana": "ぎじゅつ",
+    "kanji": "技術",
+    "meaning": "",
+    "romaji": "gijutsu"
+  },
+  {
+    "id": "161",
+    "hiragana": "きせつ",
+    "kanji": "季節",
+    "meaning": "",
+    "romaji": "kisetsu"
+  },
+  {
+    "id": "162",
+    "hiragana": "きそく",
+    "kanji": "規則",
+    "meaning": "",
+    "romaji": "kisoku"
+  },
+  {
+    "id": "163",
+    "hiragana": "きっと",
+    "kanji": "きっと",
+    "meaning": "",
+    "romaji": "kitto"
+  },
+  {
+    "id": "164",
+    "hiragana": "きぬ",
+    "kanji": "絹",
+    "meaning": "",
+    "romaji": "kinu"
+  },
+  {
+    "id": "165",
+    "hiragana": "きびしい",
+    "kanji": "厳しい",
+    "meaning": "",
+    "romaji": "kibishii"
+  },
+  {
+    "id": "166",
+    "hiragana": "きぶん",
+    "kanji": "気分",
+    "meaning": "",
+    "romaji": "kibun"
+  },
+  {
+    "id": "167",
+    "hiragana": "きまる",
+    "kanji": "決る",
+    "meaning": "",
+    "romaji": "kimaru"
+  },
+  {
+    "id": "168",
+    "hiragana": "きみ",
+    "kanji": "君",
+    "meaning": "",
+    "romaji": "kimi"
+  },
+  {
+    "id": "169",
+    "hiragana": "きめる",
+    "kanji": "決める",
+    "meaning": "",
+    "romaji": "kimeru"
+  },
+  {
+    "id": "170",
+    "hiragana": "きもち",
+    "kanji": "気持ち",
+    "meaning": "",
+    "romaji": "kimochi"
+  },
+  {
+    "id": "171",
+    "hiragana": "きもの",
+    "kanji": "着物",
+    "meaning": "",
+    "romaji": "kimono"
+  },
+  {
+    "id": "172",
+    "hiragana": "きゃく",
+    "kanji": "客",
+    "meaning": "",
+    "romaji": "kyaku"
+  },
+  {
+    "id": "173",
+    "hiragana": "きゅう",
+    "kanji": "急",
+    "meaning": "",
+    "romaji": "kyuu"
+  },
+  {
+    "id": "174",
+    "hiragana": "きゅうこう",
+    "kanji": "急行",
+    "meaning": "",
+    "romaji": "kyuukou"
+  },
+  {
+    "id": "175",
+    "hiragana": "きょういく",
+    "kanji": "教育",
+    "meaning": "",
+    "romaji": "kyouiku"
+  },
+  {
+    "id": "176",
+    "hiragana": "きょうかい",
+    "kanji": "教会",
+    "meaning": "",
+    "romaji": "kyoukai"
+  },
+  {
+    "id": "177",
+    "hiragana": "きょうそう",
+    "kanji": "競争",
+    "meaning": "",
+    "romaji": "kyousou"
+  },
+  {
+    "id": "178",
+    "hiragana": "きょうみ",
+    "kanji": "興味",
+    "meaning": "",
+    "romaji": "kyoumi"
+  },
+  {
+    "id": "179",
+    "hiragana": "きんじょ",
+    "kanji": "近所",
+    "meaning": "",
+    "romaji": "kinjo"
+  },
+  {
+    "id": "180",
+    "hiragana": "ぐあい",
+    "kanji": "具合",
+    "meaning": "",
+    "romaji": "guai"
+  },
+  {
+    "id": "181",
+    "hiragana": "くうき",
+    "kanji": "空気",
+    "meaning": "",
+    "romaji": "kuuki"
+  },
+  {
+    "id": "182",
+    "hiragana": "くうこう",
+    "kanji": "空港",
+    "meaning": "",
+    "romaji": "kuukou"
+  },
+  {
+    "id": "183",
+    "hiragana": "くさ",
+    "kanji": "草",
+    "meaning": "",
+    "romaji": "kusa"
+  },
+  {
+    "id": "184",
+    "hiragana": "くださる",
+    "kanji": "くださる",
+    "meaning": "",
+    "romaji": "kudasaru"
+  },
+  {
+    "id": "185",
+    "hiragana": "くび",
+    "kanji": "首",
+    "meaning": "",
+    "romaji": "kubi"
+  },
+  {
+    "id": "186",
+    "hiragana": "くも",
+    "kanji": "雲",
+    "meaning": "",
+    "romaji": "kumo"
+  },
+  {
+    "id": "187",
+    "hiragana": "くらべる",
+    "kanji": "比べる",
+    "meaning": "",
+    "romaji": "kuraberu"
+  },
+  {
+    "id": "188",
+    "hiragana": "くれる",
+    "kanji": "くれる",
+    "meaning": "",
+    "romaji": "kureru"
+  },
+  {
+    "id": "189",
+    "hiragana": "くれる",
+    "kanji": "暮れる",
+    "meaning": "",
+    "romaji": "kureru"
+  },
+  {
+    "id": "190",
+    "hiragana": "くん",
+    "kanji": "君",
+    "meaning": "",
+    "romaji": "kun"
+  },
+  {
+    "id": "191",
+    "hiragana": "け",
+    "kanji": "毛",
+    "meaning": "",
+    "romaji": "ke"
+  },
+  {
+    "id": "192",
+    "hiragana": "けいかく",
+    "kanji": "計画",
+    "meaning": "",
+    "romaji": "keikaku"
+  },
+  {
+    "id": "193",
+    "hiragana": "けいけん",
+    "kanji": "経験",
+    "meaning": "",
+    "romaji": "keiken"
+  },
+  {
+    "id": "194",
+    "hiragana": "けいざい",
+    "kanji": "経済",
+    "meaning": "",
+    "romaji": "keizai"
+  },
+  {
+    "id": "195",
+    "hiragana": "けいさつ",
+    "kanji": "警察",
+    "meaning": "",
+    "romaji": "keisatsu"
+  },
+  {
+    "id": "196",
+    "hiragana": "ケーキ",
+    "kanji": "ケーキ",
+    "meaning": "",
+    "romaji": "keeki"
+  },
+  {
+    "id": "197",
+    "hiragana": "けが",
+    "kanji": "けが",
+    "meaning": "",
+    "romaji": "kega"
+  },
+  {
+    "id": "198",
+    "hiragana": "けしき",
+    "kanji": "景色",
+    "meaning": "",
+    "romaji": "keshiki"
+  },
+  {
+    "id": "199",
+    "hiragana": "けしゴム",
+    "kanji": "消しゴム",
+    "meaning": "",
+    "romaji": "keshigomu"
+  },
+  {
+    "id": "200",
+    "hiragana": "げしゅく",
+    "kanji": "下宿",
+    "meaning": "",
+    "romaji": "geshuku"
+  }
+]

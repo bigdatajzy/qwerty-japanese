@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1201",
+    "hiragana": "さぎ",
+    "kanji": "詐欺",
+    "meaning": "",
+    "romaji": "sagi"
+  },
+  {
+    "id": "1202",
+    "hiragana": "さく",
+    "kanji": "作",
+    "meaning": "",
+    "romaji": "saku"
+  },
+  {
+    "id": "1203",
+    "hiragana": "さく",
+    "kanji": "策",
+    "meaning": "",
+    "romaji": "saku"
+  },
+  {
+    "id": "1204",
+    "hiragana": "さく",
+    "kanji": "柵",
+    "meaning": "",
+    "romaji": "saku"
+  },
+  {
+    "id": "1205",
+    "hiragana": "さくげん",
+    "kanji": "削減",
+    "meaning": "",
+    "romaji": "sakugen"
+  },
+  {
+    "id": "1206",
+    "hiragana": "さくご",
+    "kanji": "錯誤",
+    "meaning": "",
+    "romaji": "sakugo"
+  },
+  {
+    "id": "1207",
+    "hiragana": "さくせん",
+    "kanji": "作戦",
+    "meaning": "",
+    "romaji": "sakusen"
+  },
+  {
+    "id": "1208",
+    "hiragana": "さくぶつ",
+    "kanji": "作物",
+    "meaning": "",
+    "romaji": "sakubutsu"
+  },
+  {
+    "id": "1209",
+    "hiragana": "さけび",
+    "kanji": "叫び",
+    "meaning": "",
+    "romaji": "sakebi"
+  },
+  {
+    "id": "1210",
+    "hiragana": "さける",
+    "kanji": "裂ける",
+    "meaning": "",
+    "romaji": "sakeru"
+  },
+  {
+    "id": "1211",
+    "hiragana": "ささげる",
+    "kanji": "捧げる",
+    "meaning": "",
+    "romaji": "sasageru"
+  },
+  {
+    "id": "1212",
+    "hiragana": "さしかかる",
+    "kanji": "差し掛かる",
+    "meaning": "",
+    "romaji": "sashikakaru"
+  },
+  {
+    "id": "1213",
+    "hiragana": "さしず",
+    "kanji": "指図",
+    "meaning": "",
+    "romaji": "sashizu"
+  },
+  {
+    "id": "1214",
+    "hiragana": "さしだす",
+    "kanji": "差し出す",
+    "meaning": "",
+    "romaji": "sashidasu"
+  },
+  {
+    "id": "1215",
+    "hiragana": "さしつかえる",
+    "kanji": "差し支える",
+    "meaning": "",
+    "romaji": "sashitsukaeru"
+  },
+  {
+    "id": "1216",
+    "hiragana": "さしひく",
+    "kanji": "差し引く",
+    "meaning": "",
+    "romaji": "sashihiku"
+  },
+  {
+    "id": "1217",
+    "hiragana": "さじ",
+    "kanji": "些事",
+    "meaning": "",
+    "romaji": "saji"
+  },
+  {
+    "id": "1218",
+    "hiragana": "さずける",
+    "kanji": "授ける",
+    "meaning": "",
+    "romaji": "sazukeru"
+  },
+  {
+    "id": "1219",
+    "hiragana": "さぞ",
+    "kanji": "嘸",
+    "meaning": "",
+    "romaji": "sazo"
+  },
+  {
+    "id": "1220",
+    "hiragana": "さだまる",
+    "kanji": "定まる",
+    "meaning": "",
+    "romaji": "sadamaru"
+  },
+  {
+    "id": "1221",
+    "hiragana": "さだめる",
+    "kanji": "定める",
+    "meaning": "",
+    "romaji": "sadameru"
+  },
+  {
+    "id": "1222",
+    "hiragana": "さっかく",
+    "kanji": "錯覚",
+    "meaning": "",
+    "romaji": "sakkaku"
+  },
+  {
+    "id": "1223",
+    "hiragana": "さっきゅう",
+    "kanji": "早急",
+    "meaning": "",
+    "romaji": "sakkyuu"
+  },
+  {
+    "id": "1224",
+    "hiragana": "さっする",
+    "kanji": "察する",
+    "meaning": "",
+    "romaji": "sassuru"
+  },
+  {
+    "id": "1225",
+    "hiragana": "さっと",
+    "kanji": "さっと",
+    "meaning": "",
+    "romaji": "satto"
+  },
+  {
+    "id": "1226",
+    "hiragana": "さつ",
+    "kanji": "冊",
+    "meaning": "",
+    "romaji": "satsu"
+  },
+  {
+    "id": "1227",
+    "hiragana": "さつじん",
+    "kanji": "殺人",
+    "meaning": "",
+    "romaji": "satsujin"
+  },
+  {
+    "id": "1228",
+    "hiragana": "さて",
+    "kanji": "偖",
+    "meaning": "",
+    "romaji": "sate"
+  },
+  {
+    "id": "1229",
+    "hiragana": "さとる",
+    "kanji": "悟る",
+    "meaning": "",
+    "romaji": "satoru"
+  },
+  {
+    "id": "1230",
+    "hiragana": "さな",
+    "kanji": "真実",
+    "meaning": "",
+    "romaji": "sana"
+  },
+  {
+    "id": "1231",
+    "hiragana": "さばく",
+    "kanji": "裁く",
+    "meaning": "",
+    "romaji": "sabaku"
+  },
+  {
+    "id": "1232",
+    "hiragana": "さび",
+    "kanji": "錆び",
+    "meaning": "",
+    "romaji": "sabi"
+  },
+  {
+    "id": "1233",
+    "hiragana": "さほど",
+    "kanji": "左程",
+    "meaning": "",
+    "romaji": "sahodo"
+  },
+  {
+    "id": "1234",
+    "hiragana": "さま",
+    "kanji": "様",
+    "meaning": "",
+    "romaji": "sama"
+  },
+  {
+    "id": "1235",
+    "hiragana": "さみせん",
+    "kanji": "三味線",
+    "meaning": "",
+    "romaji": "samisen"
+  },
+  {
+    "id": "1236",
+    "hiragana": "さむらい",
+    "kanji": "侍",
+    "meaning": "",
+    "romaji": "samurai"
+  },
+  {
+    "id": "1237",
+    "hiragana": "さも",
+    "kanji": "然も",
+    "meaning": "",
+    "romaji": "samo"
+  },
+  {
+    "id": "1238",
+    "hiragana": "さよう",
+    "kanji": "作用",
+    "meaning": "",
+    "romaji": "sayou"
+  },
+  {
+    "id": "1239",
+    "hiragana": "さようなら",
+    "kanji": "左様なら",
+    "meaning": "",
+    "romaji": "sayounara"
+  },
+  {
+    "id": "1240",
+    "hiragana": "さらう",
+    "kanji": "拐う",
+    "meaning": "",
+    "romaji": "sarau"
+  },
+  {
+    "id": "1241",
+    "hiragana": "さわやか",
+    "kanji": "爽やか",
+    "meaning": "",
+    "romaji": "sawayaka"
+  },
+  {
+    "id": "1242",
+    "hiragana": "さわる",
+    "kanji": "障る",
+    "meaning": "",
+    "romaji": "sawaru"
+  },
+  {
+    "id": "1243",
+    "hiragana": "さん",
+    "kanji": "酸",
+    "meaning": "",
+    "romaji": "san"
+  },
+  {
+    "id": "1244",
+    "hiragana": "さん",
+    "kanji": "さん",
+    "meaning": "",
+    "romaji": "san"
+  },
+  {
+    "id": "1245",
+    "hiragana": "さんか",
+    "kanji": "酸化",
+    "meaning": "",
+    "romaji": "sanka"
+  },
+  {
+    "id": "1246",
+    "hiragana": "さんがく",
+    "kanji": "山岳",
+    "meaning": "",
+    "romaji": "sangaku"
+  },
+  {
+    "id": "1247",
+    "hiragana": "さんきゅう",
+    "kanji": "産休",
+    "meaning": "",
+    "romaji": "sankyuu"
+  },
+  {
+    "id": "1248",
+    "hiragana": "さんきょう",
+    "kanji": "桟橋",
+    "meaning": "",
+    "romaji": "sankyou"
+  },
+  {
+    "id": "1249",
+    "hiragana": "さんぎいん",
+    "kanji": "参議院",
+    "meaning": "",
+    "romaji": "sangiin"
+  },
+  {
+    "id": "1250",
+    "hiragana": "さんご",
+    "kanji": "産後",
+    "meaning": "",
+    "romaji": "sango"
+  }
+]

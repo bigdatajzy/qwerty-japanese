@@ -1,0 +1,352 @@
+[
+  {
+    "id": "301",
+    "hiragana": "かじる",
+    "kanji": "かじる",
+    "meaning": "",
+    "romaji": "kajiru"
+  },
+  {
+    "id": "302",
+    "hiragana": "かぜい",
+    "kanji": "課税",
+    "meaning": "",
+    "romaji": "kazei"
+  },
+  {
+    "id": "303",
+    "hiragana": "かせん",
+    "kanji": "下線",
+    "meaning": "",
+    "romaji": "kasen"
+  },
+  {
+    "id": "304",
+    "hiragana": "カセット",
+    "kanji": "カセット",
+    "meaning": "",
+    "romaji": "kasetto"
+  },
+  {
+    "id": "305",
+    "hiragana": "かそく",
+    "kanji": "加速",
+    "meaning": "",
+    "romaji": "kasoku"
+  },
+  {
+    "id": "306",
+    "hiragana": "かそくど",
+    "kanji": "加速度",
+    "meaning": "",
+    "romaji": "kasokudo"
+  },
+  {
+    "id": "307",
+    "hiragana": "かたい",
+    "kanji": "固い",
+    "meaning": "",
+    "romaji": "katai"
+  },
+  {
+    "id": "308",
+    "hiragana": "かたい",
+    "kanji": "堅い",
+    "meaning": "",
+    "romaji": "katai"
+  },
+  {
+    "id": "309",
+    "hiragana": "かたかな",
+    "kanji": "片仮名",
+    "meaning": "",
+    "romaji": "katakana"
+  },
+  {
+    "id": "310",
+    "hiragana": "かたづく",
+    "kanji": "片付く",
+    "meaning": "",
+    "romaji": "katazuku"
+  },
+  {
+    "id": "311",
+    "hiragana": "かたまり",
+    "kanji": "塊",
+    "meaning": "",
+    "romaji": "katamari"
+  },
+  {
+    "id": "312",
+    "hiragana": "かたまる",
+    "kanji": "固まる",
+    "meaning": "",
+    "romaji": "katamaru"
+  },
+  {
+    "id": "313",
+    "hiragana": "かたみち",
+    "kanji": "片道",
+    "meaning": "",
+    "romaji": "katamichi"
+  },
+  {
+    "id": "314",
+    "hiragana": "かたむく",
+    "kanji": "傾く",
+    "meaning": "",
+    "romaji": "katamuku"
+  },
+  {
+    "id": "315",
+    "hiragana": "かたよる",
+    "kanji": "片寄る",
+    "meaning": "",
+    "romaji": "katayoru"
+  },
+  {
+    "id": "316",
+    "hiragana": "がっか",
+    "kanji": "学科",
+    "meaning": "",
+    "romaji": "gakka"
+  },
+  {
+    "id": "317",
+    "hiragana": "がっかい",
+    "kanji": "学会",
+    "meaning": "",
+    "romaji": "gakkai"
+  },
+  {
+    "id": "318",
+    "hiragana": "がっき",
+    "kanji": "楽器",
+    "meaning": "",
+    "romaji": "gakki"
+  },
+  {
+    "id": "319",
+    "hiragana": "がっきゅう",
+    "kanji": "学級",
+    "meaning": "",
+    "romaji": "gakkyuu"
+  },
+  {
+    "id": "320",
+    "hiragana": "かつぐ",
+    "kanji": "担ぐ",
+    "meaning": "",
+    "romaji": "katsugu"
+  },
+  {
+    "id": "321",
+    "hiragana": "かっこ",
+    "kanji": "括弧",
+    "meaning": "",
+    "romaji": "kakko"
+  },
+  {
+    "id": "322",
+    "hiragana": "かつじ",
+    "kanji": "活字",
+    "meaning": "",
+    "romaji": "katsuji"
+  },
+  {
+    "id": "323",
+    "hiragana": "かつやく",
+    "kanji": "活躍",
+    "meaning": "",
+    "romaji": "katsuyaku"
+  },
+  {
+    "id": "324",
+    "hiragana": "かつりょく",
+    "kanji": "活力",
+    "meaning": "",
+    "romaji": "katsuryoku"
+  },
+  {
+    "id": "325",
+    "hiragana": "かてい",
+    "kanji": "仮定",
+    "meaning": "",
+    "romaji": "katei"
+  },
+  {
+    "id": "326",
+    "hiragana": "かてい",
+    "kanji": "過程",
+    "meaning": "",
+    "romaji": "katei"
+  },
+  {
+    "id": "327",
+    "hiragana": "かてい",
+    "kanji": "課程",
+    "meaning": "",
+    "romaji": "katei"
+  },
+  {
+    "id": "328",
+    "hiragana": "かな",
+    "kanji": "仮名",
+    "meaning": "",
+    "romaji": "kana"
+  },
+  {
+    "id": "329",
+    "hiragana": "かなづかい",
+    "kanji": "仮名遣い",
+    "meaning": "",
+    "romaji": "kanazukai"
+  },
+  {
+    "id": "330",
+    "hiragana": "かね",
+    "kanji": "鐘",
+    "meaning": "",
+    "romaji": "kane"
+  },
+  {
+    "id": "331",
+    "hiragana": "かねつ",
+    "kanji": "加熱",
+    "meaning": "",
+    "romaji": "kanetsu"
+  },
+  {
+    "id": "332",
+    "hiragana": "かねる",
+    "kanji": "兼ねる",
+    "meaning": "",
+    "romaji": "kaneru"
+  },
+  {
+    "id": "333",
+    "hiragana": "カバー",
+    "kanji": "カバー",
+    "meaning": "",
+    "romaji": "kabaa"
+  },
+  {
+    "id": "334",
+    "hiragana": "かはんすう",
+    "kanji": "過半数",
+    "meaning": "",
+    "romaji": "kahansuu"
+  },
+  {
+    "id": "335",
+    "hiragana": "かぶせる",
+    "kanji": "被せる",
+    "meaning": "",
+    "romaji": "kabuseru"
+  },
+  {
+    "id": "336",
+    "hiragana": "かま",
+    "kanji": "釜",
+    "meaning": "",
+    "romaji": "kama"
+  },
+  {
+    "id": "337",
+    "hiragana": "かみくず",
+    "kanji": "紙屑",
+    "meaning": "",
+    "romaji": "kamikuzu"
+  },
+  {
+    "id": "338",
+    "hiragana": "かみさま",
+    "kanji": "神様",
+    "meaning": "",
+    "romaji": "kamisama"
+  },
+  {
+    "id": "339",
+    "hiragana": "かみそり",
+    "kanji": "剃刀",
+    "meaning": "",
+    "romaji": "kamisori"
+  },
+  {
+    "id": "340",
+    "hiragana": "ガム",
+    "kanji": "ガム",
+    "meaning": "",
+    "romaji": "gamu"
+  },
+  {
+    "id": "341",
+    "hiragana": "かもつ",
+    "kanji": "貨物",
+    "meaning": "",
+    "romaji": "kamotsu"
+  },
+  {
+    "id": "342",
+    "hiragana": "かゆい",
+    "kanji": "かゆい",
+    "meaning": "",
+    "romaji": "kayui"
+  },
+  {
+    "id": "343",
+    "hiragana": "かよう",
+    "kanji": "歌謡",
+    "meaning": "",
+    "romaji": "kayou"
+  },
+  {
+    "id": "344",
+    "hiragana": "から",
+    "kanji": "殻",
+    "meaning": "",
+    "romaji": "kara"
+  },
+  {
+    "id": "345",
+    "hiragana": "カラー",
+    "kanji": "カラー",
+    "meaning": "",
+    "romaji": "karaa"
+  },
+  {
+    "id": "346",
+    "hiragana": "からかう",
+    "kanji": "からかう",
+    "meaning": "",
+    "romaji": "karakau"
+  },
+  {
+    "id": "347",
+    "hiragana": "からっぽ",
+    "kanji": "空っぽ",
+    "meaning": "",
+    "romaji": "karappo"
+  },
+  {
+    "id": "348",
+    "hiragana": "かるた",
+    "kanji": "かるた",
+    "meaning": "",
+    "romaji": "karuta"
+  },
+  {
+    "id": "349",
+    "hiragana": "かれる",
+    "kanji": "枯れる",
+    "meaning": "",
+    "romaji": "kareru"
+  },
+  {
+    "id": "350",
+    "hiragana": "カロリー",
+    "kanji": "カロリー",
+    "meaning": "",
+    "romaji": "karorii"
+  }
+]

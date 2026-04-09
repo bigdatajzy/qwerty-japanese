@@ -1,0 +1,352 @@
+[
+  {
+    "id": "451",
+    "hiragana": "くみたてる",
+    "kanji": "組み立てる",
+    "meaning": "",
+    "romaji": "kumitateru"
+  },
+  {
+    "id": "452",
+    "hiragana": "くむ",
+    "kanji": "汲む",
+    "meaning": "",
+    "romaji": "kumu"
+  },
+  {
+    "id": "453",
+    "hiragana": "くむ",
+    "kanji": "酌む",
+    "meaning": "",
+    "romaji": "kumu"
+  },
+  {
+    "id": "454",
+    "hiragana": "くやしい",
+    "kanji": "悔しい",
+    "meaning": "",
+    "romaji": "kuyashii"
+  },
+  {
+    "id": "455",
+    "hiragana": "くやむ",
+    "kanji": "悔やむ",
+    "meaning": "",
+    "romaji": "kuyamu"
+  },
+  {
+    "id": "456",
+    "hiragana": "クリーニング",
+    "kanji": "クリーニング",
+    "meaning": "",
+    "romaji": "kuriiningu"
+  },
+  {
+    "id": "457",
+    "hiragana": "くるむ",
+    "kanji": "くるむ",
+    "meaning": "",
+    "romaji": "kurumu"
+  },
+  {
+    "id": "458",
+    "hiragana": "くれぐれも",
+    "kanji": "くれぐれも",
+    "meaning": "",
+    "romaji": "kureguremo"
+  },
+  {
+    "id": "459",
+    "hiragana": "くわえる",
+    "kanji": "咥える",
+    "meaning": "",
+    "romaji": "kuwaeru"
+  },
+  {
+    "id": "460",
+    "hiragana": "ぐん",
+    "kanji": "郡",
+    "meaning": "",
+    "romaji": "gun"
+  },
+  {
+    "id": "461",
+    "hiragana": "けいこ",
+    "kanji": "稽古",
+    "meaning": "",
+    "romaji": "keiko"
+  },
+  {
+    "id": "462",
+    "hiragana": "けいご",
+    "kanji": "敬語",
+    "meaning": "",
+    "romaji": "keigo"
+  },
+  {
+    "id": "463",
+    "hiragana": "けいこうとう",
+    "kanji": "蛍光灯",
+    "meaning": "",
+    "romaji": "keikoutou"
+  },
+  {
+    "id": "464",
+    "hiragana": "けいしき",
+    "kanji": "形式",
+    "meaning": "",
+    "romaji": "keishiki"
+  },
+  {
+    "id": "465",
+    "hiragana": "けいぞく",
+    "kanji": "継続",
+    "meaning": "",
+    "romaji": "keizoku"
+  },
+  {
+    "id": "466",
+    "hiragana": "けいと",
+    "kanji": "毛糸",
+    "meaning": "",
+    "romaji": "keito"
+  },
+  {
+    "id": "467",
+    "hiragana": "けいど",
+    "kanji": "経度",
+    "meaning": "",
+    "romaji": "keido"
+  },
+  {
+    "id": "468",
+    "hiragana": "けいとう",
+    "kanji": "系統",
+    "meaning": "",
+    "romaji": "keitou"
+  },
+  {
+    "id": "469",
+    "hiragana": "げいのう",
+    "kanji": "芸能",
+    "meaning": "",
+    "romaji": "geinou"
+  },
+  {
+    "id": "470",
+    "hiragana": "けいば",
+    "kanji": "競馬",
+    "meaning": "",
+    "romaji": "keiba"
+  },
+  {
+    "id": "471",
+    "hiragana": "けいび",
+    "kanji": "警備",
+    "meaning": "",
+    "romaji": "keibi"
+  },
+  {
+    "id": "472",
+    "hiragana": "けいようし",
+    "kanji": "形容詞",
+    "meaning": "",
+    "romaji": "keiyoushi"
+  },
+  {
+    "id": "473",
+    "hiragana": "けいようどうし",
+    "kanji": "形容動詞",
+    "meaning": "",
+    "romaji": "keiyoudoushi"
+  },
+  {
+    "id": "474",
+    "hiragana": "げか",
+    "kanji": "外科",
+    "meaning": "",
+    "romaji": "geka"
+  },
+  {
+    "id": "475",
+    "hiragana": "けがわ",
+    "kanji": "毛皮",
+    "meaning": "",
+    "romaji": "kegawa"
+  },
+  {
+    "id": "476",
+    "hiragana": "げきぞう",
+    "kanji": "激増",
+    "meaning": "",
+    "romaji": "gekizou"
+  },
+  {
+    "id": "477",
+    "hiragana": "げしゃ",
+    "kanji": "下車",
+    "meaning": "",
+    "romaji": "gesha"
+  },
+  {
+    "id": "478",
+    "hiragana": "げじゅん",
+    "kanji": "下旬",
+    "meaning": "",
+    "romaji": "gejun"
+  },
+  {
+    "id": "479",
+    "hiragana": "げすい",
+    "kanji": "下水",
+    "meaning": "",
+    "romaji": "gesui"
+  },
+  {
+    "id": "480",
+    "hiragana": "けずる",
+    "kanji": "削る",
+    "meaning": "",
+    "romaji": "kezuru"
+  },
+  {
+    "id": "481",
+    "hiragana": "けた",
+    "kanji": "桁",
+    "meaning": "",
+    "romaji": "keta"
+  },
+  {
+    "id": "482",
+    "hiragana": "げた",
+    "kanji": "下駄",
+    "meaning": "",
+    "romaji": "geta"
+  },
+  {
+    "id": "483",
+    "hiragana": "けつあつ",
+    "kanji": "血圧",
+    "meaning": "",
+    "romaji": "ketsuatsu"
+  },
+  {
+    "id": "484",
+    "hiragana": "けつえき",
+    "kanji": "血液",
+    "meaning": "",
+    "romaji": "ketsueki"
+  },
+  {
+    "id": "485",
+    "hiragana": "げっきゅう",
+    "kanji": "月給",
+    "meaning": "",
+    "romaji": "gekkyuu"
+  },
+  {
+    "id": "486",
+    "hiragana": "けっさく",
+    "kanji": "傑作",
+    "meaning": "",
+    "romaji": "kessaku"
+  },
+  {
+    "id": "487",
+    "hiragana": "げつまつ",
+    "kanji": "月末",
+    "meaning": "",
+    "romaji": "getsumatsu"
+  },
+  {
+    "id": "488",
+    "hiragana": "けはい",
+    "kanji": "気配",
+    "meaning": "",
+    "romaji": "kehai"
+  },
+  {
+    "id": "489",
+    "hiragana": "げひん",
+    "kanji": "下品",
+    "meaning": "",
+    "romaji": "gehin"
+  },
+  {
+    "id": "490",
+    "hiragana": "けむい",
+    "kanji": "煙い",
+    "meaning": "",
+    "romaji": "kemui"
+  },
+  {
+    "id": "491",
+    "hiragana": "ける",
+    "kanji": "蹴る",
+    "meaning": "",
+    "romaji": "keru"
+  },
+  {
+    "id": "492",
+    "hiragana": "けわしい",
+    "kanji": "険しい",
+    "meaning": "",
+    "romaji": "kewashii"
+  },
+  {
+    "id": "493",
+    "hiragana": "けんがく",
+    "kanji": "見学",
+    "meaning": "",
+    "romaji": "kengaku"
+  },
+  {
+    "id": "494",
+    "hiragana": "けんきょ",
+    "kanji": "謙虚",
+    "meaning": "",
+    "romaji": "kenkyo"
+  },
+  {
+    "id": "495",
+    "hiragana": "げんこう",
+    "kanji": "原稿",
+    "meaning": "",
+    "romaji": "genkou"
+  },
+  {
+    "id": "496",
+    "hiragana": "げんさん",
+    "kanji": "原産",
+    "meaning": "",
+    "romaji": "gensan"
+  },
+  {
+    "id": "497",
+    "hiragana": "げんし",
+    "kanji": "原始",
+    "meaning": "",
+    "romaji": "genshi"
+  },
+  {
+    "id": "498",
+    "hiragana": "けんしゅう",
+    "kanji": "研修",
+    "meaning": "",
+    "romaji": "kenshuu"
+  },
+  {
+    "id": "499",
+    "hiragana": "げんじゅう",
+    "kanji": "厳重",
+    "meaning": "",
+    "romaji": "genjuu"
+  },
+  {
+    "id": "500",
+    "hiragana": "けんそん",
+    "kanji": "謙遜",
+    "meaning": "",
+    "romaji": "kenson"
+  }
+]

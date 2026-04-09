@@ -1,0 +1,352 @@
+[
+  {
+    "id": "151",
+    "hiragana": "えんげい",
+    "kanji": "園芸",
+    "meaning": "",
+    "romaji": "engei"
+  },
+  {
+    "id": "152",
+    "hiragana": "えんげき",
+    "kanji": "演劇",
+    "meaning": "",
+    "romaji": "engeki"
+  },
+  {
+    "id": "153",
+    "hiragana": "えんしゅう",
+    "kanji": "円周",
+    "meaning": "",
+    "romaji": "enshuu"
+  },
+  {
+    "id": "154",
+    "hiragana": "えんそく",
+    "kanji": "遠足",
+    "meaning": "",
+    "romaji": "ensoku"
+  },
+  {
+    "id": "155",
+    "hiragana": "えんちょう",
+    "kanji": "延長",
+    "meaning": "",
+    "romaji": "enchou"
+  },
+  {
+    "id": "156",
+    "hiragana": "えんとつ",
+    "kanji": "煙突",
+    "meaning": "",
+    "romaji": "entotsu"
+  },
+  {
+    "id": "157",
+    "hiragana": "おいかける",
+    "kanji": "追い掛ける",
+    "meaning": "",
+    "romaji": "oikakeru"
+  },
+  {
+    "id": "158",
+    "hiragana": "おいこす",
+    "kanji": "追い越す",
+    "meaning": "",
+    "romaji": "oikosu"
+  },
+  {
+    "id": "159",
+    "hiragana": "オイル",
+    "kanji": "オイル",
+    "meaning": "",
+    "romaji": "oiru"
+  },
+  {
+    "id": "160",
+    "hiragana": "おうえん",
+    "kanji": "応援",
+    "meaning": "",
+    "romaji": "ouen"
+  },
+  {
+    "id": "161",
+    "hiragana": "おうじょ",
+    "kanji": "王女",
+    "meaning": "",
+    "romaji": "oujo"
+  },
+  {
+    "id": "162",
+    "hiragana": "おうずる",
+    "kanji": "応ずる",
+    "meaning": "",
+    "romaji": "ouzuru"
+  },
+  {
+    "id": "163",
+    "hiragana": "おうせつ",
+    "kanji": "応接",
+    "meaning": "",
+    "romaji": "ousetsu"
+  },
+  {
+    "id": "164",
+    "hiragana": "おうたい",
+    "kanji": "応対",
+    "meaning": "",
+    "romaji": "outai"
+  },
+  {
+    "id": "165",
+    "hiragana": "おうふく",
+    "kanji": "往復",
+    "meaning": "",
+    "romaji": "oufuku"
+  },
+  {
+    "id": "166",
+    "hiragana": "おうべい",
+    "kanji": "欧米",
+    "meaning": "",
+    "romaji": "oubei"
+  },
+  {
+    "id": "167",
+    "hiragana": "おうよう",
+    "kanji": "応用",
+    "meaning": "",
+    "romaji": "ouyou"
+  },
+  {
+    "id": "168",
+    "hiragana": "オーケストラ",
+    "kanji": "オーケストラ",
+    "meaning": "",
+    "romaji": "ookesutora"
+  },
+  {
+    "id": "169",
+    "hiragana": "おおざっぱ",
+    "kanji": "おおざっぱ",
+    "meaning": "",
+    "romaji": "oozappa"
+  },
+  {
+    "id": "170",
+    "hiragana": "おおどおり",
+    "kanji": "大通り",
+    "meaning": "",
+    "romaji": "oodoori"
+  },
+  {
+    "id": "171",
+    "hiragana": "オートメーショ",
+    "kanji": "オートメーショ",
+    "meaning": "",
+    "romaji": "ootomeesho"
+  },
+  {
+    "id": "172",
+    "hiragana": "ン",
+    "kanji": "ン",
+    "meaning": "",
+    "romaji": "n"
+  },
+  {
+    "id": "173",
+    "hiragana": "オーバーコート",
+    "kanji": "オーバーコート",
+    "meaning": "",
+    "romaji": "oobaakooto"
+  },
+  {
+    "id": "174",
+    "hiragana": "おおよそ",
+    "kanji": "大凡",
+    "meaning": "",
+    "romaji": "ooyoso"
+  },
+  {
+    "id": "175",
+    "hiragana": "おかえり",
+    "kanji": "お帰り",
+    "meaning": "",
+    "romaji": "okaeri"
+  },
+  {
+    "id": "176",
+    "hiragana": "おかけください",
+    "kanji": "おかけください",
+    "meaning": "",
+    "romaji": "okakekudasai"
+  },
+  {
+    "id": "177",
+    "hiragana": "おかげさまで",
+    "kanji": "おかげさまで",
+    "meaning": "",
+    "romaji": "okagesamade"
+  },
+  {
+    "id": "178",
+    "hiragana": "おかず",
+    "kanji": "おかず",
+    "meaning": "",
+    "romaji": "okazu"
+  },
+  {
+    "id": "179",
+    "hiragana": "おがむ",
+    "kanji": "拝む",
+    "meaning": "",
+    "romaji": "ogamu"
+  },
+  {
+    "id": "180",
+    "hiragana": "おかわり",
+    "kanji": "お代わり",
+    "meaning": "",
+    "romaji": "okawari"
+  },
+  {
+    "id": "181",
+    "hiragana": "おぎなう",
+    "kanji": "補う",
+    "meaning": "",
+    "romaji": "oginau"
+  },
+  {
+    "id": "182",
+    "hiragana": "おきのどくに",
+    "kanji": "おきのどくに",
+    "meaning": "",
+    "romaji": "okinodokuni"
+  },
+  {
+    "id": "183",
+    "hiragana": "おくがい",
+    "kanji": "屋外",
+    "meaning": "",
+    "romaji": "okugai"
+  },
+  {
+    "id": "184",
+    "hiragana": "おくさん",
+    "kanji": "おくさん",
+    "meaning": "",
+    "romaji": "okusan"
+  },
+  {
+    "id": "185",
+    "hiragana": "おくりがな",
+    "kanji": "送り仮名",
+    "meaning": "",
+    "romaji": "okurigana"
+  },
+  {
+    "id": "186",
+    "hiragana": "おげんきで",
+    "kanji": "おげんきで",
+    "meaning": "",
+    "romaji": "ogenkide"
+  },
+  {
+    "id": "187",
+    "hiragana": "おこたる",
+    "kanji": "怠る",
+    "meaning": "",
+    "romaji": "okotaru"
+  },
+  {
+    "id": "188",
+    "hiragana": "おさえる",
+    "kanji": "押える",
+    "meaning": "",
+    "romaji": "osaeru"
+  },
+  {
+    "id": "189",
+    "hiragana": "おさきに",
+    "kanji": "おさきに",
+    "meaning": "",
+    "romaji": "osakini"
+  },
+  {
+    "id": "190",
+    "hiragana": "おさめる",
+    "kanji": "納める",
+    "meaning": "",
+    "romaji": "osameru"
+  },
+  {
+    "id": "191",
+    "hiragana": "おさめる",
+    "kanji": "治める",
+    "meaning": "",
+    "romaji": "osameru"
+  },
+  {
+    "id": "192",
+    "hiragana": "おしい",
+    "kanji": "惜しい",
+    "meaning": "",
+    "romaji": "oshii"
+  },
+  {
+    "id": "193",
+    "hiragana": "おじぎ",
+    "kanji": "御辞儀",
+    "meaning": "",
+    "romaji": "ojigi"
+  },
+  {
+    "id": "194",
+    "hiragana": "おじさん",
+    "kanji": "伯父さん",
+    "meaning": "",
+    "romaji": "ojisan"
+  },
+  {
+    "id": "195",
+    "hiragana": "おじさん",
+    "kanji": "小父さん",
+    "meaning": "",
+    "romaji": "ojisan"
+  },
+  {
+    "id": "196",
+    "hiragana": "おじさん",
+    "kanji": "叔父さん",
+    "meaning": "",
+    "romaji": "ojisan"
+  },
+  {
+    "id": "197",
+    "hiragana": "おしゃれ",
+    "kanji": "おしゃれ",
+    "meaning": "",
+    "romaji": "oshare"
+  },
+  {
+    "id": "198",
+    "hiragana": "おじゃまします",
+    "kanji": "おじゃまします",
+    "meaning": "",
+    "romaji": "ojamashimasu"
+  },
+  {
+    "id": "199",
+    "hiragana": "おそわる",
+    "kanji": "教わる",
+    "meaning": "",
+    "romaji": "osowaru"
+  },
+  {
+    "id": "200",
+    "hiragana": "おだいじに",
+    "kanji": "おだいじに",
+    "meaning": "",
+    "romaji": "odaijini"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1751",
+    "hiragana": "そう",
+    "kanji": "僧",
+    "meaning": "",
+    "romaji": "sou"
+  },
+  {
+    "id": "1752",
+    "hiragana": "そう",
+    "kanji": "沿う",
+    "meaning": "",
+    "romaji": "sou"
+  },
+  {
+    "id": "1753",
+    "hiragana": "そう",
+    "kanji": "添う",
+    "meaning": "",
+    "romaji": "sou"
+  },
+  {
+    "id": "1754",
+    "hiragana": "そう",
+    "kanji": "総",
+    "meaning": "",
+    "romaji": "sou"
+  },
+  {
+    "id": "1755",
+    "hiragana": "そうおう",
+    "kanji": "相応",
+    "meaning": "",
+    "romaji": "souou"
+  },
+  {
+    "id": "1756",
+    "hiragana": "そうかい",
+    "kanji": "総会",
+    "meaning": "",
+    "romaji": "soukai"
+  },
+  {
+    "id": "1757",
+    "hiragana": "そうかん",
+    "kanji": "創刊",
+    "meaning": "",
+    "romaji": "soukan"
+  },
+  {
+    "id": "1758",
+    "hiragana": "そうきん",
+    "kanji": "送金",
+    "meaning": "",
+    "romaji": "soukin"
+  },
+  {
+    "id": "1759",
+    "hiragana": "そうこう",
+    "kanji": "走行",
+    "meaning": "",
+    "romaji": "soukou"
+  },
+  {
+    "id": "1760",
+    "hiragana": "そうごう",
+    "kanji": "総合",
+    "meaning": "",
+    "romaji": "sougou"
+  },
+  {
+    "id": "1761",
+    "hiragana": "そうさ",
+    "kanji": "捜査",
+    "meaning": "",
+    "romaji": "sousa"
+  },
+  {
+    "id": "1762",
+    "hiragana": "そうさく",
+    "kanji": "捜索",
+    "meaning": "",
+    "romaji": "sousaku"
+  },
+  {
+    "id": "1763",
+    "hiragana": "そうして",
+    "kanji": "然うして",
+    "meaning": "",
+    "romaji": "soushite"
+  },
+  {
+    "id": "1764",
+    "hiragana": "そうしょく",
+    "kanji": "装飾",
+    "meaning": "",
+    "romaji": "soushoku"
+  },
+  {
+    "id": "1765",
+    "hiragana": "そうじゅう",
+    "kanji": "操縦",
+    "meaning": "",
+    "romaji": "soujuu"
+  },
+  {
+    "id": "1766",
+    "hiragana": "そうぞう",
+    "kanji": "創造",
+    "meaning": "",
+    "romaji": "souzou"
+  },
+  {
+    "id": "1767",
+    "hiragana": "そうだい",
+    "kanji": "壮大",
+    "meaning": "",
+    "romaji": "soudai"
+  },
+  {
+    "id": "1768",
+    "hiragana": "そうどう",
+    "kanji": "騒動",
+    "meaning": "",
+    "romaji": "soudou"
+  },
+  {
+    "id": "1769",
+    "hiragana": "そうなん",
+    "kanji": "遭難",
+    "meaning": "",
+    "romaji": "sounan"
+  },
+  {
+    "id": "1770",
+    "hiragana": "そうば",
+    "kanji": "相場",
+    "meaning": "",
+    "romaji": "souba"
+  },
+  {
+    "id": "1771",
+    "hiragana": "そうび",
+    "kanji": "装備",
+    "meaning": "",
+    "romaji": "soubi"
+  },
+  {
+    "id": "1772",
+    "hiragana": "そうりつ",
+    "kanji": "創立",
+    "meaning": "",
+    "romaji": "souritsu"
+  },
+  {
+    "id": "1773",
+    "hiragana": "そえる",
+    "kanji": "添える",
+    "meaning": "",
+    "romaji": "soeru"
+  },
+  {
+    "id": "1774",
+    "hiragana": "そくざに",
+    "kanji": "即座に",
+    "meaning": "",
+    "romaji": "sokuzani"
+  },
+  {
+    "id": "1775",
+    "hiragana": "そくしん",
+    "kanji": "促進",
+    "meaning": "",
+    "romaji": "sokushin"
+  },
+  {
+    "id": "1776",
+    "hiragana": "そくする",
+    "kanji": "即する",
+    "meaning": "",
+    "romaji": "sokusuru"
+  },
+  {
+    "id": "1777",
+    "hiragana": "そくばく",
+    "kanji": "束縛",
+    "meaning": "",
+    "romaji": "sokubaku"
+  },
+  {
+    "id": "1778",
+    "hiragana": "そくめん",
+    "kanji": "側面",
+    "meaning": "",
+    "romaji": "sokumen"
+  },
+  {
+    "id": "1779",
+    "hiragana": "そこ",
+    "kanji": "其処",
+    "meaning": "",
+    "romaji": "soko"
+  },
+  {
+    "id": "1780",
+    "hiragana": "そこで",
+    "kanji": "其処で",
+    "meaning": "",
+    "romaji": "sokode"
+  },
+  {
+    "id": "1781",
+    "hiragana": "そこなう",
+    "kanji": "損なう",
+    "meaning": "",
+    "romaji": "sokonau"
+  },
+  {
+    "id": "1782",
+    "hiragana": "そこら",
+    "kanji": "其処ら",
+    "meaning": "",
+    "romaji": "sokora"
+  },
+  {
+    "id": "1783",
+    "hiragana": "そざい",
+    "kanji": "素材",
+    "meaning": "",
+    "romaji": "sozai"
+  },
+  {
+    "id": "1784",
+    "hiragana": "そし",
+    "kanji": "阻止",
+    "meaning": "",
+    "romaji": "soshi"
+  },
+  {
+    "id": "1785",
+    "hiragana": "そして",
+    "kanji": "然して",
+    "meaning": "",
+    "romaji": "soshite"
+  },
+  {
+    "id": "1786",
+    "hiragana": "そしょう",
+    "kanji": "訴訟",
+    "meaning": "",
+    "romaji": "soshou"
+  },
+  {
+    "id": "1787",
+    "hiragana": "そだち",
+    "kanji": "育ち",
+    "meaning": "",
+    "romaji": "sodachi"
+  },
+  {
+    "id": "1788",
+    "hiragana": "そち",
+    "kanji": "措置",
+    "meaning": "",
+    "romaji": "sochi"
+  },
+  {
+    "id": "1789",
+    "hiragana": "そちら",
+    "kanji": "其方",
+    "meaning": "",
+    "romaji": "sochira"
+  },
+  {
+    "id": "1790",
+    "hiragana": "そっけない",
+    "kanji": "素っ気ない",
+    "meaning": "",
+    "romaji": "sokkenai"
+  },
+  {
+    "id": "1791",
+    "hiragana": "そっちょく",
+    "kanji": "率直",
+    "meaning": "",
+    "romaji": "sotchoku"
+  },
+  {
+    "id": "1792",
+    "hiragana": "そっぽ",
+    "kanji": "外方",
+    "meaning": "",
+    "romaji": "soppo"
+  },
+  {
+    "id": "1793",
+    "hiragana": "そなえつける",
+    "kanji": "備え付ける",
+    "meaning": "",
+    "romaji": "sonaetsukeru"
+  },
+  {
+    "id": "1794",
+    "hiragana": "そなわる",
+    "kanji": "備わる",
+    "meaning": "",
+    "romaji": "sonawaru"
+  },
+  {
+    "id": "1795",
+    "hiragana": "その",
+    "kanji": "園",
+    "meaning": "",
+    "romaji": "sono"
+  },
+  {
+    "id": "1796",
+    "hiragana": "そのうえ",
+    "kanji": "その上",
+    "meaning": "",
+    "romaji": "sonoue"
+  },
+  {
+    "id": "1797",
+    "hiragana": "そのうち",
+    "kanji": "その内",
+    "meaning": "",
+    "romaji": "sonouchi"
+  },
+  {
+    "id": "1798",
+    "hiragana": "そのため",
+    "kanji": "その為",
+    "meaning": "",
+    "romaji": "sonotame"
+  },
+  {
+    "id": "1799",
+    "hiragana": "そのほか",
+    "kanji": "その外",
+    "meaning": "",
+    "romaji": "sonohoka"
+  },
+  {
+    "id": "1800",
+    "hiragana": "そのまま",
+    "kanji": "其の儘",
+    "meaning": "",
+    "romaji": "sonomama"
+  }
+]

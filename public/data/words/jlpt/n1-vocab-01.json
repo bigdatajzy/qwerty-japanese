@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "hiragana": "ああ",
+    "kanji": "嗚呼",
+    "meaning": "",
+    "romaji": "aa"
+  },
+  {
+    "id": "2",
+    "hiragana": "あい",
+    "kanji": "相",
+    "meaning": "",
+    "romaji": "ai"
+  },
+  {
+    "id": "3",
+    "hiragana": "あいかわらず",
+    "kanji": "相変わらず",
+    "meaning": "",
+    "romaji": "aikawarazu"
+  },
+  {
+    "id": "4",
+    "hiragana": "あいそ",
+    "kanji": "愛想",
+    "meaning": "",
+    "romaji": "aiso"
+  },
+  {
+    "id": "5",
+    "hiragana": "あいたい",
+    "kanji": "相対",
+    "meaning": "",
+    "romaji": "aitai"
+  },
+  {
+    "id": "6",
+    "hiragana": "あいだがら",
+    "kanji": "間柄",
+    "meaning": "",
+    "romaji": "aidagara"
+  },
+  {
+    "id": "7",
+    "hiragana": "あいにく",
+    "kanji": "愛憎",
+    "meaning": "",
+    "romaji": "ainiku"
+  },
+  {
+    "id": "8",
+    "hiragana": "あいま",
+    "kanji": "合間",
+    "meaning": "",
+    "romaji": "aima"
+  },
+  {
+    "id": "9",
+    "hiragana": "あいまい",
+    "kanji": "曖昧",
+    "meaning": "",
+    "romaji": "aimai"
+  },
+  {
+    "id": "10",
+    "hiragana": "あえて",
+    "kanji": "敢えて",
+    "meaning": "",
+    "romaji": "aete"
+  },
+  {
+    "id": "11",
+    "hiragana": "あおぐ",
+    "kanji": "仰ぐ",
+    "meaning": "",
+    "romaji": "aogu"
+  },
+  {
+    "id": "12",
+    "hiragana": "あか",
+    "kanji": "垢",
+    "meaning": "",
+    "romaji": "aka"
+  },
+  {
+    "id": "13",
+    "hiragana": "あか",
+    "kanji": "亜科",
+    "meaning": "",
+    "romaji": "aka"
+  },
+  {
+    "id": "14",
+    "hiragana": "あかがね",
+    "kanji": "銅",
+    "meaning": "",
+    "romaji": "akagane"
+  },
+  {
+    "id": "15",
+    "hiragana": "あかし",
+    "kanji": "証",
+    "meaning": "",
+    "romaji": "akashi"
+  },
+  {
+    "id": "16",
+    "hiragana": "あかじ",
+    "kanji": "赤字",
+    "meaning": "",
+    "romaji": "akaji"
+  },
+  {
+    "id": "17",
+    "hiragana": "あかす",
+    "kanji": "明かす",
+    "meaning": "",
+    "romaji": "akasu"
+  },
+  {
+    "id": "18",
+    "hiragana": "あかちゃん",
+    "kanji": "赤ちゃん",
+    "meaning": "",
+    "romaji": "akachan"
+  },
+  {
+    "id": "19",
+    "hiragana": "あからさま",
+    "kanji": "明白",
+    "meaning": "",
+    "romaji": "akarasama"
+  },
+  {
+    "id": "20",
+    "hiragana": "あからむ",
+    "kanji": "赤らむ",
+    "meaning": "",
+    "romaji": "akaramu"
+  },
+  {
+    "id": "21",
+    "hiragana": "あかるい",
+    "kanji": "明るい",
+    "meaning": "",
+    "romaji": "akarui"
+  },
+  {
+    "id": "22",
+    "hiragana": "あがり",
+    "kanji": "上がり",
+    "meaning": "",
+    "romaji": "agari"
+  },
+  {
+    "id": "23",
+    "hiragana": "あがる",
+    "kanji": "上がる",
+    "meaning": "",
+    "romaji": "agaru"
+  },
+  {
+    "id": "24",
+    "hiragana": "あきうど",
+    "kanji": "商人",
+    "meaning": "",
+    "romaji": "akiudo"
+  },
+  {
+    "id": "25",
+    "hiragana": "あきま",
+    "kanji": "空間",
+    "meaning": "",
+    "romaji": "akima"
+  },
+  {
+    "id": "26",
+    "hiragana": "あきらめ",
+    "kanji": "諦め",
+    "meaning": "",
+    "romaji": "akirame"
+  },
+  {
+    "id": "27",
+    "hiragana": "あきれる",
+    "kanji": "呆れる",
+    "meaning": "",
+    "romaji": "akireru"
+  },
+  {
+    "id": "28",
+    "hiragana": "あく",
+    "kanji": "悪",
+    "meaning": "",
+    "romaji": "aku"
+  },
+  {
+    "id": "29",
+    "hiragana": "あく",
+    "kanji": "灰",
+    "meaning": "",
+    "romaji": "aku"
+  },
+  {
+    "id": "30",
+    "hiragana": "あくどい",
+    "kanji": "あくどい",
+    "meaning": "",
+    "romaji": "akudoi"
+  },
+  {
+    "id": "31",
+    "hiragana": "あくび",
+    "kanji": "悪日",
+    "meaning": "",
+    "romaji": "akubi"
+  },
+  {
+    "id": "32",
+    "hiragana": "あくる",
+    "kanji": "明くる",
+    "meaning": "",
+    "romaji": "akuru"
+  },
+  {
+    "id": "33",
+    "hiragana": "あこがれ",
+    "kanji": "憧れ",
+    "meaning": "",
+    "romaji": "akogare"
+  },
+  {
+    "id": "34",
+    "hiragana": "あご",
+    "kanji": "顎",
+    "meaning": "",
+    "romaji": "ago"
+  },
+  {
+    "id": "35",
+    "hiragana": "あさ",
+    "kanji": "麻",
+    "meaning": "",
+    "romaji": "asa"
+  },
+  {
+    "id": "36",
+    "hiragana": "あさって",
+    "kanji": "明後日",
+    "meaning": "",
+    "romaji": "asatte"
+  },
+  {
+    "id": "37",
+    "hiragana": "あさねぼう",
+    "kanji": "朝寝坊",
+    "meaning": "",
+    "romaji": "asanebou"
+  },
+  {
+    "id": "38",
+    "hiragana": "あさましい",
+    "kanji": "浅ましい",
+    "meaning": "",
+    "romaji": "asamashii"
+  },
+  {
+    "id": "39",
+    "hiragana": "あざ",
+    "kanji": "字",
+    "meaning": "",
+    "romaji": "aza"
+  },
+  {
+    "id": "40",
+    "hiragana": "あざむく",
+    "kanji": "欺く",
+    "meaning": "",
+    "romaji": "azamuku"
+  },
+  {
+    "id": "41",
+    "hiragana": "あざやか",
+    "kanji": "鮮やか",
+    "meaning": "",
+    "romaji": "azayaka"
+  },
+  {
+    "id": "42",
+    "hiragana": "あざわらう",
+    "kanji": "あざ笑う",
+    "meaning": "",
+    "romaji": "azawarau"
+  },
+  {
+    "id": "43",
+    "hiragana": "あじわい",
+    "kanji": "味わい",
+    "meaning": "",
+    "romaji": "ajiwai"
+  },
+  {
+    "id": "44",
+    "hiragana": "あずま",
+    "kanji": "東",
+    "meaning": "",
+    "romaji": "azuma"
+  },
+  {
+    "id": "45",
+    "hiragana": "あせる",
+    "kanji": "焦る",
+    "meaning": "",
+    "romaji": "aseru"
+  },
+  {
+    "id": "46",
+    "hiragana": "あそこ",
+    "kanji": "彼処",
+    "meaning": "",
+    "romaji": "asoko"
+  },
+  {
+    "id": "47",
+    "hiragana": "あたい",
+    "kanji": "値",
+    "meaning": "",
+    "romaji": "atai"
+  },
+  {
+    "id": "48",
+    "hiragana": "あたいする",
+    "kanji": "値する",
+    "meaning": "",
+    "romaji": "ataisuru"
+  },
+  {
+    "id": "49",
+    "hiragana": "あたし",
+    "kanji": "私",
+    "meaning": "",
+    "romaji": "atashi"
+  },
+  {
+    "id": "50",
+    "hiragana": "あたり",
+    "kanji": "当たり",
+    "meaning": "",
+    "romaji": "atari"
+  }
+]

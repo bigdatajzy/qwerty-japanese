@@ -1,0 +1,352 @@
+[
+  {
+    "id": "451",
+    "hiragana": "なおす",
+    "kanji": "直す",
+    "meaning": "",
+    "romaji": "naosu"
+  },
+  {
+    "id": "452",
+    "hiragana": "なおる",
+    "kanji": "直る",
+    "meaning": "",
+    "romaji": "naoru"
+  },
+  {
+    "id": "453",
+    "hiragana": "なおる",
+    "kanji": "治る",
+    "meaning": "",
+    "romaji": "naoru"
+  },
+  {
+    "id": "454",
+    "hiragana": "なかなか",
+    "kanji": "中々",
+    "meaning": "",
+    "romaji": "nakanaka"
+  },
+  {
+    "id": "455",
+    "hiragana": "なく",
+    "kanji": "泣く",
+    "meaning": "",
+    "romaji": "naku"
+  },
+  {
+    "id": "456",
+    "hiragana": "なくなる",
+    "kanji": "無くなる",
+    "meaning": "",
+    "romaji": "nakunaru"
+  },
+  {
+    "id": "457",
+    "hiragana": "なくなる",
+    "kanji": "亡くなる",
+    "meaning": "",
+    "romaji": "nakunaru"
+  },
+  {
+    "id": "458",
+    "hiragana": "なげる",
+    "kanji": "投げる",
+    "meaning": "",
+    "romaji": "nageru"
+  },
+  {
+    "id": "459",
+    "hiragana": "なさる",
+    "kanji": "なさる",
+    "meaning": "",
+    "romaji": "nasaru"
+  },
+  {
+    "id": "460",
+    "hiragana": "なる",
+    "kanji": "鳴る",
+    "meaning": "",
+    "romaji": "naru"
+  },
+  {
+    "id": "461",
+    "hiragana": "なるべく",
+    "kanji": "なるべく",
+    "meaning": "",
+    "romaji": "narubeku"
+  },
+  {
+    "id": "462",
+    "hiragana": "なるほど",
+    "kanji": "なるほど",
+    "meaning": "",
+    "romaji": "naruhodo"
+  },
+  {
+    "id": "463",
+    "hiragana": "なれる",
+    "kanji": "慣れる",
+    "meaning": "",
+    "romaji": "nareru"
+  },
+  {
+    "id": "464",
+    "hiragana": "におい",
+    "kanji": "におい",
+    "meaning": "",
+    "romaji": "nioi"
+  },
+  {
+    "id": "465",
+    "hiragana": "にがい",
+    "kanji": "苦い",
+    "meaning": "",
+    "romaji": "nigai"
+  },
+  {
+    "id": "466",
+    "hiragana": "にかいだて",
+    "kanji": "二階建て",
+    "meaning": "",
+    "romaji": "nikaidate"
+  },
+  {
+    "id": "467",
+    "hiragana": "にげる",
+    "kanji": "逃げる",
+    "meaning": "",
+    "romaji": "nigeru"
+  },
+  {
+    "id": "468",
+    "hiragana": "にっき",
+    "kanji": "日記",
+    "meaning": "",
+    "romaji": "nikki"
+  },
+  {
+    "id": "469",
+    "hiragana": "にゅういん",
+    "kanji": "入院",
+    "meaning": "",
+    "romaji": "nyuuin"
+  },
+  {
+    "id": "470",
+    "hiragana": "にゅうがく",
+    "kanji": "入学",
+    "meaning": "",
+    "romaji": "nyuugaku"
+  },
+  {
+    "id": "471",
+    "hiragana": "にる",
+    "kanji": "似る",
+    "meaning": "",
+    "romaji": "niru"
+  },
+  {
+    "id": "472",
+    "hiragana": "にんぎょう",
+    "kanji": "人形",
+    "meaning": "",
+    "romaji": "ningyou"
+  },
+  {
+    "id": "473",
+    "hiragana": "ぬすむ",
+    "kanji": "盗む",
+    "meaning": "",
+    "romaji": "nusumu"
+  },
+  {
+    "id": "474",
+    "hiragana": "ぬる",
+    "kanji": "塗る",
+    "meaning": "",
+    "romaji": "nuru"
+  },
+  {
+    "id": "475",
+    "hiragana": "ぬれる",
+    "kanji": "ぬれる",
+    "meaning": "",
+    "romaji": "nureru"
+  },
+  {
+    "id": "476",
+    "hiragana": "ねだん",
+    "kanji": "ねだん",
+    "meaning": "",
+    "romaji": "nedan"
+  },
+  {
+    "id": "477",
+    "hiragana": "ねつ",
+    "kanji": "熱",
+    "meaning": "",
+    "romaji": "netsu"
+  },
+  {
+    "id": "478",
+    "hiragana": "ねっしん",
+    "kanji": "ねっしん",
+    "meaning": "",
+    "romaji": "nesshin"
+  },
+  {
+    "id": "479",
+    "hiragana": "ねぼう",
+    "kanji": "寝坊",
+    "meaning": "",
+    "romaji": "nebou"
+  },
+  {
+    "id": "480",
+    "hiragana": "ねむい",
+    "kanji": "眠い",
+    "meaning": "",
+    "romaji": "nemui"
+  },
+  {
+    "id": "481",
+    "hiragana": "ねむる",
+    "kanji": "眠る",
+    "meaning": "",
+    "romaji": "nemuru"
+  },
+  {
+    "id": "482",
+    "hiragana": "のこる",
+    "kanji": "残る",
+    "meaning": "",
+    "romaji": "nokoru"
+  },
+  {
+    "id": "483",
+    "hiragana": "のど",
+    "kanji": "のど",
+    "meaning": "",
+    "romaji": "nodo"
+  },
+  {
+    "id": "484",
+    "hiragana": "のりかえる",
+    "kanji": "乗り換える",
+    "meaning": "",
+    "romaji": "norikaeru"
+  },
+  {
+    "id": "485",
+    "hiragana": "のりもの",
+    "kanji": "乗り物",
+    "meaning": "",
+    "romaji": "norimono"
+  },
+  {
+    "id": "486",
+    "hiragana": "は",
+    "kanji": "葉",
+    "meaning": "",
+    "romaji": "ha"
+  },
+  {
+    "id": "487",
+    "hiragana": "ばあい",
+    "kanji": "場合",
+    "meaning": "",
+    "romaji": "baai"
+  },
+  {
+    "id": "488",
+    "hiragana": "パート",
+    "kanji": "パート",
+    "meaning": "",
+    "romaji": "paato"
+  },
+  {
+    "id": "489",
+    "hiragana": "ばい",
+    "kanji": "倍",
+    "meaning": "",
+    "romaji": "bai"
+  },
+  {
+    "id": "490",
+    "hiragana": "はいけん",
+    "kanji": "拝見",
+    "meaning": "",
+    "romaji": "haiken"
+  },
+  {
+    "id": "491",
+    "hiragana": "はいしゃ",
+    "kanji": "歯医者",
+    "meaning": "",
+    "romaji": "haisha"
+  },
+  {
+    "id": "492",
+    "hiragana": "はこぶ",
+    "kanji": "運ぶ",
+    "meaning": "",
+    "romaji": "hakobu"
+  },
+  {
+    "id": "493",
+    "hiragana": "はじめる",
+    "kanji": "始める",
+    "meaning": "",
+    "romaji": "hajimeru"
+  },
+  {
+    "id": "494",
+    "hiragana": "ばしょ",
+    "kanji": "場所",
+    "meaning": "",
+    "romaji": "basho"
+  },
+  {
+    "id": "495",
+    "hiragana": "はず",
+    "kanji": "はず",
+    "meaning": "",
+    "romaji": "hazu"
+  },
+  {
+    "id": "496",
+    "hiragana": "はずかしい",
+    "kanji": "恥ずかしい",
+    "meaning": "",
+    "romaji": "hazukashii"
+  },
+  {
+    "id": "497",
+    "hiragana": "パソコン",
+    "kanji": "パソコン",
+    "meaning": "",
+    "romaji": "pasokon"
+  },
+  {
+    "id": "498",
+    "hiragana": "はつおん",
+    "kanji": "発音",
+    "meaning": "",
+    "romaji": "hatsuon"
+  },
+  {
+    "id": "499",
+    "hiragana": "はっきり",
+    "kanji": "はっきり",
+    "meaning": "",
+    "romaji": "hakkiri"
+  },
+  {
+    "id": "500",
+    "hiragana": "はなみ",
+    "kanji": "花見",
+    "meaning": "",
+    "romaji": "hanami"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1401",
+    "hiragana": "パイロット",
+    "kanji": "パイロット",
+    "meaning": "",
+    "romaji": "pairotto"
+  },
+  {
+    "id": "1402",
+    "hiragana": "はか",
+    "kanji": "墓",
+    "meaning": "",
+    "romaji": "haka"
+  },
+  {
+    "id": "1403",
+    "hiragana": "ばか",
+    "kanji": "馬鹿",
+    "meaning": "",
+    "romaji": "baka"
+  },
+  {
+    "id": "1404",
+    "hiragana": "はかせ",
+    "kanji": "博士",
+    "meaning": "",
+    "romaji": "hakase"
+  },
+  {
+    "id": "1405",
+    "hiragana": "はかる",
+    "kanji": "計る",
+    "meaning": "",
+    "romaji": "hakaru"
+  },
+  {
+    "id": "1406",
+    "hiragana": "はく",
+    "kanji": "履く",
+    "meaning": "",
+    "romaji": "haku"
+  },
+  {
+    "id": "1407",
+    "hiragana": "はく",
+    "kanji": "吐く",
+    "meaning": "",
+    "romaji": "haku"
+  },
+  {
+    "id": "1408",
+    "hiragana": "はくしゅ",
+    "kanji": "拍手",
+    "meaning": "",
+    "romaji": "hakushu"
+  },
+  {
+    "id": "1409",
+    "hiragana": "ばくだい",
+    "kanji": "莫大",
+    "meaning": "",
+    "romaji": "bakudai"
+  },
+  {
+    "id": "1410",
+    "hiragana": "ばくはつ",
+    "kanji": "爆発",
+    "meaning": "",
+    "romaji": "bakuhatsu"
+  },
+  {
+    "id": "1411",
+    "hiragana": "はくぶつかん",
+    "kanji": "博物館",
+    "meaning": "",
+    "romaji": "hakubutsukan"
+  },
+  {
+    "id": "1412",
+    "hiragana": "はげしい",
+    "kanji": "激しい",
+    "meaning": "",
+    "romaji": "hageshii"
+  },
+  {
+    "id": "1413",
+    "hiragana": "はさみ",
+    "kanji": "はさみ",
+    "meaning": "",
+    "romaji": "hasami"
+  },
+  {
+    "id": "1414",
+    "hiragana": "はさん",
+    "kanji": "破産",
+    "meaning": "",
+    "romaji": "hasan"
+  },
+  {
+    "id": "1415",
+    "hiragana": "はし",
+    "kanji": "端",
+    "meaning": "",
+    "romaji": "hashi"
+  },
+  {
+    "id": "1416",
+    "hiragana": "はじまり",
+    "kanji": "始まり",
+    "meaning": "",
+    "romaji": "hajimari"
+  },
+  {
+    "id": "1417",
+    "hiragana": "パス",
+    "kanji": "パス",
+    "meaning": "",
+    "romaji": "pasu"
+  },
+  {
+    "id": "1418",
+    "hiragana": "はずす",
+    "kanji": "外す",
+    "meaning": "",
+    "romaji": "hazusu"
+  },
+  {
+    "id": "1419",
+    "hiragana": "パスポート",
+    "kanji": "パスポート",
+    "meaning": "",
+    "romaji": "pasupooto"
+  },
+  {
+    "id": "1420",
+    "hiragana": "はた",
+    "kanji": "旗",
+    "meaning": "",
+    "romaji": "hata"
+  },
+  {
+    "id": "1421",
+    "hiragana": "はだ",
+    "kanji": "肌",
+    "meaning": "",
+    "romaji": "hada"
+  },
+  {
+    "id": "1422",
+    "hiragana": "はだか",
+    "kanji": "裸",
+    "meaning": "",
+    "romaji": "hadaka"
+  },
+  {
+    "id": "1423",
+    "hiragana": "はたけ",
+    "kanji": "畑",
+    "meaning": "",
+    "romaji": "hatake"
+  },
+  {
+    "id": "1424",
+    "hiragana": "はたち",
+    "kanji": "二十",
+    "meaning": "",
+    "romaji": "hatachi"
+  },
+  {
+    "id": "1425",
+    "hiragana": "はたらき",
+    "kanji": "働き",
+    "meaning": "",
+    "romaji": "hataraki"
+  },
+  {
+    "id": "1426",
+    "hiragana": "バッグ",
+    "kanji": "バッグ",
+    "meaning": "",
+    "romaji": "baggu"
+  },
+  {
+    "id": "1427",
+    "hiragana": "はっけん",
+    "kanji": "発見",
+    "meaning": "",
+    "romaji": "hakken"
+  },
+  {
+    "id": "1428",
+    "hiragana": "はっこう",
+    "kanji": "発行",
+    "meaning": "",
+    "romaji": "hakkou"
+  },
+  {
+    "id": "1429",
+    "hiragana": "はっしゃ",
+    "kanji": "発車",
+    "meaning": "",
+    "romaji": "hassha"
+  },
+  {
+    "id": "1430",
+    "hiragana": "ばっする",
+    "kanji": "罰する",
+    "meaning": "",
+    "romaji": "bassuru"
+  },
+  {
+    "id": "1431",
+    "hiragana": "はったつ",
+    "kanji": "発達",
+    "meaning": "",
+    "romaji": "hattatsu"
+  },
+  {
+    "id": "1432",
+    "hiragana": "ばったり",
+    "kanji": "ばったり",
+    "meaning": "",
+    "romaji": "battari"
+  },
+  {
+    "id": "1433",
+    "hiragana": "はってん",
+    "kanji": "発展",
+    "meaning": "",
+    "romaji": "hatten"
+  },
+  {
+    "id": "1434",
+    "hiragana": "はっぴょう",
+    "kanji": "発表",
+    "meaning": "",
+    "romaji": "happyou"
+  },
+  {
+    "id": "1435",
+    "hiragana": "はつめい",
+    "kanji": "発明",
+    "meaning": "",
+    "romaji": "hatsumei"
+  },
+  {
+    "id": "1436",
+    "hiragana": "はなしあう",
+    "kanji": "話し合う",
+    "meaning": "",
+    "romaji": "hanashiau"
+  },
+  {
+    "id": "1437",
+    "hiragana": "はなす",
+    "kanji": "離す",
+    "meaning": "",
+    "romaji": "hanasu"
+  },
+  {
+    "id": "1438",
+    "hiragana": "はなす",
+    "kanji": "放す",
+    "meaning": "",
+    "romaji": "hanasu"
+  },
+  {
+    "id": "1439",
+    "hiragana": "はなれる",
+    "kanji": "離れる",
+    "meaning": "",
+    "romaji": "hanareru"
+  },
+  {
+    "id": "1440",
+    "hiragana": "はね",
+    "kanji": "羽",
+    "meaning": "",
+    "romaji": "hane"
+  },
+  {
+    "id": "1441",
+    "hiragana": "はば",
+    "kanji": "幅",
+    "meaning": "",
+    "romaji": "haba"
+  },
+  {
+    "id": "1442",
+    "hiragana": "ははおや",
+    "kanji": "母親",
+    "meaning": "",
+    "romaji": "hahaoya"
+  },
+  {
+    "id": "1443",
+    "hiragana": "はぶく",
+    "kanji": "省く",
+    "meaning": "",
+    "romaji": "habuku"
+  },
+  {
+    "id": "1444",
+    "hiragana": "ばめん",
+    "kanji": "場面",
+    "meaning": "",
+    "romaji": "bamen"
+  },
+  {
+    "id": "1445",
+    "hiragana": "はら",
+    "kanji": "腹",
+    "meaning": "",
+    "romaji": "hara"
+  },
+  {
+    "id": "1446",
+    "hiragana": "はら",
+    "kanji": "原",
+    "meaning": "",
+    "romaji": "hara"
+  },
+  {
+    "id": "1447",
+    "hiragana": "はり",
+    "kanji": "針",
+    "meaning": "",
+    "romaji": "hari"
+  },
+  {
+    "id": "1448",
+    "hiragana": "はる",
+    "kanji": "張る",
+    "meaning": "",
+    "romaji": "haru"
+  },
+  {
+    "id": "1449",
+    "hiragana": "ばん",
+    "kanji": "番",
+    "meaning": "",
+    "romaji": "ban"
+  },
+  {
+    "id": "1450",
+    "hiragana": "バン",
+    "kanji": "バン",
+    "meaning": "",
+    "romaji": "ban"
+  }
+]

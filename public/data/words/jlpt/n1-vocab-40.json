@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1951",
+    "hiragana": "だんぜん",
+    "kanji": "断然",
+    "meaning": "",
+    "romaji": "danzen"
+  },
+  {
+    "id": "1952",
+    "hiragana": "だんだん",
+    "kanji": "段々",
+    "meaning": "",
+    "romaji": "dandan"
+  },
+  {
+    "id": "1953",
+    "hiragana": "だんな",
+    "kanji": "旦那",
+    "meaning": "",
+    "romaji": "danna"
+  },
+  {
+    "id": "1954",
+    "hiragana": "だんめん",
+    "kanji": "断面",
+    "meaning": "",
+    "romaji": "danmen"
+  },
+  {
+    "id": "1955",
+    "hiragana": "だんりょく",
+    "kanji": "弾力",
+    "meaning": "",
+    "romaji": "danryoku"
+  },
+  {
+    "id": "1956",
+    "hiragana": "ちあん",
+    "kanji": "治安",
+    "meaning": "",
+    "romaji": "chian"
+  },
+  {
+    "id": "1957",
+    "hiragana": "ちかづく",
+    "kanji": "近付く",
+    "meaning": "",
+    "romaji": "chikazuku"
+  },
+  {
+    "id": "1958",
+    "hiragana": "ちがえる",
+    "kanji": "違える",
+    "meaning": "",
+    "romaji": "chigaeru"
+  },
+  {
+    "id": "1959",
+    "hiragana": "ちぎる",
+    "kanji": "契る",
+    "meaning": "",
+    "romaji": "chigiru"
+  },
+  {
+    "id": "1960",
+    "hiragana": "ちくさん",
+    "kanji": "畜産",
+    "meaning": "",
+    "romaji": "chikusan"
+  },
+  {
+    "id": "1961",
+    "hiragana": "ちくしょう",
+    "kanji": "畜生",
+    "meaning": "",
+    "romaji": "chikushou"
+  },
+  {
+    "id": "1962",
+    "hiragana": "ちくせき",
+    "kanji": "蓄積",
+    "meaning": "",
+    "romaji": "chikuseki"
+  },
+  {
+    "id": "1963",
+    "hiragana": "ちせい",
+    "kanji": "知性",
+    "meaning": "",
+    "romaji": "chisei"
+  },
+  {
+    "id": "1964",
+    "hiragana": "ちち",
+    "kanji": "乳",
+    "meaning": "",
+    "romaji": "chichi"
+  },
+  {
+    "id": "1965",
+    "hiragana": "ちちはは",
+    "kanji": "父母",
+    "meaning": "",
+    "romaji": "chichihaha"
+  },
+  {
+    "id": "1966",
+    "hiragana": "ちぢまる",
+    "kanji": "縮まる",
+    "meaning": "",
+    "romaji": "chijimaru"
+  },
+  {
+    "id": "1967",
+    "hiragana": "ちっそく",
+    "kanji": "窒息",
+    "meaning": "",
+    "romaji": "chissoku"
+  },
+  {
+    "id": "1968",
+    "hiragana": "ちっとも",
+    "kanji": "些とも",
+    "meaning": "",
+    "romaji": "chittomo"
+  },
+  {
+    "id": "1969",
+    "hiragana": "ちつじょ",
+    "kanji": "秩序",
+    "meaning": "",
+    "romaji": "chitsujo"
+  },
+  {
+    "id": "1970",
+    "hiragana": "ちてき",
+    "kanji": "知的",
+    "meaning": "",
+    "romaji": "chiteki"
+  },
+  {
+    "id": "1971",
+    "hiragana": "ちゃく",
+    "kanji": "著",
+    "meaning": "",
+    "romaji": "chaku"
+  },
+  {
+    "id": "1972",
+    "hiragana": "ちゃく",
+    "kanji": "着",
+    "meaning": "",
+    "romaji": "chaku"
+  },
+  {
+    "id": "1973",
+    "hiragana": "ちゃくしゅ",
+    "kanji": "着手",
+    "meaning": "",
+    "romaji": "chakushu"
+  },
+  {
+    "id": "1974",
+    "hiragana": "ちゃくしょく",
+    "kanji": "着色",
+    "meaning": "",
+    "romaji": "chakushoku"
+  },
+  {
+    "id": "1975",
+    "hiragana": "ちゃくせき",
+    "kanji": "着席",
+    "meaning": "",
+    "romaji": "chakuseki"
+  },
+  {
+    "id": "1976",
+    "hiragana": "ちゃくもく",
+    "kanji": "着目",
+    "meaning": "",
+    "romaji": "chakumoku"
+  },
+  {
+    "id": "1977",
+    "hiragana": "ちゃくりく",
+    "kanji": "着陸",
+    "meaning": "",
+    "romaji": "chakuriku"
+  },
+  {
+    "id": "1978",
+    "hiragana": "ちゃっこう",
+    "kanji": "着工",
+    "meaning": "",
+    "romaji": "chakkou"
+  },
+  {
+    "id": "1979",
+    "hiragana": "ちゃのま",
+    "kanji": "茶の間",
+    "meaning": "",
+    "romaji": "chanoma"
+  },
+  {
+    "id": "1980",
+    "hiragana": "ちゃのゆ",
+    "kanji": "茶の湯",
+    "meaning": "",
+    "romaji": "chanoyu"
+  },
+  {
+    "id": "1981",
+    "hiragana": "ちやほや",
+    "kanji": "ちやほや",
+    "meaning": "",
+    "romaji": "chiyahoya"
+  },
+  {
+    "id": "1982",
+    "hiragana": "ちゅうかん",
+    "kanji": "昼間",
+    "meaning": "",
+    "romaji": "chuukan"
+  },
+  {
+    "id": "1983",
+    "hiragana": "ちゅうがえり",
+    "kanji": "宙返り",
+    "meaning": "",
+    "romaji": "chuugaeri"
+  },
+  {
+    "id": "1984",
+    "hiragana": "ちゅうけい",
+    "kanji": "中継",
+    "meaning": "",
+    "romaji": "chuukei"
+  },
+  {
+    "id": "1985",
+    "hiragana": "ちゅうこく",
+    "kanji": "忠告",
+    "meaning": "",
+    "romaji": "chuukoku"
+  },
+  {
+    "id": "1986",
+    "hiragana": "ちゅうし",
+    "kanji": "中指",
+    "meaning": "",
+    "romaji": "chuushi"
+  },
+  {
+    "id": "1987",
+    "hiragana": "ちゅうしょう",
+    "kanji": "中傷",
+    "meaning": "",
+    "romaji": "chuushou"
+  },
+  {
+    "id": "1988",
+    "hiragana": "ちゅうじつ",
+    "kanji": "忠実",
+    "meaning": "",
+    "romaji": "chuujitsu"
+  },
+  {
+    "id": "1989",
+    "hiragana": "ちゅうすう",
+    "kanji": "中枢",
+    "meaning": "",
+    "romaji": "chuusuu"
+  },
+  {
+    "id": "1990",
+    "hiragana": "ちゅうせん",
+    "kanji": "抽選",
+    "meaning": "",
+    "romaji": "chuusen"
+  },
+  {
+    "id": "1991",
+    "hiragana": "ちゅうだん",
+    "kanji": "中断",
+    "meaning": "",
+    "romaji": "chuudan"
+  },
+  {
+    "id": "1992",
+    "hiragana": "ちゅうっぱら",
+    "kanji": "中腹",
+    "meaning": "",
+    "romaji": "chuuppara"
+  },
+  {
+    "id": "1993",
+    "hiragana": "ちゅうどく",
+    "kanji": "中毒",
+    "meaning": "",
+    "romaji": "chuudoku"
+  },
+  {
+    "id": "1994",
+    "hiragana": "ちゅうにん",
+    "kanji": "仲人",
+    "meaning": "",
+    "romaji": "chuunin"
+  },
+  {
+    "id": "1995",
+    "hiragana": "ちゅうはん",
+    "kanji": "昼飯",
+    "meaning": "",
+    "romaji": "chuuhan"
+  },
+  {
+    "id": "1996",
+    "hiragana": "ちゅうりつ",
+    "kanji": "中立",
+    "meaning": "",
+    "romaji": "chuuritsu"
+  },
+  {
+    "id": "1997",
+    "hiragana": "ちゅうわ",
+    "kanji": "中和",
+    "meaning": "",
+    "romaji": "chuuwa"
+  },
+  {
+    "id": "1998",
+    "hiragana": "ちょう",
+    "kanji": "腸",
+    "meaning": "",
+    "romaji": "chou"
+  },
+  {
+    "id": "1999",
+    "hiragana": "ちょう",
+    "kanji": "蝶",
+    "meaning": "",
+    "romaji": "chou"
+  },
+  {
+    "id": "2000",
+    "hiragana": "ちょう",
+    "kanji": "超",
+    "meaning": "",
+    "romaji": "chou"
+  }
+]

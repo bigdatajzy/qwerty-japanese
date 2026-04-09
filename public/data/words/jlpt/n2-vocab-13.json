@@ -1,0 +1,352 @@
+[
+  {
+    "id": "601",
+    "hiragana": "こんばんは",
+    "kanji": "こんばんは",
+    "meaning": "",
+    "romaji": "konbanha"
+  },
+  {
+    "id": "602",
+    "hiragana": "サークル",
+    "kanji": "サークル",
+    "meaning": "",
+    "romaji": "saakuru"
+  },
+  {
+    "id": "603",
+    "hiragana": "ざいがく",
+    "kanji": "在学",
+    "meaning": "",
+    "romaji": "zaigaku"
+  },
+  {
+    "id": "604",
+    "hiragana": "さいさん",
+    "kanji": "再三",
+    "meaning": "",
+    "romaji": "saisan"
+  },
+  {
+    "id": "605",
+    "hiragana": "さいじつ",
+    "kanji": "祭日",
+    "meaning": "",
+    "romaji": "saijitsu"
+  },
+  {
+    "id": "606",
+    "hiragana": "さいそく",
+    "kanji": "催促",
+    "meaning": "",
+    "romaji": "saisoku"
+  },
+  {
+    "id": "607",
+    "hiragana": "さいてん",
+    "kanji": "採点",
+    "meaning": "",
+    "romaji": "saiten"
+  },
+  {
+    "id": "608",
+    "hiragana": "さいなん",
+    "kanji": "災難",
+    "meaning": "",
+    "romaji": "sainan"
+  },
+  {
+    "id": "609",
+    "hiragana": "さいほう",
+    "kanji": "裁縫",
+    "meaning": "",
+    "romaji": "saihou"
+  },
+  {
+    "id": "610",
+    "hiragana": "ざいもく",
+    "kanji": "材木",
+    "meaning": "",
+    "romaji": "zaimoku"
+  },
+  {
+    "id": "611",
+    "hiragana": "サイレン",
+    "kanji": "サイレン",
+    "meaning": "",
+    "romaji": "sairen"
+  },
+  {
+    "id": "612",
+    "hiragana": "さかさ",
+    "kanji": "逆さ",
+    "meaning": "",
+    "romaji": "sakasa"
+  },
+  {
+    "id": "613",
+    "hiragana": "さかさま",
+    "kanji": "逆様",
+    "meaning": "",
+    "romaji": "sakasama"
+  },
+  {
+    "id": "614",
+    "hiragana": "さがす",
+    "kanji": "捜す",
+    "meaning": "",
+    "romaji": "sagasu"
+  },
+  {
+    "id": "615",
+    "hiragana": "さかのぼる",
+    "kanji": "遡る",
+    "meaning": "",
+    "romaji": "sakanoboru"
+  },
+  {
+    "id": "616",
+    "hiragana": "さかば",
+    "kanji": "酒場",
+    "meaning": "",
+    "romaji": "sakaba"
+  },
+  {
+    "id": "617",
+    "hiragana": "さきおととい",
+    "kanji": "さきおととい",
+    "meaning": "",
+    "romaji": "sakiototoi"
+  },
+  {
+    "id": "618",
+    "hiragana": "さきほど",
+    "kanji": "先程",
+    "meaning": "",
+    "romaji": "sakihodo"
+  },
+  {
+    "id": "619",
+    "hiragana": "さく",
+    "kanji": "裂く",
+    "meaning": "",
+    "romaji": "saku"
+  },
+  {
+    "id": "620",
+    "hiragana": "さくいん",
+    "kanji": "索引",
+    "meaning": "",
+    "romaji": "sakuin"
+  },
+  {
+    "id": "621",
+    "hiragana": "さくしゃ",
+    "kanji": "作者",
+    "meaning": "",
+    "romaji": "sakusha"
+  },
+  {
+    "id": "622",
+    "hiragana": "さくじょ",
+    "kanji": "削除",
+    "meaning": "",
+    "romaji": "sakujo"
+  },
+  {
+    "id": "623",
+    "hiragana": "さくせい",
+    "kanji": "作成",
+    "meaning": "",
+    "romaji": "sakusei"
+  },
+  {
+    "id": "624",
+    "hiragana": "さくせい",
+    "kanji": "作製",
+    "meaning": "",
+    "romaji": "sakusei"
+  },
+  {
+    "id": "625",
+    "hiragana": "さぐる",
+    "kanji": "探る",
+    "meaning": "",
+    "romaji": "saguru"
+  },
+  {
+    "id": "626",
+    "hiragana": "ささやく",
+    "kanji": "囁く",
+    "meaning": "",
+    "romaji": "sasayaku"
+  },
+  {
+    "id": "627",
+    "hiragana": "ささる",
+    "kanji": "刺さる",
+    "meaning": "",
+    "romaji": "sasaru"
+  },
+  {
+    "id": "628",
+    "hiragana": "さじ",
+    "kanji": "匙",
+    "meaning": "",
+    "romaji": "saji"
+  },
+  {
+    "id": "629",
+    "hiragana": "ざしき",
+    "kanji": "座敷",
+    "meaning": "",
+    "romaji": "zashiki"
+  },
+  {
+    "id": "630",
+    "hiragana": "さしつかえ",
+    "kanji": "差し支え",
+    "meaning": "",
+    "romaji": "sashitsukae"
+  },
+  {
+    "id": "631",
+    "hiragana": "さしひき",
+    "kanji": "差し引き",
+    "meaning": "",
+    "romaji": "sashihiki"
+  },
+  {
+    "id": "632",
+    "hiragana": "さしみ",
+    "kanji": "刺身",
+    "meaning": "",
+    "romaji": "sashimi"
+  },
+  {
+    "id": "633",
+    "hiragana": "さす",
+    "kanji": "刺す",
+    "meaning": "",
+    "romaji": "sasu"
+  },
+  {
+    "id": "634",
+    "hiragana": "さす",
+    "kanji": "挿す",
+    "meaning": "",
+    "romaji": "sasu"
+  },
+  {
+    "id": "635",
+    "hiragana": "さす",
+    "kanji": "注す",
+    "meaning": "",
+    "romaji": "sasu"
+  },
+  {
+    "id": "636",
+    "hiragana": "さす",
+    "kanji": "射す",
+    "meaning": "",
+    "romaji": "sasu"
+  },
+  {
+    "id": "637",
+    "hiragana": "さすが",
+    "kanji": "流石",
+    "meaning": "",
+    "romaji": "sasuga"
+  },
+  {
+    "id": "638",
+    "hiragana": "さつえい",
+    "kanji": "撮影",
+    "meaning": "",
+    "romaji": "satsuei"
+  },
+  {
+    "id": "639",
+    "hiragana": "ざつおん",
+    "kanji": "雑音",
+    "meaning": "",
+    "romaji": "zatsuon"
+  },
+  {
+    "id": "640",
+    "hiragana": "さっさと",
+    "kanji": "さっさと",
+    "meaning": "",
+    "romaji": "sassato"
+  },
+  {
+    "id": "641",
+    "hiragana": "さっそく",
+    "kanji": "早速",
+    "meaning": "",
+    "romaji": "sassoku"
+  },
+  {
+    "id": "642",
+    "hiragana": "さび",
+    "kanji": "錆",
+    "meaning": "",
+    "romaji": "sabi"
+  },
+  {
+    "id": "643",
+    "hiragana": "さびる",
+    "kanji": "錆びる",
+    "meaning": "",
+    "romaji": "sabiru"
+  },
+  {
+    "id": "644",
+    "hiragana": "ざぶとん",
+    "kanji": "座布団",
+    "meaning": "",
+    "romaji": "zabuton"
+  },
+  {
+    "id": "645",
+    "hiragana": "さます",
+    "kanji": "冷ます",
+    "meaning": "",
+    "romaji": "samasu"
+  },
+  {
+    "id": "646",
+    "hiragana": "さまたげる",
+    "kanji": "妨げる",
+    "meaning": "",
+    "romaji": "samatageru"
+  },
+  {
+    "id": "647",
+    "hiragana": "さめる",
+    "kanji": "冷める",
+    "meaning": "",
+    "romaji": "sameru"
+  },
+  {
+    "id": "648",
+    "hiragana": "さようなら",
+    "kanji": "さようなら",
+    "meaning": "",
+    "romaji": "sayounara"
+  },
+  {
+    "id": "649",
+    "hiragana": "さらいげつ",
+    "kanji": "再来月",
+    "meaning": "",
+    "romaji": "saraigetsu"
+  },
+  {
+    "id": "650",
+    "hiragana": "さらいしゅう",
+    "kanji": "再来週",
+    "meaning": "",
+    "romaji": "saraishuu"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "3001",
+    "hiragana": "むすびつき",
+    "kanji": "結び付き",
+    "meaning": "",
+    "romaji": "musubitsuki"
+  },
+  {
+    "id": "3002",
+    "hiragana": "むすびつく",
+    "kanji": "結び付く",
+    "meaning": "",
+    "romaji": "musubitsuku"
+  },
+  {
+    "id": "3003",
+    "hiragana": "むすびつける",
+    "kanji": "結び付ける",
+    "meaning": "",
+    "romaji": "musubitsukeru"
+  },
+  {
+    "id": "3004",
+    "hiragana": "むせん",
+    "kanji": "無線",
+    "meaning": "",
+    "romaji": "musen"
+  },
+  {
+    "id": "3005",
+    "hiragana": "むだづかい",
+    "kanji": "無駄遣い",
+    "meaning": "",
+    "romaji": "mudazukai"
+  },
+  {
+    "id": "3006",
+    "hiragana": "むだん",
+    "kanji": "無断",
+    "meaning": "",
+    "romaji": "mudan"
+  },
+  {
+    "id": "3007",
+    "hiragana": "むち",
+    "kanji": "無知",
+    "meaning": "",
+    "romaji": "muchi"
+  },
+  {
+    "id": "3008",
+    "hiragana": "むちゃ",
+    "kanji": "無茶",
+    "meaning": "",
+    "romaji": "mucha"
+  },
+  {
+    "id": "3009",
+    "hiragana": "むちゃくちゃ",
+    "kanji": "無茶苦茶",
+    "meaning": "",
+    "romaji": "muchakucha"
+  },
+  {
+    "id": "3010",
+    "hiragana": "むなしい",
+    "kanji": "空しい",
+    "meaning": "",
+    "romaji": "munashii"
+  },
+  {
+    "id": "3011",
+    "hiragana": "むねん",
+    "kanji": "無念",
+    "meaning": "",
+    "romaji": "munen"
+  },
+  {
+    "id": "3012",
+    "hiragana": "むのう",
+    "kanji": "無能",
+    "meaning": "",
+    "romaji": "munou"
+  },
+  {
+    "id": "3013",
+    "hiragana": "むやみに",
+    "kanji": "無闇に",
+    "meaning": "",
+    "romaji": "muyamini"
+  },
+  {
+    "id": "3014",
+    "hiragana": "むよう",
+    "kanji": "無用",
+    "meaning": "",
+    "romaji": "muyou"
+  },
+  {
+    "id": "3015",
+    "hiragana": "むらがる",
+    "kanji": "群がる",
+    "meaning": "",
+    "romaji": "muragaru"
+  },
+  {
+    "id": "3016",
+    "hiragana": "むろん",
+    "kanji": "無論",
+    "meaning": "",
+    "romaji": "muron"
+  },
+  {
+    "id": "3017",
+    "hiragana": "めいさん",
+    "kanji": "名産",
+    "meaning": "",
+    "romaji": "meisan"
+  },
+  {
+    "id": "3018",
+    "hiragana": "めいしょう",
+    "kanji": "名称",
+    "meaning": "",
+    "romaji": "meishou"
+  },
+  {
+    "id": "3019",
+    "hiragana": "めいちゅう",
+    "kanji": "命中",
+    "meaning": "",
+    "romaji": "meichuu"
+  },
+  {
+    "id": "3020",
+    "hiragana": "めいぼ",
+    "kanji": "名簿",
+    "meaning": "",
+    "romaji": "meibo"
+  },
+  {
+    "id": "3021",
+    "hiragana": "めいよ",
+    "kanji": "名誉",
+    "meaning": "",
+    "romaji": "meiyo"
+  },
+  {
+    "id": "3022",
+    "hiragana": "めいりょう",
+    "kanji": "明瞭",
+    "meaning": "",
+    "romaji": "meiryou"
+  },
+  {
+    "id": "3023",
+    "hiragana": "めいろう",
+    "kanji": "明朗",
+    "meaning": "",
+    "romaji": "meirou"
+  },
+  {
+    "id": "3024",
+    "hiragana": "めかた",
+    "kanji": "目方",
+    "meaning": "",
+    "romaji": "mekata"
+  },
+  {
+    "id": "3025",
+    "hiragana": "めぐみ",
+    "kanji": "恵み",
+    "meaning": "",
+    "romaji": "megumi"
+  },
+  {
+    "id": "3026",
+    "hiragana": "めぐむ",
+    "kanji": "恵む",
+    "meaning": "",
+    "romaji": "megumu"
+  },
+  {
+    "id": "3027",
+    "hiragana": "めざましい",
+    "kanji": "目覚しい",
+    "meaning": "",
+    "romaji": "mezamashii"
+  },
+  {
+    "id": "3028",
+    "hiragana": "めざめる",
+    "kanji": "目覚める",
+    "meaning": "",
+    "romaji": "mezameru"
+  },
+  {
+    "id": "3029",
+    "hiragana": "めす",
+    "kanji": "召す",
+    "meaning": "",
+    "romaji": "mesu"
+  },
+  {
+    "id": "3030",
+    "hiragana": "めす",
+    "kanji": "雌",
+    "meaning": "",
+    "romaji": "mesu"
+  },
+  {
+    "id": "3031",
+    "hiragana": "めちゃくちゃ",
+    "kanji": "滅茶苦茶",
+    "meaning": "",
+    "romaji": "mechakucha"
+  },
+  {
+    "id": "3032",
+    "hiragana": "めつき",
+    "kanji": "目付き",
+    "meaning": "",
+    "romaji": "metsuki"
+  },
+  {
+    "id": "3033",
+    "hiragana": "めつぼう",
+    "kanji": "滅亡",
+    "meaning": "",
+    "romaji": "metsubou"
+  },
+  {
+    "id": "3034",
+    "hiragana": "めでたい",
+    "kanji": "愛でたい",
+    "meaning": "",
+    "romaji": "medetai"
+  },
+  {
+    "id": "3035",
+    "hiragana": "めまい",
+    "kanji": "目眩",
+    "meaning": "",
+    "romaji": "memai"
+  },
+  {
+    "id": "3036",
+    "hiragana": "めもり",
+    "kanji": "目盛",
+    "meaning": "",
+    "romaji": "memori"
+  },
+  {
+    "id": "3037",
+    "hiragana": "めんかい",
+    "kanji": "面会",
+    "meaning": "",
+    "romaji": "menkai"
+  },
+  {
+    "id": "3038",
+    "hiragana": "めんじょ",
+    "kanji": "免除",
+    "meaning": "",
+    "romaji": "menjo"
+  },
+  {
+    "id": "3039",
+    "hiragana": "めんする",
+    "kanji": "面する",
+    "meaning": "",
+    "romaji": "mensuru"
+  },
+  {
+    "id": "3040",
+    "hiragana": "めんぼく",
+    "kanji": "面目",
+    "meaning": "",
+    "romaji": "menboku"
+  },
+  {
+    "id": "3041",
+    "hiragana": "もうける",
+    "kanji": "設ける",
+    "meaning": "",
+    "romaji": "moukeru"
+  },
+  {
+    "id": "3042",
+    "hiragana": "もうしいれる",
+    "kanji": "申し入れる",
+    "meaning": "",
+    "romaji": "moushiireru"
+  },
+  {
+    "id": "3043",
+    "hiragana": "もうしこみ",
+    "kanji": "申し込み",
+    "meaning": "",
+    "romaji": "moushikomi"
+  },
+  {
+    "id": "3044",
+    "hiragana": "もうしで",
+    "kanji": "申出",
+    "meaning": "",
+    "romaji": "moushide"
+  },
+  {
+    "id": "3045",
+    "hiragana": "もうしでる",
+    "kanji": "申し出る",
+    "meaning": "",
+    "romaji": "moushideru"
+  },
+  {
+    "id": "3046",
+    "hiragana": "もうしぶん",
+    "kanji": "申し分",
+    "meaning": "",
+    "romaji": "moushibun"
+  },
+  {
+    "id": "3047",
+    "hiragana": "もうてん",
+    "kanji": "盲点",
+    "meaning": "",
+    "romaji": "mouten"
+  },
+  {
+    "id": "3048",
+    "hiragana": "もうれつ",
+    "kanji": "猛烈",
+    "meaning": "",
+    "romaji": "mouretsu"
+  },
+  {
+    "id": "3049",
+    "hiragana": "もがく",
+    "kanji": "藻掻く",
+    "meaning": "",
+    "romaji": "mogaku"
+  },
+  {
+    "id": "3050",
+    "hiragana": "もくろく",
+    "kanji": "目録",
+    "meaning": "",
+    "romaji": "mokuroku"
+  }
+]

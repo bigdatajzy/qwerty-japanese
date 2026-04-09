@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2801",
+    "hiragana": "ほうしき",
+    "kanji": "方式",
+    "meaning": "",
+    "romaji": "houshiki"
+  },
+  {
+    "id": "2802",
+    "hiragana": "ほうしゃ",
+    "kanji": "放射",
+    "meaning": "",
+    "romaji": "housha"
+  },
+  {
+    "id": "2803",
+    "hiragana": "ほうしゃのう",
+    "kanji": "放射能",
+    "meaning": "",
+    "romaji": "houshanou"
+  },
+  {
+    "id": "2804",
+    "hiragana": "ほうしゅう",
+    "kanji": "報酬",
+    "meaning": "",
+    "romaji": "houshuu"
+  },
+  {
+    "id": "2805",
+    "hiragana": "ほうしゅつ",
+    "kanji": "放出",
+    "meaning": "",
+    "romaji": "houshutsu"
+  },
+  {
+    "id": "2806",
+    "hiragana": "ほうじる",
+    "kanji": "報じる",
+    "meaning": "",
+    "romaji": "houjiru"
+  },
+  {
+    "id": "2807",
+    "hiragana": "ほうずる",
+    "kanji": "報ずる",
+    "meaning": "",
+    "romaji": "houzuru"
+  },
+  {
+    "id": "2808",
+    "hiragana": "ほうち",
+    "kanji": "放置",
+    "meaning": "",
+    "romaji": "houchi"
+  },
+  {
+    "id": "2809",
+    "hiragana": "ほうてい",
+    "kanji": "法廷",
+    "meaning": "",
+    "romaji": "houtei"
+  },
+  {
+    "id": "2810",
+    "hiragana": "ほうどう",
+    "kanji": "報道",
+    "meaning": "",
+    "romaji": "houdou"
+  },
+  {
+    "id": "2811",
+    "hiragana": "ほうび",
+    "kanji": "褒美",
+    "meaning": "",
+    "romaji": "houbi"
+  },
+  {
+    "id": "2812",
+    "hiragana": "ほうむる",
+    "kanji": "葬る",
+    "meaning": "",
+    "romaji": "houmuru"
+  },
+  {
+    "id": "2813",
+    "hiragana": "ほうりこむ",
+    "kanji": "放り込む",
+    "meaning": "",
+    "romaji": "hourikomu"
+  },
+  {
+    "id": "2814",
+    "hiragana": "ほうりだす",
+    "kanji": "放り出す",
+    "meaning": "",
+    "romaji": "houridasu"
+  },
+  {
+    "id": "2815",
+    "hiragana": "ほうわ",
+    "kanji": "飽和",
+    "meaning": "",
+    "romaji": "houwa"
+  },
+  {
+    "id": "2816",
+    "hiragana": "ほおん",
+    "kanji": "保温",
+    "meaning": "",
+    "romaji": "hoon"
+  },
+  {
+    "id": "2817",
+    "hiragana": "ほかく",
+    "kanji": "捕獲",
+    "meaning": "",
+    "romaji": "hokaku"
+  },
+  {
+    "id": "2818",
+    "hiragana": "ほかん",
+    "kanji": "保管",
+    "meaning": "",
+    "romaji": "hokan"
+  },
+  {
+    "id": "2819",
+    "hiragana": "ほきゅう",
+    "kanji": "補給",
+    "meaning": "",
+    "romaji": "hokyuu"
+  },
+  {
+    "id": "2820",
+    "hiragana": "ほきょう",
+    "kanji": "補強",
+    "meaning": "",
+    "romaji": "hokyou"
+  },
+  {
+    "id": "2821",
+    "hiragana": "ほけん",
+    "kanji": "保険",
+    "meaning": "",
+    "romaji": "hoken"
+  },
+  {
+    "id": "2822",
+    "hiragana": "ほげい",
+    "kanji": "捕鯨",
+    "meaning": "",
+    "romaji": "hogei"
+  },
+  {
+    "id": "2823",
+    "hiragana": "ほこる",
+    "kanji": "誇る",
+    "meaning": "",
+    "romaji": "hokoru"
+  },
+  {
+    "id": "2824",
+    "hiragana": "ほころびる",
+    "kanji": "綻びる",
+    "meaning": "",
+    "romaji": "hokorobiru"
+  },
+  {
+    "id": "2825",
+    "hiragana": "ほご",
+    "kanji": "保護",
+    "meaning": "",
+    "romaji": "hogo"
+  },
+  {
+    "id": "2826",
+    "hiragana": "ほし",
+    "kanji": "乾",
+    "meaning": "",
+    "romaji": "hoshi"
+  },
+  {
+    "id": "2827",
+    "hiragana": "ほしもの",
+    "kanji": "干し物",
+    "meaning": "",
+    "romaji": "hoshimono"
+  },
+  {
+    "id": "2828",
+    "hiragana": "ほしゅ",
+    "kanji": "保守",
+    "meaning": "",
+    "romaji": "hoshu"
+  },
+  {
+    "id": "2829",
+    "hiragana": "ほしょう",
+    "kanji": "保障",
+    "meaning": "",
+    "romaji": "hoshou"
+  },
+  {
+    "id": "2830",
+    "hiragana": "ほしょう",
+    "kanji": "補償",
+    "meaning": "",
+    "romaji": "hoshou"
+  },
+  {
+    "id": "2831",
+    "hiragana": "ほじゅう",
+    "kanji": "補充",
+    "meaning": "",
+    "romaji": "hojuu"
+  },
+  {
+    "id": "2832",
+    "hiragana": "ほじょ",
+    "kanji": "補助",
+    "meaning": "",
+    "romaji": "hojo"
+  },
+  {
+    "id": "2833",
+    "hiragana": "ほそう",
+    "kanji": "舗装",
+    "meaning": "",
+    "romaji": "hosou"
+  },
+  {
+    "id": "2834",
+    "hiragana": "ほそく",
+    "kanji": "補足",
+    "meaning": "",
+    "romaji": "hosoku"
+  },
+  {
+    "id": "2835",
+    "hiragana": "ほっさ",
+    "kanji": "発作",
+    "meaning": "",
+    "romaji": "hossa"
+  },
+  {
+    "id": "2836",
+    "hiragana": "ほっと",
+    "kanji": "ほっと",
+    "meaning": "",
+    "romaji": "hotto"
+  },
+  {
+    "id": "2837",
+    "hiragana": "ほっぺた",
+    "kanji": "頬っぺた",
+    "meaning": "",
+    "romaji": "hoppeta"
+  },
+  {
+    "id": "2838",
+    "hiragana": "ほとり",
+    "kanji": "辺り",
+    "meaning": "",
+    "romaji": "hotori"
+  },
+  {
+    "id": "2839",
+    "hiragana": "ほとんど",
+    "kanji": "殆ど",
+    "meaning": "",
+    "romaji": "hotondo"
+  },
+  {
+    "id": "2840",
+    "hiragana": "ほどく",
+    "kanji": "解く",
+    "meaning": "",
+    "romaji": "hodoku"
+  },
+  {
+    "id": "2841",
+    "hiragana": "ほどこす",
+    "kanji": "施す",
+    "meaning": "",
+    "romaji": "hodokosu"
+  },
+  {
+    "id": "2842",
+    "hiragana": "ほぼ",
+    "kanji": "保母",
+    "meaning": "",
+    "romaji": "hobo"
+  },
+  {
+    "id": "2843",
+    "hiragana": "ほよう",
+    "kanji": "保養",
+    "meaning": "",
+    "romaji": "hoyou"
+  },
+  {
+    "id": "2844",
+    "hiragana": "ほり",
+    "kanji": "捕吏",
+    "meaning": "",
+    "romaji": "hori"
+  },
+  {
+    "id": "2845",
+    "hiragana": "ほりょ",
+    "kanji": "捕虜",
+    "meaning": "",
+    "romaji": "horyo"
+  },
+  {
+    "id": "2846",
+    "hiragana": "ほろびる",
+    "kanji": "滅びる",
+    "meaning": "",
+    "romaji": "horobiru"
+  },
+  {
+    "id": "2847",
+    "hiragana": "ほろぼす",
+    "kanji": "滅ぼす",
+    "meaning": "",
+    "romaji": "horobosu"
+  },
+  {
+    "id": "2848",
+    "hiragana": "ほんかく",
+    "kanji": "本格",
+    "meaning": "",
+    "romaji": "honkaku"
+  },
+  {
+    "id": "2849",
+    "hiragana": "ほんかん",
+    "kanji": "本館",
+    "meaning": "",
+    "romaji": "honkan"
+  },
+  {
+    "id": "2850",
+    "hiragana": "ほんき",
+    "kanji": "本気",
+    "meaning": "",
+    "romaji": "honki"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1601",
+    "hiragana": "ほんと",
+    "kanji": "本当",
+    "meaning": "",
+    "romaji": "honto"
+  },
+  {
+    "id": "1602",
+    "hiragana": "ほんとう",
+    "kanji": "本当",
+    "meaning": "",
+    "romaji": "hontou"
+  },
+  {
+    "id": "1603",
+    "hiragana": "ほんにん",
+    "kanji": "本人",
+    "meaning": "",
+    "romaji": "honnin"
+  },
+  {
+    "id": "1604",
+    "hiragana": "ほんもの",
+    "kanji": "本物",
+    "meaning": "",
+    "romaji": "honmono"
+  },
+  {
+    "id": "1605",
+    "hiragana": "ぼんやり",
+    "kanji": "ぼんやり",
+    "meaning": "",
+    "romaji": "bon'yari"
+  },
+  {
+    "id": "1606",
+    "hiragana": "ま",
+    "kanji": "間",
+    "meaning": "",
+    "romaji": "ma"
+  },
+  {
+    "id": "1607",
+    "hiragana": "まあ",
+    "kanji": "まあ",
+    "meaning": "",
+    "romaji": "maa"
+  },
+  {
+    "id": "1608",
+    "hiragana": "マーケット",
+    "kanji": "マーケット",
+    "meaning": "",
+    "romaji": "maaketto"
+  },
+  {
+    "id": "1609",
+    "hiragana": "マイク",
+    "kanji": "マイク",
+    "meaning": "",
+    "romaji": "maiku"
+  },
+  {
+    "id": "1610",
+    "hiragana": "まいご",
+    "kanji": "迷子",
+    "meaning": "",
+    "romaji": "maigo"
+  },
+  {
+    "id": "1611",
+    "hiragana": "まかせる",
+    "kanji": "任せる",
+    "meaning": "",
+    "romaji": "makaseru"
+  },
+  {
+    "id": "1612",
+    "hiragana": "まく",
+    "kanji": "幕",
+    "meaning": "",
+    "romaji": "maku"
+  },
+  {
+    "id": "1613",
+    "hiragana": "まけ",
+    "kanji": "負け",
+    "meaning": "",
+    "romaji": "make"
+  },
+  {
+    "id": "1614",
+    "hiragana": "まご",
+    "kanji": "孫",
+    "meaning": "",
+    "romaji": "mago"
+  },
+  {
+    "id": "1615",
+    "hiragana": "まさか",
+    "kanji": "まさか",
+    "meaning": "",
+    "romaji": "masaka"
+  },
+  {
+    "id": "1616",
+    "hiragana": "まさに",
+    "kanji": "まさに",
+    "meaning": "",
+    "romaji": "masani"
+  },
+  {
+    "id": "1617",
+    "hiragana": "まじめ",
+    "kanji": "真面目",
+    "meaning": "",
+    "romaji": "majime"
+  },
+  {
+    "id": "1618",
+    "hiragana": "ます",
+    "kanji": "増す",
+    "meaning": "",
+    "romaji": "masu"
+  },
+  {
+    "id": "1619",
+    "hiragana": "まず",
+    "kanji": "先ず",
+    "meaning": "",
+    "romaji": "mazu"
+  },
+  {
+    "id": "1620",
+    "hiragana": "まずしい",
+    "kanji": "貧しい",
+    "meaning": "",
+    "romaji": "mazushii"
+  },
+  {
+    "id": "1621",
+    "hiragana": "マスター",
+    "kanji": "マスター",
+    "meaning": "",
+    "romaji": "masutaa"
+  },
+  {
+    "id": "1622",
+    "hiragana": "ますます",
+    "kanji": "ますます",
+    "meaning": "",
+    "romaji": "masumasu"
+  },
+  {
+    "id": "1623",
+    "hiragana": "また",
+    "kanji": "又",
+    "meaning": "",
+    "romaji": "mata"
+  },
+  {
+    "id": "1624",
+    "hiragana": "まだ",
+    "kanji": "未だ",
+    "meaning": "",
+    "romaji": "mada"
+  },
+  {
+    "id": "1625",
+    "hiragana": "まち",
+    "kanji": "街",
+    "meaning": "",
+    "romaji": "machi"
+  },
+  {
+    "id": "1626",
+    "hiragana": "まちがい",
+    "kanji": "間違い",
+    "meaning": "",
+    "romaji": "machigai"
+  },
+  {
+    "id": "1627",
+    "hiragana": "まつ",
+    "kanji": "松",
+    "meaning": "",
+    "romaji": "matsu"
+  },
+  {
+    "id": "1628",
+    "hiragana": "まっか",
+    "kanji": "真っ赤",
+    "meaning": "",
+    "romaji": "makka"
+  },
+  {
+    "id": "1629",
+    "hiragana": "まっすぐ",
+    "kanji": "真っ直ぐ",
+    "meaning": "",
+    "romaji": "massugu"
+  },
+  {
+    "id": "1630",
+    "hiragana": "まったく",
+    "kanji": "全く",
+    "meaning": "",
+    "romaji": "mattaku"
+  },
+  {
+    "id": "1631",
+    "hiragana": "まつり",
+    "kanji": "祭",
+    "meaning": "",
+    "romaji": "matsuri"
+  },
+  {
+    "id": "1632",
+    "hiragana": "まなぶ",
+    "kanji": "学ぶ",
+    "meaning": "",
+    "romaji": "manabu"
+  },
+  {
+    "id": "1633",
+    "hiragana": "まね",
+    "kanji": "真似",
+    "meaning": "",
+    "romaji": "mane"
+  },
+  {
+    "id": "1634",
+    "hiragana": "まねく",
+    "kanji": "招く",
+    "meaning": "",
+    "romaji": "maneku"
+  },
+  {
+    "id": "1635",
+    "hiragana": "ママ",
+    "kanji": "ママ",
+    "meaning": "",
+    "romaji": "mama"
+  },
+  {
+    "id": "1636",
+    "hiragana": "まめ",
+    "kanji": "豆",
+    "meaning": "",
+    "romaji": "mame"
+  },
+  {
+    "id": "1637",
+    "hiragana": "まもる",
+    "kanji": "守る",
+    "meaning": "",
+    "romaji": "mamoru"
+  },
+  {
+    "id": "1638",
+    "hiragana": "まる",
+    "kanji": "丸",
+    "meaning": "",
+    "romaji": "maru"
+  },
+  {
+    "id": "1639",
+    "hiragana": "まる",
+    "kanji": "円",
+    "meaning": "",
+    "romaji": "maru"
+  },
+  {
+    "id": "1640",
+    "hiragana": "まるい",
+    "kanji": "丸い",
+    "meaning": "",
+    "romaji": "marui"
+  },
+  {
+    "id": "1641",
+    "hiragana": "まるで",
+    "kanji": "まるで",
+    "meaning": "",
+    "romaji": "marude"
+  },
+  {
+    "id": "1642",
+    "hiragana": "まわす",
+    "kanji": "回す",
+    "meaning": "",
+    "romaji": "mawasu"
+  },
+  {
+    "id": "1643",
+    "hiragana": "まわり",
+    "kanji": "回り",
+    "meaning": "",
+    "romaji": "mawari"
+  },
+  {
+    "id": "1644",
+    "hiragana": "まんいち",
+    "kanji": "万一",
+    "meaning": "",
+    "romaji": "man'ichi"
+  },
+  {
+    "id": "1645",
+    "hiragana": "まんぞく",
+    "kanji": "満足",
+    "meaning": "",
+    "romaji": "manzoku"
+  },
+  {
+    "id": "1646",
+    "hiragana": "み",
+    "kanji": "身",
+    "meaning": "",
+    "romaji": "mi"
+  },
+  {
+    "id": "1647",
+    "hiragana": "み",
+    "kanji": "実",
+    "meaning": "",
+    "romaji": "mi"
+  },
+  {
+    "id": "1648",
+    "hiragana": "みおくり",
+    "kanji": "見送り",
+    "meaning": "",
+    "romaji": "miokuri"
+  },
+  {
+    "id": "1649",
+    "hiragana": "みかた",
+    "kanji": "味方",
+    "meaning": "",
+    "romaji": "mikata"
+  },
+  {
+    "id": "1650",
+    "hiragana": "みごと",
+    "kanji": "見事",
+    "meaning": "",
+    "romaji": "migoto"
+  }
+]

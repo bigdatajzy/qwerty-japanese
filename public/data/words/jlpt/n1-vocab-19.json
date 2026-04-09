@@ -1,0 +1,352 @@
+[
+  {
+    "id": "901",
+    "hiragana": "ぐんじ",
+    "kanji": "軍事",
+    "meaning": "",
+    "romaji": "gunji"
+  },
+  {
+    "id": "902",
+    "hiragana": "ぐんび",
+    "kanji": "軍備",
+    "meaning": "",
+    "romaji": "gunbi"
+  },
+  {
+    "id": "903",
+    "hiragana": "ぐんぷく",
+    "kanji": "軍服",
+    "meaning": "",
+    "romaji": "gunpuku"
+  },
+  {
+    "id": "904",
+    "hiragana": "けい",
+    "kanji": "刑",
+    "meaning": "",
+    "romaji": "kei"
+  },
+  {
+    "id": "905",
+    "hiragana": "けい",
+    "kanji": "頃",
+    "meaning": "",
+    "romaji": "kei"
+  },
+  {
+    "id": "906",
+    "hiragana": "けい",
+    "kanji": "傾",
+    "meaning": "",
+    "romaji": "kei"
+  },
+  {
+    "id": "907",
+    "hiragana": "けい",
+    "kanji": "系",
+    "meaning": "",
+    "romaji": "kei"
+  },
+  {
+    "id": "908",
+    "hiragana": "けいか",
+    "kanji": "経過",
+    "meaning": "",
+    "romaji": "keika"
+  },
+  {
+    "id": "909",
+    "hiragana": "けいかい",
+    "kanji": "軽快",
+    "meaning": "",
+    "romaji": "keikai"
+  },
+  {
+    "id": "910",
+    "hiragana": "けいかい",
+    "kanji": "警戒",
+    "meaning": "",
+    "romaji": "keikai"
+  },
+  {
+    "id": "911",
+    "hiragana": "けいき",
+    "kanji": "計器",
+    "meaning": "",
+    "romaji": "keiki"
+  },
+  {
+    "id": "912",
+    "hiragana": "けいき",
+    "kanji": "契機",
+    "meaning": "",
+    "romaji": "keiki"
+  },
+  {
+    "id": "913",
+    "hiragana": "けいぐ",
+    "kanji": "敬具",
+    "meaning": "",
+    "romaji": "keigu"
+  },
+  {
+    "id": "914",
+    "hiragana": "けいげん",
+    "kanji": "軽減",
+    "meaning": "",
+    "romaji": "keigen"
+  },
+  {
+    "id": "915",
+    "hiragana": "けいさい",
+    "kanji": "掲載",
+    "meaning": "",
+    "romaji": "keisai"
+  },
+  {
+    "id": "916",
+    "hiragana": "けいしゃ",
+    "kanji": "傾斜",
+    "meaning": "",
+    "romaji": "keisha"
+  },
+  {
+    "id": "917",
+    "hiragana": "けいせい",
+    "kanji": "形成",
+    "meaning": "",
+    "romaji": "keisei"
+  },
+  {
+    "id": "918",
+    "hiragana": "けいせい",
+    "kanji": "形勢",
+    "meaning": "",
+    "romaji": "keisei"
+  },
+  {
+    "id": "919",
+    "hiragana": "けいそつ",
+    "kanji": "軽率",
+    "meaning": "",
+    "romaji": "keisotsu"
+  },
+  {
+    "id": "920",
+    "hiragana": "けいたい",
+    "kanji": "携帯",
+    "meaning": "",
+    "romaji": "keitai"
+  },
+  {
+    "id": "921",
+    "hiragana": "けいたい",
+    "kanji": "形態",
+    "meaning": "",
+    "romaji": "keitai"
+  },
+  {
+    "id": "922",
+    "hiragana": "けいばつ",
+    "kanji": "刑罰",
+    "meaning": "",
+    "romaji": "keibatsu"
+  },
+  {
+    "id": "923",
+    "hiragana": "けいひ",
+    "kanji": "経費",
+    "meaning": "",
+    "romaji": "keihi"
+  },
+  {
+    "id": "924",
+    "hiragana": "けいぶ",
+    "kanji": "警部",
+    "meaning": "",
+    "romaji": "keibu"
+  },
+  {
+    "id": "925",
+    "hiragana": "けいべつ",
+    "kanji": "軽蔑",
+    "meaning": "",
+    "romaji": "keibetsu"
+  },
+  {
+    "id": "926",
+    "hiragana": "けいれき",
+    "kanji": "経歴",
+    "meaning": "",
+    "romaji": "keireki"
+  },
+  {
+    "id": "927",
+    "hiragana": "けいろ",
+    "kanji": "経路",
+    "meaning": "",
+    "romaji": "keiro"
+  },
+  {
+    "id": "928",
+    "hiragana": "けがす",
+    "kanji": "汚す",
+    "meaning": "",
+    "romaji": "kegasu"
+  },
+  {
+    "id": "929",
+    "hiragana": "けがらわしい",
+    "kanji": "汚らわしい",
+    "meaning": "",
+    "romaji": "kegarawashii"
+  },
+  {
+    "id": "930",
+    "hiragana": "けがれ",
+    "kanji": "汚れ",
+    "meaning": "",
+    "romaji": "kegare"
+  },
+  {
+    "id": "931",
+    "hiragana": "けがれる",
+    "kanji": "汚れる",
+    "meaning": "",
+    "romaji": "kegareru"
+  },
+  {
+    "id": "932",
+    "hiragana": "けだもの",
+    "kanji": "獣",
+    "meaning": "",
+    "romaji": "kedamono"
+  },
+  {
+    "id": "933",
+    "hiragana": "けち",
+    "kanji": "吝嗇",
+    "meaning": "",
+    "romaji": "kechi"
+  },
+  {
+    "id": "934",
+    "hiragana": "けっかく",
+    "kanji": "結核",
+    "meaning": "",
+    "romaji": "kekkaku"
+  },
+  {
+    "id": "935",
+    "hiragana": "けっかん",
+    "kanji": "血管",
+    "meaning": "",
+    "romaji": "kekkan"
+  },
+  {
+    "id": "936",
+    "hiragana": "けっこう",
+    "kanji": "決行",
+    "meaning": "",
+    "romaji": "kekkou"
+  },
+  {
+    "id": "937",
+    "hiragana": "けっさん",
+    "kanji": "決算",
+    "meaning": "",
+    "romaji": "kessan"
+  },
+  {
+    "id": "938",
+    "hiragana": "けっしょう",
+    "kanji": "決勝",
+    "meaning": "",
+    "romaji": "kesshou"
+  },
+  {
+    "id": "939",
+    "hiragana": "けっしょう",
+    "kanji": "結晶",
+    "meaning": "",
+    "romaji": "kesshou"
+  },
+  {
+    "id": "940",
+    "hiragana": "けっせい",
+    "kanji": "結成",
+    "meaning": "",
+    "romaji": "kessei"
+  },
+  {
+    "id": "941",
+    "hiragana": "けっそく",
+    "kanji": "結束",
+    "meaning": "",
+    "romaji": "kessoku"
+  },
+  {
+    "id": "942",
+    "hiragana": "けつ",
+    "kanji": "傑",
+    "meaning": "",
+    "romaji": "ketsu"
+  },
+  {
+    "id": "943",
+    "hiragana": "けつい",
+    "kanji": "決意",
+    "meaning": "",
+    "romaji": "ketsui"
+  },
+  {
+    "id": "944",
+    "hiragana": "けつぎ",
+    "kanji": "決議",
+    "meaning": "",
+    "romaji": "ketsugi"
+  },
+  {
+    "id": "945",
+    "hiragana": "けつごう",
+    "kanji": "結合",
+    "meaning": "",
+    "romaji": "ketsugou"
+  },
+  {
+    "id": "946",
+    "hiragana": "けつだん",
+    "kanji": "決断",
+    "meaning": "",
+    "romaji": "ketsudan"
+  },
+  {
+    "id": "947",
+    "hiragana": "けつぼう",
+    "kanji": "欠乏",
+    "meaning": "",
+    "romaji": "ketsubou"
+  },
+  {
+    "id": "948",
+    "hiragana": "けとばす",
+    "kanji": "蹴飛ばす",
+    "meaning": "",
+    "romaji": "ketobasu"
+  },
+  {
+    "id": "949",
+    "hiragana": "けなす",
+    "kanji": "貶す",
+    "meaning": "",
+    "romaji": "kenasu"
+  },
+  {
+    "id": "950",
+    "hiragana": "けむたい",
+    "kanji": "煙たい",
+    "meaning": "",
+    "romaji": "kemutai"
+  }
+]

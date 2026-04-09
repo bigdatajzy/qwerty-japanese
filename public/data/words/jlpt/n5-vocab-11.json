@@ -1,0 +1,352 @@
+[
+  {
+    "id": "501",
+    "hiragana": "はいざら",
+    "kanji": "灰皿",
+    "meaning": "",
+    "romaji": "haizara"
+  },
+  {
+    "id": "502",
+    "hiragana": "はいる",
+    "kanji": "入る",
+    "meaning": "",
+    "romaji": "hairu"
+  },
+  {
+    "id": "503",
+    "hiragana": "はがき",
+    "kanji": "葉書",
+    "meaning": "",
+    "romaji": "hagaki"
+  },
+  {
+    "id": "504",
+    "hiragana": "はく",
+    "kanji": "はく",
+    "meaning": "",
+    "romaji": "haku"
+  },
+  {
+    "id": "505",
+    "hiragana": "はこ",
+    "kanji": "箱",
+    "meaning": "",
+    "romaji": "hako"
+  },
+  {
+    "id": "506",
+    "hiragana": "はし",
+    "kanji": "橋",
+    "meaning": "",
+    "romaji": "hashi"
+  },
+  {
+    "id": "507",
+    "hiragana": "はし",
+    "kanji": "はし",
+    "meaning": "",
+    "romaji": "hashi"
+  },
+  {
+    "id": "508",
+    "hiragana": "はじまる",
+    "kanji": "始まる",
+    "meaning": "",
+    "romaji": "hajimaru"
+  },
+  {
+    "id": "509",
+    "hiragana": "はじめ",
+    "kanji": "初め",
+    "meaning": "",
+    "romaji": "hajime"
+  },
+  {
+    "id": "510",
+    "hiragana": "はじめ",
+    "kanji": "始め",
+    "meaning": "",
+    "romaji": "hajime"
+  },
+  {
+    "id": "511",
+    "hiragana": "はじめて",
+    "kanji": "初めて",
+    "meaning": "",
+    "romaji": "hajimete"
+  },
+  {
+    "id": "512",
+    "hiragana": "はしる",
+    "kanji": "走る",
+    "meaning": "",
+    "romaji": "hashiru"
+  },
+  {
+    "id": "513",
+    "hiragana": "バス",
+    "kanji": "バス",
+    "meaning": "",
+    "romaji": "basu"
+  },
+  {
+    "id": "514",
+    "hiragana": "バター",
+    "kanji": "バター",
+    "meaning": "",
+    "romaji": "bataa"
+  },
+  {
+    "id": "515",
+    "hiragana": "はたち",
+    "kanji": "二十歳",
+    "meaning": "",
+    "romaji": "hatachi"
+  },
+  {
+    "id": "516",
+    "hiragana": "はたらく",
+    "kanji": "働く",
+    "meaning": "",
+    "romaji": "hataraku"
+  },
+  {
+    "id": "517",
+    "hiragana": "はち",
+    "kanji": "八",
+    "meaning": "",
+    "romaji": "hachi"
+  },
+  {
+    "id": "518",
+    "hiragana": "はつか",
+    "kanji": "二十日",
+    "meaning": "",
+    "romaji": "hatsuka"
+  },
+  {
+    "id": "519",
+    "hiragana": "はな",
+    "kanji": "花",
+    "meaning": "",
+    "romaji": "hana"
+  },
+  {
+    "id": "520",
+    "hiragana": "はな",
+    "kanji": "鼻",
+    "meaning": "",
+    "romaji": "hana"
+  },
+  {
+    "id": "521",
+    "hiragana": "はなし",
+    "kanji": "話",
+    "meaning": "",
+    "romaji": "hanashi"
+  },
+  {
+    "id": "522",
+    "hiragana": "はなす",
+    "kanji": "話す",
+    "meaning": "",
+    "romaji": "hanasu"
+  },
+  {
+    "id": "523",
+    "hiragana": "はやい",
+    "kanji": "早い",
+    "meaning": "",
+    "romaji": "hayai"
+  },
+  {
+    "id": "524",
+    "hiragana": "はやい",
+    "kanji": "速い",
+    "meaning": "",
+    "romaji": "hayai"
+  },
+  {
+    "id": "525",
+    "hiragana": "はる",
+    "kanji": "春",
+    "meaning": "",
+    "romaji": "haru"
+  },
+  {
+    "id": "526",
+    "hiragana": "はる",
+    "kanji": "貼る",
+    "meaning": "",
+    "romaji": "haru"
+  },
+  {
+    "id": "527",
+    "hiragana": "はれ",
+    "kanji": "晴れ",
+    "meaning": "",
+    "romaji": "hare"
+  },
+  {
+    "id": "528",
+    "hiragana": "はれる",
+    "kanji": "晴れる",
+    "meaning": "",
+    "romaji": "hareru"
+  },
+  {
+    "id": "529",
+    "hiragana": "はん",
+    "kanji": "半",
+    "meaning": "",
+    "romaji": "han"
+  },
+  {
+    "id": "530",
+    "hiragana": "ばん",
+    "kanji": "晩",
+    "meaning": "",
+    "romaji": "ban"
+  },
+  {
+    "id": "531",
+    "hiragana": "パン",
+    "kanji": "パン",
+    "meaning": "",
+    "romaji": "pan"
+  },
+  {
+    "id": "532",
+    "hiragana": "ハンカチ",
+    "kanji": "ハンカチ",
+    "meaning": "",
+    "romaji": "hankachi"
+  },
+  {
+    "id": "533",
+    "hiragana": "ばんごう",
+    "kanji": "番号",
+    "meaning": "",
+    "romaji": "bangou"
+  },
+  {
+    "id": "534",
+    "hiragana": "ばんごはん",
+    "kanji": "晩御飯",
+    "meaning": "",
+    "romaji": "bangohan"
+  },
+  {
+    "id": "535",
+    "hiragana": "はんぶん",
+    "kanji": "半分",
+    "meaning": "",
+    "romaji": "hanbun"
+  },
+  {
+    "id": "536",
+    "hiragana": "ひがし",
+    "kanji": "東",
+    "meaning": "",
+    "romaji": "higashi"
+  },
+  {
+    "id": "537",
+    "hiragana": "ひく",
+    "kanji": "引く",
+    "meaning": "",
+    "romaji": "hiku"
+  },
+  {
+    "id": "538",
+    "hiragana": "ひく",
+    "kanji": "弾く",
+    "meaning": "",
+    "romaji": "hiku"
+  },
+  {
+    "id": "539",
+    "hiragana": "ひくい",
+    "kanji": "低い",
+    "meaning": "",
+    "romaji": "hikui"
+  },
+  {
+    "id": "540",
+    "hiragana": "ひこうき",
+    "kanji": "飛行機",
+    "meaning": "",
+    "romaji": "hikouki"
+  },
+  {
+    "id": "541",
+    "hiragana": "ひだり",
+    "kanji": "左",
+    "meaning": "",
+    "romaji": "hidari"
+  },
+  {
+    "id": "542",
+    "hiragana": "ひと",
+    "kanji": "人",
+    "meaning": "",
+    "romaji": "hito"
+  },
+  {
+    "id": "543",
+    "hiragana": "ひとつ",
+    "kanji": "一つ",
+    "meaning": "",
+    "romaji": "hitotsu"
+  },
+  {
+    "id": "544",
+    "hiragana": "ひとつき",
+    "kanji": "一月",
+    "meaning": "",
+    "romaji": "hitotsuki"
+  },
+  {
+    "id": "545",
+    "hiragana": "ひとり",
+    "kanji": "一人",
+    "meaning": "",
+    "romaji": "hitori"
+  },
+  {
+    "id": "546",
+    "hiragana": "ひま",
+    "kanji": "暇",
+    "meaning": "",
+    "romaji": "hima"
+  },
+  {
+    "id": "547",
+    "hiragana": "ひゃく",
+    "kanji": "百",
+    "meaning": "",
+    "romaji": "hyaku"
+  },
+  {
+    "id": "548",
+    "hiragana": "びょういん",
+    "kanji": "病院",
+    "meaning": "",
+    "romaji": "byouin"
+  },
+  {
+    "id": "549",
+    "hiragana": "びょうき",
+    "kanji": "病気",
+    "meaning": "",
+    "romaji": "byouki"
+  },
+  {
+    "id": "550",
+    "hiragana": "ひる",
+    "kanji": "昼",
+    "meaning": "",
+    "romaji": "hiru"
+  }
+]

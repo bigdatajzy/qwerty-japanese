@@ -1,0 +1,352 @@
+[
+  {
+    "id": "251",
+    "hiragana": "さいきん",
+    "kanji": "最近",
+    "meaning": "",
+    "romaji": "saikin"
+  },
+  {
+    "id": "252",
+    "hiragana": "さいご",
+    "kanji": "最後",
+    "meaning": "",
+    "romaji": "saigo"
+  },
+  {
+    "id": "253",
+    "hiragana": "さいしょ",
+    "kanji": "最初",
+    "meaning": "",
+    "romaji": "saisho"
+  },
+  {
+    "id": "254",
+    "hiragana": "さか",
+    "kanji": "坂",
+    "meaning": "",
+    "romaji": "saka"
+  },
+  {
+    "id": "255",
+    "hiragana": "さがす",
+    "kanji": "探す",
+    "meaning": "",
+    "romaji": "sagasu"
+  },
+  {
+    "id": "256",
+    "hiragana": "さがる",
+    "kanji": "下る",
+    "meaning": "",
+    "romaji": "sagaru"
+  },
+  {
+    "id": "257",
+    "hiragana": "さかん",
+    "kanji": "盛ん",
+    "meaning": "",
+    "romaji": "sakan"
+  },
+  {
+    "id": "258",
+    "hiragana": "さげる",
+    "kanji": "下げる",
+    "meaning": "",
+    "romaji": "sageru"
+  },
+  {
+    "id": "259",
+    "hiragana": "さしあげる",
+    "kanji": "差し上げる",
+    "meaning": "",
+    "romaji": "sashiageru"
+  },
+  {
+    "id": "260",
+    "hiragana": "さっき",
+    "kanji": "さっき",
+    "meaning": "",
+    "romaji": "sakki"
+  },
+  {
+    "id": "261",
+    "hiragana": "さびしい",
+    "kanji": "寂しい",
+    "meaning": "",
+    "romaji": "sabishii"
+  },
+  {
+    "id": "262",
+    "hiragana": "さらいげつ",
+    "kanji": "さ来月",
+    "meaning": "",
+    "romaji": "saraigetsu"
+  },
+  {
+    "id": "263",
+    "hiragana": "さらいしゅう",
+    "kanji": "さ来週",
+    "meaning": "",
+    "romaji": "saraishuu"
+  },
+  {
+    "id": "264",
+    "hiragana": "サラダ",
+    "kanji": "サラダ",
+    "meaning": "",
+    "romaji": "sarada"
+  },
+  {
+    "id": "265",
+    "hiragana": "さわぐ",
+    "kanji": "騒ぐ",
+    "meaning": "",
+    "romaji": "sawagu"
+  },
+  {
+    "id": "266",
+    "hiragana": "さわる",
+    "kanji": "触る",
+    "meaning": "",
+    "romaji": "sawaru"
+  },
+  {
+    "id": "267",
+    "hiragana": "さんぎょう",
+    "kanji": "産業",
+    "meaning": "",
+    "romaji": "sangyou"
+  },
+  {
+    "id": "268",
+    "hiragana": "サンダル",
+    "kanji": "サンダル",
+    "meaning": "",
+    "romaji": "sandaru"
+  },
+  {
+    "id": "269",
+    "hiragana": "サンドイッチ",
+    "kanji": "サンドイッチ",
+    "meaning": "",
+    "romaji": "sandoitchi"
+  },
+  {
+    "id": "270",
+    "hiragana": "ざんねん",
+    "kanji": "残念",
+    "meaning": "",
+    "romaji": "zannen"
+  },
+  {
+    "id": "271",
+    "hiragana": "し",
+    "kanji": "市",
+    "meaning": "",
+    "romaji": "shi"
+  },
+  {
+    "id": "272",
+    "hiragana": "じ",
+    "kanji": "字",
+    "meaning": "",
+    "romaji": "ji"
+  },
+  {
+    "id": "273",
+    "hiragana": "しあい",
+    "kanji": "試合",
+    "meaning": "",
+    "romaji": "shiai"
+  },
+  {
+    "id": "274",
+    "hiragana": "しかた",
+    "kanji": "仕方",
+    "meaning": "",
+    "romaji": "shikata"
+  },
+  {
+    "id": "275",
+    "hiragana": "しかる",
+    "kanji": "しかる",
+    "meaning": "",
+    "romaji": "shikaru"
+  },
+  {
+    "id": "276",
+    "hiragana": "しけん",
+    "kanji": "試験",
+    "meaning": "",
+    "romaji": "shiken"
+  },
+  {
+    "id": "277",
+    "hiragana": "じこ",
+    "kanji": "事故",
+    "meaning": "",
+    "romaji": "jiko"
+  },
+  {
+    "id": "278",
+    "hiragana": "じしん",
+    "kanji": "地震",
+    "meaning": "",
+    "romaji": "jishin"
+  },
+  {
+    "id": "279",
+    "hiragana": "じだい",
+    "kanji": "時代",
+    "meaning": "",
+    "romaji": "jidai"
+  },
+  {
+    "id": "280",
+    "hiragana": "したぎ",
+    "kanji": "下着",
+    "meaning": "",
+    "romaji": "shitagi"
+  },
+  {
+    "id": "281",
+    "hiragana": "したく",
+    "kanji": "支度",
+    "meaning": "",
+    "romaji": "shitaku"
+  },
+  {
+    "id": "282",
+    "hiragana": "しっかり",
+    "kanji": "しっかり",
+    "meaning": "",
+    "romaji": "shikkari"
+  },
+  {
+    "id": "283",
+    "hiragana": "しっぱい",
+    "kanji": "失敗",
+    "meaning": "",
+    "romaji": "shippai"
+  },
+  {
+    "id": "284",
+    "hiragana": "じてん",
+    "kanji": "辞典",
+    "meaning": "",
+    "romaji": "jiten"
+  },
+  {
+    "id": "285",
+    "hiragana": "しなもの",
+    "kanji": "品物",
+    "meaning": "",
+    "romaji": "shinamono"
+  },
+  {
+    "id": "286",
+    "hiragana": "しばらく",
+    "kanji": "しばらく",
+    "meaning": "",
+    "romaji": "shibaraku"
+  },
+  {
+    "id": "287",
+    "hiragana": "しま",
+    "kanji": "島",
+    "meaning": "",
+    "romaji": "shima"
+  },
+  {
+    "id": "288",
+    "hiragana": "しみん",
+    "kanji": "市民",
+    "meaning": "",
+    "romaji": "shimin"
+  },
+  {
+    "id": "289",
+    "hiragana": "じむしょ",
+    "kanji": "事務所",
+    "meaning": "",
+    "romaji": "jimusho"
+  },
+  {
+    "id": "290",
+    "hiragana": "しゃかい",
+    "kanji": "社会",
+    "meaning": "",
+    "romaji": "shakai"
+  },
+  {
+    "id": "291",
+    "hiragana": "しゃちょう",
+    "kanji": "社長",
+    "meaning": "",
+    "romaji": "shachou"
+  },
+  {
+    "id": "292",
+    "hiragana": "じゃま",
+    "kanji": "じゃま",
+    "meaning": "",
+    "romaji": "jama"
+  },
+  {
+    "id": "293",
+    "hiragana": "ジャム",
+    "kanji": "ジャム",
+    "meaning": "",
+    "romaji": "jamu"
+  },
+  {
+    "id": "294",
+    "hiragana": "じゆう",
+    "kanji": "自由",
+    "meaning": "",
+    "romaji": "jiyuu"
+  },
+  {
+    "id": "295",
+    "hiragana": "しゅうかん",
+    "kanji": "習慣",
+    "meaning": "",
+    "romaji": "shuukan"
+  },
+  {
+    "id": "296",
+    "hiragana": "じゅうしょ",
+    "kanji": "住所",
+    "meaning": "",
+    "romaji": "juusho"
+  },
+  {
+    "id": "297",
+    "hiragana": "じゅうどう",
+    "kanji": "柔道",
+    "meaning": "",
+    "romaji": "juudou"
+  },
+  {
+    "id": "298",
+    "hiragana": "じゅうぶん",
+    "kanji": "十分",
+    "meaning": "",
+    "romaji": "juubun"
+  },
+  {
+    "id": "299",
+    "hiragana": "しゅっせき",
+    "kanji": "出席",
+    "meaning": "",
+    "romaji": "shusseki"
+  },
+  {
+    "id": "300",
+    "hiragana": "しゅっぱつ",
+    "kanji": "出発",
+    "meaning": "",
+    "romaji": "shuppatsu"
+  }
+]

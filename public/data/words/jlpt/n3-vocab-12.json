@@ -1,0 +1,352 @@
+[
+  {
+    "id": "551",
+    "hiragana": "げんだい",
+    "kanji": "現代",
+    "meaning": "",
+    "romaji": "gendai"
+  },
+  {
+    "id": "552",
+    "hiragana": "けんちく",
+    "kanji": "建築",
+    "meaning": "",
+    "romaji": "kenchiku"
+  },
+  {
+    "id": "553",
+    "hiragana": "けんとう",
+    "kanji": "見当",
+    "meaning": "",
+    "romaji": "kentou"
+  },
+  {
+    "id": "554",
+    "hiragana": "けんとう",
+    "kanji": "検討",
+    "meaning": "",
+    "romaji": "kentou"
+  },
+  {
+    "id": "555",
+    "hiragana": "げんば",
+    "kanji": "現場",
+    "meaning": "",
+    "romaji": "genba"
+  },
+  {
+    "id": "556",
+    "hiragana": "けんぽう",
+    "kanji": "憲法",
+    "meaning": "",
+    "romaji": "kenpou"
+  },
+  {
+    "id": "557",
+    "hiragana": "けんり",
+    "kanji": "権利",
+    "meaning": "",
+    "romaji": "kenri"
+  },
+  {
+    "id": "558",
+    "hiragana": "ご",
+    "kanji": "後",
+    "meaning": "",
+    "romaji": "go"
+  },
+  {
+    "id": "559",
+    "hiragana": "ご",
+    "kanji": "語",
+    "meaning": "",
+    "romaji": "go"
+  },
+  {
+    "id": "560",
+    "hiragana": "こい",
+    "kanji": "恋",
+    "meaning": "",
+    "romaji": "koi"
+  },
+  {
+    "id": "561",
+    "hiragana": "こい",
+    "kanji": "濃い",
+    "meaning": "",
+    "romaji": "koi"
+  },
+  {
+    "id": "562",
+    "hiragana": "こいびと",
+    "kanji": "恋人",
+    "meaning": "",
+    "romaji": "koibito"
+  },
+  {
+    "id": "563",
+    "hiragana": "こううん",
+    "kanji": "幸運",
+    "meaning": "",
+    "romaji": "kouun"
+  },
+  {
+    "id": "564",
+    "hiragana": "こうえん",
+    "kanji": "講演",
+    "meaning": "",
+    "romaji": "kouen"
+  },
+  {
+    "id": "565",
+    "hiragana": "こうか",
+    "kanji": "効果",
+    "meaning": "",
+    "romaji": "kouka"
+  },
+  {
+    "id": "566",
+    "hiragana": "こうか",
+    "kanji": "硬貨",
+    "meaning": "",
+    "romaji": "kouka"
+  },
+  {
+    "id": "567",
+    "hiragana": "こうか",
+    "kanji": "高価",
+    "meaning": "",
+    "romaji": "kouka"
+  },
+  {
+    "id": "568",
+    "hiragana": "ごうか",
+    "kanji": "豪華",
+    "meaning": "",
+    "romaji": "gouka"
+  },
+  {
+    "id": "569",
+    "hiragana": "ごうかく",
+    "kanji": "合格",
+    "meaning": "",
+    "romaji": "goukaku"
+  },
+  {
+    "id": "570",
+    "hiragana": "こうかん",
+    "kanji": "交換",
+    "meaning": "",
+    "romaji": "koukan"
+  },
+  {
+    "id": "571",
+    "hiragana": "こうくう",
+    "kanji": "航空",
+    "meaning": "",
+    "romaji": "koukuu"
+  },
+  {
+    "id": "572",
+    "hiragana": "こうけい",
+    "kanji": "光景",
+    "meaning": "",
+    "romaji": "koukei"
+  },
+  {
+    "id": "573",
+    "hiragana": "ごうけい",
+    "kanji": "合計",
+    "meaning": "",
+    "romaji": "goukei"
+  },
+  {
+    "id": "574",
+    "hiragana": "こうげき",
+    "kanji": "攻撃",
+    "meaning": "",
+    "romaji": "kougeki"
+  },
+  {
+    "id": "575",
+    "hiragana": "こうけん",
+    "kanji": "貢献",
+    "meaning": "",
+    "romaji": "kouken"
+  },
+  {
+    "id": "576",
+    "hiragana": "こうこく",
+    "kanji": "広告",
+    "meaning": "",
+    "romaji": "koukoku"
+  },
+  {
+    "id": "577",
+    "hiragana": "こうさい",
+    "kanji": "交際",
+    "meaning": "",
+    "romaji": "kousai"
+  },
+  {
+    "id": "578",
+    "hiragana": "こうしゃ",
+    "kanji": "後者",
+    "meaning": "",
+    "romaji": "kousha"
+  },
+  {
+    "id": "579",
+    "hiragana": "こうば",
+    "kanji": "工場",
+    "meaning": "",
+    "romaji": "kouba"
+  },
+  {
+    "id": "580",
+    "hiragana": "こうせい",
+    "kanji": "構成",
+    "meaning": "",
+    "romaji": "kousei"
+  },
+  {
+    "id": "581",
+    "hiragana": "こうそく",
+    "kanji": "高速",
+    "meaning": "",
+    "romaji": "kousoku"
+  },
+  {
+    "id": "582",
+    "hiragana": "こうどう",
+    "kanji": "行動",
+    "meaning": "",
+    "romaji": "koudou"
+  },
+  {
+    "id": "583",
+    "hiragana": "ごうとう",
+    "kanji": "強盗",
+    "meaning": "",
+    "romaji": "goutou"
+  },
+  {
+    "id": "584",
+    "hiragana": "こうふく",
+    "kanji": "幸福",
+    "meaning": "",
+    "romaji": "koufuku"
+  },
+  {
+    "id": "585",
+    "hiragana": "こうへい",
+    "kanji": "公平",
+    "meaning": "",
+    "romaji": "kouhei"
+  },
+  {
+    "id": "586",
+    "hiragana": "こうほ",
+    "kanji": "候補",
+    "meaning": "",
+    "romaji": "kouho"
+  },
+  {
+    "id": "587",
+    "hiragana": "こうりょ",
+    "kanji": "考慮",
+    "meaning": "",
+    "romaji": "kouryo"
+  },
+  {
+    "id": "588",
+    "hiragana": "こえる",
+    "kanji": "越える",
+    "meaning": "",
+    "romaji": "koeru"
+  },
+  {
+    "id": "589",
+    "hiragana": "コーチ",
+    "kanji": "コーチ",
+    "meaning": "",
+    "romaji": "koochi"
+  },
+  {
+    "id": "590",
+    "hiragana": "コード",
+    "kanji": "コード",
+    "meaning": "",
+    "romaji": "koodo"
+  },
+  {
+    "id": "591",
+    "hiragana": "こおり",
+    "kanji": "氷",
+    "meaning": "",
+    "romaji": "koori"
+  },
+  {
+    "id": "592",
+    "hiragana": "こおる",
+    "kanji": "凍る",
+    "meaning": "",
+    "romaji": "kooru"
+  },
+  {
+    "id": "593",
+    "hiragana": "ゴール",
+    "kanji": "ゴール",
+    "meaning": "",
+    "romaji": "gooru"
+  },
+  {
+    "id": "594",
+    "hiragana": "ごかい",
+    "kanji": "誤解",
+    "meaning": "",
+    "romaji": "gokai"
+  },
+  {
+    "id": "595",
+    "hiragana": "ごがく",
+    "kanji": "語学",
+    "meaning": "",
+    "romaji": "gogaku"
+  },
+  {
+    "id": "596",
+    "hiragana": "こきゅう",
+    "kanji": "呼吸",
+    "meaning": "",
+    "romaji": "kokyuu"
+  },
+  {
+    "id": "597",
+    "hiragana": "こきょう",
+    "kanji": "故郷",
+    "meaning": "",
+    "romaji": "kokyou"
+  },
+  {
+    "id": "598",
+    "hiragana": "ごく",
+    "kanji": "極",
+    "meaning": "",
+    "romaji": "goku"
+  },
+  {
+    "id": "599",
+    "hiragana": "こくご",
+    "kanji": "国語",
+    "meaning": "",
+    "romaji": "kokugo"
+  },
+  {
+    "id": "600",
+    "hiragana": "こくばん",
+    "kanji": "黒板",
+    "meaning": "",
+    "romaji": "kokuban"
+  }
+]
