@@ -333,6 +333,7 @@ function handleInput() {
     const userN = normalizeWordRomaji(userRaw)
     const expN = normalizeWordRomaji(w.romaji)
     if (userN === expN) {
+      correctCount.value++
       inputStatus.value = 'correct'
       showErrorHint.value = false
       inputValue.value = ''
@@ -360,6 +361,7 @@ function handleInput() {
 
   const expK = w.hiragana
   if (userRaw === expK) {
+    correctCount.value++
     inputStatus.value = 'correct'
     showErrorHint.value = false
     inputValue.value = ''
@@ -507,7 +509,7 @@ onUnmounted(() => {
         <div class="mb-8">
           <div class="h-2 bg-white dark:bg-slate-800 rounded-full overflow-hidden shadow-inner">
             <div
-              class="h-full bg-gradient-to-r from-indigo-500 to-purple-500 transition-all duration-300"
+              class="h-full bg-gradient-to-r from-emerald-500 to-green-600 transition-all duration-300"
               :style="{ width: progress + '%' }"
             ></div>
           </div>
